@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "67ba9a98be54d91a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2416890f89b0850",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c70e352f118db3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c711e634aa712ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54129478d09a05ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ebf5bee386dd0e5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "068dc6cf241ee037",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4f254566fd7cff9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "740f480654be1575",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c2416890f89b0850",
+  "lastOpenFiles": [
+    "Untitled 1.md",
+    "Untitled.md"
+  ]
+}
