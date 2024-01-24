@@ -1,0 +1,3 @@
+#Geodynamik #Geo #Basics 
+
+Die durchschnittliche Höhe der Lithosphärenplatten über bzw unter nn ist eine zweigipflige Verteilung. Der größte Teil der Landmasse liegt knapp über 0, durchschnittlich etwa bei 800m, die mittlere Meeerestiefe und die meiste Fläche der Ozeanischen Platten liegt etwa bei 3,7 km Meerestiefe. Dazwischen liegt erstaunlich wenig, der Übergang von Kontinent zu Meer ist also immer recht Steil und durch einen Kontinentalhang gekennzeichnet. Vor dem Kontinentalhang liegen teilweise noch kontinentale Schelfe, die knapp unter dem Meeresspiegel liegen. 

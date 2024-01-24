@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "geology/Geodynamik/Falten.md",
+                "file": "geology/Minerale/Kompensationstiefen.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geology/Geodynamik/Falten.md",
+                "file": "geology/Minerale/Kompensationstiefen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,13 +116,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,35 +136,36 @@
   },
   "active": "c08d4bdc5cf0dc53",
   "lastOpenFiles": [
-    "geology/Geodynamik/Scherungen und Verformungen.md",
-    "geology/Geodynamik/Falten.md",
-    "geology/Minerale/Bestimmung/Silikate/Gerüstsilikate/Feldspäte Basics.md",
-    "geology/Geodynamik/Störungen.md",
-    "geology/Geodynamik/Strukturen bei Spröddeformation.md",
-    "geology/Metamorphose/Planare Gefügeelemente.md",
-    "geology/Metamorphose/Lineare Gefügeelemente.md",
-    "geology/Untitled.md",
-    "geology/Metamorphose",
-    "geology/Geodynamik/Überschiebungsparadox.md",
-    "geology/Geodynamik/Transformstörungen.md",
-    "geology/Geodynamik/Subduktionszonen.md",
-    "geology/Geodynamik/Spannungen.md",
-    "geology/Minerale/Kristallsysteme.md",
-    "geology/Geodynamik/Entdeckung der Plattentektonik.md",
-    "geology/Geodynamik/Übersicht Plattengrenzen.md",
-    "geology/Geodynamik/Kontinentales Orogen.md",
-    "maths/Stat/Arithmetisches Mittel.md",
-    "geology/Geodynamik/MOR.md",
-    "geology/Minerale/Definitionen Mineralogie/Anisotropie.md",
-    "geology/Overview Files/Overview Mineralogie-Basics.md",
-    "geology/Overview Files/Overview Mineralbestimmung.md",
-    "geology/Minerale/Bestimmung/Silikate/Schichtsilikate/Biotit.md",
-    "geology/Minerale/Bestimmung/Sulfide/Molybdänit.md",
-    "Attachments/00637-IMG_8378-35-mm-augite-pyroxene-3492541474 1.jpg",
-    "geology/Overview Files/Overview Geodynamik.md",
-    "geology/Geodynamik",
-    "geology/Overview Files/Overview Geo-Basics.md",
+    "geology/Exogenes/Kontinentalhang und Tiefsee.md",
+    "geology/Exogenes/Transport und Sedimentation.md",
+    "geology/Exogenes/Sandzusammensetzung.md",
+    "geology/Exogenes/Küste.md",
+    "geology/Exogenes/Fluss.md",
+    "geology/Exogenes/Erosion und Transport.md",
+    "geology/Exogenes/Exogene Prozesse.md",
+    "geology/Exogenes/Wüste.md",
+    "geology/Exogenes/Gletscher.md",
+    "geology/Exogenes/Eiszeiten.md",
+    "geology/Basics/Erdgeschichte.md",
+    "geology/Exogenes/Massenselbsttransport.md",
+    "geology/Exogenes/Sedimentgefüge.md",
+    "geology/Exogenes/Kompaktion und Diagenese.md",
+    "geology/Exogenes/Verwitterung.md",
+    "geology/Exogenes/Evaporationsfolge.md",
+    "geology/Basics/Wasserhaushalt der Erde.md",
+    "geology/Geodynamik/Land-Meer-Verteilung.md",
+    "geology/Exogenes/Wechselwirkungen.md",
+    "geology/Overview Files/Overview Exogene Prozesse.md",
+    "geology/Exogenes",
     "geology/Overview Files/Overview Definitionen Mineralogie.md",
+    "geology/Geodynamik/Falten.md",
+    "geology/Geodynamik/Kompetenzunterschiede.md",
+    "geology/Geodynamik/Scherungen und Verformungen.md",
+    "geology/Minerale/Mischkristallreihen/Mischkristalle Fe-Ti-Oxide.md",
+    "geology/Minerale/Volumenänderung Anhydrit-Gips.md",
+    "geology/Metamorphose",
+    "Attachments/00637-IMG_8378-35-mm-augite-pyroxene-3492541474 1.jpg",
+    "geology/Geodynamik",
     "Attachments/00637-IMG_8378-35-mm-augite-pyroxene-3492541474.jpg",
     "Attachments/th-6301470 1.jpg",
     "Attachments/Talk-2176140118.jpg",
@@ -183,7 +182,6 @@
     "geology/Minerale/Bestimmung/Silikate/Ringsilikate",
     "geology/Minerale/Bestimmung/Silikate/Gruppensilikate",
     "Attachments",
-    "geology/Minerale/Bestimmung/Silikate/Inselsilikate",
     "Untitled.canvas"
   ]
 }

@@ -49,3 +49,5 @@ Diese Verformungen werden normalerweise als Verformungselipsoide mit den drei Ac
 ### Viskose Deformationen
 
 Hier liegen die deformierten Elemente nicht mehr nur auf den Schieferungsflächen, sondern durchziehen das Gestein. in der Regel lassen Gesteine die so deformiert wurden (Tektonite) eine Mischung aus Scherung und Streckung erkennen, wurden als eben verformt.
+
+### [[Kompetenzunterschiede]]

@@ -1,0 +1,3 @@
+#Geo #Exogenes 
+
+Beim Massenselbsttransport bewegen sich Lockersedimente aufgrund ihres Eigengewichts bergab. Ab welchem Winkel sie dies tun wird dabei von ihrer Zusammensetzung und ihrem Fluidgehalt bestimmt. Je höher der Wassergehalt, desto geringer der Zusammenhalt im Sediment und desto niederiger Der Winkel, ab dem Massenselbsttransport stattfindet. So können Hangrutsche durch Regen verursacht werden. 

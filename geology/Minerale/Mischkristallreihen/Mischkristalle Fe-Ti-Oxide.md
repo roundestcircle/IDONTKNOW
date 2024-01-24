@@ -8,3 +8,5 @@ $$
 
 
 Wüstit oxidert über Magnetit zu Hämatit.
+
+[[Magnetit]] [[Hämatit]] [[Rutil]]
