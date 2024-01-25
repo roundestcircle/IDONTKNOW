@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "geology/Minerale/Kompensationstiefen.md",
+                "file": "geology/Metamorphose/Metamorphosetypen.md",
                 "mode": "source",
                 "source": true
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Min",
+                "query": "akti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geology/Minerale/Kompensationstiefen.md",
+                "file": "geology/Metamorphose/Metamorphosetypen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +136,18 @@
   },
   "active": "c08d4bdc5cf0dc53",
   "lastOpenFiles": [
+    "geology/Metamorphose/Metamorphose Übersicht.md",
+    "geology/Metamorphose/Metamorphe Fazies.md",
+    "geology/Metamorphose/Metamorphosetypen.md",
+    "geology/Metamorphose/Metamorphose am MOR.md",
+    "geology/Minerale/Bestimmung/Silikate/Bandsilikate/Amphibole.md",
+    "geology/Minerale/Bestimmung/Silikate/Inselsilikate/Alumosilikate.md",
+    "geology/Geodynamik/Spannungen.md",
+    "geology/Overview Files/Overview Metamorphose.md",
+    "geology/Gesteinsbestimmung",
+    "geology/Exogenes/Eiszeiten.md",
+    "geology/Overview Files/Overview Exogene Prozesse.md",
+    "geology/Minerale/Kompensationstiefen.md",
     "geology/Exogenes/Kontinentalhang und Tiefsee.md",
     "geology/Exogenes/Transport und Sedimentation.md",
     "geology/Exogenes/Sandzusammensetzung.md",
@@ -145,24 +157,13 @@
     "geology/Exogenes/Exogene Prozesse.md",
     "geology/Exogenes/Wüste.md",
     "geology/Exogenes/Gletscher.md",
-    "geology/Exogenes/Eiszeiten.md",
     "geology/Basics/Erdgeschichte.md",
     "geology/Exogenes/Massenselbsttransport.md",
     "geology/Exogenes/Sedimentgefüge.md",
     "geology/Exogenes/Kompaktion und Diagenese.md",
     "geology/Exogenes/Verwitterung.md",
     "geology/Exogenes/Evaporationsfolge.md",
-    "geology/Basics/Wasserhaushalt der Erde.md",
-    "geology/Geodynamik/Land-Meer-Verteilung.md",
-    "geology/Exogenes/Wechselwirkungen.md",
-    "geology/Overview Files/Overview Exogene Prozesse.md",
     "geology/Exogenes",
-    "geology/Overview Files/Overview Definitionen Mineralogie.md",
-    "geology/Geodynamik/Falten.md",
-    "geology/Geodynamik/Kompetenzunterschiede.md",
-    "geology/Geodynamik/Scherungen und Verformungen.md",
-    "geology/Minerale/Mischkristallreihen/Mischkristalle Fe-Ti-Oxide.md",
-    "geology/Minerale/Volumenänderung Anhydrit-Gips.md",
     "geology/Metamorphose",
     "Attachments/00637-IMG_8378-35-mm-augite-pyroxene-3492541474 1.jpg",
     "geology/Geodynamik",
@@ -181,7 +182,6 @@
     "geology/Minerale/Bestimmung/Silikate/Kettensilikate",
     "geology/Minerale/Bestimmung/Silikate/Ringsilikate",
     "geology/Minerale/Bestimmung/Silikate/Gruppensilikate",
-    "Attachments",
     "Untitled.canvas"
   ]
 }
