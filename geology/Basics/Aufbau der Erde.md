@@ -13,8 +13,6 @@
 | Tone           | 4.6          |
 | Calcit         | 1.5          |
 | Olivin         | 3            |
-<!--ID: 1705934303655-->
-
 
 
 | Gestein      | Sub             | Vol.% |
@@ -31,8 +29,6 @@
 ### Schalenbau der Erde
 
 Nach Chemismus
-<!--ID: 1705934303660-->
-
 
 | Schicht            | Sub             | Untergrenze                       | Chemismus                        | Dichte |
 | ------------------ | --------------- | --------------------------------- | -------------------------------- | ------ |
@@ -54,5 +50,7 @@ Nach Physik
 | Asthenosphäre | 2890km, also der restliche Mantel                         | duktil        |
 | Äußerer Kern  | 5150km                                                    | flüssig       |
 | Innerer Kern  | 6370km                                                    | fest          |
+
+### Chemische Zusammensetzung
 
 

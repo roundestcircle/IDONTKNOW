@@ -18,6 +18,6 @@ Viele Analysen bestätigen die Kontinentalverschiebung. Heute lässt sie sich ü
 
 Die tatsächlichen Gründe für die Plattenbewegung sind nicht vollständig geklärt.
 
-Eine bekannte Erklärung sind die sogenannten Mantelplumes, die an einer Stelle aufgrund ihrer höheren Temperatur aus dem Erdinneren aufsteigen, dann unter der Lithosphäre entlanggleiten und nach einer Zeit wieder absinken. An den Stellen, an denen sie auftauchen, erzeugen sie Riftzonen oder Hotspots, an den Stellen an denen sie abtauchen Subduktionszonen.
+Eine bekannte Erklärung sind die sogenannten Mantelplumes, die an einer Stelle aufgrund ihrer höheren Temperatur aus dem Erdinneren aufsteigen, dann unter der Lithosphäre entlanggleiten und nach einer Zeit wieder absinken. An den Stellen, an denen sie auftauchen, erzeugen sie Riftzonen oder [[Hotspots]], an den Stellen an denen sie abtauchen Subduktionszonen.
 
 Eine weitere wichtige Erklärungsmöglichkeit ist, dass die Ozeanische Platte beim abtauchen aufgrund ihre Gewichts und Zusammenhalts immer weiter ozeanische Platte in den Mantel "herunterzieht". Zwei Subduktionszonen an verschiedenen Rändern einer Platte würden den Kontinent in der Mitte reglrecht zerreißen, es kommt zur Riftbildung.

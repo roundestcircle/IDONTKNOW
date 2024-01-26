@@ -48,7 +48,7 @@ Alle Minerale mit Hydratphasen (OH-Gruppen), wie Glimmer und Amphibole fehlen, n
 Typische Minerale:
 1. [[Pyroxene]]
 2. [[Granat]]
-3. [[Quarz]]
+3. [[SiO2-Basics|Quarz]]
 
 ### Sanbagawa-Serie (P/T hoch)
 
