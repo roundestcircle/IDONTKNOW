@@ -2,7 +2,7 @@
 
 ### Ursprung
 
-Schmelzen ([[Magmen]]) entstehen immer im oberen Mantel ([[Aufbau der Erde]]), aus teilweise aufgeschmolzenen Peridotiten, und simmer immer zunächst [[Basalt]]isch.
+Schmelzen ([[Magmen]]) entstehen immer im oberen Mantel ([[Aufbau der Erde]]), aus teilweise aufgeschmolzenen [[Peridotit]]en, und sind immer immer zunächst [[Basalt]]isch.
 Wenn man sich ein P/T-Diagramm der Erde ansieht, sieht man jedoch, dass der Geotherm (also die tatsächlichen Bedingungen unter der Erde) nie den Solidus der Gesteine überschreiten, es unter normalen Bedingungen also nie zur Schmelzbildung kommt.
 
 ![[th-1096028434.jpg]]

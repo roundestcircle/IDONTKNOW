@@ -1,4 +1,6 @@
-#Geo #Magmatismus 
+#Geo #Magmatismus #Bestimmung
+
+Gruppe:: Überblick
 
 Magmatite entstehen durch Abkühlung und Verfestigung von Schmelzen.
 
@@ -30,7 +32,7 @@ Magmen entstehen immer als basische, Basaltische Magmen. Im Verlauf der [[Magmen
 | <45         |             | [[Peridotit]]   | ultra[[Mafisch]] |
 | 45-52       | [[Basalt]]  | [[Gabbro]]      | mafisch          |
 | 52-65       | [[Andesit]] | [[Diorit]]      | intermediär      |
-|             | [[Dazit]]   | [[Granodiorit]] |                  |
+|             | Dazit       | [[Granodiorit]] |                  |
 | >65         | [[Rhyolit]] | [[Granit]]      | [[Felsisch]]     |
 |             |             |                 |                  |
 
@@ -38,10 +40,9 @@ Magmen entstehen immer als basische, Basaltische Magmen. Im Verlauf der [[Magmen
 
 Eine genauere Einordnung von Magmatiten gelingt mit dem Streckeisendiagramm. Dieses wird nur eingesetzt, wenn die mafischen Bestandteile des Gesteins unter 90% Volumenanteil betragen. Porphyrische Gefüge werden nach ihren [[Phänokristen]] eingeteilt, die Zusammensetzung der Matrix spielt keine Rolle. Zudem fällt auf, dass Quarz und [[Foide]] nie gemeinsam auftreten können. Sie würden miteinander reagieren, bis nur noch eines der beiden Minerale übrig bleibt. Zum Ablesen werden ANteil von Quarz(Q), [[Plagioclase]](P), [[Alkalifeldspäte]](A) und Foiden eingetragen. Alle anderen Bestandteile spielen zur Einordnung keine Rolle.
 
-Das folgende Diagramm gilt nur für Plutonite, das für Vulkanite unterscheidet sich leicht. Auf dem Bild befindet sich ebenfalls ein Dreieck das zur Bestimmung ultramafischer Gesteine dient. 
+Das folgende Diagramm gilt nur für Plutonite, das für Vulkanite unterscheidet sich leicht. Auf dem Bild befindet sich ebenfalls ein Dreieck das zur Bestimmung ultramafischer Gesteine dient. Beispiele dafür sind [[Syenit]]/[[Trachyt]].
 
 ![[streckeisen_diorit-259205727.jpg]]
-
 
 
 ### Einordnung nach Gefüge
@@ -51,3 +52,18 @@ Das folgende Diagramm gilt nur für Plutonite, das für Vulkanite unterscheidet 
 3. Feinkörnig
 4. [[Glas]]ig
 
+### Einordnung nach Mineralbestand
+
+1. [[Felsisch]]
+2. [[Mafisch]]
+
+### Einordnung nach Korngröße
+
+1. Makrokristallin: Mit bloßem Auge erkennbar
+2. Mikrokristallin: Mit Lupe erkennbar
+3. kryptokristallin: Nicht erkennbar
+
+1. grobkörnig: 3-10mm
+2. mittelkörnig: 1-3mm
+3. kleinkörnig
+4. feinkörnig

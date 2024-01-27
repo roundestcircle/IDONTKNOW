@@ -31,4 +31,4 @@ Viele wichtige Minerallagerstätten befinden sich in metamorphen Gesteinen.
 |              |         |       |                                          |
 Kontakt- Und Hochdruckmetamorphose werden gesondert betrachte ([[Metamorphe Fazies]]).
 
-### [[Metamorphose am MOR]]
+### [[Metamorphosetypen#Metamorphose am MOR]]

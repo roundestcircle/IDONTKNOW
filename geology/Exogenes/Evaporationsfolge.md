@@ -8,9 +8,9 @@ Die Schichtfolge muss nicht immer komplett sein, da evtl. Das Meer nicht ganz au
 
 ### Reihenfolge des Ausfallens: 
 
-1. Kalke
-2. Sulfate
-3. Gipse
-4. Salze
-5. Edelsalze
+1. [[Kalkstein]]e
+2. #Sulfate
+3. [[Gips]] und [[Anhydrit]]
+4. [[Steinsalz]]
+5. Edelsalze wie [[Sylvin]] 
 

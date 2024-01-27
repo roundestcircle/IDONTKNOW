@@ -7,8 +7,6 @@
 Summenformel:: $$ \ce {CaSO4} $$
 Strukturtypus:: [[Strukturtypen#]]
 Gruppe:: Sulfate
-<!--ID: 1705934303314-->
-
 
 ### Anhydrit Eig
 
@@ -20,7 +18,15 @@ Dichte:: gering
 Spaltbarkeit:: vollkommen
 Bruch:: muschelig
 Glanz:: Glasglanz
-<!--ID: 1705934303319-->
+
+### Anhydrit als Gestein
+
+#Geo #Bestimmung 
+
+Gruppe:: [[Evaporite]]
+Primärbestandteile:: [[Anhydrit]]
+Sekundärbestandteile::
+Genese:: Evaporation
 
 
 

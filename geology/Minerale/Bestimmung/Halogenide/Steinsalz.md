@@ -19,5 +19,17 @@ Spaltbarkeit:: vollkommen nach {100}
 Bruch:: muschelig, spröde
 Glanz:: Glasglanz
 
+leicht schmieriges Gefühl beim anfassen.
+
+### Steinsalz als Gestein
+
+#Geo #Bestimmung 
+
+Gruppe:: [[Evaporite]]
+Primärbestandteile:: [[Steinsalz]]
+Sekundärbestandteile::
+Genese:: Evaporation
+
+### 
 
 

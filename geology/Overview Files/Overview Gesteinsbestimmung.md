@@ -3,4 +3,5 @@
 ```dataview
 TABLE Primärbestandteile, Gruppe
 FROM #Geo and #Bestimmung
+SORT Gruppe
 ```

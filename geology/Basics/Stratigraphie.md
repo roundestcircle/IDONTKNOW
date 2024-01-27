@@ -21,7 +21,8 @@ Analyse der Schichten anhand der enthaltenen Fossilien. Auch nur eine relative D
 
 ### Leitfossilien
 
-Arten, die sich als Leitfossilien eignen, waren in der Regel weit über die Erde verbreitet. Sie traten relativ plötzlich auf und verschwanden auch relativ plötzlich wieder. So kann bei der Analyse garantiert werden, dass die Fossilien aus dieser bestimmten Zeit stammen, und die meisten (marinen) Sedimentgesteine aus dieser Zeit sie enthalten.
+Arten, die sich als [[Leitfossilien]] eignen, waren in der Regel weit über die Erde verbreitet, unabhängig von den spezifischen Umweltbedingungen. Sie traten relativ plötzlich auf und verschwanden auch relativ plötzlich wieder. So kann bei der Analyse garantiert werden, dass die Fossilien aus dieser bestimmten Zeit stammen, und die meisten (marinen) Sedimentgesteine aus dieser Zeit sie enthalten.
+
 [[Erdgeschichte#Aussterbeereignisse]]
 
 ## Geochronologie

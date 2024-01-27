@@ -25,7 +25,7 @@ Das notwendige, am besten plötzliche verschwinden der [[Stratigraphie#Leitfossi
 
 1. Ordovizium/Silur (444 Ma)
 2. Devon (380 Ma)
-3. Perm/Trias (252 Ma, Aussterben der [[Trilobiten]], 96% aller Spezies betroffen)
+3. Perm/Trias (252 Ma, Aussterben der [[Leitfossilien|Trilobiten]], 96% aller Spezies betroffen)
 4. Trias/Jura
 5. Kreide/Tertiär (65 Ma, Aussterben der Dinosaurier, 76% aller Speezies betroffen)
 
@@ -35,7 +35,7 @@ Das notwendige, am besten plötzliche verschwinden der [[Stratigraphie#Leitfossi
 - ab 3.9 Ga: erste saure Kruste, erstes Leben
 - ab 2.5 Ga: erstes photosynthetisches Leben, der Sauerstoffgehalt der Atmosphäre steigt (GOE: Great-Oxidation-Event)
 
-Die ersten Bakterien bilden dick Lagen am Meeresboden, die verkieselt als Stromatholithe bezeichnet werden.
+Die ersten Bakterien bilden dick Lagen am Meeresboden, die verkieselt als [[Leitfossilien#Stromatholithe]] bezeichnet werden.
 
 Im späten Präkambrium beginnt die [[Entdeckung der Plattentektonik|Plattentektonik]] an Fahrt aufzunehmen, es bilden sich verschiedene Superkontinente.
 
@@ -67,7 +67,7 @@ An der Grenze zum Paläozoikum explodierte die Familienzahl der Lebewesen auf de
 - hoher Meeresspiegel, warmes Klima
 - neue Ozeane bilden sich
 - Gebirgsbildungen
-- großflächige Ablagerungen aus [[Kalksteine]]n
+- großflächige Ablagerungen aus [[Kalkstein]]n
 
 #### K/T-Grenze
 

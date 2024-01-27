@@ -1,5 +1,13 @@
 #Geo #Bestimmung #Magmatismus 
 
+![[th-4084859958.jpg]]
+
+Gruppe:: Überblick
+
+Pyroklastite liegen irgendwo an der Grenze zwischen magmatischen und sedimentären Gesteinen. Sie werden meist Tuffe genannt, mit größeren Bestandteilen Brekzien.
+
+Pyroklastite sind oft geschichtet und enthalten weitere Bestandteile vulkanischen Ursprungs wie [[Glas]]fetzen (Fiamme). Die Lapilli sind oft porös.
+
 ### Ordnung nach Partikelgrößen
 
 | Name    | Korngröße              |

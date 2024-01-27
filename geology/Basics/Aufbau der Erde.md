@@ -35,7 +35,7 @@ Nach Chemismus
 | Kruste             | Oz. Kruste      | ca 7km                            | Leichte Silikate etc                    | gering (2,65 g/ccm) |
 |                    | Kont. Kruste    | ca 35-70km                        |                                         | etwas höher         |
 | Moho-Diskont.      |                 |                                   |                                         |                     |
-| Mantel             | Oberer Mantel   | 400km (Obergrenze ist die Kruste) | Peridotite ([[Olivin]] und [[Pyroxen]]) | Mittel              |
+| Mantel             | Oberer Mantel   | 400km (Obergrenze ist die Kruste) | [[Peridotit]] ([[Olivin]] und [[Pyroxene]]) | Mittel              |
 |                    | Transition Zone | 660km                             | verschiedene Phasenumwandlungen         | 3-5 g/ccm           |
 |                    | Unterer Mantel  | 2890km                            | schwere Silikate und Metalloxide        |                     |
 | Gutenberg-Diskont. |                 |                                   |                                         |                     |
