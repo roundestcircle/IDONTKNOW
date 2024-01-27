@@ -15,5 +15,5 @@ Polymorphe sind bei unterschiedlichen Drücken und Temperaturen stabil und wande
 
 [[Graphit]] und Diamant
 
-[[Quarz]]
+[[SiO2-Basics|Quarz]]
 

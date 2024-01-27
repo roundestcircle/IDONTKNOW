@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "geology/Magmatismus/Definitionen/Hotspots.md",
+                "file": "geology/Basics/Erdgeschichte.md",
                 "mode": "source",
                 "source": true
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tiefseese",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geology/Magmatismus/Definitionen/Hotspots.md",
+                "file": "geology/Basics/Erdgeschichte.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,10 +136,19 @@
   },
   "active": "c08d4bdc5cf0dc53",
   "lastOpenFiles": [
-    "geology/Magmatismus/Mt St Helens.md",
+    "Hotspot.md",
     "geology/Magmatismus/Island.md",
-    "geology/Magmatismus/Schmelzbildung.md",
+    "Quarz.md",
+    "geology/Minerale/Polymorphismus.md",
+    "geology/Minerale/Bestimmung/Mohs`sche Härteskala.md",
+    "geology/Minerale/Bestimmung/SiO2-Polymorphe/SiO2-Basics.md",
+    "geology/Basics/Stratigraphie.md",
+    "geology/Basics/Erdgeschichte.md",
+    "geology/Basics/System Erde.md",
+    "geology/Basics/Aufbau der Erde.md",
     "geology/Magmatismus/Definitionen/Hotspots.md",
+    "geology/Magmatismus/Mt St Helens.md",
+    "geology/Magmatismus/Schmelzbildung.md",
     "geology/Geodynamik/MOR.md",
     "geology/Exogenes/Kontinentalhang und Tiefsee.md",
     "geology/Magmatismus/Vulkane.md",
@@ -155,18 +164,9 @@
     "geology/Magmatismus/Magmendifferenzierung.md",
     "Attachments/th-1096028434.jpg",
     "geology/Magmatismus/Magmen.md",
-    "geology/Magmatismus/Definitionen/Mafisch.md",
-    "geology/Magmatismus/Definitionen/Felsisch.md",
-    "geology/Gesteinsbestimmung/Magmatite/Magmatite.md",
     "Attachments/streckeisen_diorit-259205727.jpg",
-    "geology/Magmatismus/Definitionen/Kumulate.md",
-    "geology/Magmatismus/Überblick Magmatismus.md",
     "Attachments/155975_7_De_4_Fig6_HTML-111151924.png",
     "Attachments/ma_magma_kristall-2359207135.jpg",
-    "geology/Basics/Aufbau der Erde.md",
-    "geology/Minerale/Mineralentstehung Basics.md",
-    "templates/Gesteine.md",
-    "geology/Magmatismus/Definitionen/Porphyrisch.md",
     "geology/Magmatismus/Definitionen",
     "geology/Gesteinsbestimmung/Magmatite",
     "geology/Magmatismus",

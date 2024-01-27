@@ -10,7 +10,7 @@ Völlig arbiträres Maß auf [[Ordinalskalenniveau]]. Es lässt lediglich vergle
 | 4     | [[Fluorit]]                     | Etwas härter als eine Kupfermünze                    |
 | 5     | [[Apatit]]                      | Etwa so hart wie ein weicher Stahlnagel              |
 | 6     | Orthoclas ([[Alkalifeldspäte]]) | etwa so hart wie Glas, etwas härter als harter Stahl |
-| 7     | [[Quarz]]                       | Ritzt Glas                                           |
+| 7     | [[SiO2-Basics]]                       | Ritzt Glas                                           |
 | 8     | [[Topas]]                       |                                                      |
 | 9     | [[Korund]]                      |                                                      |
 | 10    | Diamant                         |                                                      |

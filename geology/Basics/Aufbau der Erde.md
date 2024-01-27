@@ -30,26 +30,30 @@
 
 Nach Chemismus
 
-| Schicht            | Sub             | Untergrenze                       | Chemismus                        | Dichte |
-| ------------------ | --------------- | --------------------------------- | -------------------------------- | ------ |
-| Kruste             | Oz. Kruste      | ca 7km                            | Leichte Silikate etc             | gering |
-|                    | Kont. Kruste    | ca 35-70km                        |                                  |        |
-| Moho-Diskont.      |                 |                                   |                                  |        |
-| Mantel             | Oberer Mantel   | 400km (Obergrenze ist die Kruste) | Peridotite                       | Mittel |
-|                    | Transition Zone | 660km                             |                                  |        |
-|                    | Unterer Mantel  | 2890km                            | schwere Silikate und Metalloxide |        |
-| Gutenberg-Diskont. |                 |                                   |                                  |        |
-| Kern               | Äußerer Kern    | 5150                              | Ni-Fe-Schmelze                   | Hoch   |
-|                    | Innerer Kern    | 6370                              |                                  |        |
+| Schicht            | Sub             | Untergrenze                       | Chemismus                               | Dichte              |
+| ------------------ | --------------- | --------------------------------- | --------------------------------------- | ------------------- |
+| Kruste             | Oz. Kruste      | ca 7km                            | Leichte Silikate etc                    | gering (2,65 g/ccm) |
+|                    | Kont. Kruste    | ca 35-70km                        |                                         | etwas höher         |
+| Moho-Diskont.      |                 |                                   |                                         |                     |
+| Mantel             | Oberer Mantel   | 400km (Obergrenze ist die Kruste) | Peridotite ([[Olivin]] und [[Pyroxen]]) | Mittel              |
+|                    | Transition Zone | 660km                             | verschiedene Phasenumwandlungen         | 3-5 g/ccm           |
+|                    | Unterer Mantel  | 2890km                            | schwere Silikate und Metalloxide        |                     |
+| Gutenberg-Diskont. |                 |                                   |                                         |                     |
+| Kern               | Äußerer Kern    | 5150                              | Ni-Fe-Schmelze                          | Hoch                |
+|                    | Innerer Kern    | 6370                              |                                         | 13-14 g/ccm         |
 
 Nach Physik
 
-| Schicht       | Untergrenze                                               | Eigenschaften |
-| ------------- | --------------------------------------------------------- | ------------- |
-| Lithosphäre   | ca 60-210km und alles darüber: Kruste und oberster Mantel | fest          |
-| Asthenosphäre | 2890km, also der restliche Mantel                         | duktil        |
-| Äußerer Kern  | 5150km                                                    | flüssig       |
-| Innerer Kern  | 6370km                                                    | fest          |
+| Schicht              | Untergrenze                                               | Eigenschaften |
+| -------------------- | --------------------------------------------------------- | ------------- |
+| Lithosphäre          | ca 60-210km und alles darüber: Kruste und oberster Mantel | fest          |
+| Conrad-Dskontinuität |                                                           |               |
+| Asthenosphäre        | bis ca. 400 km                                            | duktil        |
+| Tiefer Mantel        | 2890km, also der restliche Mantel                         |               |
+| Äußerer Kern         | 5150km                                                    | flüssig       |
+| Innerer Kern         | 6370km                                                    | fest          |
+
+Die Asthenosphäre ist duktil, hier bewegen sich die Konvektionsströme. Im Kern wird durch Radioaktivität Energie erzeugt, die die Ströme antreibt.
 
 ### Chemische Zusammensetzung
 

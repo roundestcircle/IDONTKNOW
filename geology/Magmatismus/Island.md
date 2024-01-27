@@ -2,4 +2,4 @@
 
 ### Island
 
-Island liegt vermutlich über einem [[Hotspot]] und einem [[MOR]] und ist damit gleich doppelt vulkanisch aktiv (vgl [[Schmelzbildung]]).
+Island liegt vermutlich über einem [[Hotspots]] und einem [[MOR]] und ist damit gleich doppelt vulkanisch aktiv (vgl [[Schmelzbildung]]).
