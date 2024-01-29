@@ -28,7 +28,7 @@ Sehr selten, entsteht nur bei Meteoriteneinschlägen. Das entstehende Gestein en
 
 ### Versenkungsmetamorphose
 
-In sedimentären Becken mit sehr großer Mächtigkeit, einfach durch den unglaublichen Überlagerungsdruck. Die Mächtigkeiten sedimentärer Becken können bis zu 12 km betragen. In der Versenkungsmetamorphose entsteht besonders [[Marmor]] und [[Quarzit]] und [[Tonschiefer]].
+In sedimentären Becken mit sehr großer Mächtigkeit, einfach durch den unglaublichen Überlagerungsdruck. Die Mächtigkeiten sedimentärer Becken können bis zu 12 km betragen. In der Versenkungsmetamorphose entsteht besonders [[Kalkmarmor]] und [[Quarzit]] und [[Tonschiefer]].
 
 ### Metamorphose am MOR
 

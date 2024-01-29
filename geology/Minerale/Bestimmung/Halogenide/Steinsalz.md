@@ -30,6 +30,14 @@ Primärbestandteile:: [[Steinsalz]]
 Sekundärbestandteile::
 Genese:: Evaporation
 
-### 
+### Als Atommüllendlager
+
+In Deutschland hat man lange alte Salzstöcke als Atommüllendlager in Betracht gezogen.
+Es gibt dabei jedoch einige Probleme.
+
+1. Das Salz bildet mit Wasser ein hochkorrosives Gemisch, das die Fässer angreift.
+2. Die Bildung von neuen Hohlräumen durch Auslaugung
+3. Um die Einsturzgefahr zu verringern, muss der Stock verfüllt werden, eine Rückholbarkeit ist nicht gegeben
+
 
 

@@ -23,6 +23,6 @@ Geordnet nach Bestandteilen
 
 1. [[Quarzsandstein]], hauptsächlich Quarzkörner und Zement
 2. [[Arkose]], Quarz- und Feldspatkörner
-3. [[Grauwacke]] Quarz- und Feldspatkörner, mind. 15%, max 75% Matrix aus Tonmineralen, Chlorit und Glimmern
+3. [[Grauwacke]] Quarz- und Feldspatkörner, mind. 15%, max 75% Matrix aus [[Tonminerale]]n, Chlorit und Glimmern
 
 Bei Matrixanteilen von über 75% spricht man von Peliten.

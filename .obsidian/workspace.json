@@ -11,8 +11,12 @@
             "id": "c08d4bdc5cf0dc53",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "geology/Minerale/Bestimmung/Halogenide/Steinsalz.md",
+                "mode": "source",
+                "source": true
+              }
             }
           },
           {
@@ -56,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Metamorphose am MOR",
+                "query": "Steinsal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "geology/Minerale/Bestimmung/Halogenide/Steinsalz.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +117,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -131,42 +138,42 @@
   },
   "active": "c08d4bdc5cf0dc53",
   "lastOpenFiles": [
-    "geology/Exogenes/Wechselwirkungen.md",
-    "Kalksteine.md",
-    "templates/Gesteine.md",
-    "Metamorphose am MOR.md",
-    "Trilobiten.md",
-    "geology/Gesteinsbestimmung/Sedimentgesteine/Radiolarit.md",
-    "geology/Overview Files/Overview Gesteinsbestimmung.md",
-    "geology/Gesteinsbestimmung/Sedimentgesteine/Diatomit.md",
-    "geology/Gesteinsbestimmung/Magmatite/Syenit.md",
-    "geology/Basics/Aufbau der Erde.md",
-    "geology/Basics/Erdgeschichte.md",
-    "geology/Exogenes/Kompaktion und Diagenese.md",
-    "geology/Gesteinsbestimmung/Sedimentgesteine/Kieselgesteine.md",
-    "geology/Gesteinsbestimmung/Sedimentgesteine/Bioklastkalksteine.md",
-    "geology/Geodynamik/MOR.md",
-    "geology/Metamorphose/Metamorphose Übersicht.md",
-    "geology/Metamorphose/Metamorphosetypen.md",
-    "Attachments/th-2950526802.jpg",
-    "geology/Gesteinsbestimmung/Sedimentgesteine/Quarzsandstein.md",
-    "Attachments/th-1116971762.jpg",
-    "geology/Gesteinsbestimmung/Sedimentgesteine/Pelite.md",
-    "Attachments/th-3418427650.jpg",
-    "geology/Gesteinsbestimmung/Sedimentgesteine/Oolithe.md",
-    "Attachments/th-1301665054.jpg",
-    "geology/Gesteinsbestimmung/Sedimentgesteine/Mikrit.md",
-    "Attachments/th-1168217316.jpg",
-    "geology/Gesteinsbestimmung/Sedimentgesteine/Knollenkalk.md",
-    "Attachments/th-3719618652.jpg",
-    "geology/Gesteinsbestimmung/Sedimentgesteine/Kalkstein.md",
+    "geology/Minerale/Bestimmung/Silikate/Schichtsilikate/Tonminerale.md",
+    "geology/Minerale/Bestimmung/Silikate/Bandsilikate/Amphibole.md",
+    "geology/Gesteinsbestimmung/Metamorphe Gesteine/Fruchtschiefer.md",
+    "geology/Gesteinsbestimmung/Metamorphe Gesteine/Garbenschiefer.md",
     "geology/Gesteinsbestimmung/Sedimentgesteine/Grauwacke.md",
-    "Attachments/th-4029885582.jpg",
-    "geology/Gesteinsbestimmung/Sedimentgesteine/Feuerstein.md",
-    "Attachments/th-689862420.jpg",
-    "geology/Gesteinsbestimmung/Sedimentgesteine/Dolomitkalkstein.md",
-    "Attachments/th-2667619516.jpg",
-    "Attachments/th-430753138.jpg",
+    "geology/Gesteinsbestimmung/Metamorphe Gesteine/Metamorphite.md",
+    "geology/Gesteinsbestimmung/Metamorphe Gesteine/Tonschiefer.md",
+    "geology/Exogenes/Verwitterung.md",
+    "geology/Gesteinsbestimmung/Sedimentgesteine/Siliziklastika.md",
+    "geology/Minerale/Bestimmung/Silikate/Kettensilikate/Pyroxene.md",
+    "geology/Minerale/Bestimmung/Silikate/Inselsilikate/Granat.md",
+    "geology/Minerale/Piezoelektrizität.md",
+    "geology/Minerale/Bestimmung/SiO2-Polymorphe/SiO2-Basics.md",
+    "geology/Minerale/Bestimmung/Silikate/Ringsilikate/Turmalin.md",
+    "geology/Magmatismus/Pegmatite.md",
+    "geology/Geodynamik/Falten.md",
+    "geology/Geodynamik/Raumlage Geologischer Strukturen.md",
+    "Attachments/Screenshot-from-2013-08-16-032245-432231166.png",
+    "geology/Gesteinsbestimmung/Magmatite/Magmatite.md",
+    "geology/Gesteinsbestimmung/Magmatite/Gabbro.md",
+    "Attachments/th-2809109670.jpg",
+    "geology/Overview Files/Overview Gesteinsbestimmung.md",
+    "geology/Gesteinsbestimmung/Metamorphe Gesteine/Granulit.md",
+    "geology/Gesteinsbestimmung/Leitfossilien.md",
+    "Attachments/th-2056227150.jpg",
+    "geology/Gesteinsbestimmung/Metamorphe Gesteine/Suevit.md",
+    "Attachments/th-2123756110.jpg",
+    "geology/Gesteinsbestimmung/Metamorphe Gesteine/Quarzit.md",
+    "Attachments/th-1989710706.jpg",
+    "geology/Gesteinsbestimmung/Metamorphe Gesteine/Kalkmarmor.md",
+    "Attachments/2007f523ba834ef49e4d54c22f5678a7-1489831832.jpg",
+    "geology/Gesteinsbestimmung/Metamorphe Gesteine/Hornfels.md",
+    "Attachments/hornfels2-1551637626.jpg",
+    "Attachments/th-1554349334.jpg",
+    "Attachments/th-3563873290.jpg",
+    "Attachments/th-2966446636.jpg",
     "geology/Gesteinsbestimmung/Metamorphe Gesteine",
     "geology/Gesteinsbestimmung/Sedimentgesteine",
     "geology/Gesteinsbestimmung/Pyroklastite",

@@ -2,13 +2,13 @@
 
 ![[th-471040626.jpg]]
 
+Granat bildet komplexe Mischkristalle, selbst ein einzelner Granat hat oft verschiedene Zusammensetzungen je nach Region.
+
 ### Granat Chem
 
 Summenformel:: $$ \ce {X^2+3Y^3+2[SiO4]3} $$
 Strukturtypus:: [[Silikatstrukturen#Inselsilikate]]
 Gruppe:: Silikate
-<!--ID: 1705934303170-->
-
 
 ### Granat Eig
 
@@ -20,8 +20,6 @@ Dichte:: gering
 Spaltbarkeit:: keine 
 Bruch:: muschelig
 Glanz:: Glasglanz
-<!--ID: 1705934303174-->
-
 
 Bildet sehr Charakteristische, runde Formen aus.
 
@@ -36,7 +34,8 @@ Bildet sehr Charakteristische, runde Formen aus.
 - Grossular
 - Andradit
 Zwischen den beiden Gruppen besteht eine Mischungslücke. In der ist ein Granat immer ein Mischkristall aus den drei Gliedern einer jeweiligen Gruppe.
-<!--ID: 1705934303179-->
+
+
 
 
 

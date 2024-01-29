@@ -1,5 +1,7 @@
 #Geo #Bestimmung 
 
+![[th-2809109670.jpg]]
+
 Gruppe:: [[Magmatite]]
 Primärbestandteile:: [[Plagioclase]], [[Pyroxene]]
 Sekundärbestandteile:: [[Biotit]], [[Amphibole]], [[Olivin]]

@@ -40,6 +40,12 @@ In Symmetrischen Falten liegen die Faltenschsenebenen der Scharniere normal zur 
 
 Kleinere Falten sind oft Bestandteil einer größeren Falte, aus ihrer Ausrichtung lässt sich auf ihre Postion z.B in einer großen Antiklinale schließen. im Scharnierbereich der Antiklinale sind die Falten oft symmetrisch (M-Falte), rechts des Scharnierbereichs sind sie nach links gekippt (S-Falte), links des Scharnierbereichs nach rechts gekippt (Z-Falte).
 
+Der Winkel, in dem die Faltenachsenebene von der Vertikalen abweicht, wird Vergenz genannt.
+
 ### Schieferung
 
 Oft entstehen parallel zu den Faltenachsenebenen Schieferungen in gefalteten Gesteinen, umso mehr, je stärker die Gesteine geplättet wurden. Diese Schiefrungen sind in der Regel steiler als die Schichtungen (vertikaler). Sind sie dies nicht, spricht man von überkippten Falten.
+
+### Ende einer Falte
+
+Falten können an Störungen enden, oder einfach auslaufen (ihre Amplitude wird immer geringer). Diese Auslaufenden Falten nennt man auch Plunging folds. Sie sind auf Karten daran erkennbar, dass die Schichten auf der Oberfläche typische umlaufende Linien bilden.

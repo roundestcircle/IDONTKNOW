@@ -3,4 +3,5 @@
 ### Pegmatite
 
 Auskristallisierte, fluidreiche Restschmelzen, in denen sich inkompatible Elemente sammeln, und in denen aufgrund des Fluireichtums sehr große Kristalle wachsen können.
-<!--ID: 1705934303649-->
+
+Nachdem auch die Pegmatite auskristallisiert sind, findet die letzte Phase der Kristallistaion statt, die hydrothermale Kristallisation in den verbleibenden Porenräumen.

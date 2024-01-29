@@ -31,7 +31,7 @@ Endet mit chemisch veränderten bzw neuen Mineralen, auf Kosten der vorhandenen.
 
 ### Hydrolyse
 
-Sehr wichtiger Prozess in der Bodenbildung, Initialrekation der Umwandlung von Feldspäten und Glimmern in Tonminerale.
+Sehr wichtiger Prozess in der Bodenbildung, Initialrekation der Umwandlung von Feldspäten und Glimmern in [[Tonminerale]].
 Die Ionen im Kristallgitter werden dabei an dissoziierte Ionen aus dem Wasser (H+ oder OH-) gebunden, sodass das Kristallgitter zerfällt.
 
 Beispiel: 
