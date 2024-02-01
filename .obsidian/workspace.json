@@ -13,8 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "geology/Minerale/Bestimmung/Halogenide/Steinsalz.md",
+                "file": "geology/Minerale/Bestimmung/Carbonate/Calcit-Dolomit Unterscheidung.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3ead4a5e8d5ea0ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "geology/Minerale/Bestimmung/Carbonate/Karbonatverwendung.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8c3643bb9dfc1abe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "geology/Minerale/Mineralchemisches Rechnen.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4177f6a9856c4919",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "geology/Minerale/Bestimmung/Carbonate/Aragonit.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -31,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -60,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Steinsal",
+                "query": "Freihe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,9 +134,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geology/Minerale/Bestimmung/Halogenide/Steinsalz.md",
+                "file": "geology/Minerale/Bestimmung/Carbonate/Aragonit.md",
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -136,40 +172,40 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "c08d4bdc5cf0dc53",
+  "active": "4177f6a9856c4919",
   "lastOpenFiles": [
-    "geology/Minerale/Bestimmung/Silikate/Schichtsilikate/Tonminerale.md",
-    "geology/Minerale/Bestimmung/Silikate/Bandsilikate/Amphibole.md",
-    "geology/Gesteinsbestimmung/Metamorphe Gesteine/Fruchtschiefer.md",
-    "geology/Gesteinsbestimmung/Metamorphe Gesteine/Garbenschiefer.md",
-    "geology/Gesteinsbestimmung/Sedimentgesteine/Grauwacke.md",
-    "geology/Gesteinsbestimmung/Metamorphe Gesteine/Metamorphite.md",
-    "geology/Gesteinsbestimmung/Metamorphe Gesteine/Tonschiefer.md",
-    "geology/Exogenes/Verwitterung.md",
-    "geology/Gesteinsbestimmung/Sedimentgesteine/Siliziklastika.md",
-    "geology/Minerale/Bestimmung/Silikate/Kettensilikate/Pyroxene.md",
-    "geology/Minerale/Bestimmung/Silikate/Inselsilikate/Granat.md",
-    "geology/Minerale/Piezoelektrizität.md",
-    "geology/Minerale/Bestimmung/SiO2-Polymorphe/SiO2-Basics.md",
+    "geology/Minerale/Bestimmung/Carbonate/Azurit.md",
+    "geology/Minerale/Bestimmung/Carbonate/Aragonit.md",
+    "geology/Minerale/Phasendiagramme.md",
+    "geology/Minerale/Kristallsysteme.md",
+    "geology/Minerale/Bestimmung/Mohs`sche Härteskala.md",
+    "geology/Minerale/Koordinierung.md",
+    "geology/Minerale/Kristallographische Indizierung.md",
+    "geology/Minerale/Volumenänderung Anhydrit-Gips.md",
+    "geology/Minerale/Symmetrieoperationen.md",
     "geology/Minerale/Bestimmung/Silikate/Ringsilikate/Turmalin.md",
-    "geology/Magmatismus/Pegmatite.md",
-    "geology/Geodynamik/Falten.md",
-    "geology/Geodynamik/Raumlage Geologischer Strukturen.md",
+    "geology/Minerale/Bestimmung/Silikate/Ringsilikate/Beryll.md",
+    "geology/Minerale/Bestimmung/Silikate/Bandsilikate/Amphibole.md",
+    "geology/Minerale/Bestimmung/Silikate/Kettensilikate/Pyroxene.md",
+    "geology/Minerale/Bestimmung/Silikate/Kettensilikate/Pyroxen-Amphibol-Unterscheidung.md",
+    "geology/Minerale/Bestimmung/Silikate/Inselsilikate/Zirkon.md",
+    "geology/Minerale/Bestimmung/Silikate/Inselsilikate/Topas.md",
+    "geology/Minerale/Bestimmung/Silikate/Inselsilikate/Olivin.md",
+    "geology/Minerale/Bestimmung/Silikate/Inselsilikate/Granat.md",
+    "geology/Minerale/Bestimmung/Silikate/Inselsilikate/Alumosilikate.md",
+    "geology/Minerale/Bestimmung/Silikate/Gruppensilikate/Epidot.md",
+    "geology/Minerale/Bestimmung/Silikate/Gerüstsilikate/Plagioclase.md",
+    "geology/Minerale/Bestimmung/Silikate/Gerüstsilikate/Feldspäte Basics.md",
+    "geology/Minerale/Bestimmung/Silikate/Gerüstsilikate/Alkalifeldspäte.md",
+    "geology/Minerale/Bestimmung/Sulfate/Scheelit.md",
+    "geology/Minerale/Bestimmung/Sulfate/Baryt.md",
+    "geology/Minerale/Bestimmung/Sulfate/Anhydrit.md",
     "Attachments/Screenshot-from-2013-08-16-032245-432231166.png",
-    "geology/Gesteinsbestimmung/Magmatite/Magmatite.md",
-    "geology/Gesteinsbestimmung/Magmatite/Gabbro.md",
     "Attachments/th-2809109670.jpg",
-    "geology/Overview Files/Overview Gesteinsbestimmung.md",
-    "geology/Gesteinsbestimmung/Metamorphe Gesteine/Granulit.md",
-    "geology/Gesteinsbestimmung/Leitfossilien.md",
     "Attachments/th-2056227150.jpg",
-    "geology/Gesteinsbestimmung/Metamorphe Gesteine/Suevit.md",
     "Attachments/th-2123756110.jpg",
-    "geology/Gesteinsbestimmung/Metamorphe Gesteine/Quarzit.md",
     "Attachments/th-1989710706.jpg",
-    "geology/Gesteinsbestimmung/Metamorphe Gesteine/Kalkmarmor.md",
     "Attachments/2007f523ba834ef49e4d54c22f5678a7-1489831832.jpg",
-    "geology/Gesteinsbestimmung/Metamorphe Gesteine/Hornfels.md",
     "Attachments/hornfels2-1551637626.jpg",
     "Attachments/th-1554349334.jpg",
     "Attachments/th-3563873290.jpg",

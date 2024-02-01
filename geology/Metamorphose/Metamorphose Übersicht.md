@@ -9,7 +9,7 @@ Viele wichtige Minerallagerstätten befinden sich in metamorphen Gesteinen.
 1. Temperatur: wird bereitgestellt durch Druck, Radioaktivität,Reibung oder Magmen. Da Steine sehr gute Isolatoren sind, erwärmen sie sich in der Regel nur langsam.
 2. Druck: maßgeblich durch Auflast ([[Spannungen#Lithostatischer Druck]]), dazu in kleinerem Umfang Porendruck.
 3. [[Anisotropie]] der Spannungen: differenzielle Spannungen könne über Deformationen die Reaktionsgeschwindigleit verringern
-4. fluide Phasen, vor allem H2O: Fluide können Wärme und Ionen transportieren und Austauschen. In der Regeln treten bei hohem Druck und hoher Hitze Fluide aus den Mineralen aus, sodass deren Verfügbarkeit steigt.
+4. fluide Phasen, vor allem H2O: Fluide können Wärme und Ionen transportieren und Austauschen. In der Regeln treten bei hohem Druck und hoher Hitze Fluide aus den Mineralen aus, sodass deren Verfügbarkeit steigt (Kristallwasser).
 5. Gesteinszusammensetzung: Oft können mehr neue Minerale gebildet werden, je heterogener das Gestein ist, da dann mehr Ionen austauschbar sind.
 
 ### [[Metamorphe Fazies]]

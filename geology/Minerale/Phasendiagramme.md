@@ -23,14 +23,12 @@ Zeigen das Mischungsverhalten verschiedener Stoffe in Abhängigkeit von der Temp
 ### Ideale Binäre Systeme
 
 Diese Systeme existieren nur bei [[Mineralentstehung Basics#Komponenten]] mit gleichen Kristallstrukturen. Ideale binäre Systeme bilden vollständige Mischkristalle im festen Zustand. Beide Endglieder haben unterschiedliche Schmelztemperaturen. Beispiel: [[Olivinmischkristalle]].
-<!--ID: 1705934302472-->
-
 
 Oberhalb des Liquidus befindet sich ein Schmelze-Einphasengebiet ([[Mineralentstehung Basics#Phase]]). Unterhalb des Solidus liegt ein Mischkristall-Einphasengebiet. Dazwischen befindet sich ein Zweiphasengebiet aus Schmelze und Mischkristallen.
 
-Kühlt man eine Schmelze X ab, bis sie auf den Liquidus trifft, bilden sich zunächst Kristalle mit der Zusammensetzung an der Position der Soliduslinie bei der gleichen Temperatur. Diese ist in der Regel eine andere als die Position der Liquidus-Linie. Dadurch verarmt die Schmelze an bestimmten Mineralen. Ihre Zusammensetzung bewegt sich bei weiterer Abkühlung entlang des Liquidus. Auch die Zusammensetzung der Mischkristalle ändert sich dadurch. So kommt es oft zu zonierten Kristallen.
+Kühlt man eine Schmelze X ab, bis sie auf den Liquidus trifft, bilden sich zunächst Kristalle mit der Zusammensetzung an der Position der Soliduslinie bei der gleichen Temperatur. Diese ist in der Regel eine andere als die Position der Liquidus-Linie. Dadurch verarmt die Schmelze an bestimmten Mineralen. Ihre Zusammensetzung bewegt sich bei weiterer Abkühlung entlang des Liquidus. Auch die Zusammensetzung der Mischkristalle ändert sich dadurch, entlang des Solidus. Sie stehen jedoch im Gleichgewicht zur Schmelze, und ändern im Festkörper konstant ihre Zusammensetzung (entlang des Solidus, s.o.), bis sie der der Ursprungsschmelze entspricht und die gesamte Schmelze auskristallisiert ist. Dieser Prozess geschieht jedoch nur im Optimalfall, da er auf Festkörperdiffusion basiert, die nur bei sehr langsamer Abkühlung schnell genug ablaufen kann. So kann es zu zonierten Kristallen kommen, deren Zusammensetzung sich von innen nach außen ändert.
 
-Das finale Produkt hat als ganzes gesehen die gleiche Zusammensetzung wie die Ursprungsschmelze, enthält jdeoch Kristalle unterschiedlicher Zusammensetzungen.
+Das finale Produkt hat als ganzes gesehen die gleiche Zusammensetzung wie die Ursprungsschmelze.
 
 ### Hebelgesetz (Lesen eines Phasendiagramms)
 
@@ -81,5 +79,3 @@ Zusammensetzung C2 wird beim abkühlen zunächst zu L (Liquid) + a, wandelt sich
 ### Inkongruentes Schmelzen
 
 Kühlt man ein peritektisches System nicht ab, sndern erhitzt es, kommt es zum inkongruenten Schmelzen. Beim Schmelzen einer Festphase bilden sich eine neue Festphase und eine Schmelze, die beide andere Zusammensetzungen haben als der Ausgangsstoff. Eine Phase wird zu zwei Phasen.
-<!--ID: 1705934302496-->
-

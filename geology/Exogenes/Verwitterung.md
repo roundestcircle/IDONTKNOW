@@ -27,7 +27,7 @@ Das Wachstum von Salzkristallen in mit Porenfluid gefüllten Klüften führt zu 
 
 ## Chemische Verwitterung
 
-Endet mit chemisch veränderten bzw neuen Mineralen, auf Kosten der vorhandenen. Gelöste Ionen werden abgeführt. Wasser spielt dabei eine entscheidende Rolle: Es transportiert Reagenzien zum Gestein, Produkte ab und reagiert selbst auch.
+Endet mit chemisch veränderten bzw neuen Mineralen, auf Kosten der vorhandenen. Gelöste Ionen werden abgeführt. Wasser spielt dabei eine entscheidende Rolle: Es transportiert Reagenzien zum Gestein, Produkte ab und reagiert selbst auch. Die Reaktionen sind dabei sehr komplex und haben viele Zwischenschritte. Die Reaktionen können durch chemoautotrophe Bakterien beschleunigt werden.
 
 ### Hydrolyse
 
@@ -35,18 +35,34 @@ Sehr wichtiger Prozess in der Bodenbildung, Initialrekation der Umwandlung von F
 Die Ionen im Kristallgitter werden dabei an dissoziierte Ionen aus dem Wasser (H+ oder OH-) gebunden, sodass das Kristallgitter zerfällt.
 
 Beispiel: 
-[[Alkalifeldspäte|Kalifeldspat]] und dissoziiertes Wasser zu Alumosilizischer Säure und Kaliumhydroxid.
+[[Alkalifeldspäte|Kalifeldspat]] und dissoziiertes Wasser zu Kaolinit und Kaliumhydroxid.
 $$
-\ce{KalSi3O8 + H+ +OH- -> HAlSi3O8 + KOH}
+\ce{4KAlSi3O8 + 22H+ XOH- -> Al4[(OH)8|Si4O10 + 4K+ + 14OH- + 8Si4+}
 $$
 
-### Oxdationsverwitterung
+### Komplexe Verwitterungen
+
+Beispiel: [[Pyrit]]
+$$
+\ce {4FeS2 + 15O2 +14 H2O -> 4Fe(OH)3 + (SO4)2- + 16H+}
+$$
+Achtung, das ist nur die summarische Reaktion! Tatsächlich passieren mehrere Einzelschritte:
+1. Eisen wird oxidiert zu dreiwertigem Eisen (unter biologischen Einfluss)
+2. Das dreiwertige Eisen wird mit H-Produktion ausgefällt
+3. Das dreiwertige Eisen oxidiert weiteren Pyrit (wieder mit biologischer Beteiligung, dabei werden einige Fe reduziert um FeS2 aufzuspalten)
+
+### Oxidationsverwitterung
 
 Besonders betroffen sind Gesteine die reduzierte Ionen beinhalten, die oxidiert werden. Oft handelt es sich um eisenhaltige Gesteine die nach der Verwitterung markant rote Böden hinterlassen
 
 ### Lösungsverwitterung oder Verkarstung
 
 In der umgekehrten [[Evaporationsfolge]] werden bestimmte Minerale durch Wasser gelöst, je löslicher sie sind, desto früher und stärker. Dabei können Höhlen und sogar komplexe Tunnelsysteme entstehen. die schließlich einstürzen können und sog. Dolinen hinterlassen. Fallen gelöste Minerale in den Höhlen wieder aus, zum Beispiel durch Abkühlung des Wassers, entstehen Tropfsteinhöhlen. Diesen gesamten Prozenn nennt man auch Verkarstung.
+
+Beispiel: Lösung von [[Kalkstein]] durch CO2-reiches Wasser
+$$
+\ce {CaCO3 + H2CO3 <-> 2HCO3- + Ca^2+}
+$$
 
 ### Hydratation
 
@@ -59,3 +75,7 @@ Besondere Form der chemischen Verwitterung, oft bei Granit oder Granodiorit. Die
 ## Biologische Verwitterung
 
 Verwitterung durch Leben, durch Wurzeln, Würmer, Bohrorganismen oder chemische Ausscheidungen (Übergang zur chemischen Verwitterung). Diese Organismen hinterlassen oft sichtbare Bohrspuren, besondere Verwitterungsfarben oder verfestigte Gänge in Sedimenten.
+
+## Verwitterungszonen
+
+Aufsteigende Minerale verwittern in der Regel zoniert: Die oberen Bereiche einer Eisenlagerstätte etwa haben mehr Zugang zu Sauerstoff und oxidieren stärker, die unteren Schichten weniger stark. Bei weiterem Aufstieg verschieben sich die Grenzen nach unten.

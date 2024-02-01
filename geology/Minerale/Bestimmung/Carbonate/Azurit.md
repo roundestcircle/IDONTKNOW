@@ -1,8 +1,6 @@
 #Min #Carbonate #Bestimmung 
 
 ![[th-788591358.jpg]]
-<!--ID: 1705934303325-->
-
 
 ### Name Chem
 
@@ -21,6 +19,6 @@ Spaltbarkeit:: vollkommen
 Bruch:: muschelig
 Glanz:: Glasglanz
 
-Verwittert zu [[Malachit]]
+Verwittert zu [[Malachit]]. Sowohl Malachit als auch Azurit entstehen in der Oxidationszone [[Verwitterung#Verwitterungszonen]] von Cu-Lagerstätten.
 
 
