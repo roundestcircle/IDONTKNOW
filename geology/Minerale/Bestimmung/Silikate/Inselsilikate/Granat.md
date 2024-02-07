@@ -33,7 +33,8 @@ Bildet sehr Charakteristische, runde Formen aus.
 - Uwarowit
 - Grossular
 - Andradit
-Zwischen den beiden Gruppen besteht eine Mischungslücke. In der ist ein Granat immer ein Mischkristall aus den drei Gliedern einer jeweiligen Gruppe.
+
+Zwischen den beiden Gruppen besteht eine Mischungslücke. In der Regel ist ein Granat immer ein Mischkristall aus den drei Gliedern einer jeweiligen Gruppe.
 
 
 

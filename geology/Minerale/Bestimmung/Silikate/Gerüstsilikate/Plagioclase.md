@@ -27,7 +27,7 @@ Glanz:: Glasglanz
 
 ### Polysynthetische Zwillinge
 
-Plagioclase kommen oft als Anhäufung sehr vieler, dünner, parallel verlaufender Zwillinge vor, sodass sie wie gestreift oder gestriemt aussehen. Entsrechen dicke und Abstände der Zwillinge bestimmten Lichtwellenlänegn wird das Licht stark gebrochen und führt so zu Farbeffekten.
+Plagioclase kommen oft als Anhäufung sehr vieler, dünner, parallel verlaufender Zwillinge vor, sodass sie wie gestreift oder gestriemt aussehen. Entsprechen dicke und Abstände der Zwillinge bestimmten Lichtwellenlänegn wird das Licht stark gebrochen und führt so zu Farbeffekten.
 <!--ID: 1705934302844-->
 
 

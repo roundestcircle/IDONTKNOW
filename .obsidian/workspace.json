@@ -49,19 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "geology/Minerale/Bestimmung/Carbonate/Aragonit.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "07e7d98e814e78e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "geology/Minerale/Bestimmung/Carbonate/Calcit.md",
+                "file": "maths/pure Mathe/Kurvendiskussion in höheren Dimensionen.md",
                 "mode": "source",
                 "source": true
               }
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geology/Minerale/Bestimmung/Carbonate/Aragonit.md",
+                "file": "maths/pure Mathe/Kurvendiskussion in höheren Dimensionen.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,12 +141,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,32 +162,35 @@
   },
   "active": "4177f6a9856c4919",
   "lastOpenFiles": [
-    "geology/Minerale/Bestimmung/Carbonate/Azurit.md",
-    "geology/Minerale/Bestimmung/Carbonate/Aragonit.md",
-    "geology/Minerale/Phasendiagramme.md",
-    "geology/Minerale/Kristallsysteme.md",
-    "geology/Minerale/Bestimmung/Mohs`sche Härteskala.md",
-    "geology/Minerale/Koordinierung.md",
-    "geology/Minerale/Kristallographische Indizierung.md",
-    "geology/Minerale/Volumenänderung Anhydrit-Gips.md",
-    "geology/Minerale/Symmetrieoperationen.md",
+    "maths/pure Mathe/Matrizen.md",
+    "maths/pure Mathe/Kurvendiskussion in höheren Dimensionen.md",
+    "maths/pure Mathe/Folgen und Reihen.md",
+    "maths/pure Mathe/Kurvendiskussion.md",
+    "maths/pure Mathe/Geometrie.md",
+    "maths/pure Mathe/Differentialrechnung.md",
+    "maths/pure Mathe/Vollständige Induktion.md",
+    "maths/pure Mathe/Funktionen.md",
+    "maths/R/R-Basics.md",
+    "maths/pure Mathe/Gleichungen und Nullstellen.md",
+    "maths/pure Mathe/Kombinatorik.md",
+    "maths/pure Mathe/Overview Mathe.md",
+    "maths/pure Mathe/Formelsammlung Mathe.md",
+    "Attachments/FormelMatheD.pdf",
+    "maths/Trying Latex.md",
+    "maths/R/Transforming Data.md",
+    "maths/pure Mathe",
+    "maths/Untitled.md",
+    "geology/Minerale/Bestimmung/Carbonate/Calcit.md",
+    "maths/R/R Überblick.md",
     "geology/Minerale/Bestimmung/Silikate/Ringsilikate/Turmalin.md",
-    "geology/Minerale/Bestimmung/Silikate/Ringsilikate/Beryll.md",
+    "maths/R",
+    "geology/Minerale/Bestimmung/Silikate/Inselsilikate/Granat.md",
     "geology/Minerale/Bestimmung/Silikate/Bandsilikate/Amphibole.md",
     "geology/Minerale/Bestimmung/Silikate/Kettensilikate/Pyroxene.md",
     "geology/Minerale/Bestimmung/Silikate/Kettensilikate/Pyroxen-Amphibol-Unterscheidung.md",
-    "geology/Minerale/Bestimmung/Silikate/Inselsilikate/Zirkon.md",
-    "geology/Minerale/Bestimmung/Silikate/Inselsilikate/Topas.md",
-    "geology/Minerale/Bestimmung/Silikate/Inselsilikate/Olivin.md",
-    "geology/Minerale/Bestimmung/Silikate/Inselsilikate/Granat.md",
-    "geology/Minerale/Bestimmung/Silikate/Inselsilikate/Alumosilikate.md",
-    "geology/Minerale/Bestimmung/Silikate/Gruppensilikate/Epidot.md",
-    "geology/Minerale/Bestimmung/Silikate/Gerüstsilikate/Plagioclase.md",
-    "geology/Minerale/Bestimmung/Silikate/Gerüstsilikate/Feldspäte Basics.md",
-    "geology/Minerale/Bestimmung/Silikate/Gerüstsilikate/Alkalifeldspäte.md",
-    "geology/Minerale/Bestimmung/Sulfate/Scheelit.md",
-    "geology/Minerale/Bestimmung/Sulfate/Baryt.md",
-    "geology/Minerale/Bestimmung/Sulfate/Anhydrit.md",
+    "geology/Minerale/Kristallsysteme.md",
+    "geology/Minerale/Volumenänderung Anhydrit-Gips.md",
+    "geology/Minerale/Symmetrieoperationen.md",
     "Attachments/Screenshot-from-2013-08-16-032245-432231166.png",
     "Attachments/th-2809109670.jpg",
     "Attachments/th-2056227150.jpg",
@@ -217,9 +208,6 @@
     "geology/Gesteinsbestimmung/Magmatite",
     "geology/Magmatismus",
     "geology/Gesteinsbestimmung",
-    "geology/Exogenes",
-    "geology/Metamorphose",
-    "geology/Geodynamik",
     "Untitled.canvas"
   ]
 }

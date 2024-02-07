@@ -58,13 +58,13 @@ Elemente oder Verbindungen aus denen sich alle Phasen zusammensetzen.
 
 #### Freiheitsgrade
 
-Anzahl der Bedingungen (Temperatur und Druck im Regelfall) eines Sytems, die  frei änderbar sind, ohne dass Phasen verschwinden.
+Anzahl der Bedingungen (Temperatur und Druck im Regelfall) eines Systems, die frei änderbar sind, ohne dass Phasen verschwinden.
 
 
 
 #### [[Phasendiagramme]]
 
-Diagramm, auf dem markiert ist, bei welchen Umweltbedingungen (meist D/T) welche Phasen einer Verbindung stabil sind. Zwischen den Phasn liegen die sogenannten Koexistenzlinien, an denen zwei Phasen stabil sind.
+Diagramm, auf dem markiert ist, bei welchen Umweltbedingungen (meist D/T) welche Phasen einer Verbindung stabil sind. Zwischen den Phasen liegen die sogenannten Koexistenzlinien, an denen zwei Phasen stabil sind.
 
 
 
@@ -81,6 +81,7 @@ in einer Phase: 1 + 2 -1 = 2 -> zwei Freiheitsgrade
 
 
 ### Mineralentstehung
+
 1. Keimbildung: Entwicklung eines Keimes bei Übersättigung (meist durch Temperaturabfall, Druckerhöhung (außer bei Wasser) oder Verdunstung). Die Koexistentlinie des Phasendiagramms wird überschritten. Keimbildung ist nicht einfach, die Lösung muss stärker übersättigt sein, um sie auszulösen, als um bestehende Kristalle wachsen zu lassen.  An Substraten (heterogene Keimbildung) lässt sie sich eher herbeiführen als frei in der Lösung (homogene Keimbildung), da die Oberflächenenergie dort geringer ist.
 2. Kristallwachstum: Der entstandene Keim gehört schon einer neuen Phase an, ist aber noch labil. Bei langsamer Abkühlung kann er immer weiter wachsen. Neue Bausteine lagern sich am Kristall an den enrgetisch günstigsten Positionen an, also an Stellen mit möglichst vielen Nachbarn. In der Regel klappt das nicht perfekt, es kommt zu Fehlstellen. Besonders günstige Flächen wachsen so schneller als ungünstige, verschwinden dadurch aber mit der Zeit von selbt (zb. (111) eine kubischen Kristallsystems läuft auf die würfelecke zu, wird immer kleiner bis sie in einer Spitze verschwindet)
 
@@ -88,5 +89,5 @@ Bei geringer Unterkühlung überwiegt das Kristallwachstum die Keimbildung, es k
 
 #### Oswald-Miers-Bereich
 
-Metatstabiler Zustand der Übersättigung. Bestehende Kristalle wachsen, aber es entshen keine neuen Keime. in der technischen Mineralogie essentiell zur Zucht großer Einkristalle mithilfe von Impflingen (künstlichen Keimen.)
+Metastabiler Zustand der Übersättigung. Bestehende Kristalle wachsen, aber es entstehen keine neuen Keime. in der technischen Mineralogie essentiell zur Zucht großer Einkristalle mithilfe von Impflingen (künstlichen Keimen.)
 

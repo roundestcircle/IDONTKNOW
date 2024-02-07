@@ -2,7 +2,7 @@
 
 ### Elementarzelle
 
-Die Elementarzele ist die Basiseinheit eines Kristalls. Sie enthält alle notwendigen Informationen, um den Kristall vollständig in beliebiger Größe darzustellen. Der vollständige Kristll besteht aus durch Tranlation verschobenen Elementarzellen.
+Die Elementarzele ist die Basiseinheit eines Kristalls. Sie enthält alle notwendigen Informationen, um den Kristall vollständig in beliebiger Größe darzustellen. Der vollständige Kristall besteht aus durch Translation verschobenen Elementarzellen.
 <!--ID: 1705934302768-->
 
 
