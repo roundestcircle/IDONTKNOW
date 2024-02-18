@@ -22,6 +22,21 @@ Der euklidische Winkel ist der arccos des Skalarprodukts zweier Vektoren durch d
 
 Zwei Vektoren sind linear unabhängig, falls sie sich durch keine Skalarmultiplikation ineinander überführen lassen. Bei mehreren Vektoren, Dürfen die Vektoren durch keine Kombination der anderen Vektoren darstellbar sein.
 
+Anders gesagt: Durch die Addition der skalierten Vektoren lässt sich nur ein Nullvektor erzeugen, indem jeder einzelne Skalar 0 gesetzt wird, also alle $a_n$ hier 0 sind.
+$$ 
+a_{1}{\vec {v}}_{1}+a_{2}{\vec {v}}_{2}+\dotsb +a_{n}{\vec {v}}_{n}={\vec {0}}
+$$
+
+#### Lineare Unabhängigkeit überprüfen
+
+Um die lineare Unabhängigkeit zu überprüfen, kann man ein [[Gleichungen und Nullstellen#Lineare Gleichungssysteme|LGS]] aufstellen und dieses dann mit dem Gauss-Algorithmus lösen. Zum Aufstellen des LGS muss der erste Vektor mal $x_1$ addiert werden mit dem zweiten Vektor mal $x_2$ und so weiter. Die Summe aller dieser Vektoren muss der Nullvektor sein (vgl. Oben!). 
+
+Hat dieses Gleichungssystem eine Lösung außer den Nullvektor, sind die Vektoren linear abhängig! Setzt man nun den Lösungsvektor in die Gleichung (s.o.) ein, erhält man den folgenden Ausdruck oder ähnlich:
+$$
+-2 \vec v_1 +1 \vec v_2 +1 \vec v_3 +0 \vec v_4 = \vec 0
+$$
+Nun kann man diese Gleichung zu einem Vektor umstellen. Dieser Vektor ist linear abhängig von den Anderen. Dabei kann man sich ein bisschen aussuchen, welchen Vektor man aus der Basis rauswirft. Die übrigen Vektoren sind die Basis des Unterraums. Nur Vektoren, die als Vorfaktor eine 0 haben, dürfen nicht aus der Basis entfernt werden. Dies würde dem Unterraum eine Dimension rauben.
+
 ### Unterraum
 
 Der Unterraum U des Vektorraums V beinhaltet folgendes:

@@ -12,7 +12,7 @@ $$
 
 ### Skalarprodukt
 
-Das Skalarprodukt zwier Vektoren ist die Matrixmultiplikationen des transponierten ersten Vektors mit dem zweiten Vektor. Der Erste Vektor hat dann n Spalten, der zweite n Zeilen. Das Skalarprodukt ist eine Zahl.
+Das Skalarprodukt zweier Vektoren ist die Matrixmultiplikationen des transponierten ersten Vektors mit dem zweiten Vektor. Der Erste Vektor hat dann n Spalten, der zweite n Zeilen. Das Skalarprodukt ist eine Zahl.
 
 ### Matrixaddition
 

@@ -1,0 +1,19 @@
+{
+  "version": "v2",
+  "darkTheme": "dark",
+  "lightTheme": "dark",
+  "sample1": "cc",
+  "sample2": "C-C-O",
+  "imgWidth": null,
+  "copy": {
+    "scale": 2,
+    "transparent": true,
+    "theme": "default"
+  },
+  "dataview": false,
+  "options": {
+    "scale": 0.98,
+    "compactDrawing": false,
+    "terminalCarbons": true
+  }
+}

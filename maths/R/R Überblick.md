@@ -4,4 +4,9 @@
 
 1. [[Representing Data]]
 2. [[Transforming Data]]
-3. 
+3. [[Applying Functions]]
+
+
+### Packages
+
+1. [[dplyr]]

@@ -20,4 +20,25 @@
 
 ### Conditionals
 
-1. if
+1. if {}, else {}
+2. ifelse(Function, return if TRUE, return if FALSE)
+
+### Vector manipulation
+
+#### Create empty Vector
+
+```
+vector <- c()
+```
+
+#### Add named Elements
+
+```
+vector[name] <- value
+```
+
+#### Adding vectors together
+
+```
+vector <- c(vector1, vector2)
+```

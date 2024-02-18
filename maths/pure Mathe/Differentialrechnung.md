@@ -6,7 +6,7 @@ Eine Funktion ist an einem bestimmten Punkt differenzierbar, falls ihre Ableitun
 
 ### Ableitungen
 
-Die Ableitung an einem Punkt ist die Steigung der Funktion an genau diesem Punkt. Berechnet wird diese sehr einfach mit dem Quotient von x und y an zwei Punkten, also Steigungsdreieck. Nun berechnet man den Grenzwert, wenn man den zweiten Punkt gegen den abzuleitenden Punkt laufen lässt, das Steigungsdreieck wird also immer kleiner. 
+Die Ableitung an einem Punkt ist die Steigung der Funktion an genau diesem Punkt. Berechnet wird diese sehr einfach mit dem Quotient von x und y an zwei Punkten, also einem Steigungsdreieck. Nun berechnet man den Grenzwert, wenn man den zweiten Punkt gegen den abzuleitenden Punkt laufen lässt, das Steigungsdreieck wird also immer kleiner. 
 
 Die gesamte Ableitungsfunktion zeigt dementsprechend als Funktionswerte die Steigungen aller Punkte der Ursprungsfunktion. 
 
@@ -53,7 +53,7 @@ $$
 \begin{align*}
 \text{verkettete Funktion: } f(x) =& \sin(2x+3)\\
 \text{allgemeine Form: } f(g(x))' =& f'(g(x))\cdot g'(x)\\
-\text{Beispiel: } ((sin(x)+1)^3) =& 3(sin(x)+1)\cdot cos(x)\\
+\text{Beispiel: } ((sin(x)+1)^3) =& 3(sin(x)+1)^2\cdot cos(x)\\
 (e^{-3x})' =& e^{-3x} \cdot (-3)
 \end{align*}
 $$

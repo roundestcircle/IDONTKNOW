@@ -12,6 +12,7 @@ Der größte Exponent heißt Rang des Polynoms, der Faktor vor diesem Monom Leit
 $$
 f(x) = x^2 +2x + 6
 $$
+
 ### rationale Funktionen
 
 Seien p und q Polynome.

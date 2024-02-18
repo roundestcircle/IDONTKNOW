@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c08d4bdc5cf0dc53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "geology/Minerale/Bestimmung/Carbonate/Calcit-Dolomit Unterscheidung.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3ead4a5e8d5ea0ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "geology/Minerale/Bestimmung/Carbonate/Karbonatverwendung.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8c3643bb9dfc1abe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "geology/Minerale/Mineralchemisches Rechnen.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "4177f6a9856c4919",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "maths/pure Mathe/Kurvendiskussion in höheren Dimensionen.md",
+                "file": "chem/Übungsblatt.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Freihe",
+                "query": "!!!",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "maths/pure Mathe/Kurvendiskussion in höheren Dimensionen.md",
+                "file": "chem/Übungsblatt.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,52 +125,51 @@
   },
   "active": "4177f6a9856c4919",
   "lastOpenFiles": [
+    "chem/Komplex-Verbindungen.md",
+    "chem/Übungsblatt.md",
+    "chem/Säure-Base-Reaktionen.md",
+    "chem/Chemische Reaktionen.md",
+    "Attachments/Pasted image 20240218172551.png",
+    "Attachments/Pasted image 20240218171540.png",
+    "Attachments/Pasted image 20240218171441.png",
+    "Attachments/Pasted image 20240218171205.png",
+    "Attachments/Pasted image 20240218170528.png",
+    "Attachments/Pasted image 20240218170334.png",
+    "chem/Stoffmengen und Konzentration.md",
+    "chem/Nomenklatur OC.md",
+    "chem/Organische Chemie Basics.md",
+    "chem/RedOx-Reaktionen.md",
+    "Attachments/Pasted image 20240218141038.png",
+    "Attachments/Pasted image 20240218140837.png",
+    "Attachments/Pasted image 20240218135057.png",
+    "maths/pure Mathe/Differentialrechnung.md",
+    "Attachments/Pasted image 20240218134157.png",
+    "chem/Aromatizität.md",
+    "chem/Atombau und Periodensystem.md",
+    "chem/Quantenmechanische Bindungstheorien.md",
+    "chem/Chemische Bindungen.md",
+    "chem/Stereoisomerie.md",
+    "chem/Gibbs-Energie.md",
+    "chem/VSEPR.md",
+    "chem/Chemische Formeln lesen.md",
+    "maths/R/Applying Functions.md",
+    "chem",
+    "maths/R/R-Basics.md",
+    "maths/R/Transforming Data.md",
+    "maths/R/R Überblick.md",
+    "maths/pure Mathe/Vollständige Induktion.md",
     "maths/pure Mathe/Matrizen.md",
     "maths/pure Mathe/Kurvendiskussion in höheren Dimensionen.md",
-    "maths/pure Mathe/Folgen und Reihen.md",
     "maths/pure Mathe/Kurvendiskussion.md",
-    "maths/pure Mathe/Geometrie.md",
-    "maths/pure Mathe/Differentialrechnung.md",
-    "maths/pure Mathe/Vollständige Induktion.md",
-    "maths/pure Mathe/Funktionen.md",
-    "maths/R/R-Basics.md",
-    "maths/pure Mathe/Gleichungen und Nullstellen.md",
-    "maths/pure Mathe/Kombinatorik.md",
-    "maths/pure Mathe/Overview Mathe.md",
-    "maths/pure Mathe/Formelsammlung Mathe.md",
+    "test",
     "Attachments/FormelMatheD.pdf",
-    "maths/Trying Latex.md",
-    "maths/R/Transforming Data.md",
     "maths/pure Mathe",
-    "maths/Untitled.md",
-    "geology/Minerale/Bestimmung/Carbonate/Calcit.md",
-    "maths/R/R Überblick.md",
-    "geology/Minerale/Bestimmung/Silikate/Ringsilikate/Turmalin.md",
     "maths/R",
-    "geology/Minerale/Bestimmung/Silikate/Inselsilikate/Granat.md",
-    "geology/Minerale/Bestimmung/Silikate/Bandsilikate/Amphibole.md",
-    "geology/Minerale/Bestimmung/Silikate/Kettensilikate/Pyroxene.md",
-    "geology/Minerale/Bestimmung/Silikate/Kettensilikate/Pyroxen-Amphibol-Unterscheidung.md",
-    "geology/Minerale/Kristallsysteme.md",
-    "geology/Minerale/Volumenänderung Anhydrit-Gips.md",
-    "geology/Minerale/Symmetrieoperationen.md",
-    "Attachments/Screenshot-from-2013-08-16-032245-432231166.png",
-    "Attachments/th-2809109670.jpg",
-    "Attachments/th-2056227150.jpg",
-    "Attachments/th-2123756110.jpg",
-    "Attachments/th-1989710706.jpg",
-    "Attachments/2007f523ba834ef49e4d54c22f5678a7-1489831832.jpg",
-    "Attachments/hornfels2-1551637626.jpg",
-    "Attachments/th-1554349334.jpg",
-    "Attachments/th-3563873290.jpg",
-    "Attachments/th-2966446636.jpg",
     "geology/Gesteinsbestimmung/Metamorphe Gesteine",
     "geology/Gesteinsbestimmung/Sedimentgesteine",
     "geology/Gesteinsbestimmung/Pyroklastite",
     "geology/Magmatismus/Definitionen",
     "geology/Gesteinsbestimmung/Magmatite",
-    "geology/Magmatismus",
-    "geology/Gesteinsbestimmung",
     "Untitled.canvas"
   ]
 }

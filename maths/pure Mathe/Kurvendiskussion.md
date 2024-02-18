@@ -10,7 +10,7 @@ Nullstellen, Y-Achsenabschnitt und Symmetrien.
 
 ### Extremwerte
 
-Extremwerte liegen an den Nullstellen der ersten Ableitung. Wenn die zweite Ableitung an diesen Stellen größer als Null ist, handelt es sich um einen Tiefpunkt, ist sie kleiner als 0 um einen Hochpunkt. Ist sie gleich null, handelt es sich nur um einen Stallepunkt.
+Extremwerte liegen an den Nullstellen der ersten Ableitung. Wenn die zweite Ableitung an diesen Stellen größer als Null ist, handelt es sich um einen Tiefpunkt, ist sie kleiner als 0 um einen Hochpunkt. Ist sie gleich null, handelt es sich nur um einen Satellpunkt.
 
 Zwischen den Extremwerten liegen Phasen monotonen Verhaltens.
 

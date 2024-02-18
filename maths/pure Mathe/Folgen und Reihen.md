@@ -12,9 +12,9 @@ Eine Reihe ist die Folge aller Partialsummen der ursprünglichen Folge, also der
 
 Nullfolgen konvergieren gegen Null, das heißt nach endlich vielen Folgegliedern ist liegen alle weiteren Glieder im Bereich $\pm \epsilon$. 
 
-### Kovergenz
+### Konvergenz
 
-Folgen sind Konvergent falls es einen Wert a gibt, sodass $(a_n -a)_n$ eine Nullfolge ist. Dieser Wert a ist der sogennate Grenzwert.
+Folgen sind Konvergent falls es einen Wert a gibt, sodass $(a_n -a)_n$ eine Nullfolge ist. Dieser Wert a ist der sogenannte Grenzwert.
 
 Falls eine Folge nicht konvergent ist, ist sie divergent, also läuft gegen plus- oder minus unendlich.
 

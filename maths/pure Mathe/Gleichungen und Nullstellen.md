@@ -53,8 +53,16 @@ Dafür wird die Gleichung durch (x-p) geteilt, wobei p der x-Wert an der Nullste
 
 Durch intelligentes verrechnen der Gleichungen das Gleichungssystem in dreiecksform bringen: nach unten immer weniger Variablen. Dann von unten nach oben auflösen.
 
+Am Ende des Auflösen des LGS kann es sein, falls das LGS unterbestimmt ist, dass alle  Variablen von einem frei wählbaren Parameter abhängen. Die Schreibweise dieser Lösungen als Lösungsvektor klammert dann den Parameter als Skalar aus. Es wird dabei immer die Variable parametisiert, deren "Alleinstelle" fehlt, also die keine eigene Gleichung im Gauss-Algorithmus besitzt, bzw die Beim Auflösen von unten "übersprungen" wird.
+Beispiel:
+$$
+\vec x = t \cdot \begin{bmatrix} 1 \cr 3 \cr 6 \cr -2 \end{bmatrix}
+$$
+
 #### Rang
 
-Der Rang eines LGS ist die Anzahl der durchführbaren Eliminationsschritte mit dem Gauss-Algorithmus.
+Der Rang eines LGS ist die Anzahl der durchführbaren Eliminationsschritte mit dem Gauss-Algorithmus. Anders gesagt: Die Anzahl der Zeilen, die nach der maximalen Elimination hin zur Stufenform keine Nullzeilen geworden sind.
+
+Der Vergleich des $\vec b$ mit dem Rang der Matrix A und der Matrix $(A|\vec b)$ (also die zusammengeführte Matrix des LGS) erlauben Rückschlüsse auf die Lösbarkeit des Gleichungssystems.
 
 
