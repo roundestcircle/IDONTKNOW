@@ -29,6 +29,13 @@ Bei der Ringinversion klappen die zwei Seiten des Sessels um. Dies entspricht ni
 
 Enantiomere sind Spiegelbildliche Moleküle. Diese sind nicht durch Drehungen ineinander überführbar. 
 
+##### Bennenung von Enantiomeren (Cahn-Ingold-Prelog-Konvention)
+
+1. Chirales Zentrum bestimmen: Alle C-Atome mit vier unterschiedlichen Substituenten
+2. Ränge der Substituenten bestimmen: Atommasse der direkt gebundenen Atome, nicht der ganzen Substituenten. Das schwerste Atom wird Prio 1, das leichteste Prio 4. Sind zwei Atome gleich schwer, wird entlang der Kette weiter verglichen, bis sie sich unterscheiden.
+3. Nun wird das Molekül so rotiert, dass das Atom mit niedrigster Piorität nach hinten zeigt.
+4. Nun wird ein Kreis von 1 nach zwei nach drei gezeichnet. Bewegt er sich im Uhrzeigersinn, handelt es sich um ein R-Stereozentrum, bewegt er sich gegen den Uhrzeigersinn, handelt es sich um ein S-Stereozentrum.
+
 #### Diastereomere
 
-Entalng von Doppelbindungen können Kohlewasserstoffe entweder eine Wannen- oder eine Sesselform annehmen. Diese unterschiedlichen Konfigurationen nennt man Diastereomere. Achtung: Dreifachbindungen sind immer linear, Einfachbindungen verhalten sich wie oben beschrieben.
+Diastereomere sind Konfigurationsisomere, die sich nicht durch Spiegelung ineinander überführen lassen. Diese können entweder durch mehrere unterschiedliche Stereozentren entstehen, oder durch Doppelbindungen (Sessel/Wanne), auch bei zyklischen Kohlenwasserstoffen.

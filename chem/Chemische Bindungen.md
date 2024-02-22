@@ -31,4 +31,4 @@ Die Differenz der [[Atombau und Periodensystem#Elektronegativität (nach Pauling
 
 ### Sterische Hinderung
 
-Es kann passieren, dass ein rektives Atom keine Bindung eingehen kann, weil es von anderen Atomen des Moleküls umgeben ist, die keinen Zugang zum mittleren Atom zulassen.
+Es kann passieren, dass ein reaktives Atom keine Bindung eingehen kann, weil es von anderen Atomen des Moleküls umgeben ist, die keinen Zugang zum mittleren Atom zulassen.

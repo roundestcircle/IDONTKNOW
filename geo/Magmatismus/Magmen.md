@@ -10,5 +10,5 @@ Magmen bestehen aus verschiedenen Bestandteilen, die zusammen die Gesteinsbilden
 
 ### Eigenschaften
 
-[[Felsisch]]e Magmen sind generell kälter (900-1000° trocken, 700-800°mit Wasser) und dickflüssiger als [[mafisch]]e (1100-1250°) Magmen. Das liegt daran, dass die SiO4-Tetraeder sich in felsischen Magmen zu langen Ketten verbinden (Polymerisation) und so den Zusammenhalt in der Magma erhöhen. AlO4 hat einen ähnlichen Effekt. Die Viskositäten der Magmen unterscheiden sich dadurch erstaunlich stark.
+[[Felsisch]]e Magmen sind generell kälter (900-1000° trocken, 700-800°mit Wasser) und dickflüssiger als [[Mafisch]]e (1100-1250°) Magmen. Das liegt daran, dass die SiO4-Tetraeder sich in felsischen Magmen zu langen Ketten verbinden (Polymerisation) und so den Zusammenhalt in der Magma erhöhen. AlO4 hat einen ähnlichen Effekt. Die Viskositäten der Magmen unterscheiden sich dadurch erstaunlich stark.
 Magmen haben in der Regel eine geringere Dichte als das Umgebungsgestein.

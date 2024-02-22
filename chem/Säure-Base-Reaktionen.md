@@ -73,7 +73,7 @@ der pKa Wert ist dann wie beim pH-Wert der negativ dekadische Logarithmus der S�
 
 ### Puffer
 
-Puffer können die Wirkung von Säuren und Basen auf den pH-Wert abfedern. Eine schwache Säure und ihre konjugierte Base wie etwa Essigsäure fangen dabei eine stärkere Säure ab (die Protonen werden durch die konjugierte Base geschluckt)
+Puffer können die Wirkung von Säuren und Basen auf den pH-Wert abfedern. Eine schwache Säure und eine schwache Base wie etwa Essigsäure und Acetat-Ionen fangen dabei eine stärkere Säure oder Base ab (die Protonen werden durch die konjugierte Base geschluckt bzw Protonen binden an die Base).
 
 #### Pufferberechnung
 
@@ -84,6 +84,8 @@ Zur Berechnung des pH-Werts einer gepufferten Lösung dient folgende Gleichung:
 $pH = pK_A + lg(\frac{Basenkonz.}{Säurekonz})$
 
 Wird nun eine starke Säure oder Base dazugegeben, die vermutlich vollständig zu einem Säure-Base-Paar dissoziiert, müssen die beiden Konzentrationen in der Gleichung angepasst werden: Wird eine Base hinzugegeben, wird ihre Konzentration von der Säurekonzentration abgezogen (sie reagieren vollständig miteinander) und zur Basenkonzentration hinzugerechnet, wird eine Säure hinzugegeben umgekehrt. Nun lässt sich der gepufferte pH-Wert berechnen.
+
+Mit dieser Gleichung lassen sich auch andere Fragen zu Pufferlösungen lösen, wenn man sie einfach umstellt.
 
 ## OC
 

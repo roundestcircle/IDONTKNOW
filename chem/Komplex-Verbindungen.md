@@ -11,20 +11,18 @@ Komplex-Verbindungen bestehen aus einem Zentralen Metall-Ion, das in der Regel e
 
 L-Liganden können Metallen zur Edelgaskonfiguration verhelfen, auch wenn diese diese nicht mit normalen Bindungen erreichen könnten, da sie nicht genug Valenz-Elektronen haben.
 
-- Aromatische Liganden ([[Aromatizität]]) stellen alle delokalisierten Pi-Elektronen zur verfügungung, Benzol also etwa 6.
+- Aromatische Liganden ([[Aromatizität]]) stellen alle delokalisierten Pi-Elektronen zur Verfügung, Benzol also etwa 6.
 
-- Chelatliganden sind Liganden, die mehrere Bindungen zum Zentralatom eingehen können. Wie viele Bindungen sie eingehen, bezechnet man als Zähnigkeit der Liganden. Ein Ligand kann in verschiedenen Komplexen verschiedene Zähnigkeiten habne, er muss nicht alle möglichen Bindungen eingehen.
+- Chelatliganden sind Liganden, die mehrere Bindungen zum Zentralatom eingehen können. Wie viele Bindungen sie eingehen, bezechnet man als Zähnigkeit der Liganden. Ein Ligand kann in verschiedenen Komplexen verschiedene Zähnigkeiten haben, er muss nicht alle möglichen Bindungen eingehen.
 
 ### Elektronenzählung am Zentralatom
 
 1. Neutrale Zählung:
-Zuerst wird die Valenzelektronenzahl des Zentralatoms aus der Gruppenzahl ([[Atombau und Periodensystem]]) ermittelt. darauf wird für jeden X-Ligand ein Elektron addiert, für jeden L-Ligand 2.
+Zuerst wird die Valenzelektronenzahl des Zentralatoms aus der Gruppenzahl ([[Atombau und Periodensystem]]) ermittelt. darauf wird für jeden X-Ligand ein Elektron addiert, für jeden L-Ligand 2, und andere Zahlen für komplexere Liganden wie zyklische.
 2. Geladene Zählung
-Zuerst wird die Elektronenzahl des geladenen Zentralkations ermittelt. Danach werden für jeden Liganden 2 Elektronen addiert.
+Zuerst werden die natürlichen Ladungen der Liganden ohne Metall ermittelt (Halogene sind negativ, fünfring ist negativ etc). Nun lässt sich die Oxidationszahl des Zentralatoms feststellen: Die Ladung des Zentralatoms und die der Liganden müssen zusammen der Gesamtladung entsprechen. Nun lässt sich die Valenzelektronenzahl berechnen. Addiert man dann die Valenzelektronenzahl des Metalls und die Elektronen, die die Liganden beisteuern, erhält man die Gesamtelektronenzahl. 
 
-Man beachte die Sonderregeln für aromatische Liganden!
-
-Bestimmte Elektronenzahlen sind besonders stabil, etwa die Edelgaskonfiguration oder 4 Liganden und 16 Elektronen. Komplexe mit Nebengruppen enthalten oft 18 Elektronen.
+Bestimmte Elektronenzahlen sind besonders stabil, etwa die Edelgaskonfiguration oder 4 Liganden und 16 Elektronen. Komplexe mit Nebengruppen enthalten oft 18 Elektronen (also s p und d-Orbitale komplett gefüllt). Manche Liganden können verschiedene Ligandenanzahlen bereitstellen, wie viele, lässt sich oft überprüfen, indem man schaut, wie viele Elektronen benötigt werden, um 18 Elektronen zu erreichen.
 
 ### Geometrie
 

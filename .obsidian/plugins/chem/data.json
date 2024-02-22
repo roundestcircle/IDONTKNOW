@@ -1,8 +1,8 @@
 {
   "version": "v2",
-  "darkTheme": "dark",
-  "lightTheme": "dark",
-  "sample1": "cc",
+  "darkTheme": "oldschool-dark",
+  "lightTheme": "oldschool",
+  "sample1": "OC(=O)C(C)=CC1=CC=CC=C1",
   "sample2": "C-C-O",
   "imgWidth": null,
   "copy": {

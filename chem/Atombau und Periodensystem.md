@@ -47,7 +47,7 @@ Die Zahlen im Exponenten stehen dabei für die Anzahl an Elektronen in den jewei
 2. Pauli: Elektronen im gleichen Orbital müssen unterschiedliche Spins haben.
 3. Hund: Mehrere Orbitale mit gleichem Energieniveau werden zunächst einfach besetzt.
 
-#### Bevorzugte Ladungen\Elektronenkonfigurationen
+#### Bevorzugte Ladungen/Elektronenkonfigurationen
 
 Drei verschiedene Zustände werden durch Atome bevorzugt, wenn sie Bindungen eingehen bzw. Elektronen abgeben oder aufnehmen.
 1. Edelgaskonfiguration (alle Orbitale der Schale voll besetzt), am besten
@@ -75,7 +75,7 @@ Die 2. und 3. Ionisierungsenergie (also um noch mehr Elektronen zu entfernen) wi
 
 ### Elektronenaffinität
 
-Die Elektronenaffinität ist die Energiedifferenz zwischen dem Grundzustand und dem Anion in eV. Je niedriger diese ist (weiter unter 0), desto größer die Elektronenaffinität, da das Atom versucht, ein möglichst niedriges Energieniveau zu erreichen. Tendenziell aber nicht durchgängig steigt dei Elektronenaffinität (also sinkt der Wert) mit der Hauptgruppe, die siebte Hauptgruppe hat eine extrem hohe Elektronenaffinität.
+Die Elektronenaffinität ist die Energiedifferenz zwischen dem Grundzustand und dem Anion in eV. Je niedriger diese ist (weiter unter 0), desto größer die Elektronenaffinität, da das Atom versucht, ein möglichst niedriges Energieniveau zu erreichen. Tendenziell, aber nicht durchgängig, steigt die Elektronenaffinität (also sinkt der Wert) mit der Hauptgruppe, die siebte Hauptgruppe hat eine extrem hohe Elektronenaffinität.
 
 ### Elektronegativität (nach Pauling)
 

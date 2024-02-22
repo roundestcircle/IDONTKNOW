@@ -38,7 +38,7 @@ C-Atome in Kohlenwasserstoffen werden in Abhängigkeit von ihrer Partialladung E
 
 ### C-Einordnung nach Bindungspartnerzahl
 
-Je nach der Anzahl der Bindungen zu weiteren C-Molekülen werden C-Atome primär, sekundär,tertiär oder quartär genannt.
+Je nach der Anzahl der Bindungen zu weiteren C-Molekülen werden C-Atome primär, sekundär, tertiär oder quartär genannt.
 
 ### Geschichte der org Chemie
 
@@ -79,7 +79,7 @@ Amin:
 
 ### Formalladungen
 
-In Kohlenwasserstoffen werden die Elektronen in den Bindungen entweder als geteilt betrachtet, bei unpolaren kovalenten Bindungen ([[Chemische Bindungen]]), oder werden, bei polaren  kovalenten Bindungen ganz dem elektronegativeren Atom zugeordnet. Vergleicht man dann diese zugeordnete Elekronenzahl mit der Elktronenzahl des Elements außerhalb einer Bindung, erhält man die Formalladung. Freie Elektronenpaare müssen dabei immer eingezeichnet und einbezogen werden.
+In Kohlenwasserstoffen werden die Elektronen in den Bindungen entweder als geteilt betrachtet (bei unpolaren kovalenten Bindungen ([[Chemische Bindungen]])), oder werden, bei polaren  kovalenten Bindungen ganz dem elektronegativeren Atom zugeordnet. Vergleicht man dann diese zugeordnete Elekronenzahl mit der Elktronenzahl des Elements außerhalb einer Bindung, erhält man die Formalladung. Freie Elektronenpaare müssen dabei immer eingezeichnet und einbezogen werden.
 
 Die Ladungen werden als  + oder - an den betreffenden Atomen markiert. Oft werden auch einfach alle bindenden Elektronen geteilt, ohne Rücksicht auf die Elektronegativitäten.
 
