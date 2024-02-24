@@ -1,6 +1,6 @@
 #Stat #Beschreibend
 
-Lagemaße beschreiben das typische einer Verteilung, zentrale, mittlere oder Häufigste Werte.
+Lagemaße beschreiben das typische einer Verteilung, zentrale, mittlere oder Häufigste Werte. Die folgenden Lagemaße (außer der Modus) lassen sich nur mit metrischem Skalenniveau berechnen.
 
 Die unterschiedlichen Lagemaße können sehr verschiedene Geschichten erzählen, die alle legitim sind, sich in Nachrichten oä, in denen alles als Mittel oder Durchschnitt bezeichnet wird jedoch schwer unterscheidbar sind. Dazu muss beachtet werden, dass mit Begriffen wie der Mitte oft "Norm" oder "Normalität" assoziiert wird, was falsch und gefährlich ist.
 

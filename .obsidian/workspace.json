@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "maths/R/R-Basics.md",
+                "file": "maths/R/R for basic stats.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Histogra",
+                "query": "Streudiagramm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "068dc6cf241ee037",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "maths/R/R-Basics.md",
+                "file": "maths/R/R for basic stats.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,8 +105,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -126,13 +126,19 @@
   },
   "active": "4177f6a9856c4919",
   "lastOpenFiles": [
-    "maths/R/Representing Data.md",
-    "maths/R/R Überblick.md",
+    "maths/Stat/Regression.md",
     "maths/R/R for basic stats.md",
-    "maths/R/R-Basics.md",
-    "maths/Stat/Transformationen.md",
+    "maths/Stat/Mathjax basics.md",
+    "maths/Stat/Einführung Zusammenhangsanalyse.md",
+    "maths/Stat/Korrelationsanalyse metrischer Daten.md",
+    "maths/Stat/Korrelationsanalyse nominalskalierter Daten.md",
+    "maths/Stat/Korrelationsanalyse ordinalskalierter Daten.md",
     "maths/Stat/Streuungsmaße.md",
     "maths/Stat/Lagemaße.md",
+    "maths/R/R-Basics.md",
+    "maths/R/Representing Data.md",
+    "maths/R/R Überblick.md",
+    "maths/Stat/Transformationen.md",
     "bio/Bio Überblick Erstes Sem.md",
     "Attachments/Pasted image 20240222164850.png",
     "Attachments/Pasted image 20240222164823.png",
@@ -157,12 +163,6 @@
     "chem/Organische Chemie Basics.md",
     "chem/Chemische Reaktionen.md",
     "chem/Säure-Base-Reaktionen.md",
-    "chem/Stoffmengen und Konzentration.md",
-    "chem/Nomenklatur OC.md",
-    "chem/Quantenmechanische Bindungstheorien.md",
-    "chem/RedOx-Reaktionen.md",
-    "chem/Komplex-Verbindungen.md",
-    "chem/Gibbs-Energie.md",
     "chem",
     "test",
     "Attachments/FormelMatheD.pdf",

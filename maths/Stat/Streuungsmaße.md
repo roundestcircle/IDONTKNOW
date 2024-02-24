@@ -1,6 +1,6 @@
 #Stat #Beschreibend 
 
-Streuungsmaße beschreiben die Heterogenität bzw Variablilität einer Verteilung.
+Streuungsmaße beschreiben die Heterogenität bzw Variablilität einer Verteilung. Die folgenden Streuungsmaße lassen sich nur mit metrischem Skalenniveau berechnen.
 
 ### Spannweite
 
