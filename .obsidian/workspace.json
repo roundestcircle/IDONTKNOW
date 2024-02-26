@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Streudiagramm",
+                "query": "Z-Tr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -126,8 +127,13 @@
   },
   "active": "4177f6a9856c4919",
   "lastOpenFiles": [
-    "maths/Stat/Regression.md",
+    "maths/Stat/Deskriptiv vs Schließend.md",
+    "maths/Stat/Schätzen.md",
+    "maths/Stat/Testen.md",
     "maths/R/R for basic stats.md",
+    "maths/Stat/Stichproben.md",
+    "maths/Stat/Wahrscheinlichkeit.md",
+    "maths/Stat/Regression.md",
     "maths/Stat/Mathjax basics.md",
     "maths/Stat/Einführung Zusammenhangsanalyse.md",
     "maths/Stat/Korrelationsanalyse metrischer Daten.md",
@@ -156,13 +162,8 @@
     "Overview Files/Overview Mathe.md",
     "Overview Files/Overview Chemie.md",
     "maths/Stat/Daten Ordnen.md",
-    "maths/Stat/Deskriptiv vs Schließend.md",
     "maths/Stat/Statistik Einführung.md",
     "maths/Stat/Geodaten.md",
-    "maths/Stat/Statistische Grundbegriffe.md",
-    "chem/Organische Chemie Basics.md",
-    "chem/Chemische Reaktionen.md",
-    "chem/Säure-Base-Reaktionen.md",
     "chem",
     "test",
     "Attachments/FormelMatheD.pdf",

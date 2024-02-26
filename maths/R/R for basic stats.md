@@ -25,3 +25,33 @@ summary(lm(y~x))
 aov(lm(y~x))
 # Ausgabe enthält zum Beispiel: multiple R-Squared
 ```
+
+## [[Wahrscheinlichkeit]]
+
+```
+# Überprüfung auf Normalverteilung
+qqnorm(df$name)
+# Unterschreitungswahrscheinlichkeit, return Propability
+pnorm(value, mean, sd)
+# Unterschreitungswahrscheinlichkeit, return Value
+qnorm(P, mean, sd)
+```
+
+## [[Testen]]
+
+```
+# kritischer Wert für t-Test
+qt(P, Freiheitsgrade)
+# kritischer Wert für f-Test
+qf(P, Freiheitsgrade1, Freiheitsgrade 2)
+# kritischer Wert für Chi-Quadrat-Test
+qchisq(P, Freiheitsgrade)
+```
+
+```
+# ganzen Test durchführen
+# die Funktionen brauchen evtl weitere Argumente
+t.test(x, ...)
+var.test(x,y, ...)
+chisq.test(df)
+```
