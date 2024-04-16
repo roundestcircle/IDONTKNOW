@@ -10,7 +10,7 @@ s_{xy}=\frac{\sum_{i=1}{n} (x_i-\bar{x})\cdot(y_i-\bar{y})}{n}
 $$
 vgl. [[Streuungsmaße#Varianz]]
 
-Veranschaulichung: Die Mittelwerte bilden ein Kreuz im Streudiagramm. Liegt ein Wert imm unteren linken oder oberen rechten Quadranten steht dementsprechend eine positive Zahl auf dem Bruchstrich (- mal - oder + mal +). Im oberen linken und unteren rechten Quadranten steht stattdessen ein negativer Wert auf dem Bruchstrich (- mal +).
+Veranschaulichung: Die Mittelwerte bilden ein Kreuz im Streudiagramm. Liegt ein Wert im unteren linken oder oberen rechten Quadranten steht dementsprechend eine positive Zahl auf dem Bruchstrich (- mal - oder + mal +). Im oberen linken und unteren rechten Quadranten steht stattdessen ein negativer Wert auf dem Bruchstrich (- mal +).
 
 Sind die Werte also hauptsächlich oben rechts und unten links, ist die Kovarianz positiv, und dementsprechend auch der Zusammenhang. Ist die Kovarianz negativ, ist auch der Zusammenhang negativ. Sind die Punkte im Streudiagramm annähernd gleichverteilt, löschen sich positive und negative Zahlen aus, der Wert liegt annähernd bei 0. Die Höhe des Werts bleibt dennoch schlecht interpretierbar, das Vorzeichen ist hier die wichtigste Interpretationsbasis.
 
@@ -19,7 +19,7 @@ Sind die Werte also hauptsächlich oben rechts und unten links, ist die Kovarian
 Der Korrelationskoeffizient ist standartisiert, und kann deswegen neben der Richtung auch zur Interpretation der Stärke eines Zusammenhangs genutzt werden.
 
 $$
-r_{xy} = \frac{s_xy}{s_x \cdot s_y} = \frac{\text{Kovarianz}}{\text{Produkt der Standardabweichungen}}
+r_{xy} = \frac{s_{xy}}{s_x \cdot s_y} = \frac{\text{Kovarianz}}{\text{Produkt der Standardabweichungen}}
 $$
 
 Bildlich vorgestellt: Bei perfekter Korrealtion, wenn alle Punkte auf einer Gerade liegen würden, wären die Verhältnisse der Abweichung von $\bar{x}$ und $\bar{y}$ immer gleich, und zwar das der Standardabweichungen. Demnach würden dann, wenn man alle Werte betrachtet, auf und unter dem Bruchstrich dasselbe stehen, der Korrelationskoeffizient wäre damit 1 oder -1.

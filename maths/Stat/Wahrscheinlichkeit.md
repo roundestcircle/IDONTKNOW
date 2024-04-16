@@ -18,7 +18,7 @@ Der Ereignisraum ist ein Intervall, die Zahl der möglichen Fälle ist unendlich
 ### Die Standardnormalverteilung
 
 Die Normalverteilung ist die wichtigste Dichtefunktion der schließenden Statistik. Es gibt unendlich viele Normalverteilungen, die durch [[Lagemaße|Mittelwert]] und [[Streuungsmaße#Standardabweichung|Standardabweichung]] definiert sind. 
-Bei der Standardnormalverteilung liegt der Mittelwert bei 0, die Standardabweichung bei 1. Durch [[Transformationen#Z-Transformation/Standardisierung]] aus jeder Normalverteilung entstehen. Sehr viele Variablen verteilen sich annähernd normalverteilt, zum Beispiel und für uns besonders wichtig: Die Mittelwerte von Zufallstichproben.
+Bei der Standardnormalverteilung liegt der Mittelwert bei 0, die Standardabweichung bei 1. Durch [[Transformationen#Z-Transformation/Standardisierung]] kann sie aus jeder Normalverteilung entstehen. Sehr viele Variablen verteilen sich annähernd normalverteilt, zum Beispiel und für uns besonders wichtig: Die Mittelwerte von Zufallstichproben.
 
 #### Häufigkeiten für Subintervalle
 

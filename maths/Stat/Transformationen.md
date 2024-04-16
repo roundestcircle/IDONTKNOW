@@ -2,7 +2,7 @@
 
 ## Interpolation
 
-Bei der Interpolation werden fehlende Werte geschätzt. Ganz einfach würde man einfach das Mittel der zwei benachbarten Werte nutzen, in der Regel sind die Berechnungsverfaren jedoch komplexer.
+Bei der Interpolation werden fehlende Werte geschätzt. Ganz einfach würde man das Mittel der zwei benachbarten Werte nutzen, in der Regel sind die Berechnungsverfaren jedoch komplexer.
 
 ## Glättung
 
@@ -14,5 +14,5 @@ Bei der Z-Transformation werden die Rohwerte in eine neue Variable z umgewandelt
 
 $z_i=\frac{x_i-\bar{x}}{s}$
 
-Dadurch werden Variablen mit verschiedenen Einheiten vergleichbar, auch bei einzelnen Merkmalsträgern. Dadurch kann eine einfache Zusammenhangsanalyse erfolgen. Rein Logische hat die Verteilung der z-Werte s=1 und $\bar{z}=0$. 
+Dadurch werden Variablen mit verschiedenen Einheiten vergleichbar, auch bei einzelnen Merkmalsträgern. Es kann eine einfache Zusammenhangsanalyse erfolgen. Rein Logisch hat die Verteilung der z-Werte s=1 und $\bar{z}=0$. 
 

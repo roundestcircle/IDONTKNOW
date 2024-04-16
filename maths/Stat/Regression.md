@@ -11,7 +11,7 @@ Wir beschäftigen uns zunächst nur mit der einfachen linearen Regression. Um di
 
 Die Regressionsgerade ist die Gerade (vorzustellen in einem [[Einführung Zusammenhangsanalyse#Streudiagramme|Streudiagramm]], für die die Abstände der Punkte/Wertepaare zur Geraden minimal sind.Normalerweise werden hier die Abstandsquadrate minimiert, und nicht die Abstände direkt.
 
-Diese Gerade lässt sich durch eine Geradengleichung, die sogenannte Regressionsfunktion.
+Diese Gerade lässt sich durch eine Geradengleichung, die sogenannte Regressionsfunktion beschreiben.
 
 $y = b_0 + b_1x$
 $b_0$ ist der Y-Achsenabschnitt,
@@ -40,7 +40,7 @@ $$
 b_0 = \bar{y}-b_1\bar{x}
 $$
 
-Anschaulich: Man wandert vom Schniitpunkt der Mittelwerte zur y-Achse. Um sie zu erreichen, muss man $\bar{x}$ mal die Steigung nach links unten laufen.
+Anschaulich: Man wandert vom Schnittpunkt der Mittelwerte zur y-Achse. Um sie zu erreichen, muss man $\bar{x}$ mal die Steigung nach links unten laufen.
 
 ### Regression in R
 
@@ -61,7 +61,7 @@ vgl. [[Streuungsmaße#Varianz]]
 An der Gleichung oben ist zu erkennen, dass der Wert der Residuen mit der Anzahl der Wertepaare steigt. Deswegen wird der Wert zur besseren Vergleichbarkeit normalisiert.
 
 $$
-R^2 = \frac{QS_{Schätzwerte}}{QS_{Residuen} = \frac{s^2_{\hat{y}}}{s^2_y}
+R^2 = \frac{QS_{Schätzwerte}}{QS_{Residuen}} = \frac{s^2_{\hat{y}}}{s^2_y}
 $$
 
 Anders gesagt: Theoretische Varianz durch tatsächliche Varianz.
@@ -80,7 +80,7 @@ $y = b_0 + b_1x_1 +b_2x_2$
 Durch umstellen erhält man leicht die Formel für den Ursprung, doch die Formeln für die Steigungen sind komplexer, sie enthalten Standardabweichungen der einzelnen Variablen und [[Korrelationsanalyse metrischer Daten#Korrelationskoeffizient/Pearson r|Korrelationskoeffizienten]] verschiedener Variablenkombinationen.
 
 $$
-b_1 = \frac{r_{yx_1}-r_{yx_2}r_{x_1x_2}}{1-r_{x_1x_2}^2} \cdot \frac{s_y}{s_x_1}
+b_1 = \frac{r_{yx_1}-r_{yx_2}r_{{x_1}{x_2}}}{1-r_{{x_1}{x_2}}^2} \cdot \frac{s_y}{s_{x_1}}
 $$
 $$
 b_2 = ...

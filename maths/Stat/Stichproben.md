@@ -30,4 +30,4 @@ Sind alle Ausfälle unsystematisch, sind sie nicht problematisch. Die Problemati
 
 ### Verteilung der Stichprobenergebnisse
 
-Auch bei perfektem Sampling werden sich die Stichprobenergebnisse unterscheiden. Als Histogramm dargestellt, würden die Ergbenisse eine Normalverteilung aufweisen.
+Auch bei perfektem Sampling werden sich die Stichprobenergebnisse unterscheiden. Als Histogramm dargestellt, würden die Ergebnisse eine Normalverteilung aufweisen.

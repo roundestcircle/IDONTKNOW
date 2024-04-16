@@ -53,7 +53,7 @@ Dieser Koeffizient ist jedoch immernoch von der Tabellengröße abhängig, deswe
 
 $C_{max} = \sqrt{\frac{k-1}{k}}$
 
-k ist hier die Zeilen- oder Spaltenzahl, je anchdem, welche geringer ist.
+k ist hier die Zeilen- oder Spaltenzahl, je nachdem, welche geringer ist.
 
 $C_{korr} = \frac{C}{C_{max}}$
 

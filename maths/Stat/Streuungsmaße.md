@@ -20,9 +20,9 @@ Die mittlere absolute Abweichung ist der Durchschnitt der absoluten Abweichungen
 
 ### Varianz
 
-$s^2=\frac{\sum_{i=1}^{n} (x_i-\bar{x})}{n}$
+$s^2=\frac{\sum_{i=1}^{n} (x_i-\bar{x})^2}{n}$
 
-Die Vorzeichen fallen hier nicht durch die Betragsstriche weg, sondern durch die Quadrierung. Die Extrenwerte fallen dadurch jedoch noch stärker ind Gewicht. DIe Interpretation der Varianz ist schwierig, sie dient vor allem als Zwischenschritt zur Standardabweichung.
+Die Vorzeichen fallen hier nicht durch die Betragsstriche weg, sondern durch die Quadrierung. Die Extremwerte fallen dadurch jedoch noch stärker ins Gewicht. DIe Interpretation der Varianz ist schwierig, sie dient vor allem als Zwischenschritt zur Standardabweichung.
 
 ### Standardabweichung
 
