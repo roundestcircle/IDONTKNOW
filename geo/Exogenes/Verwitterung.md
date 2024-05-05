@@ -2,6 +2,32 @@
 
 Verwitterung beschreibt die fortschreitende Verkleinerung von Material (im Zweifel bis auf Ionengröße).
 
+## Minerale nach Verwitterungsstabilität
+
+1. Hämatit
+2. Aluminiumhydroxid
+3. Quarz
+4. Tonminerale
+5. Minerale felsischer Gesteine
+6. Minerale mafischer Gesteine
+7. Evaporite
+
+## Intensität der Verwitterung
+
+| Faktor                     | geringe Geschwindigkeit | hohe Geschwindigkeit |     
+| -------------------------- | ----------------------- | -------------------- | 
+| Löslichkeit                | gering                  | hoch                 |     
+| Gefüge                     | massig                  | stark zerbrochen     |   
+| Niederschlag               | gering                  | hoch                 |    
+| Temperatur                 | kalt                    | heiß                 |     
+| Mächtigkeit der Vegetation | gering                  | dick                 |    
+
+Klimatisch: Warm und Feucht: Eher chemische Verwitterung; Kalt und Feucht oder Warm und Trocken: eher physikalische Verwitterung; Kalt und Trocken: Kaum Verwitterung.
+
+### Verwitterungsintensität nach Region
+
+![[Pasted image 20240505153424.png]]
+
 ## Physikalische Verwitterung
 
 Endet mit chemisch unveränderten Mineralen und Bruchstücken.
@@ -16,7 +42,7 @@ Durch Sonneneinstrahlung wärmen sich die oberen Schichten des Steins auf und de
 
 ### Druckentlastung
 
-Falls Gesteine durch Erosion oder ähnliches von Auflast befreit werden, dehnen sie sich aus, es kommt zur Kluftbildung, die Angriffsfläche für die anderen Verwiterungsprozesse steigt.
+Falls Gesteine durch Erosion oder ähnliches von Auflast befreit werden, dehnen sie sich aus, es kommt zur Kluftbildung, die Angriffsfläche für die anderen Verwiterungsprozesse steigt. Auch die so entstehenden Abschuppungen bezeichnet man als Exfoliation.
 
 ### Salzsprengung
 
@@ -24,6 +50,17 @@ Das Wachstum von Salzkristallen in mit Porenfluid gefüllten Klüften führt zu 
 
 [[Gletscher]]
 
+### Fatoni-Verwitterung
+
+Salze werden im Gesteinsinneren gelöst und nach außen getragen, an der Oberfläche wieder ausgefällt. Es bilden sich Wabenartige Strukturen.
+
+### Quelldruck-Verwitterung
+
+Tonminerale oder ähnliches nehmen Wasser auf und steigern so ihr Volumen, das umliegende Gestein wird aufgesprengt. Vgl. [[Volumenänderung Anhydrit-Gips]].
+
+### Hydratation
+
+Sehr einfache Form der Verwitterung: Wassermoleküle lagern sich an die Oberfläche von Mineralen (Hydratation) an und Adsorbieren Ionen, Meistens sind mehrere Wassermoleküle für ein Ion notwendig. Daraufhin lösen sich Wasser und Ionen aus dem Verband (Dissoziation). Dieser Prozess findet vor allem in Salzen statt, und zwar sol lange, bis das Salz vollständig aufgelöst ist. Auch die Quellung von Tonmineralen basiert jedoch auf der Hydratation.
 
 ## Chemische Verwitterung
 
@@ -57,16 +94,16 @@ Besonders betroffen sind Gesteine die reduzierte Ionen beinhalten, die oxidiert 
 
 ### Lösungsverwitterung oder Verkarstung
 
-In der umgekehrten [[Evaporationsfolge]] werden bestimmte Minerale durch Wasser gelöst, je löslicher sie sind, desto früher und stärker. Dabei können Höhlen und sogar komplexe Tunnelsysteme entstehen. die schließlich einstürzen können und sog. Dolinen hinterlassen. Fallen gelöste Minerale in den Höhlen wieder aus, zum Beispiel durch Abkühlung des Wassers, entstehen Tropfsteinhöhlen. Diesen gesamten Prozenn nennt man auch Verkarstung.
+In der umgekehrten [[Evaporationsfolge]] werden bestimmte Minerale durch Wasser gelöst, je löslicher sie sind, desto früher und stärker. Dabei können Höhlen und sogar komplexe Tunnelsysteme entstehen. die schließlich einstürzen können und sog. Dolinen hinterlassen. Fallen gelöste Minerale in den Höhlen wieder aus, zum Beispiel durch Abkühlung des Wassers, entstehen Tropfsteinhöhlen. Diesen gesamten Prozenn nennt man auch Verkarstung. Insbesondere für die Lösung von Kalk ist Kohlensäure im Wasser notwendig.
 
 Beispiel: Lösung von [[Kalkstein]] durch CO2-reiches Wasser
 $$
 \ce {CaCO3 + H2CO3 <-> 2HCO3- + Ca^2+}
 $$
 
-### Hydratation
+### Allitische Verwitterung
 
-Sehr einfache Form der Verwitterung: Wassermoleküle lagern sich an die Oberfläche von Mineralen (Hydratation) an und Adsorbieren Ionen, Meistens sind mehrere Wassermoleküle für ein Ion notwendig. Daraufhin lösen sich Wasser und Ionen aus dem Verband (Dissoziation). Dieser Prozess findet vor allem in Salzen statt, und zwar sol lange, bis das Salz vollständig aufgelöst ist. Auch die Quellung von Tonmineralen basiert jedoch auf der Hydratation.
+Sehr intensive Form der Hydrolyse, bei der alle silikatischen Minerale zersetzt und abgeführt werden, sodass nur noch Oxide und Hydroxide übrig bleiben. Notwenig ist ein niedriger pH-Wert, hohe Temperaturen und hohe Niederschläge. Vor allem in den [[immerfeuchte Tropen]] anzutreffen.
 
 ### Wollsackverwitterung
 
