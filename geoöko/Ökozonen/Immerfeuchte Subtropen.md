@@ -2,5 +2,5 @@
 
 Gruppe:: Ökozonen
 Klima::
-Vegetation::
+Vegetation:: [[Lorbeerwälder]]
 Böden:: [[Parabraunerde]], [[Fersialit]]

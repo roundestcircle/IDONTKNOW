@@ -2,7 +2,7 @@
 
 [[Bodenhorizonte#Horizontnamen und Zusätze]]
 Horizontfolge:: zB. A-Bw-By-Bkc-Cl
-Vorkommen:: [[Trockene Tropen]]
+Vorkommen:: [[Trockene Tropen und Subtropen]]
 
 ## Eigenschaften
 

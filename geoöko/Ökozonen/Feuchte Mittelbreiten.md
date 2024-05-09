@@ -2,5 +2,5 @@
 
 Gruppe:: Ökozonen
 Klima:: 
-Vegetation:: Mischwald
+Vegetation:: [[Sommergrüner Mischwald]]
 Böden:: [[Braunerde]], [[Parabraunerde]]

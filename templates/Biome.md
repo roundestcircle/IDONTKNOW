@@ -3,3 +3,8 @@
 
 Vorkommen:: 
 
+## Bedingungen
+
+## Vegetation
+
+## Nutzung

@@ -2,5 +2,5 @@
 
 Gruppe:: Ökozonen
 Klima::
-Vegetation::
+Vegetation:: [[Tropischer Regenwald]]
 Böden:: [[Ferralite]]

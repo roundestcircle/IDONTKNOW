@@ -2,5 +2,5 @@
 
 Gruppe:: Ökozonen
 Klima::
-Vegetation::
+Vegetation:: [[Steppen, Halbwüsten, Wüsten (trockene Mittelbr.)]]
 Böden:: [[Schwarzerde]], [[Kastanienfarbene Böden]]

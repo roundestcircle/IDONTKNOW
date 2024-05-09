@@ -2,5 +2,5 @@
 
 Gruppe:: Ökozonen
 Klima::
-Vegetation::
+Vegetation:: [[Immergrüner Hartlaubwald]]
 Böden:: [[Terra Rossa]], [[Fersialit]]

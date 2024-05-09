@@ -2,5 +2,5 @@
 
 Gruppe:: Ökozonen
 Klima::
-Vegetation::
+Vegetation:: [[Savannen und Wüsten (trock. Tropen)]]
 Böden:: [[Regosole]], Salzböden ([[Gypsisole]])
