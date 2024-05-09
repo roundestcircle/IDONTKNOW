@@ -1,4 +1,4 @@
-#Geoöko #Best 
+#Geoöko #Best #Boden 
 
 [[Bodenhorizonte#Horizontnamen und Zusätze]]
 Horizontfolge:: O-EA-E-Bh-Bs-CBw-C

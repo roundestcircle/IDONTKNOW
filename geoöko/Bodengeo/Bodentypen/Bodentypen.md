@@ -1,4 +1,4 @@
-#Geoöko 
+#Geoöko #Boden 
 
 Gruppe:: Bodengeo
 
@@ -8,7 +8,9 @@ Gruppe:: Bodengeo
 2. Azonale Böden: Diese Böden kommen aufgrund ihrer schwachen Entwicklung überall vor und sind recht nah am Ausgangsgestein
 3. intrazonale Böden: Intrazonale Böden weichen aufgrund veränderter Wasser- und Salhaushalte vom zonalen Boden ab.
 
+## Bodentypen
+
 ```dataview
 TABLE Horizontfolge, Vorkommen
-FROM #Geoöko And #Best 
+FROM #Geoöko And #Best And #Boden
 ```

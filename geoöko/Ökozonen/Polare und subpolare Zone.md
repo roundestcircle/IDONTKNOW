@@ -1,6 +1,7 @@
 #Geoöko #Ökozonen
 
+Gruppe:: Ökozonen
 Klima::
-Vegetation::
+Vegetation:: [[Kältewüsten und Tundra]]
 Böden:: [[Cryosole]], [[Histosole]], [[Podsole]]
 

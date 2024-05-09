@@ -1,4 +1,4 @@
-#Geoöko #Best 
+#Geoöko #Best #Boden 
 
 [[Bodenhorizonte#Horizontnamen und Zusätze]]
 Horizontfolge:: H1-H2-H3-C

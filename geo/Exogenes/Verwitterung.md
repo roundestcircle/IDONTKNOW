@@ -1,4 +1,4 @@
-#Geo #Exogenes 
+#Geo #Exogenes #Boden
 
 Verwitterung beschreibt die fortschreitende Verkleinerung von Material (im Zweifel bis auf Ionengröße).
 

@@ -1,4 +1,4 @@
-#Geoöko 
+#Geoöko #Boden
 
 Gruppe:: Bodengeo
 
@@ -38,10 +38,10 @@ Verbraunung bezeichnet das Entstehen intensiv gefärbter Eisenverbindungen im La
 
 Im Lauf der Bodenbildung bilden sich verschiedene Gefügetypen aus, etwa schichtige, säulige, Polyeder oder krümelige.
 
-## Salzverlagerung
+## Salzverlagerung und Entbasung
 
 In humiden Klimaten bewegt sich Wasser (in der Jahresbilanz) eher nach unten durch den Boden, Salz wird nach unten verlagert, in ariden Klimaten andersrum, Wasser fließt durch die Kapillarkräfte eher von unten nach oben und bringt so Salz an die Oberfläche. 
-Dadurch kommt es in humiden Klimaten zur Entbasung: CaCO3 wird vermehrt ausgewachsen, der Boden-pH sinkt stark. Ebenso kann es in tieferen Bodenschichten zu Kalk-Konkretionen kommen, den sogenannten Lösskindeln. Sie entstehen in den Bodenschichten, in denen der Wasserstrom nicht mehr primär nach unten zeigt.
+Dadurch kommt es in humiden Klimaten zur Entbasung: CaCO3 (bzw alle Elemente der 1, und 2. Hg und ihre Kationen) wird vermehrt ausgewachsen, der Boden-pH sinkt stark. Ebenso kann es in tieferen Bodenschichten zu Kalk-Konkretionen kommen, den sogenannten Lösskindeln. Sie entstehen in den Bodenschichten, in denen der Wasserstrom nicht mehr primär nach unten zeigt.
 In ariden Klimaten kann dieser Prozess zur Bodenversalzung führen, insbesondere wenn der Mensch durch Bewässerung eine Wassersäule bis zum Grundwasser schafft, die den Salzaufstieg erleichtert.
 
 ## Lessivierung oder Tonmineralverlagerung

@@ -1,4 +1,4 @@
-#Geoöko 
+#Geoöko #Boden
 
 Gruppe:: Bodengeo
 
