@@ -1,10 +1,10 @@
 [
   "table-editor-obsidian",
-  "obsidian-citation-plugin",
   "dataview",
   "obsidian-latex",
   "templater-obsidian",
   "obsidian-to-anki-plugin",
   "chem",
-  "obsidian-functionplot"
+  "obsidian-functionplot",
+  "obsidian-zotero-desktop-connector"
 ]

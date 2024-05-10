@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "geoöko/Bodengeo/Bodentypen/Lixisole.md",
+                "file": "geoöko/Klimageo/Mesoklima.md",
                 "mode": "source",
                 "source": true
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geoöko/Bodengeo/Bodentypen/Lixisole.md",
+                "file": "geoöko/Klimageo/Mesoklima.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -126,6 +125,10 @@
   },
   "active": "5bca4b6b6ff6841f",
   "lastOpenFiles": [
+    "geoöko/Klimageo/Klimaklassifikationen (Makroklima).md",
+    "geoöko/Klimageo/Mesoklima.md",
+    "geoöko/Klimageo/Klimasystem Erde.md",
+    "geoöko/Bodengeo/Bodentypen/Lixisole.md",
     "geoöko/Ökozonen/Sommerfeuchte Tropen.md",
     "geoöko/Ökozonen/Winterfeuchte Subtropen.md",
     "geoöko/Ökozonen/Trockene Tropen und Subtropen.md",
@@ -148,10 +151,6 @@
     "geoöko/Biogeo/Arealkunde.md",
     "geoöko/Biogeo/Terrestrische Biome/Terrestrische Biome.md",
     "geoöko/Hydrogeo/Gewässergüte und -Schutz.md",
-    "geoöko/Hydrogeo/Wasserverteilung auf der Erde.md",
-    "geoöko/Hydrogeo/Standgewässer.md",
-    "geoöko/Hydrogeo/Abflussregime.md",
-    "geoöko/Hydrogeo/Wasserbilanzgleichung.md",
     "geoöko/Biogeo/Terrestrische Biome",
     "Attachments/Pasted image 20240506181956.png",
     "geoöko/Ökozonen",
