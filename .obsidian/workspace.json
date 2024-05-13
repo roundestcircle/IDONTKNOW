@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b7e41196f575d9a6",
+        "id": "d5e815f27f9f8190",
         "type": "tabs",
         "children": [
           {
-            "id": "5bca4b6b6ff6841f",
+            "id": "e70077cb8afa86f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "geoöko/Klimageo/Mesoklima.md",
+                "file": "geoöko/Ökosystemanalyse.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": true
               }
             }
@@ -48,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Lixi",
+                "query": "trockene",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geoöko/Klimageo/Mesoklima.md",
+                "file": "geoöko/Ökosystemanalyse.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,34 +124,37 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "5bca4b6b6ff6841f",
+  "active": "e70077cb8afa86f3",
   "lastOpenFiles": [
-    "geoöko/Klimageo/Klimaklassifikationen (Makroklima).md",
-    "geoöko/Klimageo/Mesoklima.md",
-    "geoöko/Klimageo/Klimasystem Erde.md",
-    "geoöko/Bodengeo/Bodentypen/Lixisole.md",
-    "geoöko/Ökozonen/Sommerfeuchte Tropen.md",
-    "geoöko/Ökozonen/Winterfeuchte Subtropen.md",
+    "Attachments/Pasted image 20240513185922.png",
+    "geoöko/Hemerobie.md",
+    "geoöko/Ökosystemanalyse.md",
+    "geoöko/Phosphorkreislauf.md",
+    "geoöko/Stickstoffkreislauf.md",
+    "geoöko/Kohlenstoffkreislauf.md",
+    "geoöko/Wasserhaushalt.md",
     "geoöko/Ökozonen/Trockene Tropen und Subtropen.md",
-    "geoöko/Ökozonen/Trockene Mittelbreiten.md",
-    "geoöko/Ökozonen/Polare und subpolare Zone.md",
-    "geoöko/Ökozonen/Immerfeuchte Tropen.md",
-    "geoöko/Ökozonen/Immerfeuchte Subtropen.md",
-    "geoöko/Ökozonen/Feuchte Mittelbreiten.md",
-    "geoöko/Biogeo/Vegetationsgeographie und der Mensch.md",
-    "geoöko/Biogeo/Tropischer Regenwald.md",
-    "geoöko/Biogeo/Terrestrische Biome/Savannen und Wüsten (trock. Tropen).md",
-    "geoöko/Biogeo/Terrestrische Biome/Lorbeerwälder.md",
-    "geoöko/Ökozonen/Trockene Subtropen.md",
-    "geoöko/Biogeo/Terrestrische Biome/Immergrüner Hartlaubwald.md",
-    "geoöko/Biogeo/Terrestrische Biome/Steppen, Halbwüsten, Wüsten (trockene Mittelbr.).md",
-    "geoöko/Biogeo/Terrestrische Biome/Sommergrüner Mischwald.md",
-    "geoöko/Biogeo/Terrestrische Biome/Borealer Nadelwald.md",
-    "geoöko/Biogeo/Terrestrische Biome/Kältewüsten und Tundra.md",
-    "templates/Biome.md",
-    "geoöko/Biogeo/Arealkunde.md",
-    "geoöko/Biogeo/Terrestrische Biome/Terrestrische Biome.md",
-    "geoöko/Hydrogeo/Gewässergüte und -Schutz.md",
+    "geoöko/Energiehaushalt.md",
+    "geoöko/Klimageo/Wasser in der Atmosphäre.md",
+    "geoöko/Klimageo/Planetarische Zirkulation.md",
+    "geoöko/Klimageo/Planetare Gegebenheiten des Klimas.md",
+    "geoöko/Hydrogeo/Hydrogeographie Einführung.md",
+    "geoöko/Klimageo/Klimaklassifikationen (Makroklima).md",
+    "geoöko/Klimageo/Klimasystem Erde.md",
+    "geoöko/Hydrogeo/Evapotranspiration.md",
+    "geoöko/Klimageo/Atmosphäre.md",
+    "geoöko/Hydrogeo/Wasserbilanzgleichung.md",
+    "geoöko/Hydrogeo/Niederschlag.md",
+    "geoöko/Nährstoffhaushalt.md",
+    "geoöko/Klimageo/Strahlung.md",
+    "geoöko/Dimensionen der Geoökologie.md",
+    "templates/Ökozonen template.md",
+    "Dataview Commands.md",
+    "templates/zotero_annotations.md",
+    "Attachments/00002-346145648.jpg",
+    "zotero/sandoval-calderonEffectLivestockGrazing2024.md",
+    "zotero_attachments",
+    "zotero",
     "geoöko/Biogeo/Terrestrische Biome",
     "Attachments/Pasted image 20240506181956.png",
     "geoöko/Ökozonen",
@@ -161,8 +165,6 @@
     "Attachments/Pasted image 20240505153424.png",
     "geoöko/Klimageo",
     "geoöko/Biogeo",
-    "geoöko/Bodengeo",
-    "geoöko/Hydrogeo",
     "Attachments/Pasted image 20240222164850.png",
     "Attachments/Pasted image 20240222164823.png",
     "Attachments/Pasted image 20240222164751.png",
@@ -170,7 +172,6 @@
     "Attachments/Pasted image 20240222164627.png",
     "Attachments/Pasted image 20240222164555.png",
     "Attachments/Pasted image 20240222164457.png",
-    "Attachments/Pasted image 20240222164428.png",
     "Untitled.canvas"
   ]
 }

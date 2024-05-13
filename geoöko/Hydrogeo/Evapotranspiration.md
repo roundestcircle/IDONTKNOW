@@ -11,13 +11,13 @@ Evaporation ist Prozess der physikalischen Wasserdampfabgabe. Überwiegt in Troc
 ## Transpiration
 
 Vgl. [[Wasserhaushalt der Pflanze]]
-Transpiration ist die Wasserabgabe durch Pflanzen über die Stomata. Überwiegt in Feuchtgebieten. Je gößer die Blattfläche, desto höher die Transpiration. Aufgrund der Schließbarkeit der Stomata steigt sie jedoch nicht unbedingt mit Zunahme der Strahlungsintensität.
+Transpiration ist die Wasserabgabe durch Pflanzen über die Stomata. Überwiegt in Feuchtgebieten. Je gößer die Blattfläche, desto höher die Transpiration. Aufgrund der Schließbarkeit der Stomata steigt sie jedoch nicht unbedingt mit Zunahme der Strahlungsintensität. Transpiration macht etwa 40% der Gesamtverdunstung aus.
 
 ## Potentielle und reale Evapotranspiration
 
 Die Potentielle Evapotranspiration ist die Wassermenge, die bei unbegrenzter Wasserzufuhr an einem Ort verdunsten könnte. Da die Wasserzufuhr an Land nie unbegrenzt ist, liegt die reale Evapotranspiration immer unter der potentiellen, ist jedoch sehr schwer berechen- oder messbar. Nur über Wasser flächen sind die zwei Werte identisch.
 
-Die potentielle Evapotranspiration verringert sich grob mit der [[Strahlung]]sdichte vom Äquator zu den Polen. Wolkenreiche Gebiete wie Gebirge oder Regenwälder liegen jedoch deutlich unter der damit erwarteten pot. Evapotranspiration.
+Die potentielle Evapotranspiration verringert sich grob mit der [[Energiehaushalt|Strahlung]]sdichte vom Äquator zu den Polen. Wolkenreiche Gebiete wie Gebirge oder Regenwälder liegen jedoch deutlich unter der damit erwarteten pot. Evapotranspiration.
 
 ## Verdunstungsmessung
 

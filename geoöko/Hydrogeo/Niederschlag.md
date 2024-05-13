@@ -20,7 +20,7 @@ Die Vegetation hält immer einen Teil des Niederschlags davon ab, den Boden zu e
 
 Interzeption = Freilandniederschlag - Bestandsniederschlag
 
-Interzeption selbst ist nicht messbar, auf sie muss aus Freiland- und Bestandsniederschlag geschlossen werden. 
+Interzeption selbst ist nicht messbar, auf sie muss aus Freiland- und Bestandsniederschlag geschlossen werden. Interzeptionsverdunstung macht etwa 10% der Gesamtverdunstung aus.
 
 ### Bestandsniederschlag
 

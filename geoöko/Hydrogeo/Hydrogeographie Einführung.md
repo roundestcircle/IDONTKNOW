@@ -35,4 +35,4 @@ Bei der Abkühlung wird dabei Energie an die Umgebung abgegeben, beim Erwärmen 
 
 ##  Planetare Faktoren
 
-Mit der Abnahmen der [[Strahlung]]sdichte sinkt auch die potentielle [[Evapotranspiration]]. Die Strahlungsdichte sinkt in Richtung der Pole und steigt mit zunehmender Höhe über NN.
+Mit der Abnahmen der [[Energiehaushalt|Strahlung]]sdichte sinkt auch die potentielle [[Evapotranspiration]]. Die Strahlungsdichte sinkt in Richtung der Pole und steigt mit zunehmender Höhe über NN.

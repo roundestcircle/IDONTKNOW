@@ -4,7 +4,7 @@ Gruppe:: Klimageo
 
 ## Grundlagen
 
-Aufgrund der unterschiedlichen [[Strahlung]]sdichte an der Erdoberfläche entstehen Winde, die die Energieunterschiede auszugleichen versuchen.
+Aufgrund der unterschiedlichen [[Energiehaushalt|Strahlung]]sdichte an der Erdoberfläche entstehen Winde, die die Energieunterschiede auszugleichen versuchen.
 
 ## Relative Hoch- und Tiefdruckgebiete
 

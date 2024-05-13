@@ -47,10 +47,5 @@ Klimatisch beeinflusste Felder der Geographie
 5. Kryosphäre: Reflektion der Strahlung, Methanspeicher
 6. Geosphäre: Vulkanausbrüche, CO2-Senke (Kalkstein)
 
-Die verschiedenen Teilsysteme sind gekoppelt und bbeinflussen sich gegenseitig.
+Die verschiedenen Teilsysteme sind gekoppelt und beeinflussen sich gegenseitig.
 
-### [[Strahlung#Reflektion]]
-
-### Humaner Einfluss
-
-## [[Energiehaushalt]]

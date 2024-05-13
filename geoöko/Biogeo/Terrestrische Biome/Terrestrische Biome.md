@@ -4,7 +4,7 @@ Gruppe:: Biogeo
 
 ## Zonale Gliederung der Biosphäre
 
-Die Biosphäre lässt sich anhand charakteristischer Pflanzenformationen (Biome) gliedern. Globale [[Ökozonen]] nach Klima und Boden sind dabei die oberste Ebene der Betrachtung. Auch Landnutzung und (potentielle natürliche) Vegetation werden jedoch mit einbezogen. Die Erdgeschichte hat oft Einfluss auf diese Zonen und Verbreitungsgebiete, weswegen die direkte Zuordnung zu heutigen Bedingungen nicht unbedingt möglich ist.
+Die Biosphäre lässt sich anhand charakteristischer Pflanzenformationen (Biome) gliedern. Globale [[Ökozonen template]] nach Klima und Boden sind dabei die oberste Ebene der Betrachtung. Auch Landnutzung und (potentielle natürliche) Vegetation werden jedoch mit einbezogen. Die Erdgeschichte hat oft Einfluss auf diese Zonen und Verbreitungsgebiete, weswegen die direkte Zuordnung zu heutigen Bedingungen nicht unbedingt möglich ist.
 
 Je näher größere Maßstäbe man betrachtet, desto kleinere Zonen lassen sich erkennen und einteilen. Vergleiche hierzu [[Böden in Deutschland]]. Die Zonale Betrachtung vereinfacht demnach stark. Dennoch ist die großräumge Gliederung anhand mittlerer Standorte sinnvoll.
 

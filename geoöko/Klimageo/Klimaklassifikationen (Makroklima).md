@@ -2,7 +2,7 @@
 
 Gruppe:: Klimageo
 
-Aufgrund der [[Strahlung]]sdichte, dem Abstand zum Meer und der [[Planetarische Zirkulation]], lässt sich die Erde in verschiedene Makroklimazonen oder Großraumklimate einteilen. Aus diesen Zonen lassen sich Rückschlüsse über [[Bodentypen]] und [[Terrestrische Biome]] ziehen.
+Aufgrund der [[Energiehaushalt|Strahlung]]sdichte, dem Abstand zum Meer und der [[Planetarische Zirkulation]], lässt sich die Erde in verschiedene Makroklimazonen oder Großraumklimate einteilen. Aus diesen Zonen lassen sich Rückschlüsse über [[Bodentypen]] und [[Terrestrische Biome]] ziehen.
 
 ## Effektive Klassifikation
 

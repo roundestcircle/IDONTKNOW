@@ -17,7 +17,7 @@ Dazu ergeben sich daraus Jahresezeiten und schwankende Tageslängen. Die Schwank
 
 ### Kugelgestalt
 
-Aufgrund der Kugelgestalt wird die Sonneneinstrahlung je nach Breitengrad auf mehr oder weniger Fläche verteilt. An den Polen erhält die Erde je Fläche weniger Einstrahlung als am Äquator. Diese [[Strahlung]]differenz ist der maßgebliche Wettertreiber, da die Erde versucht die Energiedifferenz auszugleichen, die dadurch entsteht.
+Aufgrund der Kugelgestalt wird die Sonneneinstrahlung je nach Breitengrad auf mehr oder weniger Fläche verteilt. An den Polen erhält die Erde je Fläche weniger Einstrahlung als am Äquator. Diese [[Energiehaushalt|Strahlung]]sdifferenz ist der maßgebliche Wettertreiber, da die Erde versucht die Energiedifferenz auszugleichen, die dadurch entsteht.
 
 ### Plattentektonik
 

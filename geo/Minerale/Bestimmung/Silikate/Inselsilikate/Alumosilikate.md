@@ -1,6 +1,6 @@
 #Min #Silikate #Inselsilikate #Bestimmung 
 
-![[00002-3461456418.jpg]]
+![[00002-346145648.jpg]]
 Disthen
 
 ![[th-1488211272.jpg]]
