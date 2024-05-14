@@ -25,3 +25,8 @@ Die Regenwälder unterscheiden sich zwischen den Kontinenten deutlich, grob gibt
 ## Nutzung
 
 Etwa die Hälfte der ursprünglichen Fläche des Regenwalds ist zerstört. Dennoch stellen sie mit den [[Borealer Nadelwald]] die letzten großen Waldflächen da. Aufgrund der schlechten Böden wird hier traditionell, neben extensiver Primärwaldnutzung, oft Brandrodungs-Wanderfeldbau betrieben. Die Asche düngt den Boden kurzfristig und ermöglicht für wenige Jahre Feldbau, danach muss der Wald sich mindestens 15 Jahre lang regenerieren. Heute ist diese sehr extensive Wirtschaftsform nicht mehr ökonomisch haltbar. Die Waldregenerationsphasen können oft nicht mehr eingehalten werden, es werden zu große Flächen brandgerodet. Plantagen- und Weidewirtschaft setzen sich auf diesen Flächen langsam durch, die Produktionskosten sind aufgrund der Umweltbedingungen jedoch hoch.
+
+## Gefährdungen
+
+- Rodung
+- Bodendegradation durch nicht nachhaltige Plantagenwirtschaft.

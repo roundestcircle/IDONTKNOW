@@ -9,8 +9,13 @@ Maritim beeinflusstes, temperates Klima, also milde Winter und nicht zu heiße S
 
 ## Vegetation
 
-Natürliche Mischwaldstandorte herrschen vor, in Mitteleuropa dominiert durch die Buche. Die Diversität ist Mittelhoch mit 500-2000 Arten pro 10000km^2. Die Wälder zeigen eine ausgeprägte Saisonalität.
+Natürliche Mischwaldstandorte herrschen vor, in Mitteleuropa dominiert durch die Buche. Die Diversität ist Mittelhoch mit 500-2000 Arten pro 10000km^2. Die Wälder zeigen eine ausgeprägte Saisonalität. Der Blattabwurf dient der Vermeidung der Frosttrocknis, also dass der gefrorene Boden kein Wasser nachliefern kann, während die Blätter transpirieren.
 
 ## Nutzung
 
-Weit verbreitete agrarische Nutzung, ansonsten Wirtschaftswälder statt natürlicher Wälder. Zudem sind diese Regionen stark industrialisiert.
+Weit verbreitete agrarische Nutzung, die einen Großteil der ursprünglichen Vegetation ersetzt hat, ansonsten Wirtschaftswälder statt natürlicher Wälder. Zudem sind diese Regionen stark industrialisiert. 
+
+## Gefährdungen
+
+- Biodiversitätsverlust durch Landwirtschaft
+- Biotopzerstörung durch Flächenverbrauch

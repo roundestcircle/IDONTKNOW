@@ -24,4 +24,10 @@ Hier haben sich eher vereinzelte Bäume durchgesetzt. Oft wird Bodenversalzung z
 
 ## Nutzung
 
-In den feuchteren Gebieten werden die sehr guten [[Schwarzerde]]n landwirtschaftlich genutzt, ansonsten herrscht Ranching vor. Die Gebiete sind sehr dünn besiedelt. Die Betriebsflächen sind in der Regel gigantisch.
+In den feuchteren Gebieten werden die sehr guten [[Schwarzerde]]n, in ehemaligen Misch- oder Langgrassteppen landwirtschaftlich genutzt, ansonsten herrscht Ranching vor. Die Gebiete sind sehr dünn besiedelt. Die Betriebsflächen sind in der Regel gigantisch. 
+
+## Gefährdungen
+
+- Versalzung
+- Bodenauswehung durch nicht nachhaltigen Ackerbau (Dust Bowl)
+- Bildung von Erosionsschluchten

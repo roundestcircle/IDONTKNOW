@@ -9,7 +9,7 @@ Kälzewüsten nördlich der 2° Juliisotherme, Tundren nördlich der 10° Juliis
 
 ## Vegetation
 
-Nur wenige Gefäßpflanzen sind hier Lebensfähig. Diese Ökozone ist von allen Zonen die Artenärmste. Die meisten Gefäßpflanzen sind Hemikryptophyten oder Chamaephyten ([[Lebensformsystem nach Raunkier]]). Aufgrund des Permafrosts reichen die Wurzeln oft nicht weit in die Tiefe. Das Wachstum ist auf bodennähere, warme Luftschichten begrenzt. Samen werden selten gebildet, vegetative Vermehrung herrscht vor.
+Nur wenige Gefäßpflanzen sind hier Lebensfähig. Diese Ökozone ist von allen Zonen die Artenärmste. Die meisten Gefäßpflanzen sind Hemikryptophyten oder Chamaephyten ([[Lebensformsystem nach Raunkier]]). Sie sind an ein Überleben unter schützender Schneedecke angepasst. Aufgrund des Permafrosts reichen die Wurzeln oft nicht weit in die Tiefe. Das Wachstum ist auf bodennähere, warme Luftschichten begrenzt. Samen werden selten gebildet, vegetative Vermehrung herrscht vor.
 
 ### Kältewüste
 
@@ -23,3 +23,8 @@ Die Vegetation verdichtet sich mit abnehmender geographischer Breite, von der Fe
 
 Eigentlich ist hier nur Weidehaltung möglich. Vor allem Rentiere und manchmal Schafe werden gehalten. Überweidung kann aufgrund der geringen Produktivität schnell zum Problem werden.
 
+## Gefährdung
+
+- Ölförderung
+- Klimawandel
+- Abschmelzen der Polkappen
