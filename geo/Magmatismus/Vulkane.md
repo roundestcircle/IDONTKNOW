@@ -1,6 +1,6 @@
 #Magmatismus #Geo 
 
-Der Bau von Vulkanen wird durch den [[Volatile|Volatilanteil]] und die Zusammensetzung der [[Magmen]], die sich im Laufe der [[Magmendifferenzierung]] verändert gebunden. Vulkane sind in geologischer Hinsicht besonders, da sie recht kurzlebig sind und doch extreme Veränderungen der Erdoberfläche bedingen können. Sie sind an spezifische Bereiche der Erde gebunden ([[Schmelzbildung]]).
+Der Bau von Vulkanen wird durch den [[Volatile|Volatilanteil]] und die Zusammensetzung der [[Magmen]], die sich im Laufe der [[Magmendifferenzierung]] verändert gebunden. Vulkane sind in geologischer Hinsicht besonders, da sie recht kurzlebig sind und doch extreme Veränderungen der Erdoberfläche bedingen können. Sie sind an spezifische Bereiche der Erde gebunden ([[Magmenbildung]]).
 
 ### Schildvulkan
 

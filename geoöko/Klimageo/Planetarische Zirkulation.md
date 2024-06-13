@@ -24,9 +24,9 @@ Auf der Südhalbkugel werden dagegen alle Winde nach links abgelenkt.
 
 Die Corioliskraft wirkt genau rechtwinklig zur Gradientkraft. Die Bewegung der Luft ändert sich dementsprechend so lang, bis die Gradient- und die Corioliskraft genau gleichgroß und entgegengesetzt sind.
 
-### Geostropische Winde
+### Geostrophische Winde
 
-Aufgrund der oben geschilderten Effekte verlaufen die entstehenden Winde so immer isobarenparallel, und können dementsprechend keinen bis kaum druckausgleich leisten. 
+Aufgrund der oben geschilderten Effekte verlaufen die entstehenden Winde so immer isobarenparallel, und können dementsprechend keinen bis kaum Druckausgleich leisten. Diese isobarenparallelen, in West-Ost Richtung verlaufenden Winde werden auch als Geostrophische Winde bezeichnet.
 
 ### Gradientwinde
 

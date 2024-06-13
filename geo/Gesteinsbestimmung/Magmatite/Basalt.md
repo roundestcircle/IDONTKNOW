@@ -9,4 +9,4 @@ Genese:: Vulkanit
 
 Eventuell Olivinbomben ([[Xenolith]]), sehr dunkel und feinkristllin, porös aufgrund von Volatilen.
 
-Plutonitisches Äquivalent: Gabbro
+Plutonitisches Äquivalent: [[Gabbro]]

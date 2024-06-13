@@ -1,6 +1,6 @@
 #Magmatismus #Geo #Definitionen 
 
-Hotspots sind besonders heiße Stellen des Erdmantels, evtl weil dort ein Konvektionsstrom aus dem Erdinneren aufsteigt und zur [[Schmelzbildung]] führt. Da sich die Platten über ihn hinweg bewegen, hinterlässt er an der Oberfläche oft eine Kette von immer jünger werdenden [[Vulkane]]n.  Ganz am Ende bleiben Sea-Mounts zurück. Wenn diese die Subdukzionszone erreichen, kann es zu zusätzlichen Komplikationen kommen.
+Hotspots sind besonders heiße Stellen des Erdmantels, evtl weil dort ein Konvektionsstrom aus dem Erdinneren aufsteigt und zur [[Magmenbildung]] führt. Da sich die Platten über ihn hinweg bewegen, hinterlässt er an der Oberfläche oft eine Kette von immer jünger werdenden [[Vulkane]]n.  Ganz am Ende bleiben Sea-Mounts zurück. Wenn diese die Subdukzionszone erreichen, kann es zu zusätzlichen Komplikationen kommen.
 
 ### Hawaii
 

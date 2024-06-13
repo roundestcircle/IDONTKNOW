@@ -12,12 +12,8 @@ Die Grenzen sind eher Übergangszonen, im Vordergrund der Erfassung der Zonen st
 
 ```dataview
 List
-FROM #Geoöko And #Best And #Biome
+FROM #Geoöko And #Best And #Biogeo 
 ```
-
-#Geoöko #Biogeo
-
-Gruppe:: Biogeo
 
 ## Zonale Vegetation
 

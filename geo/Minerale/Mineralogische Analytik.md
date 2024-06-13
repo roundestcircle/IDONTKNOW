@@ -24,6 +24,10 @@ Bei der Konskopie wird diese Technik verbessert, indem die Interferenzbilder von
 
 Röntgenstrahlung wird durch hochenergetische Übergänge von Elektronen in verschiedene Schalen erzeugt (herabfallen von Elektronen aus höheren Schalen in eine künstlich erzeugte Lücke). Diese Strahlung ensteht nur in einem schmalen Lichtspektrum und ist sehr spezifisch für ein bestimmtes Mineral. Erzeugt man direkt in einem zu analysierenden Material kann man über die Analyse des abgegebenen Spektrums an Röntgenstrahlen die Zusammensetzung feststellen. 
 
+Vor der eigentlichen Analyse muss das Gestein dafür fein vermahlen  (<40mü) und in Pucks gepresst werden, damit bei der Analyse wirklich eine repräsentative Gesamtzusammensetzung ermittelt wird. Diese Pucks werden manchmal noch geschmolzen um sogenannte Glastabletten zu erzeugen.
+
+Im Ergebnis wird alles Eisen als Fe2O3 ausgegeben, die tatsächliche Oxidverteilung muss Nasschemisch bestimmt werden. Der Wassergehalt wird über Loss on Ignition abgeschätzt.
+
 #### Röntgenabsorbtion
 
 Wie beim Arzt, verschiedene Materialien absorbieren die Strahlen unterschiedlich stark, man kann so ein Durchlichtbild erstellen.

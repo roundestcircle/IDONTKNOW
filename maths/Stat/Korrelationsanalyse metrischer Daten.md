@@ -6,7 +6,7 @@ Die Kovarianz ist nicht standartisiert und deswegen nicht gut vergleichbar.
 Sie wird nur für lineare Zusammenhänge genutzt. Sie ist ein Maß für das gemeinsame Streuen zweier Maßzahlen. 
 
 $$
-s_{xy}=\frac{\sum_{i=1}{n} (x_i-\bar{x})\cdot(y_i-\bar{y})}{n}
+s_{xy}=\frac{\sum_{i=1}^{n} (x_i-\bar{x})\cdot(y_i-\bar{y})}{n}
 $$
 vgl. [[Streuungsmaße#Varianz]]
 
