@@ -58,7 +58,7 @@ Wird die Schmelze sofort aus dem System isoliert und steigt auf, sobald sei ents
 
 Für einen groben Überblick über Kompatibilitäten lässt sich ein Ionenpotentialdiagramm (Ionenpotential = Ladung/Radius) in dem auf den Achsen Radius und Ladung der Ionen abgetragen sind. Darauf lassen sich einige wichtige inkompatibla Gruppen erkennen: Die sogenannten Large Ion Lithophiles, also Elemente mit großen Ionen, die Silikate bilden (im Gegensatz zu Oxid- oder Sulfidbildnern), Die Seltenen Erden sowie high field strength Elements, also Elemente mit hoher Ladung und kleinem Radius.
 
-Das hier dargestellte Diagramm (aus Rollinson (1993), Using Geochemical Data) bezieht sich in den Kompatibilitätseinordnungen auf Olivin. Da inkompatible Elemente auch als erstes in die Schmelze gehen, reichern sich diese also im Rahmen der [[Magmenbildung]] in der Kruste an.
+Das hier dargestellte Diagramm (aus Rollinson (1993), Using Geochemical Data) bezieht sich in den Kompatibilitätseinordnungen auf Olivin. Da inkompatible Elemente auch als erstes in die Schmelze gehen, reichern sich diese also im Rahmen der [[Schmelzbildung]] in der Kruste an.
 
 ![[Pasted image 20240612134100.png]]
 

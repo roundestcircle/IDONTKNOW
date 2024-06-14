@@ -16,7 +16,7 @@ Mantelgestein kann zum Beispiel in [[MOR#Aufbau des MOR|Ophiolithen]] erforscht 
 Es benötigt also besondere Bedingungen, um Schmelzen zu erzeugen, drei davon sind besonders wichtig. Zu beachten ist jedoch, dass auch unter diesen Bedingungen der Mantel nie vollständig aufschmilzt, sondern sich immer nur Teilschmelzen bilden, die zunächst [[basalt]]isch sind.
 
 1. Druckentlastung entsteht, wenn tiefes Mantematerial aufsteigt. Dies geschieht entweder an einem Manteldiapir, ([[Entdeckung der Plattentektonik#Erklärungsversuche]]) oder am [[MOR]], an welchem die Kruste eine Lücke bildet, die der Mantel durch Aufstieg füllt. Dabei wird ein [[Wasser in der Atmosphäre#Adiabatische Prozesse|Adiabatischer Prozess angenommen]]. Bis zu 30% Schmelzgrad kann so erreicht werden.
-2. Durch Volatilzufuhr, zum Beispiel aus der ozeanischen Kruste an einer [[Subduktionszonen]], Ein Beispiel sind die Anden oder Mt Rainier und Mt St Helens in den USA. Bei Volatilzufuhr verschiebt sich der Solidus des Mantels extrem. Der Liquidus verschiebt sich jedoch weniger stark, sodass das Schmelzintervall insgesamt größer wird.
+2. Durch Volatilzufuhr, zum Beispiel aus der ozeanischen Kruste an einer [[Subduktionszonen]], Ein Beispiel sind die Anden oder Mt Rainier und Mt St Helens in den USA. Bei Volatilzufuhr verschiebt sich der Solidus des Mantels extrem. Der Liquidus verschiebt sich jedoch weniger stark, sodass das Schmelzintervall insgesamt größer wird. Volatilzufuhr kann auch durch Mineralentwässerung in der Kruste geschehen, vgl [[Granitoide]].
 3. Durch Temperaturerhöhung, was auf der Erde jedoch selten vorkommt und allenfalls lokal von Bedeutung ist, etwa bei einem Meteoriteneinschlag.
  
  Damit ist der Vulkanismus an verschiedene Orte gebunden, und kann nicht überall auftreten.
@@ -54,15 +54,20 @@ Bestimmte Verteilungen von Spurenelementen lassen sich nicht über einen chemisc
 ![[Pasted image 20240613132613.png]]
 nach Kellogg et al (1999).
 
+Zu beachten ist, dass die subduzierten Platten vor allem im tiefen Mantel eine Rolle spielen und den oberen Mantel kaum beeinflussen.
+
 #### Tholeiitischer/Subalkalischer Basalt
 
+- wenig Alkalien, viel SiO2, Magmenserie endet bei Rhyolit
 - kein Olivin, wenn dann partiell resorbiert
 - Häufig Plagioclas
 - häufig Quarz
 - Hauptsächlich am MOR gebildet, aber auch untergeordnet an Ozeanischen Inseln
+- Tholey ist eine Stadt im Saarland, die die Typlokalität für Tholeiit ist.
 
 #### Alkalischer Basalt
 
+- viele Alkalien, wenig SiO2, Magmenserie endet bei Phonolit
 - Olivin häufig
 - Plagioclas selten
 - kein Quarz

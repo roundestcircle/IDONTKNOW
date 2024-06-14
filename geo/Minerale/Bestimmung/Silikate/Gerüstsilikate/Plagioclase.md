@@ -33,5 +33,7 @@ Plagioclase kommen oft als Anhäufung sehr vieler, dünner, parallel verlaufende
 
 ### Zonarbau der Plagioclase
 
-Da Calcium früher aus der Schmelze geht, befindet es sich eher im inneren des Kristalls, Natrium eher im Äußeren. Festkörperentmischung findet jedoch nicht statt.
-<!--ID: 1705934302848-->
+Da Calciumreicher Plagioclas früher aus der Schmelze geht, befindet er sich eher im inneren des Kristalls, Natriumreicher eher im Äußeren. Festkörperentmischung findet jedoch nicht statt. Diese Zonierung basiert auf einem chemischen Ungleichgewicht und will ausgeglichen werden, was jedoch aufgrund der sehr langsamen Festkörperdiffusion nicht geschieht. 
+
+Manchmal findet man umgekehrt zonierte Kristalle. Das deute auf einen deutlichen Wechsel der Schmelzzusammensetzung hin, etwa durch [[Magmendifferenzierung#Magmenmischung]]. Dabei verschwimmen die Grenzen des Kerns eventuell, da er randlich angelöst wurde.
+

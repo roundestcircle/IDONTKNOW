@@ -6,6 +6,6 @@
 2. [[Transformstörungen]]/ konservative Plattengrenzen: Zwei Platten gleiten aneinander vorbei.
 3. Konvergente Plattengrenzen:
     a) [[Subduktionszonen]]
-    b) [[Kontinentales Orogen]]/Kontinent-Kontinent-Konvergenz
+    b) [[Subduktionszonen]]/Kontinent-Kontinent-Konvergenz
 
 [[Entdeckung der Plattentektonik]]

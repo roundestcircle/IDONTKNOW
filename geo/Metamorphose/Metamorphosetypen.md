@@ -9,7 +9,7 @@ Kontaktmetamorphose findet an Magmenintrusionen statt, es herrscht hohe Temperat
 
 ### Regionalmetamorphose
 
-Regionalmetamorphose findet vor allem an [[Kontinentales Orogen]] statt, Temperatur und Druck steigen gleichmäßig und gemeinsam. Dabei durchläuft das Gestein vor allem folgende Fazies:
+Regionalmetamorphose findet vor allem an [[Subduktionszonen]] statt, Temperatur und Druck steigen gleichmäßig und gemeinsam. Dabei durchläuft das Gestein vor allem folgende Fazies:
 
 1. [[Metamorphe Fazies#Grünschieferfazies]]
 2. [[Metamorphe Fazies#Amphibolitfazies]]

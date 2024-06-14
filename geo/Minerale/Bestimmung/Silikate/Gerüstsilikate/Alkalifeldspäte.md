@@ -22,6 +22,9 @@ Bruch:: uneben
 Glanz:: Glasglanz
 <!--ID: 1705934302859-->
 
+### Perthitische Entmischungen
+
+Vgl [[Feldspäte Basics]] und [[Phasendiagramme#Eutektikum]]
 
 
 

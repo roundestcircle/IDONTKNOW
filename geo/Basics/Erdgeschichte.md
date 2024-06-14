@@ -83,7 +83,7 @@ An der Grenze zum Paläozoikum explodierte die Familienzahl der Lebewesen auf de
 - Säugetiere prägende Gruppe
 - Klima wird eher kälter
 - Gräser entstehen
-- Alpen und Himalaya entstehen an [[Kontinentales Orogen]]
+- Alpen und Himalaya entstehen an [[Subduktionszonen]]
 
 #### Quartär
 
