@@ -2,7 +2,7 @@
 
 Gruppe:: Überblick
 
-Enthalten mehr als 50% Kalkminerale, also [[Calcit]]/[[Aragonit]] oder [[Dolomit]]. Mikrit als Matrix und oder Sparit als Zement.
+Enthalten mehr als 50% Kalkminerale, also [[Calcit]]/[[Aragonit]] oder [[Dolomit]]. Mikrit als [[Matrix]] und oder Sparit als [[Zement]].
 
 ### Genese
 
@@ -17,3 +17,11 @@ Mikrokristalliner Kalkschlamm aus Mikroorganismen oder zerfallenen Organismensch
 ### Sparit
 
 Ausfällung von [[Calcit]] aus dem Porenwasser, fein bis grobkristallin und unter der Lupe leicht glasig.
+
+### Classification
+
+Folk:
+![[Pasted image 20240616150158.png]]
+
+Durham: 
+![[Pasted image 20240616150206.png]]

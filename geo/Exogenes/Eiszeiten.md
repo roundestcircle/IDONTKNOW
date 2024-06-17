@@ -14,7 +14,7 @@
 
 ### Nahe Vergangenheit
 
-In dieser Eiszeit geb es drei Vergletscherunge, die bis nach Mitteleurope reichten, jeweils nach ihrer maximalen Ausdehnung Eler, Saale und Weichsel-Eiszeit genannt.
+In dieser Eiszeit geb es drei Vergletscherunge, die bis nach Mitteleurope reichten, jeweils nach ihrer maximalen Ausdehnung Elster, Saale und Weichsel-Eiszeit genannt.
 
 ### Permokarbone Eiszeit
 

@@ -1,6 +1,6 @@
 #Geo #Exogenes #Boden
 
-Verwitterung beschreibt die fortschreitende Verkleinerung von Material (im Zweifel bis auf Ionengröße).
+Verwitterung beschreibt die fortschreitende Verkleinerung von Material (im Zweifel bis auf Ionengröße). Verwitterung geschieht in situ/am Ort des Gesteins. Erosion beinhaltet dann den Abtransport der Körner. Auch während der Erosion verändern sich die Körner weiter.
 
 ## Minerale nach Verwitterungsstabilität
 
@@ -28,6 +28,10 @@ Klimatisch: Warm und Feucht: Eher chemische Verwitterung; Kalt und Feucht oder W
 
 ![[Pasted image 20240505153424.png]]
 
+## Grobe Übersicht der Verwitterungstypen (subaerial)
+
+![[Pasted image 20240616153652.png]]
+
 ## Physikalische Verwitterung
 
 Endet mit chemisch unveränderten Mineralen und Bruchstücken.
@@ -52,11 +56,11 @@ Das Wachstum von Salzkristallen in mit Porenfluid gefüllten Klüften führt zu 
 
 ### Fatoni-Verwitterung
 
-Salze werden im Gesteinsinneren gelöst und nach außen getragen, an der Oberfläche wieder ausgefällt. Es bilden sich Wabenartige Strukturen.
+Salze werden im Gesteinsinneren gelöst und nach außen getragen, an der Oberfläche wieder ausgefällt. Es bilden sich Wabenartige Strukturen. Geschieht vor alle in trockenen Küstenregionen.
 
 ### Quelldruck-Verwitterung
 
-Tonminerale oder ähnliches nehmen Wasser auf und steigern so ihr Volumen, das umliegende Gestein wird aufgesprengt. Vgl. [[Volumenänderung Anhydrit-Gips]].
+Tonminerale oder ähnliches nehmen Wasser auf und steigern so ihr Volumen, das umliegende Gestein wird aufgesprengt. Vgl. [[Volumenänderung Anhydrit-Gips]]. Dies geschieht nur bei geringem Diagenesegrad.
 
 ### Hydratation
 
@@ -68,7 +72,7 @@ Endet mit chemisch veränderten bzw neuen Mineralen, auf Kosten der vorhandenen.
 
 ### Hydrolyse
 
-Sehr wichtiger Prozess in der Bodenbildung, Initialrekation der Umwandlung von Feldspäten und Glimmern in [[Tonminerale]].
+Sehr wichtiger Prozess in der Bodenbildung, Initialrekation der Umwandlung von Feldspäten und Glimmern in [[Tonminerale]]. Tonminerale entstehen nur bei Al-Gehalt des Gesteins.
 Die Ionen im Kristallgitter werden dabei an dissoziierte Ionen aus dem Wasser (H+ oder OH-) gebunden, sodass das Kristallgitter zerfällt.
 
 Beispiel: 
@@ -90,9 +94,9 @@ Achtung, das ist nur die summarische Reaktion! Tatsächlich passieren mehrere Ei
 
 ### Oxidationsverwitterung
 
-Besonders betroffen sind Gesteine die reduzierte Ionen beinhalten, die oxidiert werden. Oft handelt es sich um eisenhaltige Gesteine die nach der Verwitterung markant rote Böden hinterlassen
+Besonders betroffen sind Gesteine die reduzierte Ionen beinhalten, die oxidiert werden. Oft handelt es sich um eisenhaltige Gesteine die nach der Verwitterung markant rote Böden hinterlassen. Eine wichtige Rolle spiel dabei in Wasser gelöster Sauerstoff.
 
-### Lösungsverwitterung oder Verkarstung
+### Lösungsverwitterung oder Verkarstung/Dissolution
 
 In der umgekehrten [[Evaporationsfolge]] werden bestimmte Minerale durch Wasser gelöst, je löslicher sie sind, desto früher und stärker. Dabei können Höhlen und sogar komplexe Tunnelsysteme entstehen. die schließlich einstürzen können und sog. Dolinen hinterlassen. Fallen gelöste Minerale in den Höhlen wieder aus, zum Beispiel durch Abkühlung des Wassers, entstehen Tropfsteinhöhlen. Diesen gesamten Prozenn nennt man auch Verkarstung. Insbesondere für die Lösung von Kalk ist Kohlensäure im Wasser notwendig.
 

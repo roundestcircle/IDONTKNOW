@@ -32,7 +32,7 @@ Durch diese Prozesse bilden Gletscher spezifische U-Förmige Täler.
 
 ### Glazialer Transport
 
-Glazialer Transport kann entweder im, unter oder auf dem Eis stattfinden. Auch fluviale Transportwege an Gletscherflüssen sind möglich.
+Glazialer Transport kann entweder im (internal or englacial load), unter (Subglacial Load) oder auf (surface or supraglacial load) dem Eis stattfinden. Auch fluviale Transportwege an Gletscherflüssen sind möglich. Der Subglaziale Transport ist der wichtigste Teil. Dreckige, warme Gletscher können bis zu zehner Prozentanteile Volumen in den unteren Schichten transportieren. Englazialer Transport ist relativ unbedeutend.
 
 ### Postglaziale Strukturen
 
@@ -40,7 +40,7 @@ Wenn ein Gletscher beim Schmelzen zerfällt, entstehen große Toteisblöcke, die
 
 ### Glaziale Ablagerung
 
-Glaziale Geschiebe wie End-, Grund- oder Seitenmoränen sind unsortiert und ungeschichtet. Im Verlauf der Ablagerung und nach dem Abschmelzen entsteht eine Glaziale Serie: Ganz oben am Berg Toteislöcher, Grund- und Seitenmoräne, am Ende des Gletscher eine höhere Endmoräne mit einem Abfluss und einen Kegelsander aus Lockersedimenten unter dem Abfluss.
+Glaziale Geschiebe wie End-, Grund- oder Seitenmoränen sind unsortiert und ungeschichtet. Im Verlauf der Ablagerung und nach dem Abschmelzen entsteht eine Glaziale Serie: Ganz oben am Berg Toteislöcher, Grund- und Seitenmoräne, am Ende des Gletscher eine höhere Endmoräne mit einem Abfluss und einen Kegelsander aus Lockersedimenten unter dem Abfluss. Moränen bestehen maßgeblich aus dem subglazialen Transport.
 
 #### Warven in Gletscherseen
 

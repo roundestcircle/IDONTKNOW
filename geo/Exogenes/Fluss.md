@@ -2,25 +2,6 @@
 
 Gruppe:: Hydrogeo
 
-## Flow Types
-
-### Laminar Flow
-
-- mainly theoretical
-- parallel flow vectors
-- no mixing
-
-### Turbulent Flow
-
-- most common
-- erosive
-- creation of vortices
-- started by friction with bed surface
-
-### Schiessender Abfluss
-
-- sehr hohe Fließgeschwindigkeit oder Gefälle
-
 ## Berechnung der Fließgeschwindigkeit
 
 Nach Manning-Strickler lässt sich über den Rauhigkeitsbeiwert des Flussbettes, dem hydraulischen Radius und dem Gefälle die Fließgeschwindigkeit berechnen.
@@ -34,6 +15,8 @@ Die Fließgeschwindigkeit ist kurz unter der Oberfläche am größten und am Bod
 ## Fluviatile Erosions- und Sedimentationsräume
 
 Fluviatile Sedimentationsräume umfassen Fließrinne, Ufer und Überflutungsgebiet eines Flusses. Es gibt oft viele Lebewesen und biogene Sedimente, insbesondere auf den tonigen Hochwasserablagerungen.
+
+Fluvial systems are reponsible for by far the largest Amount of sediment transport. 70% of global fluvial flux occurs in south east Asia, due to massive Erosion in the Himalayas (The higher a Mountain, the larger the eroded amount) and Quick Transport during the Monsoon.
 
 ### Fluviale Erosion
 
