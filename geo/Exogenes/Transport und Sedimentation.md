@@ -61,7 +61,7 @@ Three main transport mechanisms:
 1. Dissolved Load
 2. Suspended Load: Small and light enough to be carried in supension. Often reliant on turbuent flow/eddy currents
 3. Bedload: Transport along the river bed, mainly sand and gravel
-vgl [[Wüste#Bewegungsformen der Partikel]]
+vgl [[Äolische Systeme#Bewegungsformen der Partikel]]
 
 ![[Pasted image 20240616162400.png]]
 
@@ -77,15 +77,15 @@ Accomodation is the space available for potential sediment accumulation.
 
 ## Sedimentary Basin
 
-Sedimentary Basins are Large scale depressions of the crust, where subsidence has occurred and a thick body of sediments has been accumulated. Especially important sedimentary basins are the shalow waters next to Riverdeltas. They sometimes accumulate Sediment-Thicknesses of over 15km. The Ganges-Delta is the most important of them. The large thickness allows for Compaction and Cementation which necessitat high pressures and sometimes Temperatures.
+Sedimentary Basins are Large scale depressions of the crust, where subsidence has occurred and a thick body of sediments has been accumulated. Especially important sedimentary basins are the shalow waters next to Riverdeltas. They sometimes accumulate Sediment-Thicknesses of over 15km. The Ganges-Delta is the most important of them. The large thickness allows for Compaction and Cementation which necessitate high pressures and sometimes Temperatures.
 
 # Ablagerung- und Transportsräume
 
-1.  See
-2. [[Fluss]]
+1.  [[Lacustrine Systems]]
+2. [[Fluviale Systeme]]
 3. [[Gletscher]]
-5. [[Küste]]
-6. [[Wüste]]
+5. [[Coastal Environments]]
+6. [[Äolische Systeme]]
 8. [[Massenselbsttransport]]
 9. [[Kontinentalhang und Tiefsee]]
 

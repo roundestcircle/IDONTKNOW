@@ -28,7 +28,7 @@ Seen werden typisiert nach Entstehung, Größe, Tiefe, Durchlichtung, Durchströ
 - Tektogen, zb. an Riftzonen, tiefste Seen
 - Moorgewässer
 - natürliche Staugewässer
-- Auengewässer ([[Fluss#Mäandrierende Flüsse]])
+- Auengewässer ([[Fluviale Systeme#Mäandrierende Flüsse]])
 - künstlich, zB Stauseen, zur Stabilisierung verfüllte Tagebaulöcher
 
 ### Nach Stabilität

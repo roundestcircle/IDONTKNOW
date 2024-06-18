@@ -27,4 +27,8 @@ Korrasion bezeichnet die abschleifenden Mechanismen an größeren Gesteinen durc
 
 ### Ablagerungen
 
-Es enstehen zunächst wellenförmige Muster, die sich daraufhin selbst verstärken, in den Höhlen wird mehr abgetragen, auf den kämmen mehr abgelagert, bis ein Gleichgewicht erreicht ist. Man bezeichnet sie je nach Größe als Rippeln oder Dünen. Bei Dünen kommt es zudem oft zur Korngrößensortierung, die zum Kamm hin tendenziell abnimmt. Dünen und Rippel sind [[Sedimentary Structures#Schrägschichtung|schräggeschichtet]].
+Es enstehen zunächst wellenförmige Muster, die sich daraufhin selbst verstärken, in den Höhlen wird mehr abgetragen, auf den kämmen mehr abgelagert, bis ein Gleichgewicht erreicht ist. Man bezeichnet sie je nach Größe als Rippeln oder Dünen. Bei Dünen kommt es zudem oft zur Korngrößensortierung, die zum Kamm hin tendenziell abnimmt. Dünen und Rippel sind [[Sedimentary Structures#Unidirectional Flow|schräggeschichtet]].
+
+The shapes are much more variable than dunes and ripples n subaquatic systems. One thing remains the same: The downwind/lee slope is always steeper than the stoss slope. If the wind driection changes, somewhat [[Sedimentary Structures#Oscillatory Flow|symmetric]] or even star shaped dunes may be created.
+
+Aeolian Dunes are usually bigger than subaquatic dunes. This leads to their beds in the sedimentological record also being much thicker. 

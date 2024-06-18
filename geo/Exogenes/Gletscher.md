@@ -2,12 +2,12 @@
 
 ### Glaziale Sedimentationsräume
 
-Glaziale Sedimentationsräume sind durch Eis dominiert. Es gibt wenig Lebewesen.
+Glaziale Sedimentationsräume sind durch Eis dominiert. Es gibt wenig Lebewesen. Sie exsitieren heute nur in sehr hohen Breitengraden oder Höhen. Der Fluss ist sehr langsam , und deswegen oft laminar ([[Transport und Sedimentation#Laminar Flow]]).
 
 ### Entstehung
 
 Über mehrere Jahre sammelt sich Schnee an, der sich durch Überlagerung immer weiter verdichtet und sich über Firn zu Gletschereis umwandelt. Erst dann können Transportprozesse beginnen.
-Am Ende des Gletschers befindet sich ein Übergang in das Ablagerungssystem [[Fluss]].
+Am Ende des Gletschers befindet sich ein Übergang in das Ablagerungssystem [[Fluviale Systeme]].
 
 ### Bewegung
 
@@ -40,7 +40,9 @@ Wenn ein Gletscher beim Schmelzen zerfällt, entstehen große Toteisblöcke, die
 
 ### Glaziale Ablagerung
 
-Glaziale Geschiebe wie End-, Grund- oder Seitenmoränen sind unsortiert und ungeschichtet. Im Verlauf der Ablagerung und nach dem Abschmelzen entsteht eine Glaziale Serie: Ganz oben am Berg Toteislöcher, Grund- und Seitenmoräne, am Ende des Gletscher eine höhere Endmoräne mit einem Abfluss und einen Kegelsander aus Lockersedimenten unter dem Abfluss. Moränen bestehen maßgeblich aus dem subglazialen Transport.
+Glaziale Geschiebe wie End-, Grund- oder Seitenmoränen sind unsortiert und ungeschichtet. Im Verlauf der Ablagerung und nach dem Abschmelzen entsteht eine Glaziale Serie: Ganz oben am Berg Toteislöcher, Grund- und Seitenmoräne, am Ende des Gletscher eine höhere Endmoräne mit einem Abfluss und einen Kegelsander aus Lockersedimenten unter dem Abfluss. Moränen bestehen maßgeblich aus dem subglazialen Transport. Grundmoränen lassen sich noch unterteilen in Deformation Till (an Brüchen im Gletscher), Meltout Till (falls der Gletscher von unten anschmilzt) und Lodgement Till (hinter Hindernissen im Weg des Gletschers)..
+
+Diamictites are poorly sorted, matrix-supported conglomerates with angular clasts. Tillites are Diamictites of glacial origin. They may carry clasts up to meter size.
 
 #### Warven in Gletscherseen
 
@@ -48,7 +50,7 @@ In Gletscherseen bilden sich "Jahresringe" aus, da Gletscher im Sommer anschmelz
 
 ### Dropstones
 
-Werden eingefrorenen Stein aus Eisbergen weit verfrachtet und dann abgelagert, bezeichnet man sie als Drop-Stones. Werden sie durch Gletscher auf dem Land verfrachtet statt auf dem Meer, bezeichnet man sie als Erratika.
+Werden eingefrorene Steine aus Eisbergen weit verfrachtet und dann abgelagert, bezeichnet man sie als Drop-Stones. Diese sind in marinem Sediment sehr auffällig, da sie isoliert auftreten und im Vergleich zur umgebenden Korngröße gigantisch sind. Eventuell verformen sie das bedding der Sedimente. Werden sie durch Gletscher auf dem Land verfrachtet statt auf dem Meer, bezeichnet man sie als Erratika.
 
 
 
