@@ -30,7 +30,7 @@ Beispiele aus Wilson (1989): Igneous Petrogenesis
 
 In den Diagrammen sind auch die Mineralphasen vermekt, die den plötzlichen Kurswechsel auslösen. Beginnen sie auszukristallieren, entahlten die nachfolgenden Gesteine, die aus der verbleibenden Schmelze gebildet werden, weniger des betrachteten Oxids.
 
-Würde man die auskristallisierenden Minerale auch in das Diagramm eintragen, würde, sich die Gesteinszusammensetzung in gerader Linie von diesem Punkt wegbewegen. Werden mehrere Minerale auskristallisiert, die das Elementoxid betreffen, bewegt sich die Gestinszusammensetzung von einem Punkt zwischen ihnen weg, der sich über die Anteile der zwei oder mehr Minerale feststellen lässt
+Würde man die auskristallisierenden Minerale auch in das Diagramm eintragen, würden sich die Gesteinszusammensetzung in gerader Linie von diesem Punkt wegbewegen. Werden mehrere Minerale auskristallisiert, die das Elementoxid betreffen, bewegt sich die Gesteinszusammensetzung von einem Punkt zwischen ihnen weg, der sich über die Anteile der zwei oder mehr Minerale feststellen lässt
 
 ### TAS-Diagramm
 

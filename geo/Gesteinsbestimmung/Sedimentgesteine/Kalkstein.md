@@ -12,16 +12,23 @@ Enthalten mehr als 50% Kalkminerale, also [[Calcit]]/[[Aragonit]] oder [[Dolomit
 
 ### Mikrit
 
-Mikrokristalliner Kalkschlamm aus Mikroorganismen oder zerfallenen Organismenschalen. Kalstein fast ausschließlich aus Mikrit bezeichnet man als [[Mikrit]]
+Mikrokristalliner Kalkschlamm aus Mikroorganismen oder zerfallenen Organismenschalen. Kalkstein fast ausschließlich aus Mikrit bezeichnet man als [[Mikrit]]/Micrite
 
 ### Sparit
 
-Ausfällung von [[Calcit]] aus dem Porenwasser, fein bis grobkristallin und unter der Lupe leicht glasig.
+Ausfällung von [[Calcit]] aus dem Porenwasser, fein bis grobkristallin und unter der Lupe leicht glasig. 
 
 ### Classification
 
 Folk:
 ![[Pasted image 20240616150158.png]]
+
+Main component aside from matrix/cement used as prefix followed by either sparite ode micrite:
+
+- Clasts: intra-
+- Ooids: Oo-
+- Fossils: Bio-
+- Pellets: Pel-
 
 Durham: 
 ![[Pasted image 20240616150206.png]]

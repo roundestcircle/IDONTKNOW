@@ -60,6 +60,8 @@ Im Vergleich zu [[MOR]]B enthalten Magmatite hier deutlich mehr Large Ion Lithop
 
 Die Isotopenchemie ([[Isotopenanalysen]]) zeigen eindeutige Einflüsse von krustalen Komponenten. Das Maß an Beeinflussung unterscheidet sich stark. Dabei lassen sich sowhl Kontamination durch die subduzierte Kruste, als auch durch die beim Aufstieg durchflossene Kruste feststellen.
 
+Typisch sind kalkalkalische Trends im AFM-Diagramm, bei denen aufgrund der hohen Sauerstoffgehalte durchgängig Magnetit abgeschieden wird und nicht erst später, wie bei tholeiitischen Trends ([[Magmendifferenzierung#Magmenserien]]).
+
 ## Kontinentales Orogen
 
 Wenn die gesamte ozeanische Platte subduziert wurde ([[Subduktionszonen]]), treffen schließlich zwei kontinentale Platten aufeinander. Aufgrund ihrer geringeren Dichte können sie sich nicht in den Mantel absenken, sondern verkeilen sich ineinander. Es kommt zu Gebirgsaufwerfungen. Da zwischen den Kontinenten ein Ozean vernichtet wurde, liegen oben in den entstehenden Gebirgen oft Marine Sedimente oder ganze marine Gesteinsfolgen aus Magmatiten, Mantelgesteinen und Sedimenten, sogenannte Ophiolite.

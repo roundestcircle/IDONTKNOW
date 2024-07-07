@@ -17,7 +17,9 @@ If Laminae or Strata ar inclined compared to the layer plane, the structure is c
 
 Strata and Laminae can be massive/homogenous or graded. Graded Beds are always deposited in one single event, which might have only lasted hours. If the Energy increased during deposition/the event, the Beds are inversely graded: The Grain size increases towards the top. If the grain size decreases towards the top, the beds are normal graded. The flow Velocity decreased during the event.
 
-Boarders between layers are often very sharp and reppresent an erosional surface.
+Borders between layers are often very sharp and represent an erosional surface.
+
+If Sediments change size systematically over multiple beds, Its called fining or coarsening up.
 
 ## Environment and Corresponding Structures
 
@@ -50,7 +52,7 @@ Unidirectional Flow may be created by wind, currents, tides, etc. The type of Be
 This Diagram is simplified and does not include all Parameters. Notice how the same flow Velocity can lead to different Bedforms depending on grain size. This may lead to Bedforms changing on a sorted surface, such as a beach.
 Dunes and Ripples have a less steep stoss slope, that is eroded, and a steeper lee slope, that experiences deposition. They are therefore asymmetrical.
 
-The Shape is created by particles moving uphill on the stoss slope, then falling down as the flow right behinf the ripple crest (like windshadow) is much weaker.
+The Shape is created by particles moving uphill on the stoss slope, then falling down as the flow right behind the ripple crest (like windshadow) is much weaker.
 
 In General: Erosional Surfaces are not or barely preserved in the rock record! Therefore, all crosslaminations visible are impressions of lee Side Deposition. Unidirectional Flow is easily discernible as their sed structures are just layers of crosslaminations in the same direction (preserved depositional edge). It is not easily discernible if dunes or ripples are created by water or wind. The particles are maybe smaller in windcreated shapes. Sometimes it is necessary to look for other indicators, such as marine fossils.
 
@@ -84,7 +86,7 @@ Dunes are similar to ripples, except much bigger. They may reach meters in heigh
 
 Surface waves are out of sync with the dunes.
 
-2D-Dunes (straight crests) create simple planar cross stratifications. Thei Lee-Edges are more or less straight. 3D-Dunes create more complex patterns of of tangential or trough cross stratifications. The layers are more likely lenses than whole layers, the lee edges slightly convex.
+2D-Dunes (straight crests) create simple planar cross stratifications. Their Lee-Edges are more or less straight. 3D-Dunes create more complex patterns of of tangential or trough cross stratifications. The layers are more likely lenses than whole layers, the lee edges slightly convex.
 
 ##### Upper Plane Bed
 
@@ -126,7 +128,7 @@ Load casts occur when a denser layer sinks into a less dense layer. If mud moves
 
 ### Soft Sediment Deformation
 
-Soft Sediment Deformation occurs when semiconsolidated block of sediments moves, for example during a slide and gets folded up. The layers below remain undisturbed, Laers above are deposited later, also undisturbed.
+Soft Sediment Deformation occurs when semiconsolidated block of sediments moves, for example during a slide and gets folded up. The layers below remain undisturbed, Layers above are deposited later, also undisturbed.
 
 ### Fluid Escape Structures
 

@@ -1,7 +1,5 @@
 #Geo #Exogenes
 
-Als Wüsten werden Gebiete bezeichnet, in denen der jährliche Niederschlag bei weniger als 25mm liegt.
-
 ### Äolisches System
 
 In äolische Systemen ist der Wind das vorherrschende Mittel für Erosion, Transport und Ablagerung von Lockermaterial. Er kann jedoch nur wirken, wenn das Gestein vorher bereits verwiitert wurde, die Windstärke hoch genug und der Grad der Vegetationsbedeckung nicht zu hoch ist. Es gibt nur wenige Lebewesen. Typischerweise kann nur feiner Sand und kleinere Partikel transportiert werden. Sehr feine Körner können in Suspension bis in die obere Atmosphäre gelangen und sehr weite strecken zurücklegen.
@@ -12,7 +10,7 @@ Die Windschubspannung ist eine Funktion der Windgeschwindigkeit und der Rauhigke
 
 ### Bewegungsformen der Partikel 
 
-1. Suspension: Sehr kleinne Körner geraten in Suspension und können sehr weit transportiert werden.
+1. Suspension: Sehr kleine Körner geraten in Suspension und können sehr weit transportiert werden.
 2. Saltation: Etwas größere Körner "springen" kurze Strecken und stoßen dann das nächste Korn an, das darauf ebenfalls springt.
 3. Reptation/Creeping: Noch größere Körner (größer als 400 Mikrometer) werden durch aufprallende Körner aus der Saltation langsam nach vorne geschoben, können jedoch den Boden nicht verlassen.
 4. Alles was größer als etwa 4mm ist, wird nicht bewegt.

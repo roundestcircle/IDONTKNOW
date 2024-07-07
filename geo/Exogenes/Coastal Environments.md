@@ -51,12 +51,6 @@ Barrier Islands are often wave dominated beaches, enclosinf tide dominated tidal
 
 On each side of the inlet, small tidal deltas are created, a flood delta by the incoming flood, and a ebb delta by the outgoing ebb. This is because large amounts of sediments are moved in and out through the inlet with each tidal cycle. If a river inlet is nearby, the flood tidal delta is less pronounced.
 
-### Schelfe und Riffe
-
-Vor den Küsten der Kontinente befinden sich relativ flache Meeresbereiche, sogenannte Schelfe. Ihre passende Form trug zur [[Entdeckung der Plattentektonik]] bei. Hier können sowohl klastische, als auch carbonatische Sedimente entstehen, da die Schelfe über den [[Kompensationstiefen]] von Calcit und Aragonit liegen. Wird ein flaches Meer abgeschnitten, entstehen chemische Sedimente nach der [[Evaporationsfolge]]. Biogene Riffe aus sessilen Organismen, wie Korallen, Cyanobakterien, ALgen oder Schwämmen, je nach Umweltbedingungen, gedeihen hier ebenfalls. 
-Hinter einem Riff in Richtung Küste bilden sich beruhigte Lagunen, in denen fast kein Wellengang herrscht. Die Vorderkante der Riffplatte, die sich recht dicht unter der Oberfläche befindet, fängt den Wellengang ab und muss daher recht stabil sein, sie besteht etwa aus Algenkrusten und Stromatolithen.
-Dennoch brechen immer wieder Teile des Riffs ab und stürzen als Riffschutt in größere Tiefen hinab.
-
 ### Rivermouths
 
 #### Riverine Sediment input
@@ -92,7 +86,7 @@ Notice how close tide dominated eltas are to estuaries. They are basically estua
 
 Deltas consist of the Prodelta, which is barely influenced by the delta, the Delta Front, so the sloped part, and the Delta Top, which has already risen above water level. Since the delta progrades, in a later core, sediments of all three parts are layered on top of each other, prodelta at the bottom, then deltafront, then delta top.
 
-If you cut a delta at a right angle to the coastline, clinorms are visible. These are inclined beds representing earlier deltafronts. They are layered on top of each other during progradation. They are, obviously, incline towards the sea.
+If you cut a delta at a right angle to the coastline, clinoforms are visible. These are inclined beds representing earlier deltafronts. They are layered on top of each other during progradation. They are, obviously, inclined towards the sea.
 
 If you cut a delta parallel to the coastline, a lobe shape is visible. The Sediment is thickest in the Middle, thinning out towards the edges.
 

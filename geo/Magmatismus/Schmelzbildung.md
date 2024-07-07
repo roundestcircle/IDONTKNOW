@@ -25,13 +25,17 @@ Es benötigt also besondere Bedingungen, um Schmelzen zu erzeugen, drei davon si
 
 ### Basalthaupttypen in Ozeanischen Becken
 
-Die Basalthaupttypen unterscheiden sich vor allem in ihrer [[SiO2-Basics|SiO2-Sättigung]]. Olivin und Quarz können nicht parallel existieren, da sie zusammen zu Enstatit ([[Pyroxene#Orthopyroxene Chem]]) reagieren. Wie an den Namen zu erkennen, unterscheiden sie sich vor allem im Gehalt an Alkalimetallen. (Vgl [[Hauptelementanalysen#TAS-Diagramm]])
+Die Basalthaupttypen unterscheiden sich in ihrer [[SiO2-Basics|SiO2-Sättigung]]. Olivin und Quarz können nicht parallel existieren, da sie zusammen zu Enstatit ([[Pyroxene#Orthopyroxene Chem]]) reagieren. Wie an den Namen zu erkennen, unterscheiden sie sich vor allem im Gehalt an Alkalimetallen. (Vgl [[Hauptelementanalysen#TAS-Diagramm]])
 
 Die Einordnung der Magmentypen läuft über den [[Hauptelementanalysen#Grundlagen|Normativen Mineralbestand]]: 
 
 ![[Pasted image 20240613130143.png]]
 
+Alkalische Basalte enthalten normativ Nephelin, Tholeiitische nicht, diese enthalten dafür normativ Quarz.
+
 Überprüfte Gesteinsproben zeigen konsistente Differenzen, sie liegen entweder links der Trennlinie (Alkalische Basalte), oder Rechts (Subalkalische Basalte). Beide sind jedoch durch einen sehr hohen Magnesiumanteil (im Vergleich zu Eisen) in den Primärmagmen gekennzeichnet.
+
+Alkalische Basalte sind typisch für OIBs. Tholeiite kommen sowohl am MOR als auch in OIBs vor. Für Gründe siehe unten.
 
 #### Entstehung aus einem einheitlichen Mantel?
 

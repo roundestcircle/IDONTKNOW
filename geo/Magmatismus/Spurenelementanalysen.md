@@ -67,7 +67,7 @@ Das hier dargestellte Diagramm (aus Rollinson (1993), Using Geochemical Data) be
 Seltene Erden sind nicht allzu selten. Gold, Silber und einige andere Metall sind deutlich seltener. Sie werden vor allem in Elektromotoren, Generatoren und Hochleistungsmagneten gebraucht. Der Bedarf nach ihnen wird weiter steigen.
 Die Lanthanoide besitzen alle eine Ladung von +3, außer Europium, das auch +2 geladen sein kann, wodurch es von manchen Trends abweicht. Die Ionenradien sinken von La nach Lu, weswegen die Kompatibilität (sh oben Regel zu gleicher Ladung, schwankendem Radius) tendeziell zu Lu hin zunimmt. Man unterscheidet etwa in der Mitte der Reihe zwischen Light- und Heavy Rare Earth Elements (LREE, HREE).
 
-Da LREE inkompatibler sind, werden sie insbesondere bei geringen Schmezgraden stärker angereichert als HREE. Der Unterschied ist umso größer, je geringer der Schmezgrad ist.
+Da LREE inkompatibler sind, werden sie insbesondere bei geringen Schmelzgraden stärker angereichert als HREE. Der Unterschied ist umso größer, je geringer der Schmelzgrad ist. Der Abstieg im REE-Diagramm ist also steiler, je geringer der Schmelzgrad.
 
 Achtung: Bei Plagioclas nimmt die Kompatibilität aufgrund der spezifischen Ionengröße der Kationenstellen nach Lu hin ab statt zu. Remember: D ist für jede Element-Mineral-Kombination unterschiedlich. Eine Ausnahme bildet Europium, das als zweifach positiv geladenes Ion sehr stark eingebaut wird.
 

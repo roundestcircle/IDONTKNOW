@@ -7,6 +7,7 @@ Dolomit und Calcit bilden bei Raumtemperatur keine Mischkristalle.
 
 Beim Kontakt mit Salzsäure schäumen beide Minerale, Calcit jedoch stark, Dolomit oft nur in Pulverform und schwächer.
 
+In thin section, a special colouring can be used that only colours calcite and aragonite, while dolomite remains unaffected.
 
 ### Mischungslücke
 

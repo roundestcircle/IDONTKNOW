@@ -6,11 +6,11 @@ Hotspots sind besonders heiße Stellen des Erdmantels, evtl weil dort ein Konvek
 
 ### Nachweis von Hotspots
 
-Seismische Wellen bewegen sich in wärmerem Material langsamer als in kälterem. Über die Messung der Ausbreitungsgeschwindigkeiten lassen sich so sehr genau heiße Stellen im Erdninneren finden. In 500 Km Tiefe lassen sich davon viele, relativ gleich verteilte finden. In größeren Tiefen sind tatsächlich nurnoch zwei, sehr große Hotspots zu sehen. sie liegen unter dem Pazifik und westlich von Südafrika. Eventuell sind sie überbleibsel der Kollision, die auch den Mond hervorbrachte. 
+Seismische Wellen bewegen sich in wärmerem Material langsamer als in kälterem. Über die Messung der Ausbreitungsgeschwindigkeiten lassen sich so sehr genau heiße Stellen im Erdninneren finden. In 500 Km Tiefe befinden sich davon viele, relativ gleich verteilte. In größeren Tiefen sind tatsächlich nur noch zwei sehr große Hotspots zu sehen. sie liegen unter dem Pazifik und westlich von Südafrika. Eventuell sind sie überbleibsel der Kollision, die auch den Mond hervorbrachte. 
 
 ### Hawaii
 
-Hawaii bewegt sich mit einer Geschwindigkeit von etwa 8cm im Jahr über einen Hotspot. Die Inselkatte besteht aus einem bis zwei aktiven Vulkanen und einer Kette aus Seamounts, die über 6000 Kilometer lang ist. Der Mauna Loa, der hauptsächlich aktive Vulkan der Inselkette, ist so schwer, dass er die pazifische Platte spürbar deformiert. Etwas südöstlich des Mauna Loa entsteht schon langsam der nächste aktive Vulkan, der den Mauna Loa ablösen wird.
+Hawaii bewegt sich mit einer Geschwindigkeit von etwa 8cm im Jahr über einen Hotspot. Die Inselkette besteht aus einem bis zwei aktiven Vulkanen und einer Kette aus Seamounts, die über 6000 Kilometer lang ist. Der Mauna Loa, der hauptsächlich aktive Vulkan der Inselkette, ist so schwer, dass er die pazifische Platte messbar deformiert. Etwas südöstlich des Mauna Loa entsteht schon langsam der nächste aktive Vulkan, der den Mauna Loa ablösen wird.
 
 ### OIB
 

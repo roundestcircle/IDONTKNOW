@@ -77,7 +77,7 @@ Accomodation is the space available for potential sediment accumulation.
 
 ## Sedimentary Basin
 
-Sedimentary Basins are Large scale depressions of the crust, where subsidence has occurred and a thick body of sediments has been accumulated. Especially important sedimentary basins are the shalow waters next to Riverdeltas. They sometimes accumulate Sediment-Thicknesses of over 15km. The Ganges-Delta is the most important of them. The large thickness allows for Compaction and Cementation which necessitate high pressures and sometimes Temperatures.
+Sedimentary Basins are Large scale depressions of the crust, where subsidence has occurred and a thick body of sediments has been accumulated.  Especially important sedimentary basins are the shalow waters next to Riverdeltas. They sometimes accumulate Sediment-Thicknesses of over 15km. The Ganges-Delta is the most important of them. The large thickness allows for Compaction and Cementation which necessitate high pressures and sometimes Temperatures.
 
 # Ablagerung- und Transportsräume
 
@@ -87,7 +87,8 @@ Sedimentary Basins are Large scale depressions of the crust, where subsidence ha
 5. [[Coastal Environments]]
 6. [[Äolische Systeme]]
 8. [[Massenselbsttransport]]
-9. [[Kontinentalhang und Tiefsee]]
+9. [[Shelf]]
+10. [[Kontinentalhang und Tiefsee]]
 
 # Waltersches Faziesmodell: 
 

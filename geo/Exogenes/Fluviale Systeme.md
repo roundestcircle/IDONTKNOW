@@ -59,14 +59,14 @@ Flüsse, die sich in viele Rinnen, zwischen denen Kiesbänke liegen und die aufg
 
 Braided rivers are suprisingly well sorted, even though they are close to the seidiment source ([[Siliziklastika#Textural Maturity]]). They consist of course sand and gravel. Due to the relatively high energy, lighter particles are carried away quickly.
 
-The Flow energy varies significantly. The Channels change course regularly (avulsion). The channel bases are eroded, while the bars between them accumulate sediment. Bars migrate (accrete) and fine downstream. This is due to a position-change of the fastest flow: it hits the bar headon, but is moved outwards as the channel curves around the bar. Therefore the flow energy right next to the bar decreases downstream., alowing fore finer downstream deposition.
+The Flow energy varies significantly. The Channels change course regularly (avulsion). The channel bases are eroded, while the bars between them accumulate sediment. Bars migrate (accrete) and fine downstream. This is due to a position-change of the fastest flow: it hits the bar headon, but is moved outwards as the channel curves around the bar. Therefore the flow energy right next to the bar decreases downstream, allowing for finer downstream deposition.
 ![[Pasted image 20240618164822.png]]
 
 Braided deposits usually dont show an overarching vertical trend, the grain size does not change systematically. This creates very homogenous logs ([[Sedimentological Logging]]). Since the channels are under erosion, and no other elements exist, all remaining sediments are braid bar deposits.
 
 ### Mäandrierende Flüsse
 
-Mäandrierende Flüsse haben nur einen Stromstrich, sind aber stark gewunden. An jeder Windung liegt ein sogenannter Prallhang an der Außenseite der Kurve, an dem Die Strömung besonders hoch ist und dementsprechend viel Material erodiert wird. Auch Verwirbelungen, hervorgerufen durch die stark unterschiedlichen Fließgeschwindigkeiten der zwei Seiten des Flusses tragen zur Erosion bei. Auf der Innenseite der Kurve dagegen liegt der Gleithang, an dem Material abgelagert wird (point bar). So vergrößern sich die Kurven immer mehr, bis sich schließlich zwei benachbarte Kurven treffen. Das Wasser entscheidet sich für den neuen, kürzeren Weg, Ein Hufeisenförmiger Altarm entsteht, der schließlich vom Flussverlauf abgeschnitten wird. If a large meander is cutoff by a smeller meander (equivalent to an earlier channel bed), its calle a chute cutoff. 
+Mäandrierende Flüsse haben nur einen Stromstrich, sind aber stark gewunden. An jeder Windung liegt ein sogenannter Prallhang an der Außenseite der Kurve, an dem Die Strömung besonders hoch ist und dementsprechend viel Material erodiert wird. Auch Verwirbelungen, hervorgerufen durch die stark unterschiedlichen Fließgeschwindigkeiten der zwei Seiten des Flusses tragen zur Erosion bei. Auf der Innenseite der Kurve dagegen liegt der Gleithang, an dem Material abgelagert wird (point bar). So vergrößern sich die Kurven immer mehr, bis sich schließlich zwei benachbarte Kurven treffen. Das Wasser entscheidet sich für den neuen, kürzeren Weg, Ein Hufeisenförmiger Altarm entsteht, der schließlich vom Flussverlauf abgeschnitten wird. If a large meander is cutoff by a smaller meander (equivalent to an earlier channel bed), its called a chute cutoff. 
 
 Meandering rivers have more elements than braided rivers (such as channel, point bars, floodplain), logs are therefore more heterogenous. The main deposits are created on the point bars (inner part of meander). Point bar logs are typically fining up, as the drill location consistently moves further away from the active channel through accretion and erosion (or rather, the channel moves away). Therefore, point bars migrate laterally as opposed to downstream on a braided river. They might also rotate, expand or translate as well. Abandoned channel parts (s.o.) are filled in ([[Lacustrine Systems]]).
 
@@ -79,4 +79,4 @@ During each flood, a thin homogenous, fine layer is deposited on the floodplain.
 
 ### Anastomising River
 
-Anastomising rivers are similar to meandering rivers, but they consist of multiple channels. The craeted Islands are quite long lived and vegetated.
+Anastomising rivers are similar to meandering rivers, but they consist of multiple channels. The created Islands are quite long lived and vegetated.

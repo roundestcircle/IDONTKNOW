@@ -25,7 +25,7 @@ In magmatischen Prozessen wird nicht oder kaum zwischen Isotopen eines Elements 
 
 ## Rb-Sr-System
 
-Sowohl Rb als auch Sr haben verschiedene Isotope, besonders wichtig sind $\displaylines{^{87}Rb,\ ^{87}Sr$ und $^{86}Sr}$. Die zwei Strontium-Isotope sind stabil, während das Rb-Isotop in $^{87}Sr$ zerfällt.
+Sowohl Rb als auch Sr haben verschiedene Isotope, besonders wichtig sind $\displaylines{^{87}Rb,\ ^{87}Sr}$ und $^{86}Sr$. Die zwei Strontium-Isotope sind stabil, während das Rb-Isotop in $^{87}Sr$ zerfällt.
 
 ### Geochronologie
 
@@ -44,7 +44,7 @@ $$
 Beispiel: 
 ![[th-3694470078.jpg]]
 
-Zu jedem Zeitpunkt ergibt sich also für ein analysiertes Gestein eine Gerade, auf der die Minerale mit verschiedenen intialen Rb/Sr Verhältnissen liegen. Sie haben alle den gleichen Y-Achsenabschnitt, nämlich das Initiale Sr/Sr Verhältnis. Das Sr/Sr-Verhältnis verändert sich mit der Zeit ausschließlich aufgrund des Rb Zerfalls (je mehr RB zu Beginn, desto mehr $^{87}Sr$). Die Steigung der Gerade verändert sich deswegen mit der Zeit: bei t=0 beträgt sie 0, bei hohen t-Werten mehr. Sie bleibt jedoch eine Gerade: Die Minerale, die mit mehr Rb begonnen, erfahren eine stärkere Veränderung als die, die mit weniger Rb begonnen haben.
+Zu jedem Zeitpunkt ergibt sich also für ein analysiertes Gestein eine Gerade, auf der die Minerale mit verschiedenen intialen Rb/Sr Verhältnissen liegen. Sie haben alle den gleichen Y-Achsenabschnitt, nämlich das Initiale Sr/Sr Verhältnis (Sozusagen ein Mineral völlig ohne das Mutterisotop, das an diesem Ort bleibt). Das Sr/Sr-Verhältnis verändert sich mit der Zeit ausschließlich aufgrund des Rb Zerfalls (je mehr RB zu Beginn, desto mehr $^{87}Sr$). Die Steigung der Gerade verändert sich deswegen mit der Zeit: bei t=0 beträgt sie 0, bei hohen t-Werten mehr. Sie bleibt jedoch eine Gerade: Die Minerale, die mit mehr Rb begonnen, erfahren eine stärkere Veränderung als die, die mit weniger Rb begonnen haben.
 
 Hat man also mehrere Proben, kann man eine Linie durch sie legen und so das Ursprungs-Sr/Sr- Verhältnis feststellen, indem der Y-Achsenabschnitt betrachtet wird. Über die Steigung lässt sich dann auch t feststellen:
 
