@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "geo/Exogenes/Verwitterung.md",
-                "mode": "preview",
+                "file": "bio/Ökologie & Geobotanik/Klima als Standortfaktor.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ooid",
+                "query": "Mikrokli",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geo/Exogenes/Verwitterung.md",
+                "file": "bio/Ökologie & Geobotanik/Klima als Standortfaktor.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -126,34 +127,37 @@
   },
   "active": "e70077cb8afa86f3",
   "lastOpenFiles": [
+    "geoöko/Klimageo/Klimasystem Erde.md",
+    "bio/Ökologie & Geobotanik/Klima als Standortfaktor.md",
+    "geoöko/Biogeo/Terrestrische Biome/Terrestrische Biome.md",
+    "geoöko/Biogeo/Arealkunde.md",
+    "geoöko/Ökozonen/Ökozonen.md",
+    "bio/Ökologie & Geobotanik/Standortfaktoren.md",
+    "bio/Ökologie & Geobotanik/Einführung Pflanzenöko.md",
+    "bio/Ökologie & Geobotanik/Definitionen Ökologie.md",
+    "bio/Ökologie & Geobotanik/Einführung Geobotanik.md",
+    "bio/Ökologie & Geobotanik/Photosynthese.md",
+    "Attachments/th-3883905794.jpg",
+    "geoöko/Biogeo/Zeigerwerte.md",
+    "chem/PC/Ideale Gase.md",
+    "chem/PC/0. Hauptsatz der TD.md",
+    "chem/PC/Temperatur und thermische Energie.md",
+    "chem/PC/Untitled",
+    "chem/PC/Einheiten.md",
+    "chem/PC/Begriffliche Grundlagen PC.md",
+    "chem/Säure-Base-Reaktionen.md",
+    "chem/RedOx-Reaktionen.md",
+    "Overview Files/Overview Geobotanik.md",
+    "chem/PC",
+    "Overview Files/Overview PC.md",
+    "Overview Files/Overview Chemie.md",
+    "bio/Ökologie & Geobotanik/Wasserhaushalt der Pflanze.md",
+    "geo/Exogenes/Verwitterung.md",
     "geo/Exogenes/Transport und Sedimentation.md",
     "geo/Exogenes/Shelf.md",
     "geo/Exogenes/Sedimentology Basics.md",
-    "geo/Exogenes/Sedimentological Logging.md",
-    "geo/Exogenes/Sedimentary Structures.md",
-    "geo/Exogenes/Massenselbsttransport.md",
-    "geo/Exogenes/Lacustrine Systems.md",
-    "geo/Exogenes/Korngrößenanalyse mittels dry-sieving.md",
-    "geo/Exogenes/Kontinentalhang und Tiefsee.md",
-    "geo/Exogenes/Kompaktion und Diagenese.md",
-    "geo/Exogenes/Gletscher.md",
-    "geo/Exogenes/Fluviale Systeme.md",
-    "geo/Exogenes/Exogene Prozesse.md",
-    "geo/Exogenes/Evaporationsfolge.md",
-    "geo/Exogenes/Eiszeiten.md",
-    "geo/Exogenes/Coastal Environments.md",
-    "geo/Exogenes/Carbonate Systems.md",
-    "geo/Exogenes/Äolische Systeme.md",
-    "geo/Exogenes/Alluviale Systeme.md",
-    "geo/Gesteinsbestimmung/Sedimentgesteine/Siliziklastika.md",
-    "geo/Exogenes/Sandzusammensetzung.md",
-    "geo/Gesteinsbestimmung/Sedimentgesteine/Oolithe.md",
-    "geo/Gesteinsbestimmung/Sedimentgesteine/Kalkstein.md",
-    "geo/Minerale/Bestimmung/Carbonate/Calcit-Dolomit Unterscheidung.md",
     "geo/Exogenes/geo/Exogenes",
     "geo/Exogenes/geo",
-    "geo/Magmatismus/Subduktionszonen.md",
-    "geo/Magmatismus/Schmelzbildung.md",
     "Attachments/Pasted image 20240618185825.png",
     "Attachments/Pasted image 20240618184122.png",
     "Attachments/Pasted image 20240618182828.png",
@@ -163,15 +167,12 @@
     "Attachments/Pasted image 20240618172242.png",
     "Attachments/Pasted image 20240618164822.png",
     "Attachments/Pasted image 20240618163946.png",
-    "Attachments/Pasted image 20240617192029.png",
     "zotero_attachments",
     "zotero",
     "geoöko/Biogeo/Terrestrische Biome",
     "geoöko/Ökozonen",
     "bio/Ökologie & Geobotanik",
     "physics",
-    "Attachments/Trockensiebung_17_04_24.pdf",
-    "geoöko/Bodengeo/Bodentypen",
     "Untitled.canvas"
   ]
 }

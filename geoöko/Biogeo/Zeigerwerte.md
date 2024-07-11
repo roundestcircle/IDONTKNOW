@@ -1,4 +1,4 @@
-#Geoöko #Biogeo 
+#Geoöko #Biogeo #Geobotanik 
 
 Gruppe:: Biogeo
 
@@ -12,7 +12,7 @@ Allen Pflanzen werden Zu den folgenden Sieben Größen Werte von 1-9 zugeordnet.
 
 | Umweltgröße   | Symbol | 1 zeigt an       |
 | ------------- | ------ | ---------------- |
-| Lichtzahl     | I      | Tiefschatte      |
+| Lichtzahl     | L      | Tiefschatten      |
 | Temp.-Zahl    | T      | Kalt             |
 | Kontin.-Zahl  | K      | Eurozeanisch     |
 | Feuchtezahl   | F      | Trocken          |

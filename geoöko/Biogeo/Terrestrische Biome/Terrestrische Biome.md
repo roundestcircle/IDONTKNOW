@@ -1,4 +1,4 @@
-#Geoöko #Biogeo 
+#Geoöko #Biogeo #Geobotanik 
 
 Gruppe:: Biogeo
 
@@ -17,7 +17,7 @@ FROM #Geoöko And #Best And #Biogeo
 
 ## Zonale Vegetation
 
-An mittleren Standorten dominierend.
+An mittleren Standorten dominierend. Würde sich unter vorherrschenden Großklimabedingungen ausbilden.
 
 ## Azonale Vegetation
 
@@ -25,7 +25,7 @@ An Sonderstandorten verbreitet und nicht an Vegetationszone gebunden, zum Beispi
 
 ## Extrazonale Vegetation
 
-Zonale Vegetation einer anderen Zone, durch mikroklimatische Besonderheiten kleinräumig vorkommend.
+Zonale Vegetation einer anderen Zone, durch mikroklimatische Besonderheiten kleinräumig vorkommend. In Mitteldeutschland zum Beispiel Steppenrasen.
 
 ## potenzielle natürliche Vegetation
 

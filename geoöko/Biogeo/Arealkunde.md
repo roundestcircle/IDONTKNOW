@@ -26,20 +26,6 @@ Arealtypen können dreidimensional beschrieben werden: Aus den latitudinalen (Br
 
 Es lassen sich verschiedene Diagramme mit verschiedenen Faktoren einzeichnen, in denen sich die Arealtypen eintragen lassen.
 
-### Altitudinale Zonen
-
-Von oben nach unten:
-
-- Nival
-- Alpin
-- Subalpin
-- Hochmontan
-- Mittelmontan
-- Untermontan
-- Submontan
-- Kollin
-- planar
-
 ## Ausdehnung von Arealen
 
 Erfordert bei Pflanzen Diasporen und erfolgt in der Regel nur über geringe Entfernungen, selten kommt es zur Fernausbreitung.
