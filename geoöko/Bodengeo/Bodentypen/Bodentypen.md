@@ -14,3 +14,9 @@ Gruppe:: Bodengeo
 TABLE Horizontfolge, Vorkommen
 FROM #Geoöko And #Best And #Boden
 ```
+
+## Beispielhafte Bodenabfolge auf Silikatgestein
+
+![[Pasted image 20240712130825.png]]
+
+## [[Bodenhorizonte#Bodentypen und Horizonte]]

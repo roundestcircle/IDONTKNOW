@@ -10,27 +10,35 @@ Der Boden reguliert Oberflächenabfluss und Grundwasser und dient als Zwischensp
 
 ## Wasserbewegung im Boden
 
-Wasser gelangt nur bei sehr großporigen Böden durch die Schwerkraft in den Boden, ansonsten wird es eher über Kapillar und Haftkräfte in die Bodenporen hineingezogen. Dabei muss es gegen die Lust, die diese Kapillaren füllt, anarbeiten. Diese Kapillarkräfte erlauben Wasser auch, sich von unten nach oben durch den Boden zu bewegen. Dementsprechend bewegt sich Wasser im Boden seitlich und nach unten gleich schnell.
+Wasser gelangt nur bei sehr großporigen Böden durch die Schwerkraft in den Boden, ansonsten wird es eher über Kapillar und Haftkräfte in die Bodenporen hineingezogen. Dabei muss es gegen die Luft, die diese Kapillaren füllt, anarbeiten. Diese Kapillarkräfte erlauben Wasser auch, sich von unten nach oben durch den Boden zu bewegen. Dementsprechend bewegt sich Wasser im Boden seitlich und nach unten gleich schnell.
 
 Dieser Prozess kann zu seltsamen Artefakten führen, etwa, dass eine Sandschicht unter einer Schluffschicht trocken bleibt, bbis diese vollständig wassergesättigt ist, da die Kapillarkräfte des Sands aufgrund der höheren Porengröße zu schwach sind, um dem Schluff das Wasser zu entziehen.
 
 Das Haft oder Adsorptionswasser, das über H-Brücken an Bodenpartikel gebunden ist, ist nicht Pflanzenverfügbar, das die Bindungskräfte zu stark sind ([[Wasserhaushalt der Pflanze]]).
 
-Kapillaren haben je nach Größe verschiedene Eigenschaften: größere Kapillaren können mehr Wasser transportieren, dafür jedoch nicht so hoch, während kleinere weniger Wasser transportieren können, dafür jedoch höher.
+Kapillaren haben je nach Größe verschiedene Eigenschaften: größere Kapillaren (also etwa zwischen größeren Teilchen) können mehr Wasser transportieren, dafür jedoch nicht so hoch, während kleinere weniger Wasser transportieren können, dafür jedoch höher.
+
+Große Kapillaren können das Wasser schlechter halten, kleinere besser. Die Menge an Wasser, die gegen die Schwerkraft in den Poren gehalten wird, bezeichnet man als Feldkapazität. Die Feldkapazität liegt unter der Bodenwassersättigung.
 
 Durch Poren, die so groß sind, dass sie das Wasser nicht halten können, versickert das Wasser weiter nach unten. Oben anstehendes Wasser kann dabei durch die Auflast helfen.
 
 ## Im Boden wirkende Potentiale
 
-[[Wasserpotential]]
+[[Wasserhaushalt der Pflanze#Wasserpotential]]
 
-1. Das Gravitationspotential will das Wasser nach nten befördern.
+1. Das Gravitationspotential will das Wasser nach unten befördern.
 2. Das Matrix oder Kapillarpotential will das Wasser im Boden halten.
 3. Das osmotische Potential hygroskopischer Substanzen will das Wasser ebenfalls im Boden halten
 
+Dies bedeutet, dass das Bodenwasser meist nicht frei verfügbar ist, sondern an Kolloide angelagert (hygroskopisches Wasser), in Kapillaren oder an Ionen gebunden ist.
+
+Wasserpotential des Bodens = Matrixpotential + Osmotisches Potential
+
 ### Matrixpotential
 
-Das Matrixpotential ist abhängig von Oberfläche der Teilchen und der Porengröße. Beides ist abhängig von der Korngröße.
+Das Matrixpotential ist abhängig von Oberfläche der Teilchen und der Porengröße. Beides ist abhängig von der Korngröße. Das Matrixpotential sinkt mit steigender Korngröße, sodass mit sinkender Korngröße immer mehr Wasser nicht Pflanzenverfügbar gebunden wird.
+
+![[Pasted image 20240712132357.png]]
 
 ### Saugspannung
 

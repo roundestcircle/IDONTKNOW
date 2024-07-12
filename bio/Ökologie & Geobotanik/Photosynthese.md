@@ -31,3 +31,29 @@ Schattenklone sind im Schatten den Sonnenklonen überlegen, was die Photosynthes
 Einzelne Individuen können Sonnen- und Schattenblätter besitzen. Schattenblätter sind größer, dünner und haben weniger Adern und Stomata als Sonnenblätter.
 
 Sonnenblätter besitzen einen höheren Lichtsättigungspunkt, und einen höheren Lichtkompensationspunkt als Schattenblätter. Ihre maximale Photosyntheserate ist höher.
+
+### C4-Pflanzen
+
+Bei C4-Pflanzen finden Licht- und Dunkelreaktion getrennt in verschiedenen Chloroplasten statt. Statt der Rubisco wird die PEP-Carboxylase zur ersten C-Fixierung genutzt. Dadurch wird C sozusagen vorangereichert, um die weiteren Prozesse (RUBISCO) effizienter zu machen. Sie ist nicht gleichzeitig Oxygenase und läuft dementsprechend nicht Gefahr, Energie wieder freizusetzen. Statt einem C3-Körper ist das primäre Fixierungsprodukt ein C4-Körper. Dieser C4-Körper wird dann in den normalen Calvin-Zyklus in einer anderen Zelle überführt. Der C4-Prozess ist recht Energieintensiv.
+
+C4-Pflanzen sind mindestens 61 mal unabhängig voneinander entstanden und sind eine Anpassung an sehr niedrige CO2-Konzentrationen. C4-Pflanzen brauchen mehr Licht (höherer Komp-Punkt) als C3-Pflanzen, erreichen jedoch keine Lichtsättigung und haben dadurch sehr hohe maximale Assimilationsraten. Die Photosyntheserate kann einfach immer weiter steigen (RUBISCO limitiert nicht mehr mit seiner Ineffizienz). Sie verbrauchen weniger Wasser und Stickstoff als C3-Pflanzen (weniger Rubisco muss hergestellt werden, das viel Stickstoff benötigt).
+
+C4-Pflanzen haben ein sehr hohes Temperaturoptimum. Sie kommen nur in warmen Regionen vor. Mit dem Klimawandel steigt der CO2-Gehalt (C3 bevorzugt) und die Temperatur (C4 bevorzugt), weswegen die zukünftige Dominanz schwer vorauszusagen ist.
+
+Die Produktivität von C4-Pflanzen steigt nicht, wenn der CO2-Gehalt der Umgebung steigt, der von C3-Pflanzen schon. RUBISCO wird effizienter, während der C4-Mechanismus zunehmend nur Energieverschwendung ist.
+
+Beispiele: Mais, Zuckerrohr, Amaranth, Hirse
+
+#### Erkennung von C4-Pflanzen
+
+Bei allen Prozessen werden die schweren C-Isotope benachteiligt, bei RUBISCO jedoch deutlich stärker als bei PEP-Carboxylase, sodass der Anteil von $^{13}C$ bei C4-Pflanzen höher ist. Er ist jedoch immer noch niedriger als in Vergleichskalksteinen.
+
+### CAM-Pflanzen
+
+CAM-Pflanzen nutzen ebenfalls die PEP-Carboxylase zur C-Vorfixierung. Diese Vorfixierung geschieht nachts, wenn es kälter ist und der Wasserverlust über die geöffneten Stomata dementsprechend geringer. Die produzierten C4-Körper werden dann als Apfelsäure in der Vakuole gespeichert und tagsüber dann mithilfe von Lichtenergie und RUBISCO weiterverarbeitet, wobei die Stomata geschlossen bleiben können. Damit ist die tägliche Fixierung auf die Kapazität der Vakuole, Malic Acis aufzunehmen beschränkt.
+
+Dieser Metabolismustyp ist besonders bei Sukkulenten verbreitet. Sie müssen ihren Wasserverlust verringern und haben viel Speichergewebe, das die Apfelsäure aufnehmen kann. Mit steigendem Sukkulenzgrad (Wassergehalt pro Oberfläche, also rein geometrisches Maß) steigt der Anteil des CAM-Metabolismus an der Gesamtfixierung (innerhalb einer Gattung).
+
+CAM-Pflanzen wachsen sehr langsam, haben ein hohes Temperaturoptimum, einen mittleren bis hohen Lichtbedarf, und sehr niedrige CO2, N und Wasserbedarfe.
+
+CAM-Pflanzen einer Art können diesen Mechansimus unterschiedlich intensiv nutzen, je nachdem wie stark der momentane Trockenstress ist.

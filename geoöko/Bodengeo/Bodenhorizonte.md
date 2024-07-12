@@ -40,3 +40,8 @@ Prozesse im A-Horizont bilden den B-Horizont, er kann ohne A-Horizont nicht ents
 | w      | pedogene Ausbildung von Farbe oder Gefüge (wie Putz oder Farbe an Wänden) |
 | y      | pedogene Anreicherung mit Gips (gypsum)                                   |
 | z      | pedogene Anreicherung von leichtlöslichen Salzen (löslicher als Gips)     |
+
+
+### [[Bodentypen]] und Horizonte
+
+![[Pasted image 20240712130953.png]]
