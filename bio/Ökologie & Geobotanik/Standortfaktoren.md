@@ -9,16 +9,20 @@ Distale/Indirekte Faktoren beeinflussen dabei die proximalen Faktoren, die die d
 Distale Faktoren:
 - [[Klima als Standortfaktor]] 
 - Relief
-- Boden
+- [[Boden als Standortfaktor]]
 - Biotische Faktoren
 
 Proximale Faktoren:
-- Licht
+- Licht ([[Strahlung als Standortfaktor]])
 - Wärme
 - Wasser
 - Stoffe
 - Raum
 - Mechanische Einwirkungen
+- Parasiten
+- Bestäuber
+- Konkurrenten
+- Fressfeinde
 
 ## Generalisten und Spezialisten
 
@@ -41,3 +45,14 @@ Die Nische ist vorzustellen wie ein hyperdimensionaler Raum aus verschiedenen St
 
 Eindimensional (Toleranzkurve): 
 ![[th-3883905794.jpg]]
+
+Zweidimensional (Ökogramm):
+![[Pasted image 20240716181614.png]]
+
+Abgebildet ist die Fundamentalnische der Rotbuche. Viele Bäume haben ihr Leistungsoptimum im gleichen Bereich, werden jedoch von der Buche in die Randbereiche gedrängt (Realnische).
+
+### Nischendifferenzierung
+
+Nischendifferenzierung am oben genannten Beispiel der Waldbäume:
+
+![[Pasted image 20240717183221.png]]

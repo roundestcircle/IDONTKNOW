@@ -70,3 +70,12 @@ Dieser Mechanismus der Begrenzung der Transpiration ist das erste und einzige so
 ### Dürreresistenz-Strategien
 
 Pflanzen sind entweder tolerant gegenüber Wasserstress (arido-tolerante Pflanzen, Austrocknungstoleranz), gehen aktiv vor um ihn zu vermeiden, etwa durch gute Aufnahme, Speicherung und Sicherung von Wasserreserven (arido-aktive Pflanzen), oder sind dürreempfindlich/aridopassiv.
+
+Aktive Strategien:
+- Sukkulenz
+- Beschattung durch Dornen
+- Reflektion der Strahlung durch Haare und Wachse
+- Transpirationskühlung
+- widerstandsfähiges Protoplasma
+
+[[Osmoregulation]]

@@ -1,4 +1,4 @@
-#Öko #Geoöko #Biogeo 
+#Öko #Geoöko #Biogeo #Geobotanik
 
 Gruppe:: Biogeo
 
@@ -20,9 +20,11 @@ Ressourcen sind begrenzte/verbrauchbare Umweltfaktoren, wie Boden, Licht, Wasser
 
 ## Ökologische Nische
 
-Die Ökologische Nische ist der abiotische Bereich an Bedingungen, unter denen eine Art vorkommt. Viele theoretisch mögliche Kombinationen aus Umweltbedingungen (Nischen) sind nicht besetzt.
+Die Ökologische Nische ist der Bereich an Bedingungen, unter denen eine Art vorkommt. Viele theoretisch mögliche Kombinationen aus Umweltbedingungen (Nischen) sind nicht besetzt.
 
 Die Fundamentalnische ist für eine Art theoretisch besiedelbar/wird in Experimenen toleriert, die realisierte Nische ist der Bereich in dem die Art tatsächlich vorkommt, beeinflusst durch Konkurrenten, Herbivorie oder Bestäuber. Sie ist immer kleiner als die Fundamentalnische.
+
+[[Standortfaktoren#Ökologische Nischen]]
 
 ## Leistungsoptimum 
 
