@@ -6,9 +6,11 @@ Gruppe:: Geoöko, Hydrogeo
 
 Der planteraische Wasserhaushalt ist die bedeutendste Massebewgung der Erde. Er liefert konstant neues Süßwasser, das sonst sehr schnell erschöpft wäre ([[Wasserverteilung auf der Erde]]). Er stellt sozusagen eine riesige Destillieranlage dar. Dennoch fällt der größte Teil des verdunsteten Salzwassers wieder als Niederschlag über dem Meer, doch ausreichend erreicht das Festland um den Abfluss auszugleichen (logischerweise, vgl [[Abfluss]]).  
 
+Der Wasserhaushalt unterscheidet sich stark je anch Flächennutzung und Relief. Dementsprechend nimmt auch der Mensch großen Einfluss auf den Wasserhaushalt.
+
 Alle bekannten Quantifizierungen beruhen auf Schätzungen oder Schlüssen aus niedrigeren [[Dimensionen der Geoökologie]]. Eine Vollerhebung ist schlicht unmöglich.
 
-Ähnlich wie beim [[Energiehaushalt]] bestehen auch hier Überschüsse und Defizite in verschiedenen Regionen. Der [[Abfluss]] unterscheidet sich sehr stark und ist insbesondere in den [[Immerfeuchte Tropen]] und Gebirgen besonders hoch. Gebirge versorgen oft ganze Regionen mit Süßwasser.
+Ähnlich wie beim [[Energiehaushalt der Erde]] bestehen auch hier Überschüsse und Defizite in verschiedenen Regionen. Der [[Abfluss]] unterscheidet sich sehr stark und ist insbesondere in den [[Immerfeuchte Tropen]] und Gebirgen besonders hoch. Gebirge versorgen oft ganze Regionen mit Süßwasser.
 
 # Wasserbilanzgleichung
 

@@ -15,3 +15,9 @@ Die Geobotanik will die Vegetation in ihrer räumlichen Verteilung verstehen und
 - Naturschutz
 - Landschaftsökologie
 - Ökosystemforschung
+
+## Forschungsansätze
+
+- Beobachtend, zb. Vegetationsanalysen
+- Experimentell, zb. durch gezielte Manipulation im Feld, kontrollierten Bedingungen im Gewächshaus oder entlang natürlicher Gradienten
+- Theoretisch, mit mathematischen Modellen

@@ -33,7 +33,7 @@ Die Zusammensetzung verändert sich Anthropogen: Der CO2-Gehalt steigt. Er wird 
 
 ### Treibhauseffekt
 
-Obwohl sie einen verschwindend geringen Anteil der Atmosphäre ausmachen, sind die Treibhausgase essentiell für das Klima. Sie Absorbieren langwellige Rückstrahlung ([[Energiehaushalt]]) der Erde und "fangen" so die Wärme ein. Sie erhöhen dadurch die weltweite Durchschnittstemp. um etwa 33°(!).
+Obwohl sie einen verschwindend geringen Anteil der Atmosphäre ausmachen, sind die Treibhausgase essentiell für das Klima. Sie Absorbieren langwellige Rückstrahlung ([[Energiehaushalt der Erde]]) der Erde und "fangen" so die Wärme ein. Sie erhöhen dadurch die weltweite Durchschnittstemp. um etwa 33°(!).
 
 ## [[Temperatur in der Atmosphäre]]
 

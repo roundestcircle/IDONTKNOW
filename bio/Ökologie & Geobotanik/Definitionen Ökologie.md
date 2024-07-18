@@ -40,7 +40,9 @@ Varaiabilität beschreibt die Verschiedenheit der Individuen einer Art, oder die
 
 ## Ökosystem
 
-Gesamtheit der interagierenden abiotischen und biotischen Faktoren in einem Gebiet
+Gesamtheit der interagierenden abiotischen und biotischen Faktoren in einem Gebiet.
+
+Entspricht Biotop + Biozönose. Bildet ein übergeordnetes Ganzes, das über seine Einzelteile hinausreicht. Es ist offen, aber der Selbstregulation fähig.
 
 ## Biotop
 
@@ -48,7 +50,9 @@ Abiotische Matrix oder Lebensraum, die räumlich abgrenzbar ist.
 
 ## Biozönose
 
-Lebensgemeinschaft eines naturnahen Ökosystems.
+Lebensgemeinschaft eines naturnahen Ökosystems/In einem Biotop.
+
+Aufteilbar in Phytozönose und Zoozönose.
 
 ## Biosphäre
 

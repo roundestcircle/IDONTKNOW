@@ -38,6 +38,8 @@ Evtl sind verschiedene Symbiosepartner an einer Pflanze vorhanden und werden man
 
 Die Pflanze versorgt die Knöllchenbakterien mit Energie (bis zu 30% des gesamten Energieverbrauchs der Pflanze!) und Sauerstoff über Leghämoglobin. Dafür erhält ie NH4+ von der Bakterienknolle. Bis zu 100 kg pro Hektar und Jahr Stickstoffixierung ist möglich.
 
+Die Wurzelwucherung, in der die Bakterien sich später einnisten, werden durch Gene des Bakteriums gesteuert und ausgelöst.
+
 ### RNE (Relativer Nachbar Effekt)
 
 Über den relativen Nachbar-Effekt lassen sich unspezifische +/+-Interaktionen quantifizieren. Ist er positiv, wächst die Pflanze mit Nachbar besser, ist er negativ eher schlechter.
@@ -132,3 +134,21 @@ Beachte, dass sich je nach Störungsregime [[Populationsökologie Pflanzen#r- un
 Die Diversität eines Bestandes ist bei mittlerer Störungsintensität und -häufigkeit am höchsten (Intermediate Disturbance Hypothesis):
 
 ![[Pasted image 20240717184224.png]]
+
+### Dominante Arten
+
+Betrachtet man den relativen Nachbar Effekt dominanter Arten (sh oben), stellt man fest, dass er auch bei dominanten Arten im adulten Stadium negaitv ist, also die Nachabrn der Pflanze schaden. Der einzige Moment, bei dem dominante ARten stärker sind als nicht dominante ist bei der Keimung trotz Nachbarn. Der relative Nachbareffekt bei der Keimung ist bei dominanten Arten positiv, bei schwächeren negativ.
+
+### Konkurrenz und Produktivität
+
+An produktiven Standorten spielt die Konkurrenz eine größere Rolle. K-Strategen sind im Vorteil ([[Populationsökologie Pflanzen#r- und K-Strategen]]). Konkurrenzschwache Arten werden dementsprechend eher auf die unproduktiven Standorte verdrängt ([[Standortfaktoren#Nischendifferenzierung]]).
+
+Der Effekt geht sogar so weit dass bei Düngung die Artenzahl sinkt, da die Individuen größer und stärker werden, die Konkurrenzintensität steigt und dadurch schwache Arten verdrängt werden. Doch auch bei sehr geringer Produktivität überleben nur wenige Arten, da die Bedingungen starke Anpassungen benötigen. Daher geht man davon aus, dass die Artenzahl bei mittlerer Diversität am höchsten ist. Experimentell lässt sich diese Theorie jedoch kaum bestätigen. Frühe Bestätiigungen (hump-shaped-curve, Al Mufti) ließen sich nicht reproduzieren.
+
+#### Artenreichtum als Funktion von Störung und Produktivität
+
+![[Pasted image 20240718124633.png]]
+
+Diese Darstellung ist stark vereinfacht und trifft nicht immer zu.
+
+Eine Umtriebs-Mähweide hat zum Beispiel hohe Störung und hohe Produktivität, jedoch eine geringe Artenzahl.

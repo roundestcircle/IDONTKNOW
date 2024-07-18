@@ -17,7 +17,7 @@ Transpiration ist die Wasserabgabe durch Pflanzen über die Stomata. Überwiegt 
 
 Die Potentielle Evapotranspiration ist die Wassermenge, die bei unbegrenzter Wasserzufuhr an einem Ort verdunsten könnte. Da die Wasserzufuhr an Land nie unbegrenzt ist, liegt die reale Evapotranspiration immer unter der potentiellen, ist jedoch sehr schwer berechen- oder messbar. Nur über Wasser flächen sind die zwei Werte identisch.
 
-Die potentielle Evapotranspiration verringert sich grob mit der [[Energiehaushalt|Strahlung]]sdichte vom Äquator zu den Polen. Wolkenreiche Gebiete wie Gebirge oder Regenwälder liegen jedoch deutlich unter der damit erwarteten pot. Evapotranspiration.
+Die potentielle Evapotranspiration verringert sich grob mit der [[Energiehaushalt der Erde|Strahlung]]sdichte vom Äquator zu den Polen. Wolkenreiche Gebiete wie Gebirge oder Regenwälder liegen jedoch deutlich unter der damit erwarteten pot. Evapotranspiration.
 
 ## Verdunstungsmessung
 

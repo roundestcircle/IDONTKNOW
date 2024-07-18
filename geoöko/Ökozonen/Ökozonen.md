@@ -19,7 +19,7 @@ Gebiete könne anhand verschiedener Kriterien zu Einheiten und Zonen zusammengef
 
 1. Klimatische Charakteristika, [[Klimaklassifikationen (Makroklima)]]
 2. Pflanzliche Charakteristika, beachte konvergente Entwicklung in ähnlichen Bedingungen, [[Terrestrische Biome]]
-3. Energetische Charakteristika (Globalstrahlung, [[Energiehaushalt]])
+3. Energetische Charakteristika (Globalstrahlung, [[Energiehaushalt der Erde]])
 
 ## Vom Nordpol zum Südpol
 

@@ -40,7 +40,7 @@ Bekannte Formen:
 
 ## Oberflächeneigenschaften
 
-Bei besserer Wärmeleitfähigkeit des Bodens heizen sich die Bodennahen Luftschichten weniger auf, genauso bei höherer [[Energiehaushalt#Reflektion|Albedo]] des Bodens.
+Bei besserer Wärmeleitfähigkeit des Bodens heizen sich die Bodennahen Luftschichten weniger auf, genauso bei höherer [[Energiehaushalt der Erde#Reflektion|Albedo]] des Bodens.
 Nasse Böden sind relativ kälter als trockene, da sie besser Wärmeleitfähig sind und einen Teil der Wärme über den latenten Wärmestrom (Verdunstung) abtransportieren können.
 
 Über einem bewachsenen Boden wird ein Großteil der Strahlung durch die Vegetation abgefangen, er heizt sich deutlich weniger stark aus als ein nackter Boden.

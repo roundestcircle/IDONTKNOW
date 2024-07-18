@@ -19,7 +19,7 @@ Der Wasserdampfstrom ist damit abhängig von der Wasserverfügbarkeit, e, der ve
 
 ## Energietransport
 
-vgl. [[Energiehaushalt]]
+vgl. [[Energiehaushalt der Erde]]
 
 ## Feuchtemaße
 
@@ -44,7 +44,7 @@ Die allermeisten Wolken bestehen zu einem Großteil aus Eiskristallen, die auf d
 Funktionen:
 - Energietransport in die Troposphäre
 - Niederschlag
-- Absorption und Reflektion von [[Energiehaushalt|Strahlung]]
+- Absorption und Reflektion von [[Energiehaushalt der Erde|Strahlung]]
 
 ### Wolkenbildung
 
