@@ -1,4 +1,4 @@
-#Geoöko #Biogeo 
+#Geoöko #Biogeo #Geobotanik 
 
 Gruppe:: Biogeo
 
@@ -18,3 +18,29 @@ Man geht davon aus, dass Biodiversität die Stabilität, und damit das langfrist
 [[Pflanzensoziologie#Ressourcennutzung]]
 
 [[Inselbiogeographie]]
+
+## Messung
+
+[[Pflanzensoziologie#Diversitätsindex]]
+
+Diversität kann auf verschiedenen Ebenen betrachtet werden. Zum  Beispiel:
+
+$\alpha$-Diversität: Artenreichtum in einer Aufnahmefläche in einer Pflanzengesellschaft
+$\beta$-Diversität: Unterschiedlichkeit der $\alpha$-Diversität verschiedener Aufnahmeflächen
+$\gamma$-Diversität: Artenreichtum in einer Region
+
+Die $\gamma$-Diversität lässt sich in die zwei Komponenten  $\alpha$-Diversität und $\beta$-Diversität aufteilen. Oft erreicht mit einer gewissen $\gamma$-Diversität die $\alpha$-Diversität ein Sättigung und einzig die $\beta$-Diversität steigt weiter.
+
+## Gefährdungen der Biodiversität
+
+Die Aussterberaten vieler Gattungen steigen in den letzten Jahrzehnten bis Jahrhunderten stark an. In Europa wird erwartet, dass die Hälfte der Pflanzenarten bis 2080 vom Aussterben bedroht sein wird. Besonders betroffen sind die Hochländer Südeuropas. Pflanzen werden hier durch den Klimawandel den Berg hochgetrieben, bis sie nicht mehr weiter aufsteigen können.
+
+Gründe dafür sind:
+
+- Klimawandel
+- [[Stickstoffkreislauf#Eutrophierung]]
+- [[Landschaftsökologie#Fragmentierung]]
+- Landnutzungsänderungen (Abholzung)
+- [[Invasive Arten]]
+
+vgl [[Ökozonen]]

@@ -16,6 +16,14 @@
 
 In dieser Eiszeit geb es drei Vergletscherunge, die bis nach Mitteleurope reichten, jeweils nach ihrer maximalen Ausdehnung Elster, Saale und Weichsel-Eiszeit genannt.
 
+![[Pasted image 20240719131246.png]]
+
+Diese Eizeit ist von stark schwankenden Temperaturen geprägt, was es vermutlich vorher nicht gab. Plattentektonik isolierte die Antarktis über dem Südpol, was dort Eisbildung ermöglichte und durch Albedoerhöhung ([[Energiehaushalt der Erde]]) für eine globale Abkühlung sorgte.
+
+Eisbedeckung Europas während der letzten Vergletscherungen:
+
+![[Pasted image 20240719131630.png]]
+
 ### Permokarbone Eiszeit
 
 Etwa vor 300 Ma ([[Erdgeschichte]]), ein Indiz Wegeners für die [[Entdeckung der Plattentektonik]].

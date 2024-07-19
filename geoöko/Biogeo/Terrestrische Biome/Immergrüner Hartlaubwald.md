@@ -9,7 +9,7 @@ Die Länge der Trockenzeit übersteigt sechs Monate, der Niederschlag ist auf de
 
 ## Vegetation
 
-Die Artendichte ist sehr hoch, Vegetation ursprünglich dominiert von immergrünen Hartlaubgewächsen wie Steineichen, Eukalyptus Etc. Alle diese Arten sind durch ihre Fähigkeit der Regeneration (nach Feuer) durch Stockausschlag gekennzeichnet. Diese Vegetationsform wird auch als Matorral bezeichnet und hat zahlreiche weitere Lokalnamen. Je nach Bewuchshöhe lässt sich niederer (bis 0,5m, Garrigue), und höherer Matorral (bis 2m, Macchie) unterscheiden
+Die Artendichte ist sehr hoch, Vegetation ursprünglich dominiert von immergrünen Hartlaubgewächsen wie Steineichen, Eukalyptus Etc. Alle diese Arten sind durch ihre Fähigkeit der Regeneration (nach Feuer) durch Stockausschlag gekennzeichnet. Diese Vegetationsform wird auch als Matorral bezeichnet und hat zahlreiche weitere Lokalnamen. Je nach Bewuchshöhe lässt sich niederer (bis 0,5m, Garrigue), und höherer Matorral (bis 2m, Macchie) unterscheiden. Sowhl Garrigue als auch Macchie sind italienische Bezeichnungen. Global gibt es weitere verschiedene Namen, wie Fynbos ind Südafrika. Alle diese Namen beschreiebn starke Degradationsstadien ([[Sukzession#Regressive Sukzession]]) des ursprünglichen Hartlaubwaldes, der kaum noch existiert, in Europa schon seit den Römern.
 
 Viele Pflanzen sind an die Sommerdürre durch Sklerophylie, also besonders dickes Stützgewebe in den Blättern, angepasst. Dieses verhindert die Dürre durch zu niedrigen Turgordruck. Auch weitere Anpassungen wie Behaarungen kommen vor.
 

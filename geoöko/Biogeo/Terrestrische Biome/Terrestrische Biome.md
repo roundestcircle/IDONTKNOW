@@ -2,9 +2,23 @@
 
 Gruppe:: Biogeo
 
+## Definitionen
+
+### Biom
+
+Biogeographische Region, die sich durch bestimmte vorherrschende Formationen Auszeichnet.
+
+### Formation
+
+Vegetation, die durch die Dominanz bestimmter Lebensformen geprägt ist und eine bestimmte Struktur hat.
+
+### Zonobiom
+
+Gruppe von Biomen, die grob den [[Klimaklassifikationen (Makroklima)#Effektive Klimaklassifikation nach Köppen|Klimazonen]] entsprechen.
+
 ## Zonale Gliederung der Biosphäre
 
-Die Biosphäre lässt sich anhand charakteristischer Pflanzenformationen (Biome) gliedern. Globale [[Ökozonen template]] nach Klima und Boden sind dabei die oberste Ebene der Betrachtung. Auch Landnutzung und (potentielle natürliche) Vegetation werden jedoch mit einbezogen. Die Erdgeschichte hat oft Einfluss auf diese Zonen und Verbreitungsgebiete, weswegen die direkte Zuordnung zu heutigen Bedingungen nicht unbedingt möglich ist.
+Die Biosphäre lässt sich anhand charakteristischer Pflanzenformationen (Biome) gliedern. Globale [[Ökozonen]] nach Klima und Boden sind dabei die oberste Ebene der Betrachtung. Auch Landnutzung und (potentielle natürliche) Vegetation werden jedoch mit einbezogen. Die Erdgeschichte hat oft Einfluss auf diese Zonen und Verbreitungsgebiete, weswegen die direkte Zuordnung zu heutigen Bedingungen nicht unbedingt möglich ist.
 
 Je näher größere Maßstäbe man betrachtet, desto kleinere Zonen lassen sich erkennen und einteilen. Vergleiche hierzu [[Böden in Deutschland]]. Die Zonale Betrachtung vereinfacht demnach stark. Dennoch ist die großräumge Gliederung anhand mittlerer Standorte sinnvoll.
 
@@ -14,6 +28,18 @@ Die Grenzen sind eher Übergangszonen, im Vordergrund der Erfassung der Zonen st
 List
 FROM #Geoöko And #Best And #Biogeo 
 ```
+
+## Klassifikation anhand von Umweltbedingungen
+
+Viele verschiedene Klassifikationsversuche wurden durchgeführt, ebenso viele haben Mängel.
+
+Zwei Beispiele:
+
+![[Pasted image 20240719140340.png]]
+
+![[Pasted image 20240719140409.png]]
+
+In diese Klassifikation wird nach Nord- und Südhalbkugel differenziert.
 
 ## Zonale Vegetation
 
