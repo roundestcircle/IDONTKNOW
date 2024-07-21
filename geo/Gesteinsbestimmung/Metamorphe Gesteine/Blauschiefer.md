@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[th-3407253050.jpg]]
+![[Foto Blauschiefer.jpg]]
 
 Gruppe:: [[Metamorphite]]
 Primärbestandteile:: Hochdruck[[Amphibole]]

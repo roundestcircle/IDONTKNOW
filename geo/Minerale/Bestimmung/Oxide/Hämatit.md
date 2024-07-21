@@ -1,6 +1,6 @@
 #Min #Oxide #Bestimmung 
 
-![[haematit-glaskopf-_20819.jpg]]
+![[Foto Hämatit (Glaskopf).jpg]]
 Nur ein Beispiel, kann viele verschiedene Formen annehmen.
 
 ### Hämatit Chem

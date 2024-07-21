@@ -47,7 +47,7 @@ In der Bodenlösung unmittelbar zugänglich sind 0,2 Prozent der Nährstoffe, Au
 
 Die Bodennährstoffe befinden sich dabei im dynamischen Gleichgewicht:
 
-![[Pasted image 20240716174121.png]]
+![[Schema Nährstoffverfügbarkeit im Boden.png]]
 
 Pflanzen sind in der Lage, durch die Abgabe pflanzeneigener Stoffe wie Säuren die Nährstoffe von ihren Austauscherplätzen zu verdrängen und pflanzenverfügbar zu machen. Sie agieren also aktiv.
 

@@ -1,6 +1,6 @@
 #Min #Elemente #Bestimmung 
 
-![[th-1276377122.jpg]]
+![[Foto Kupfer.jpg]]
 
 ### Kupfer Chem
   

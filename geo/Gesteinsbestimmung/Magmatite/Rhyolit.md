@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[l_ss140-834326012.jpg]]
+![[Foto Rhyolit.jpg]]
 
 Gruppe:: [[Magmatite]]
 Primärbestandteile:: [[Alkalifeldspäte]], [[Plagioclase]], Quarz

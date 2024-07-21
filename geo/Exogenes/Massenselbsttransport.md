@@ -4,7 +4,7 @@
 
 Beim Massenselbsttransport bewegen sich Lockersedimente aufgrund ihres Eigengewichts bergab. Ab welchem Winkel sie dies tun wird dabei von ihrer Zusammensetzung und ihrem Fluidgehalt bestimmt. Je höher der Wassergehalt, desto geringer der Zusammenhalt im Sediment und desto niedriger Der Winkel, ab dem Massenselbsttransport stattfindet. So können Hangrutsche durch Regen verursacht werden. 
 
-![[Pasted image 20240616162740.png]]
+![[Schema Kategorisierung Gravity Flows.png]]
 
 ### Rock falls
 
@@ -14,7 +14,7 @@ Rock falls are exactly what you magine when hearing rock fall.
 
 A mass of loosely consolidated Material moves downhill by sliding along a concave surface. Like Food moving in a Pan or bowl. The System extends at the top and contracts at the bottom. Slumps can occur both subaerial and subaquatic. The Slump stops at the point at which the concaverupture surface reaches the surface. Slumps lead to folded layers.
 
-![[Pasted image 20240616163205.png]]
+![[Schema Slump.png]]
 
 ### Slide
 

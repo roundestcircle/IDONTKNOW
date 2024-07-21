@@ -17,6 +17,6 @@ FROM #Geoöko And #Best And #Boden
 
 ## Beispielhafte Bodenabfolge auf Silikatgestein
 
-![[Pasted image 20240712130825.png]]
+![[Schema Bodenentwicklung auf silikatischem Gestein.png]]
 
 ## [[Bodenhorizonte#Bodentypen und Horizonte]]

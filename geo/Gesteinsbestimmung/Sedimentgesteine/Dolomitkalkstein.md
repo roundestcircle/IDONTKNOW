@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[th-2667619516.jpg]]
+![[Foto Dolomitkalkstein.jpg]]
 
 Gruppe:: [[Kalkstein]]
 Primärbestandteile:: [[Dolomit]]

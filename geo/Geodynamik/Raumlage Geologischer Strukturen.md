@@ -16,7 +16,7 @@ Winkel zwischen dem Element und der horizontalen Ebene.
 
 ### Einzeichnung auf einer geologischen Karte
 
-![[Screenshot-from-2013-08-16-032245-432231166.png]]
+![[Beispielhafte Kartenmarkierung zur Raumlage geologischer Strukturen.png]]
 
 Zahl: Fallwinkel
 langer Strich: Streichen

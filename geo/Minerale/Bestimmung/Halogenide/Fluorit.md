@@ -1,6 +1,6 @@
 #Min #Halogenide #Bestimmung 
 
-![[fluorit-flussspat-221569345.jpg]]
+![[Foto Fluorit.jpg]]
 
 ### Fluorit Chem
 

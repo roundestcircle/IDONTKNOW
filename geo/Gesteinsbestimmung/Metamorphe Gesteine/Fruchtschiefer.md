@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[th-2966446636.jpg]]
+![[Foto Fruchtschiefer.jpg]]
 
 Gruppe:: [[Metamorphite]]
 Primärbestandteile:: [[Tonminerale]], [[Alumosilikate#Andalusit Eig]], [[Biotit]]

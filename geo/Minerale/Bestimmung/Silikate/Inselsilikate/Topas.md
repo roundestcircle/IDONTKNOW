@@ -1,6 +1,6 @@
 #Min #Silikate #Inselsilikate #Bestimmung 
 
-![[Quartz-Topaz-k-153c.jpg]]
+![[Foto Topas.jpg]]
 
 ### Topas Chem
 

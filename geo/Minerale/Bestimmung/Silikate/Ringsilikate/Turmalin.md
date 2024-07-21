@@ -1,9 +1,9 @@
 #Min #Silikate #Ringsilikate  #Bestimmung 
 
-![[th-3220824402.jpg]]
+![[Foto Turmalin.jpg]]
 Schörl
 
-![[th-1675240106.jpg]]
+![[Foto Turmalin (Elbait).jpg]]
 Elbait
 
 ### Turmalin Chem

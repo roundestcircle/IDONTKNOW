@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[th-3716966010.jpg]]
+![[Foto Granit.jpg]]
 
 Gruppe:: [[Magmatite]]
 Primärbestandteile:: [[Alkalifeldspäte]], [[Plagioclase]], Quarz

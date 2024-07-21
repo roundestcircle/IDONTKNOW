@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[th-3828392538.jpg]]
+![[Foto Amphibolit.jpg]]
 
 Gruppe:: [[Metamorphite]]
 Primärbestandteile:: [[Amphibole]], [[Plagioclase]]

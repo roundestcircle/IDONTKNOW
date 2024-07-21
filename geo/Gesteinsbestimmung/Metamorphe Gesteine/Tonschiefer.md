@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[th-2056227150.jpg]]
+![[Foto Tonschiefer.jpg]]
 
 Gruppe:: [[Metamorphite]]
 Primärbestandteile:: [[Tonminerale]]

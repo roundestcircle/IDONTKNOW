@@ -11,7 +11,7 @@ Aus der Hauptelementanalyse wird dann über komplexe Rechnungen der sogenannte N
 
 ## Typische Analysen
 
-![[Pasted image 20240611202844.png]]
+![[Beispiele Hauptelementanalysen.png]]
 
 Basalt: wenig Quarz und Alkalis, Viel Fe, Ti, Mg, Ca
 
@@ -26,7 +26,7 @@ Auf der Y-Achse kann jedes andere Oxid abgebildet werden, oft auch [[Spureneleme
 
 Beispiele aus Wilson (1989): Igneous Petrogenesis
 
-![[Pasted image 20240611203806.png]]
+![[Beispiele Harker Diagramme 2.png]]
 
 In den Diagrammen sind auch die Mineralphasen vermekt, die den plötzlichen Kurswechsel auslösen. Beginnen sie auszukristallieren, entahlten die nachfolgenden Gesteine, die aus der verbleibenden Schmelze gebildet werden, weniger des betrachteten Oxids.
 
@@ -36,12 +36,12 @@ Würde man die auskristallisierenden Minerale auch in das Diagramm eintragen, w�
 
 Das Tas-Diagramm ist ein besonders wichtiges Harker-Diagramm, über das sich magmatische Gesteine bestimmen und verschiedene Differentiationstrends voneinander unterscheiden lassen.
 
-![[Pasted image 20240611204536.png]]
+![[TAS Diagramm.png]]
 
 ## Dreieckige Variationsdiagramme
 
 In Dreieckigen Varaiationsdiagrammen werden nicht nur zwei Oxidgehalte, sondern drei abgetragen. Damit lassen sich Trends noch genauer unterscheiden.
 
-![[Pasted image 20240611204737.png]]
+![[Tholeiitischer vs Subalkalischer Trend im MFA Diagramm.png]]
 
 Dieses beipielhafte Dreiecksdiagramm (AFM-Diagramm), dient der genaueren Unterscheidung von subalkalischen Vulkaniten. Skaergaard folgt einem tholeiitischen Trend, Crate Lake einem Kalk-Alkalischen.

@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[th-1116971762.jpg]]
+![[Foto Quarzsandstein.jpg]]
 
 [[SiO2-Basics]]
 

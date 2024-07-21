@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[th-1902441400.jpg]]
+![[Foto Kalkstein mit Ammonit.jpg]]
 
 Gruppe:: [[Kalkstein]]
 Primärbestandteile:: Fossile Kalke

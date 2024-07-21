@@ -1,6 +1,6 @@
 #Min #Sulfate #Bestimmung 
 
-![[2676foto1-798285243.jpg]]
+![[Foto Scheelit.jpg]]
 <!--ID: 1705934303263-->
 
 

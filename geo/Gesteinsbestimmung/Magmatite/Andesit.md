@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[photo-andesite-stone-texture-photo-natural-andesite-stone-texture-263529092-1644751176.jpg]]
+![[Foto Andesit.jpg]]
 
 Gruppe:: [[Magmatite]]
 Primärbestandteile:: [[Plagioclase]], [[Amphibole]]

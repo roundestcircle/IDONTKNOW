@@ -1,6 +1,6 @@
 #Min #Phosphate #Bestimmung 
 
-![[6794foto1-119306434.jpg]]
+![[Foto Vanadinit.jpg]]
 <!--ID: 1705934303228-->
 
 

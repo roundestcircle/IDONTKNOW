@@ -7,6 +7,6 @@ Böden:: [[Fersialit]], [[Nitisole]], [[Lixisole]]
 
 ## Verbreitung
 
-![[SFT_1.png]]
+![[Verbreitungskarte Sommerfeuchte Tropen.png]]
 
 Schließt Polwärts an die [[Immerfeuchte Tropen]] an. 2-10 aride Monate.

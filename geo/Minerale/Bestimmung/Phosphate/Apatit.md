@@ -1,6 +1,6 @@
 #Min #Phosphate #Bestimmung 
 
-![[1240525_438543119597599_941549826_n-1128796236.jpg]]
+![[Foto Apatit.jpg]]
 
 ### Apatit Chem
 

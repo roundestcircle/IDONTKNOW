@@ -1,6 +1,6 @@
 #Min #Sulfate #Bestimmung 
 
-![[baryt-3590364178.jpg]]
+![[Foto Baryt.jpg]]
 
 ### Baryt Chem
 

@@ -43,7 +43,7 @@ Das finale Produkt hat als ganzes gesehen dennoch die gleiche Zusammensetzung wi
 Der Aufschmezprozee läuft genauso ab, nur von unten nach oben. Die erste Schmelze hat eine deutlich andere Zusammensetzung als der Festkörper. die letzte Schmelze/Vollständige Schmelze ist dann identisch.
 
 Beispiel:
-![[Pasted image 20240613181902.png]]
+![[Phasendiagramm Plagioclase.png]]
 
 #### [[Magmendifferenzierung]]
 
@@ -58,7 +58,7 @@ Wenn man die Länge dieser Linie misst, bis sie Liquidus, Solidus, oder Phasengr
 Beispiel: 1cm bis zur Liquiduslinie, 9cm bis zur Soliduslinie: 90% Schmelze, 10% Kristalle.
 
 Beispiel Plagioclase: 
-![[plagioclase-v2-example-2.jpg]]
+![[Einfaches Phasendiagramm (Plagioclase).jpg]]
 
 #### Eutektikum
 
@@ -66,7 +66,7 @@ Binäre Systeme ohne Mischkristallbildung bilden Eutektika aus.
 
 Beispiel:
 
-![[diopside-anorthite-3.jpg]]
+![[Eutektisches Phasendiagramm (Diopsid und Anorthit).jpg]]
 
 In diesem Diagramm gibt es drei homogenen Zonen: Die Schmelze, sowie fester, reiner Diopsid, oder fester, reiner Anorthit, jedoch keinerlei feste Mischkristalle. Die V-förmige Struktur ist die Liquiduslinie, während die Soliduslinie etwa auf den zwei Y-Achsen verläuft.
 
@@ -82,9 +82,9 @@ Bei verschiedenen Drücken können die Eutektika bei verschiedenen Zusammensetzu
 In bestimmten Fällen mit eutektischen Liquidus-Minima wird das Eutektikum nie erreicht, da der Solidus überschritten wird, bevor die Schmezzusammensetzung des Eutektikums erreicht wird. 
 
 Beispiel [[Alkalifeldspäte]]: 
-![[Pasted image 20240613183559.png]]
+![[Phasendiagramm der Alkalifeldspäte.png]]
 Mit Druckänderung:
-![[Pasted image 20240613184223.png]]
+![[Beispiel Liquidusverschiebung mit Wasserdruck (Alkalifeldspäte).png]]
 
 #### Quasibinäre Systeme mit zwei Eutektika
 
@@ -96,7 +96,7 @@ Besonderer Punkt, an dem eine inkongruente Phasenumwandlung stattfindet. Beim ab
 Aufgrund von zu schneller Abkühlung, kann es sein, dass die inkongruente Reaktion nicht vollständig abläuft, sondern sich nur dünne Schichten um die zuvor entstandenen Kristalle bilden, da diese neuen Schichten eine Barriere bilden, sodass der Kristall im inneren nicht weiter gelöst werden kann. 
 
 Beispiel:
-![[peritektikum.png]]
+![[Peritektisches Phasendiagramm (Schema).png]]
 Zusammensetzung C2 wird beim abkühlen zunächst zu L (Liquid) + a, wandelt sich dann in die völllig neue Phase b um. 
 
 #### Inkongruentes Schmelzen
@@ -110,4 +110,4 @@ Ternäre Phasendiagramme müssten eigentlich Vierdimensional sein (p,T, und ein 
 Die Schmelzzusammensetzung befindet sich zu Beginn sozusagen aus der Fläche heraus, und kühlt solange ab, bis sie den Liquidus (die projezierte Fläche) trifft. Dann bewegt sie sich gerade von der Ecke weg, die nun auskristallisiert. Trifft sie dann auf ein Kotektikum, bewegt sie sich entlang dessen bs zum Eutektikum, wo sie dann vollständig auskristallisiert.
 
 Beispiel Fo-Di-An:
-![[Pasted image 20240613185055.png]]
+![[Ternäres Phasendiagramm (DiFoAn).png]]

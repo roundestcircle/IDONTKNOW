@@ -1,6 +1,6 @@
 #Min #Sulfide #Bestimmung 
 
-![[5771foto1-3441301632.jpg]]
+![[Foto Pyrit.jpg]]
 <!--ID: 1705934303421-->
 
 

@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[th-2123756110.jpg]]
+![[Foto Suevit.jpg]]
 
 Gruppe:: [[Metamorphite]]
 Primärbestandteile:: Gesteinsbruchstücke und Glas in Matrix

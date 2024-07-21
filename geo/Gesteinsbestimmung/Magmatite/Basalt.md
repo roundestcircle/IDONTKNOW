@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[basalt3.jpg]]
+![[Foto Basalt.jpg]]
 
 Gruppe:: [[Magmatite]]
 Primärbestandteile:: [[Plagioclase]], [[Pyroxene]]

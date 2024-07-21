@@ -1,6 +1,6 @@
 #Min #Phosphate #Bestimmung 
 
-![[monazit+04_resize-3259577039.jpg]]
+![[Foto Monazit.jpg]]
 
 ### Monazit Chem
 

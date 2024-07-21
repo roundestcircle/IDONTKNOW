@@ -1,6 +1,6 @@
 #Min #Sulfide  #Bestimmung 
 
-![[306_5-529954162.jpg]]
+![[Foto Zinkblende.jpg]]
 <!--ID: 1705934303464-->
 
 

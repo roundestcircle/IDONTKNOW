@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[th-507666356.jpg]]
+![[Foto Trachyt.jpg]]
 
 Gruppe:: [[Magmatite]]
 Primärbestandteile:: [[Alkalifeldspäte]], [[Amphibole]]

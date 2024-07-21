@@ -10,4 +10,4 @@ $$
 
 Die Endglieder sind bei allen Temperaturen vollständig mischbar, besitzen jedoch unterschiedliche Schmelzpunkte (der des Fayalits ist geringer). Daraus ergibt sich das folgende Phasendiagramm (approximiert):
 
-![[phplEZA46-1459166869.png]]
+![[Einfaches Phasendiagramm (Olivin).png]]

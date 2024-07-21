@@ -14,7 +14,7 @@ im rechten Winkel zum MOR enstehen verschiedene [[Transformstörungen]], um die 
 
 An den Transformstörungen und beim ständigen Aufreißen des Grabens kommt es zu Oberflächennahen Erdbeben.
 
-![[Pasted image 20240614090852.png]]
+![[Karte MOR.png]]
 
 ### Rift Valley
 
@@ -32,7 +32,7 @@ Normativ sind alle MORBs leicht SiO2-übersättigt und enthalten geringe Mengen 
 Achtung: Dennoch sind beide MORBs im Vergleich mit Chondrit an allen SEE angereichert.
 
 Quellenanalyse mit Isotopenchemie ([[Isotopenanalysen#Kombination der Systeme]]):
-![[Pasted image 20240614093135.png]]
+![[Geochemie der MOR-Magmen.png]]
 
 #### Petrogenese N-MORB
 

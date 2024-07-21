@@ -1,6 +1,6 @@
 #Min #Silikate #Schichtsilikate #Bestimmung
 
-![[th-1804137346.jpg]]
+![[Foto Chlorit.jpg]]
 
 ### Chlorit Chem
 

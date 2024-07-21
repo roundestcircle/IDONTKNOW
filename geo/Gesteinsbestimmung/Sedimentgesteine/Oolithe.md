@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[th-1301665054.jpg]]
+![[Foto Oolithe.jpg]]
 
 Gruppe:: [[Kalkstein]]
 Primärbestandteile:: Kalk-Ooide

@@ -1,6 +1,6 @@
 #Min #Elemente #Bestimmung 
 
-![[th-2655058514 1.jpg]]
+![[Foto Schwefel.jpg]]
 
 ### Schwefel Chem
    

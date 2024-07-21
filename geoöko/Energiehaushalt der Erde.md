@@ -36,7 +36,7 @@ An ser Außengrenze der Atmosphäre erreichen die Erde 1360 Watt pro m2, die sog
 32% der die Erde erreichenden Strahlung werden direkt reflektiert (planetarische Durchschnittsalbedo), der Rest wird absorbiert. Von der daraus resultierenden planetarischen Ausstrahlung erreichen nur 12% direkt den Weltraum, der Rest wird in der Atmosphäre absorbiert, und danach etwa zur Hälfte  auf die Erde zurückgeworfen und in den Weltraum emittiert. 
 
 Grobe Abbildung: 
-![[Pasted image 20240716183756.png]]
+![[Schema Globaler Energiehaushalt.png]]
 
 #### Strahlungsbilanzgleichung
 

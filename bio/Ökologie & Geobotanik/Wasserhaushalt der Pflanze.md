@@ -30,7 +30,7 @@ Das Wasserpotential ist niedriger, je geringer der Zahlenwert (negativer Zahlenw
 
 Pflanzen senken das osmotische Potential ihrer Wurzel durch Ionen, um so ihr Wasserpotential zu senken. Wasser fließt immer vom Ort des hohen Potentials zum Ort des niedrigeren Potentials, und bewegt sich so im Regelfall vom Boden durch die Pflanze in die Luft. Der Hydraulische Fluss ist höher, je größer die Leitfähigkeit und je größer der hydrostatische Gradient (Wasserpotentialdifferenz) (Darcy-Gleichung).
 
-![[Pasted image 20240712133255.png]]
+![[Schema Wasserpotential in Pflanze.png]]
 
 ### Embolien
 

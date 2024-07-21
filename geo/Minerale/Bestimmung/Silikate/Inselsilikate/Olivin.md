@@ -1,6 +1,6 @@
 #Min #Silikate #Inselsilikate #Bestimmung 
 
-![[th-6301470.jpg]]
+![[Foto Olivin in Basalt.jpg]]
 
 ### Olivin Chem
 

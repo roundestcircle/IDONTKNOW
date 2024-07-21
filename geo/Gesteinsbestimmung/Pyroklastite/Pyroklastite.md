@@ -1,6 +1,6 @@
 #Geo #Bestimmung #Magmatismus 
 
-![[th-4084859958.jpg]]
+![[Foto Aschetuff.jpg]]
 
 Gruppe:: Überblick
 

@@ -1,6 +1,6 @@
 #Min #Sulfide #Bestimmung 
 
-![[galenit--kristal-dul-krushev-bulharsko-bigimg-01159-3569971694.jpg]]
+![[Foto Galenit.jpg]]
 
 ### Galenit Chem
 

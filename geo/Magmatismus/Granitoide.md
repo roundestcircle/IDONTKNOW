@@ -6,7 +6,7 @@ Unter Granitoide fallen alle Plutonite, die aus [[Felsisch]]en Magmen kristallis
 
 Beim Absinken und von Krustenteilen werden Minerale wie Glimmer ab einem bestimmten Punkt entwässert. Je nach Zusammensetzung und Wassersättigung geschieht dies an unterschiedlichen Orten. Sobald dies geschieht, wird rapide Schmelze gebildet, da plötzlich [[volatile]] vorliegen, die den Schmezpunkt senken ([[Schmelzbildung]]).
 
-![[Pasted image 20240614120617.png]]
+![[Schema Schmelzbildung durch Entwässerung der Minerale.png]]
 Wird die critical Melt Fractionation Range überschritten, entfernt sich die Schmelze aus dem Gestein. Zurück bleiben Migmatite. 
 
 ### Batholite
@@ -30,7 +30,7 @@ Verbunden mit granitischen Intrusionen sind oft Hydrothermale Erzlagerstätten.
 
 Für den Aluminum Saturtion Index wird das molare (nicht Gewichts-!) Verhältnis zwischen Aluminiumoxid und K, Ca und Na-Oxiden berechnet. Befindet sich mehr Al als alle drei Alkalien kombiniert im Gestein, spricht man von Peralumischen Gesteinen. Sind Na und K zusammen mehr vorhanden als Al, von Peralkalinen. Sind Na und K zusammen weniger als Al, aber Na, K und Ca zusammen mehr, bezeichnet man die Gesteine als metalumisch.
 
-![[Pasted image 20240614115938.png]]
+![[Schema ASI.png]]
 
 Die Gesteine enthalten unterschiedliche Minerale, und sind so auch ohne geochemische Analysen unterscheidbar. Ist der ASI (Al/Ca+Na+K) größer als eins, ist mehr Aluminium vorhanden, als in Feldpäte eingebaut werden kann. Andere Al-haltige Phasen werden gebildet. Glimmer enthalten viel Al. Andalusit ist ein [[Alumosilikate]]. Liegt er unter 1, können nicht alle Alkalien in Feldspäte eingebaut werden. Andere Phasen bilden sich.
 
@@ -43,9 +43,9 @@ Die Gesteine enthalten unterschiedliche Minerale, und sind so auch ohne geochemi
 
 Mithilfe dieser Klassifikation lassen sich Magman Settings zuordnen:
 
-![[Pasted image 20240614122416.png]]
+![[Überblick Granitoidklassifikation.png]]
 
-![[Pasted image 20240614122429.png]]
+![[Schema Granitoidklassifikation nach tektonischem Setting.png]]
 
 Beides aus Winter (2001)
 
@@ -54,11 +54,8 @@ Beides aus Winter (2001)
 Frost klassifiziert die Magmen nach 3 geochemischen Parametern:
 
 1. FeO/(FeO+Mgo): Der Grad der Eisenanreicherung
-![[Pasted image 20240614122652.png]]
+![[Schema Granitoidklassifikation mit Eisenzahl.png]]
 2. Na2O+K2O-CaO: Mali/Modified Alkali Lime Index
-![[Pasted image 20240614122755.png]]
+![[Schema Granitoidklassifikation mit MALI.png]]
 3. ASI, sh oben. 
 
-#### Kombination der Klassifikationen
-
-![[Pasted image 20240614123152.png]]

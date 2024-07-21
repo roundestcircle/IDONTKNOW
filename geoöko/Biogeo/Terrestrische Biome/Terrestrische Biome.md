@@ -35,9 +35,9 @@ Viele verschiedene Klassifikationsversuche wurden durchgeführt, ebenso viele ha
 
 Zwei Beispiele:
 
-![[Pasted image 20240719140340.png]]
+![[Biomeinteilung nach Holdridge.png]]
 
-![[Pasted image 20240719140409.png]]
+![[Biomeinteilung nach Schroeder.png]]
 
 In diese Klassifikation wird nach Nord- und Südhalbkugel differenziert.
 

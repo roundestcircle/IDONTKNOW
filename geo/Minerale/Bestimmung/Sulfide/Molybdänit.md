@@ -1,6 +1,6 @@
 #Min #Sulfide #Bestimmung 
 
-![[Molybdaenit+2326_3-496025068.jpg]]
+![[Foto Molybdänit.jpg]]
 
 ### Molybdänit Chem
 

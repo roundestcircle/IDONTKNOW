@@ -4,7 +4,7 @@ Der Begriff invasive Arten ist nicht leicht zu definieren und wenig zielführend
 
 Verschiedene andere Begriffe nach verschiedenen Kriterien:
 
-![[Pasted image 20240716132342.png]]
+![[Schema Einordnung von Neophyten und Ansässigen.png]]
 
 Besonders wichtig sind hier die Begriffe anthropochor und Neophyt. Auch die Unterscheidung Agriophyt/Epökophyt ist häufig anzutreffen.
 

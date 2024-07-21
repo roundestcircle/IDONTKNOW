@@ -26,7 +26,7 @@ NEP: Netto-Ökosystemproduktion (NPP - $R_E$ (Atmung von Destruenten und Konsume
 
 ### Saisonalität des Kreislaufs
 
-![[Pasted image 20240718131621.png]]
+![[Schema NEP im Jahresverlauf.png]]
 
 Beachte: 
 - Veratmung beginnt früher im Jahr als Produktion

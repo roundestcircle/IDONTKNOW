@@ -1,6 +1,6 @@
 #Min #Carbonate #Bestimmung 
 
-![[th-788591358.jpg]]
+![[Foto Azurit.jpg]]
 
 ### Name Chem
 

@@ -1,6 +1,6 @@
 #Min #Halogenide #Bestimmung 
 
-![[th-1527290142.jpg]]
+![[Foto Sylvin.jpg]]
 <!--ID: 1705934303393-->
 
 

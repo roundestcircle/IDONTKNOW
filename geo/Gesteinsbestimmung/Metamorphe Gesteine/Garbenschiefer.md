@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[th-3563873290.jpg]]
+![[Foto Garbenschiefer.jpg]]
 
 Gruppe:: [[Metamorphite]]
 Primärbestandteile:: [[Tonminerale]], [[Amphibole]]

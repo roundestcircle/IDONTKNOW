@@ -1,6 +1,6 @@
 #Min #Silikate #Ringsilikate  #Bestimmung 
 
-![[beryll-minas-gerais-brasilien-8cd45eee-3a84-4980-83b8-c2a712bb2b7f-74408674.jpg]]
+![[Foto Beryll.jpg]]
 <!--ID: 1705934303021-->
 
 

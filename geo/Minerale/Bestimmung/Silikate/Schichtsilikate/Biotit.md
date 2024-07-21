@@ -1,6 +1,6 @@
 #Min #Silikate #Schichtsilikate #Bestimmung
 
-![[1280px-Biotite_mica_2_31739438210-114887856.jpg]]
+![[Foto Biotit.jpg]]
 
 ### Biotit Chem
 

@@ -19,7 +19,7 @@ Lidar
 #### [[Sedimentological Logging]]
 Measurement and description of each bed in an outcrop in detail. Building of a sedimentological column. Following the layers uphill, might involve climbing.
 
-![[Pasted image 20240616143208.png]]
+![[Example of Sedimentological Logging Process.png]]
 
 #### Core Logging
 

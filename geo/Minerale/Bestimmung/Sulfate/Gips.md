@@ -1,6 +1,6 @@
 #Min #Sulfate #Bestimmung 
 
-![[gypsum33654b-3673713666.jpg]]
+![[Foto Gips.jpg]]
 
 ### Gips Chem
 

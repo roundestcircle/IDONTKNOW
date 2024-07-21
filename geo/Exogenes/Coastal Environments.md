@@ -8,15 +8,15 @@ Die Uferzone stehender Gewässer heißt Litoral.
 
 Coastal Environments may be erosional/transgressive (hard) or depositional/regressive (soft). which exact environment is creaed depends on currents, sediment influx, waves and tides.
 
-![[Pasted image 20240618172242.png]]
+![[Schema Coastal Environments (Pictograms).png]]
 
 Especially the relationship of waves, rivers and tides plays an important role and can change coasts significantly.
 
-![[Pasted image 20240618172424.png]]
+![[Schema Coastal Environments.png]]
 
 This Diagram is simplified, wind and glaciers may also play a role.
 
-![[Pasted image 20240618172439.png]]
+![[Foto Verschiedene Deltatypen.png]]
 
 Waves play a more important role/gain energy the stronger the wind and the longer the fetch (area over which waves can gain energy). The wave energy increases towards the shoreline. Typical [[Sedimentary Structures]] near shore are low angle cross laminations. Further out, [[Sedimentary Structures#Oscillatory Flow|Hummocky or Swaley Cross Strat.]] become more common. 
 
@@ -65,13 +65,13 @@ Estuary Deposits are generally fining upwars, as the log moves from higher energ
 
 ##### Tide Dominated Estuaries
 
-![[Pasted image 20240618182648.png]]
+![[Schema Tide dominated Estuary.png]]
 
 Notice the spike in Energy right at the river mouth: The estuary acts like a funnel, funneling a lot of water into that constricted area. This is called tidal amplification.
 
 ##### Wave Dominated Estuaries
 
-![[Pasted image 20240618182828.png]]
+![[Schema Wave Dominated Estuary.png]]
 
 Wave dominated show similar properties to Floodplain and Barrier Islands above, just on a smaller scale. Energy is low in the basin, because waves cant rech it and the river dissipates over a large area.
 
@@ -80,7 +80,7 @@ Wave dominated show similar properties to Floodplain and Barrier Islands above, 
 
 Deltas are prograding shorelines. Sediment enters the area more rapidly than it can be dissipated. Once the river reaches open water, it immediately loses Velocity, depositing lots of sediment in its path. It begins building up a mouth bar, and splits up to flow around it ([[Fluviale Systeme#Verflochtene Flüsse/Braided River]]). This happens multiple times, the delta widens, the channels get smaller and increase in number. Large stacks of these mouth bars create delta lobes. Delta lobes may be abandoned and new ones created if the river changes course. Mouth bar deposits are typically coarsening up, as the energy above increases while the delt progrades (log moves further away from very low energy coastline). Deltas are fining outwards. [[Sedimentary Structures#Fluid Escape Structures]] are abundant.
 
-![[Pasted image 20240618184122.png]]
+![[Schema Delta Types.png]]
 
 Notice how close tide dominated eltas are to estuaries. They are basically estuaries with protuberance.
 
@@ -94,4 +94,4 @@ The point at which the single supply channel splits up into multiple to form the
 
 Wave dominated deltas dont accrete a large fan, instead the sediment is immediately redistributed around the river mouth, creating prograding beach ridges. If the waves are coming from one side, they can move sediment preferably to one side of the mouth, craeting asymmetrical shapes.
 
-![[Pasted image 20240618185825.png]]
+![[Schema Wave Dominated Delta.png]]

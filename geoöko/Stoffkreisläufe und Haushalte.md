@@ -1,6 +1,6 @@
 #Geobotanik #Geoöko 
 
-![[Pasted image 20240718141817.png]]
+![[Überblick Energiefluss.png]]
 
 Beachte, dass der Zersetzekreislauf eine weit größere Rolle spielt als der Lebendfresser-Kreislauf.
 

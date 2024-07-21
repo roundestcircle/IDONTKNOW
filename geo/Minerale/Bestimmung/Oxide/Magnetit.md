@@ -1,6 +1,6 @@
 #Min #Oxide #Bestimmung 
 
-![[4000foto1-2512440160.jpg]]
+![[Foto Magnetit.jpg]]
 
 ### Magnetit Chem
 

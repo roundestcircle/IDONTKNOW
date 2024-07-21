@@ -20,6 +20,6 @@ Magmen haben in der Regel eine geringere Dichte als das Umgebungsgestein.
 Man geht heute nicht vehr von großen, flüssigen Lavakammern aus, da diese mit sesimischen Messungen nie gefunden wurden. Stattdessen hat man ein komplexeres Bild mit einer großen Kristallbreizone und einer Flachen Schmelzlinse ganz oben.
 
 Beispiel [[MOR]]:
-![[Pasted image 20240614094050.png]]
+![[Schema realistische Magmakammer.png]]
 
 

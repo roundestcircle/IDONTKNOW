@@ -11,16 +11,24 @@
             "id": "e70077cb8afa86f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "geoöko/Biogeo/Terrestrische Biome/Sommergrüner Mischwald.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
+                "file": "Attachments Renamed/Foto Amphibol.jpg"
+              }
+            }
+          },
+          {
+            "id": "a1112ae38785b2e6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments Renamed/Beispiele Harker Diagramme 2.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geoöko/Biogeo/Terrestrische Biome/Sommergrüner Mischwald.md",
+                "file": "Attachments Renamed/Beispiele Harker Diagramme 2.png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -109,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -124,44 +131,46 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "e70077cb8afa86f3",
+  "active": "54129478d09a05ea",
   "lastOpenFiles": [
+    "Attachments Renamed/Spurenelementanalyse Beipiel Chondrit-Normiert.png",
+    "Attachments Renamed/Kristall-Schmelze Modellierung Partielles Aufschmelzen.png",
+    "Attachments Renamed/Kristall-Schmelze-Modellierung FC.png",
+    "Attachments Renamed/Beispiele Spurenelementanalysen verschiedener Minerale.png",
+    "Attachments Renamed/Ionenpotentialdiagramm.png",
+    "geo/Magmatismus/Spurenelementanalysen.md",
+    "Attachments Renamed/Tholeiitischer vs Subalkalischer Trend im MFA Diagramm.png",
+    "Attachments Renamed/TAS Diagramm.png",
+    "geo/Gesteinsbestimmung/Magmatite/Andesit.md",
+    "Attachments Renamed/Beispiele Harker Diagramme 2.png",
+    "Attachments Renamed/Beispiele Harker Diagramme.png",
+    "Attachments Renamed/Beispiele Hauptelementanalysen.png",
+    "Attachments Renamed/Schema Allgemeines Strukturmodell eines Ökosystems.png",
+    "geoöko/Ökosystemanalyse.md",
+    "geo/Magmatismus/Schmelzbildung.md",
+    "geo/Magmatismus/Hotspots.md",
+    "geo/Magmatismus/Granitoide.md",
+    "geo/Magmatismus/Kontinentaler Alkalischer Magmatismus.md",
+    "geo/Gesteinsbestimmung/Sedimentgesteine/Kalkstein.md",
+    "geo/Exogenes/Transport und Sedimentation.md",
+    "geo/Exogenes/Coastal Environments.md",
+    "bio/Ökologie & Geobotanik/Standortfaktoren.md",
+    "geo/Gesteinsbestimmung/Leitfossilien.md",
+    "geo/Minerale/Bestimmung/Silikate/Inselsilikate/Alumosilikate.md",
+    "geo/Gesteinsbestimmung/Metamorphe Gesteine/Granulit.md",
+    "geo/Minerale/Bestimmung/Silikate/Ringsilikate/Turmalin.md",
+    "geo/Gesteinsbestimmung/Sedimentgesteine/Bioklastkalksteine.md",
+    "geo/Minerale/Bestimmung/Silikate/Gerüstsilikate/Plagioclase.md",
+    "geo/Gesteinsbestimmung/Pyroklastite/Pyroklastite.md",
+    "Attachments Renamed/Trockensiebung_17_04_24.pdf",
+    "geo/Geodynamik/Raumlage Geologischer Strukturen.md",
+    "Attachments Renamed",
+    "geoöko/Biogeo/Terrestrische Biome/Sommergrüner Mischwald.md",
     "geoöko/Biogeo/Terrestrische Biome/Immergrüner Hartlaubwald.md",
     "geoöko/Biogeo/Terrestrische Biome/Tropischer Regenwald.md",
-    "geoöko/Biogeo/Terrestrische Biome/Sommergrüner Mischwald.md",
     "geoöko/Biogeo/Terrestrische Biome/Savannen und Wüsten (trock. Tropen).md",
     "geoöko/Biogeo/Terrestrische Biome/Terrestrische Biome.md",
-    "Attachments/Pasted image 20240719140409.png",
-    "Attachments/Pasted image 20240719140340.png",
     "geoöko/Biogeo/Biodiversität.md",
-    "geoöko/Biogeo/Pflanzensoziologie.md",
-    "bio/Ökologie & Geobotanik/Paläoökologie.md",
-    "Attachments/Pasted image 20240719132717.png",
-    "Attachments/Pasted image 20240719132524.png",
-    "Attachments/Pasted image 20240719132501.png",
-    "Attachments/Pasted image 20240719132433.png",
-    "Attachments/Pasted image 20240719132339.png",
-    "Attachments/Pasted image 20240719132045.png",
-    "geo/Exogenes/Eiszeiten.md",
-    "Attachments/Pasted image 20240719131630.png",
-    "Attachments/Pasted image 20240719131246.png",
-    "bio/Ökologie & Geobotanik/Metapopulationstheorie.md",
-    "geoöko/Biogeo/Inselbiogeographie.md",
-    "bio/Ökologie & Geobotanik/Landschaftsökologie.md",
-    "bio/Ökologie & Geobotanik/Einführung Geobotanik.md",
-    "bio/Ökologie & Geobotanik/Einführung Pflanzenöko.md",
-    "bio/Ökologie & Geobotanik/Populationsökologie Pflanzen.md",
-    "geoöko/Biogeo/Sukzession.md",
-    "geoöko/Dimensionen der Geoökologie.md",
-    "geoöko/Stickstoffkreislauf.md",
-    "geoöko/Phosphorkreislauf.md",
-    "geo/Minerale/Bestimmung/Phosphate/Apatit.md",
-    "bio/Ökologie & Geobotanik/Mechanismen der pflanzlichen Interaktion.md",
-    "geoöko/Kohlenstoffkreislauf.md",
-    "geoöko/Stoffkreisläufe und Haushalte.md",
-    "geoöko/Wasserhaushalt.md",
-    "geoöko/Energiefluss.md",
-    "bio/Ökologie & Geobotanik/Definitionen Ökologie.md",
     "chem/PC/Untitled",
     "chem/PC",
     "geo/Exogenes/geo/Exogenes",
@@ -170,8 +179,6 @@
     "zotero",
     "geoöko/Biogeo/Terrestrische Biome",
     "geoöko/Ökozonen",
-    "bio/Ökologie & Geobotanik",
-    "physics",
     "Untitled.canvas"
   ]
 }

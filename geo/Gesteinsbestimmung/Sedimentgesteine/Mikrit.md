@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[th-1168217316.jpg]]
+![[Foto Mikrit.jpg]]
 
 Gruppe:: [[Kalkstein]] 
 Primärbestandteile:: Mikrit

@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[th-4029885582.jpg]]
+![[Foto Grauwacke.jpg]]
 
 Gruppe:: [[Siliziklastika]]
 Primärbestandteile:: Quarz, Feldspäte, [[Tonminerale]]

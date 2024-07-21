@@ -1,6 +1,6 @@
 #Min #Oxide #Bestimmung 
 
-![[th-4232440548.jpg]]
+![[Foto Korund.jpg]]
 
 ### Korund Chem
 

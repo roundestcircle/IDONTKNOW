@@ -1,6 +1,6 @@
 #Min #Sulfide  #Bestimmung 
 
-![[ms-866-1899302664.jpg]]
+![[Foto Arsenopyrit.jpg]]
 
 ### Arsenopyrit Chem
 

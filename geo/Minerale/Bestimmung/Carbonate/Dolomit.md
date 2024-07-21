@@ -1,6 +1,6 @@
 #Min #Carbonate #Bestimmung 
 
-![[mi-304-126906677.jpg]]
+![[Foto Dolomit.jpg]]
 
 ### Dolomit Chem
 

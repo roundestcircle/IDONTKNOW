@@ -1,6 +1,6 @@
 #Min #Silikate #Gerüstsilikate #Bestimmung
 
-![[th-2686146354.jpg]]
+![[Foto Plagioclas.jpg]]
 <!--ID: 1705934302830-->
 
 

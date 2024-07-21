@@ -26,7 +26,7 @@ Als besonders wichtige Größe wird dabei der vertikale Wassertransport betracht
 
 Am Lanschaftökologischen Standort explodiert trotz der relativen horizontalen Homogenität die Komplexität der Prozessgefüge im vertikalen Umsatzraum. 
 
-![[Pasted image 20240513185922.png]]
+![[Schema Allgemeines Strukturmodell eines Ökosystems.png]]
 
 1. Umsatz von Strahlungsenergie und Wärme durch  
 physikalische Prozesse

@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[th-2809109670.jpg]]
+![[Foto Gabbro.jpg]]
 
 Gruppe:: [[Magmatite]]
 Primärbestandteile:: [[Plagioclase]], [[Pyroxene]]

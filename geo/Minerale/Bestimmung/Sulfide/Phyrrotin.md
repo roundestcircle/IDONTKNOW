@@ -1,6 +1,6 @@
 #Min #Sulfide #Bestimmung 
 
-![[th-1794914780.jpg]]
+![[Foto Phyrrotin.jpg]]
 
 ### Phyrrotin Chem
 

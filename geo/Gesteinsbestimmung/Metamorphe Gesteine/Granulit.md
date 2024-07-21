@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[th-1554349334.jpg]]
+![[Foto Granulit.jpg]]
 
 Gruppe:: [[Metamorphite]]
 Primärbestandteile:: [[Plagioclase]],  Quarz, 

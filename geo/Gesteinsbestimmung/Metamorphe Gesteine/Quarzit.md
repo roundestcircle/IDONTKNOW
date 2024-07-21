@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[th-1989710706.jpg]]
+![[Foto Quarzit.jpg]]
 
 Gruppe:: [[Metamorphite]]
 Primärbestandteile:: Quarz

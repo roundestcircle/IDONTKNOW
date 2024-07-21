@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[th-430753138.jpg]]
+![[Foto Diatomit.jpg]]
 
 Gruppe:: [[Kieselgesteine]]
 Primärbestandteile:: Diatomeenschalen

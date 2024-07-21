@@ -1,6 +1,6 @@
 #Min #Sulfide #Bestimmung 
 
-![[cinnabar1.preview-68198245.jpg]]
+![[Foto Cinnabarit.jpg]]
 
 ### Cinnabarit Chem
 

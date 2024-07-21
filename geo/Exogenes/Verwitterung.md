@@ -26,11 +26,11 @@ Klimatisch: Warm und Feucht: Eher chemische Verwitterung; Kalt und Feucht oder W
 
 ### Verwitterungsintensität nach Region
 
-![[Pasted image 20240505153424.png]]
+![[Schema Bodenbildung in Abhängigkeit des Breitengrads.png]]
 
 ## Grobe Übersicht der Verwitterungstypen (subaerial)
 
-![[Pasted image 20240616153652.png]]
+![[Overview Weathering Processes.png]]
 
 ## Physikalische Verwitterung
 

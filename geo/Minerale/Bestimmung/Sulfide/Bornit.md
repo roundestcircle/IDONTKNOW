@@ -1,6 +1,6 @@
 #Min #Sulfide #Bestimmung 
 
-![[th-1562999678.jpg]]
+![[Foto Bornit.jpg]]
 
 ### Bornit Chem
 

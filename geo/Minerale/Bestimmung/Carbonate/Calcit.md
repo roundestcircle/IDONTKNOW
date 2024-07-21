@@ -1,6 +1,6 @@
 #Min #Carbonate #Bestimmung 
 
-![[T5-60A_Calcitgruppe10cmVättis_TS-scaled-2436346779.jpg]]
+![[Foto Calcit.jpg]]
 
 ### Calcit Chem
 

@@ -1,6 +1,6 @@
 #Min #Silikate #Schichtsilikate #Bestimmung
 
-![[th-85548934.jpg]]
+![[Foto Muskovit.jpg]]
 
 ### Hellglimmer (Muskovit) Chem
 

@@ -1,6 +1,6 @@
 #Min #Sulfate #Bestimmung 
 
-![[2507foto1-3002728125.jpg]]
+![[Foto Anhydrit.jpg]]
 
 ### Anhydrit Chem
 

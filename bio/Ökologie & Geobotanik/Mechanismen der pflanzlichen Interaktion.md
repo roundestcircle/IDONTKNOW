@@ -1,6 +1,6 @@
 #Geobotanik 
 
-![[Pasted image 20240717173347.png]]
+![[Schema Typen der  Interaktion zwischen Pflanzen.png]]
 
 Neutralismus ist wahrscheinlich sehr häufig aber schlecht untersucht. Konkurrenz ist die mit Abstand am besten untersuchte Interaktion (1000 mal mehr paper als Ammensalismus, Kommensalismus, Neutralismus, 6 mal mehr als Mutualismus). DIeses Ungleichgewicht prägt auch das wissenschaftliche Weltbild. Zu unrecht?
 
@@ -20,7 +20,7 @@ Zum Beispiel Flechten, Stickstoffixierer, Mykorrhiza.
 
 ### Mykrrhiza-Typen
 
-![[Pasted image 20240717173821.png]]
+![[Schema Mykorrhiza Typen.png]]
 
 VAM ist am weitesten verbreitet und tritt bei etwa 90% (!) der Pflanzenarten auf.
 
@@ -100,7 +100,7 @@ Die Null-Isoklinen ($\frac{dN_1}{dt} =0$), geben an, wann die Populationsgröße
 
 Null-Isoklinen in Diagrammen: 
 
-![[Pasted image 20240717181506.png]]
+![[Schema eine Art im Lotka Volterra Modell.png]]
 
 Zu sehen ist die Selbstausdünnung bzw das Populationswachstum je nach Populationsgrößen der zwei Arten. 
 
@@ -108,7 +108,7 @@ Zu sehen ist die Selbstausdünnung bzw das Populationswachstum je nach Populatio
 
 Kombination der Isoklinen für die beiden Arten:
 
-![[Pasted image 20240717182547.png]]
+![[Schema zwei Arten in Lotka Volterra Modell.png]]
 
 Die Gleichgewichte sind nur in bestimmten seltenen Fällen möglich, in der Regel wird eine Art die andere verdrängen (a oder b). Bei noch mehr Arten sind Gleichgewichte fast unmöglich. 
 
@@ -127,13 +127,13 @@ Offensichtlich existieren jedoch verschiedene Arten mit gleichen realisierten Ni
 
 Störungen sind alle externen Prozesse, die außerhalb der natürlichen Physiologie liegen, zu Mortalität führen und auf kleinen Zeitskalen ablaufen. Störungen können unterschiedlich intensiv, häufig und lang sein, nur bestimmte Arten oder ganze Systeme betreffen.
 
-![[Pasted image 20240717184024.png]]
+![[Schema zwei konkurrierende Arten mit Störungen.png]]
 
 Beachte, dass sich je nach Störungsregime [[Populationsökologie Pflanzen#r- und K-Strategen]] durchsetzen.
 
 Die Diversität eines Bestandes ist bei mittlerer Störungsintensität und -häufigkeit am höchsten (Intermediate Disturbance Hypothesis):
 
-![[Pasted image 20240717184224.png]]
+![[Schema Diversität in Abhängigkeit von Störung.png]]
 
 ### Dominante Arten
 
@@ -147,7 +147,7 @@ Der Effekt geht sogar so weit dass bei Düngung die Artenzahl sinkt, da die Indi
 
 #### Artenreichtum als Funktion von Störung und Produktivität
 
-![[Pasted image 20240718124633.png]]
+![[Schema Diversität in Abhängigkeit von Produktivität und Störung.png]]
 
 Diese Darstellung ist stark vereinfacht und trifft nicht immer zu.
 

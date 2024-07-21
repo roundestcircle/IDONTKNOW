@@ -49,7 +49,7 @@ Die Skalenebene hat drei Komponenten:
 
 Je nach Setzung dieser drei Kriterien können völlig verschiedeneErgebnisse herauskommen ([[Dimensionen der Geoökologie#Raumdimensionen]]).
 
-![[Pasted image 20240718162250.png]]
+![[Schema verschiedene Ergebnisse je nach Extent und Focus.png]]
 
 ## Mosaik-Zyklus-Theorie
 

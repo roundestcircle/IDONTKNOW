@@ -1,39 +1,39 @@
 #Bio #Overview 
 
 11 Fragen:
-![[Pasted image 20240222164128.png]]
+![[Bio Klausurfragen 1.png]]
 -> [[Konservierungsverfahren]]
 
-![[Pasted image 20240222164243.png]]
+![[Bio Klausurfragen 2.png]]
 -> [[Was ist Leben]]
 
-![[Pasted image 20240222164258.png]]
+![[Bio Klausurfragen 3.png]]
 -> [[Flüssigkeitstransport in Pflanzen]]
 
-![[Pasted image 20240222164353.png]]
+![[Bio Klausurfragen 4.png]]
 -> [[DNA und Vererbung]]
 
-![[Pasted image 20240222164428.png]]
+![[Bio Klausurfragen 5.png]]
 -> [[Proteinbiosynthese]]
 
-![[Pasted image 20240222164457.png]]
+![[Bio Klausurfragen 6.png]]
 -> [[Denaturierung von Proteinen und Kohlenhydraten]]
 
-![[Pasted image 20240222164555.png]]
+![[Bio Klausurfragen 7.png]]
 -> [[Bakterien und Viren]]
 
-![[Pasted image 20240222164627.png]]
+![[Bio Klausurfragen 8.png]]
 -> [[DNA und Vererbung]]
 
-![[Pasted image 20240222164708.png]]
+![[Bio Klausurfragen 9.png]]
 -> [[Pilze]] [[Bakterien und Viren]]
 
-![[Pasted image 20240222164751.png]]
+![[Bio Klausurfragen 10.png]]
 -> [[Immunsystem des Menschen]]
 
-![[Pasted image 20240222164823.png]]
+![[Bio Klausurfragen 11.png]]
 -> [[Pilze]]
 
-![[Pasted image 20240222164850.png]]
+![[Bio Klausurfragen 12.png]]
 -> [[Photosysnthese]], [[Pilze]]
 

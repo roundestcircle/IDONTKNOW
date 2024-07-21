@@ -5,7 +5,7 @@ Gruppe:: Bodengeo
 ## Geographische Verteilung
 
 Neben klimatischen Bedingungen spiegeln die Böden in Deutschland auch sehr deutlich die Geschichte und das Muttergestein wieder. So ergeben sich auch in Regionen mit ähnlichen Klimaten Bodenunterschiede.
-![[Pasted image 20240506181956.png]]
+![[Karte Bodenregionen Deutschland.png]]
 
 ## Geschichte der deutschen Bodenwissenschaften
 

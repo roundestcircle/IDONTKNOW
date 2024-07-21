@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[img1-111702209.jpg]]
+![[Foto Peridotit.jpg]]
 
 Gruppe:: [[Magmatite]]
 Primärbestandteile:: [[Pyroxene]], [[Olivin]]

@@ -10,7 +10,7 @@ Die Pflanzenstoffe werden nach dem Absterben zunächst in Humus und dann langsam
 
 Konsumenten beziehen den Stickstoff aus der Masse der Produzenten und geben ihn über Harnstoff und Harnsäure wieder ab, welche durch versch. Mikroorganismen Pflanzenverfügbar aufgearbeitet werden.
 
-![[Pasted image 20240718134001.png]]
+![[Schema Stickstoffkreislauf.png]]
 
 ## Eutrophierung
 

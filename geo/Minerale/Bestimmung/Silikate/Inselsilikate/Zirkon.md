@@ -1,6 +1,6 @@
 #Min #Silikate #Inselsilikate #Bestimmung 
 
-![[th-1803589309.jpg]]
+![[Foto Zirkon.jpg]]
 <!--ID: 1705934303119-->
 
 

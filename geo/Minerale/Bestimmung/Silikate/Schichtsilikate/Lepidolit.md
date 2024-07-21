@@ -1,6 +1,6 @@
 #Min #Silikate #Schichtsilikate #Bestimmung
 
-![[th-3476444550.jpg]]
+![[Foto Lepidolit.jpg]]
 
 ### Lepidolit Chem
 

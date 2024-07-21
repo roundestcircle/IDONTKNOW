@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[hornfels.jpg]]
+![[Foto Hornfels.jpg]]
 
 Gruppe:: [[Metamorphite]]
 Primärbestandteile:: Viele Verschiedene

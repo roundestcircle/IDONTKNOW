@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[th-2950526802.jpg]]
+![[Foto Radiolarit.jpg]]
 
 Gruppe:: [[Kieselgesteine]]
 Primärbestandteile:: Quarz aus Radiolarienschalen

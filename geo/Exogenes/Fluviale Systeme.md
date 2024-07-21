@@ -49,7 +49,7 @@ Bringt der Fluss mehr Sediment mit, als er erodiert, lagert er eine Flussebene a
 
 Which river type occurs is controlled by climate, gradient, sediment type, bank cohesion etc.
 
-![[Pasted image 20240618163946.png]]
+![[Schema River Types.png]]
 
 As shown above, braided river occur, when there is a large amount of course sediment, and a steep gradient. Thex are therefore more common in proximal environments (closer to source) Meandering Rivers occur when there is a lower, finer sediment supply and a shallower gradient. They are therefore more common in distal fluvial environments (far from source).
 
@@ -60,7 +60,7 @@ Flüsse, die sich in viele Rinnen, zwischen denen Kiesbänke liegen und die aufg
 Braided rivers are suprisingly well sorted, even though they are close to the seidiment source ([[Siliziklastika#Textural Maturity]]). They consist of course sand and gravel. Due to the relatively high energy, lighter particles are carried away quickly.
 
 The Flow energy varies significantly. The Channels change course regularly (avulsion). The channel bases are eroded, while the bars between them accumulate sediment. Bars migrate (accrete) and fine downstream. This is due to a position-change of the fastest flow: it hits the bar headon, but is moved outwards as the channel curves around the bar. Therefore the flow energy right next to the bar decreases downstream, allowing for finer downstream deposition.
-![[Pasted image 20240618164822.png]]
+![[Schema Braid Bars.png]]
 
 Braided deposits usually dont show an overarching vertical trend, the grain size does not change systematically. This creates very homogenous logs ([[Sedimentological Logging]]). Since the channels are under erosion, and no other elements exist, all remaining sediments are braid bar deposits.
 

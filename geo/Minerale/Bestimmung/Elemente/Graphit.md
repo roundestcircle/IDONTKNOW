@@ -1,6 +1,6 @@
 #Min #Elemente #Bestimmung 
 
-![[th-1192031280.jpg]]
+![[Foto Graphit.jpg]]
 <!--ID: 1705934303609-->
 
 

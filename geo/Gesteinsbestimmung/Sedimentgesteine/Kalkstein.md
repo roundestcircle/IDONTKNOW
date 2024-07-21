@@ -21,7 +21,7 @@ Ausfällung von [[Calcit]] aus dem Porenwasser, fein bis grobkristallin und unte
 ### Classification
 
 Folk:
-![[Pasted image 20240616150158.png]]
+![[Folks Classification of Limestones.png]]
 
 Main component aside from matrix/cement used as prefix followed by either sparite ode micrite:
 
@@ -31,4 +31,4 @@ Main component aside from matrix/cement used as prefix followed by either sparit
 - Pellets: Pel-
 
 Durham: 
-![[Pasted image 20240616150206.png]]
+![[Durham Classificaton of Limestones.png]]

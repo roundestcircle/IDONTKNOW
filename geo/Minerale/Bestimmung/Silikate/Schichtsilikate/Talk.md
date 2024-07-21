@@ -1,6 +1,6 @@
 #Min #Silikate #Schichtsilikate #Bestimmung
 
-![[Talk-2176140118.jpg]]
+![[Foto Talk.jpg]]
 
 ### Talk Chem
 

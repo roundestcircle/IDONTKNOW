@@ -9,7 +9,7 @@ In der Regel [[Magmendifferenzierung#Magmenserien|Alkalische Differentiationstre
 Die Gesteine sind häufig SiO2-Untersättigt, also im unteren Teil des [[Magmatite#Streckeisen-Diagramm]]s. 
 
 Im TAS-Diagramm:
-![[Pasted image 20240614145022.png]]
+![[Alkalische Magmendifferentiationstrends im TAS Diagramm.png]]
 
 Hier sind drei verschiedene Serien markiert, von oben nach unten:
 - Ultra-Alkalische und Karbonatitische Serie
@@ -58,5 +58,5 @@ Karbonatite bauen teilweise beträchtliche SEE-Mengen ein, die Abbauwürdig sei 
 3 verschiedene Theorien/Möglichkeiten:
 
 1. Partielle Schmelze eines CO2-haltigen Mantels. Experimentell ist es möglich, so Karbonatitische und Kimberlitische Schmelzen zu erzeugen. Der Schmezgrad muss jedoch so gering sein, dass eine Bewegung aus dem Gestein unmöglich scheint (0,5-1%). Zudem stellt sich die Frage, warum die schmelzen dann nicht immer dolomitisch sind, da der Mantel ja extrem Mg-Reich ist.
-2. Sehr starke [[Magmendifferenzierung#Fraktionierte Kristallisation]] eines silikatischen Magmas. ![[Pasted image 20240614150456.png]]. Zunächst werden hier Nephelin, Clinopyroxen und andere abgeschieden, später dann Calciumcarbonat, sodass am Ende eine Ultrapotassische Schmelze übrig bleibt.
-3. Schmelzentmischung ([[Magmendifferenzierung#Unmischbarkeit]]). Diese Theorie erklärt den Magmenwechsel am Oldoinyo Lengai. ![[Pasted image 20240614150708.png]]
+2. Sehr starke [[Magmendifferenzierung#Fraktionierte Kristallisation]] eines silikatischen Magmas. ![[Schema Extremer FC karbonatitischer Laven.png]]. Zunächst werden hier Nephelin, Clinopyroxen und andere abgeschieden, später dann Calciumcarbonat, sodass am Ende eine Ultrapotassische Schmelze übrig bleibt.
+3. Schmelzentmischung ([[Magmendifferenzierung#Unmischbarkeit]]). Diese Theorie erklärt den Magmenwechsel am Oldoinyo Lengai. ![[Schema Unmischbarkeit karbonatitischer Laven.png]]

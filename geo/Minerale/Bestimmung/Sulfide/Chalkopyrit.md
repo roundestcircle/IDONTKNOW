@@ -1,6 +1,6 @@
 #Min #Sulfide #Bestimmung 
 
-![[5024foto2-3721748572.jpg]]
+![[Foto Chalkopyrit.jpg]]
 
 ### Chalkopyrit Chem
 

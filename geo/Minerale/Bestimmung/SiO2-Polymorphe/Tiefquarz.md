@@ -1,6 +1,6 @@
 #Min #Quarz #Bestimmung 
 
-![[th-1306889602.jpg]]
+![[Foto Tiefquarz.jpg]]
 <!--ID: 1705934303199-->
 
 

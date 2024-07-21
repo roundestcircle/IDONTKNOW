@@ -1,6 +1,6 @@
 #Bandsilikate #Min #Silikate #Bestimmung 
 
-![[amphibole_56068876.jpg]]
+![[Foto Amphibol.jpg]]
 
 ### Amphibole allgemein Chem
 

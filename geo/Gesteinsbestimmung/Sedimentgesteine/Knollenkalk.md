@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[th-3719618652.jpg]]
+![[Foto Knollenkalk.jpg]]
 
 Gruppe:: [[Kalkstein]]
 Primärbestandteile:: [[Calcit]]

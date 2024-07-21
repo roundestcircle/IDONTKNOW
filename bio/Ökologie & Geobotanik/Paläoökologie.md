@@ -2,7 +2,7 @@
 
 [[Erdgeschichte]]
 
-![[Pasted image 20240719124242.png]]
+![[Überblick Erdzeitalter mit Pflanzenzeitaltern.png]]
 
 Beachte, dass die Pflanzenzeitalter nicht mit den geläufigen Zeitaltern (auf Tierbasis) übereinstimmen und sich die Übergänge unterscheiden.
 
@@ -58,13 +58,13 @@ Pollenkörner der Gehölze sind Extrem beständig und gut unterscheidbar. Sie we
 
 #### Europäische Vegetation während der letzten Vereisung
 
-![[Pasted image 20240719132433.png]]
+![[Vegetation Europa 20000BP.png]]
 
 #### Europäische Vegetation im Postglazial
 
 Pollendiagramm aus dem Luttersee im Harzvorland, nach der letzten Vergletscherung:
 
-![[Pasted image 20240719132045.png]]
+![[Pollendiagramm (Luttersee, Harz).png]]
 
 Entwicklungen:
 - Frühe Einwanderer: Weide und Birke
@@ -74,18 +74,18 @@ Entwicklungen:
 
 Ausbreitung der Buche:
 
-![[Pasted image 20240719132339.png]]
+![[Isopollenkarte Buche.png]]
 
 Die Buche breitete sich, wohl von einem Refugium in Südosteuropa, immer weiter aus.
 
 Vegetationskarten:
 
-![[Pasted image 20240719132501.png]]
+![[Vegetation Europa 10000BP.png]]
 
-![[Pasted image 20240719132524.png]]
+![[Vegetation Europe 5000BP.png]]
 
 Beachte, dass der Nadelald noch keine Fichte enthält, und der Laubwald weiter in den Norden reicht als Heute. Buchen Haben Mitteleuropa noch nicht erreicht.
 
-![[Pasted image 20240719132717.png]]
+![[Vegetation Europe 0BP.png]]
 
 Fichte und Buche haben sich durchgesetzt.

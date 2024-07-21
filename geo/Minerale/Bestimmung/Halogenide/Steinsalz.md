@@ -1,6 +1,6 @@
 #Min #Halogenide #Bestimmung 
 
-![[th-2293591664.jpg]]
+![[Foto Steinsalz.jpg]]
 
 ### Name Chem
 

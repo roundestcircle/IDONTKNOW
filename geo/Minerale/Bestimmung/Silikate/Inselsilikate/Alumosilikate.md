@@ -1,9 +1,9 @@
 #Min #Silikate #Inselsilikate #Bestimmung 
 
-![[00002-346145648.jpg]]
+![[Foto Kyanit.jpg]]
 Disthen
 
-![[th-1488211272.jpg]]
+![[Foto Andalusit.jpg]]
 Andalusit
 
 ### Alumosilikate Chem
@@ -18,7 +18,7 @@ Gruppe:: Silikate
 
 Alumosilikate existieren in drei ([[Polymorphismus]]) Formen. Diese sind bei jeweils unterschiedlichen Druck und Temperaturvehältnissen stabil und können so bei der Einordnung von Gesteinen in [[Metamorphe Fazies]] helfen.
 Verteilung: 
-![[alsilicates_300.jpg]]
+![[Phasendiagramm Alumosilikate.jpg]]
 <!--ID: 1705934303154-->
 
 

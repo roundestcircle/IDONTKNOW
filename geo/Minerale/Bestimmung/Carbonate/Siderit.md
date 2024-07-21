@@ -1,6 +1,6 @@
 #Min #Carbonate #Bestimmung 
 
-![[th-1028361494.jpg]]
+![[Foto Siderit.jpg]]
 
 ### Siderit Chem
 

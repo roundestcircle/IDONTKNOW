@@ -5,7 +5,7 @@
 Schmelzen ([[Magmen]]) entstehen immer im oberen Mantel ([[Aufbau der Erde]]), aus teilweise aufgeschmolzenen [[Peridotit]]en. Mantelperidotit besteht aus Magnesiumreichen [[Olivin]], Magnesiumreichem [[Pyroxene#Orthopyroxene Chem|Orthopyroxen]], Klinopyroxen und je nach Tiefe verschiedenen Aluminiumphasen. In großen Tiefen ist die Aluminiumphase Granat. Peridotit mit mehr als 40% Olivin wird Lherzolith genannt.
 Wenn man sich ein P/T-Diagramm der Erde ansieht, sieht man jedoch, dass der Geotherm (also die tatsächlichen Bedingungen unter der Erde) nie den Solidus der Gesteine überschreiten, es unter normalen Bedingungen also nie zur Schmelzbildung kommt.
 
-![[Pasted image 20240613123856.png]]
+![[Schema Geotherm vs Solidus des Mantels.png]]
 
 #### Mantelbeprobung
 
@@ -29,7 +29,7 @@ Die Basalthaupttypen unterscheiden sich in ihrer [[SiO2-Basics|SiO2-Sättigung]]
 
 Die Einordnung der Magmentypen läuft über den [[Hauptelementanalysen#Grundlagen|Normativen Mineralbestand]]: 
 
-![[Pasted image 20240613130143.png]]
+![[Olivintetraeder.png]]
 
 Alkalische Basalte enthalten normativ Nephelin, Tholeiitische nicht, diese enthalten dafür normativ Quarz.
 
@@ -40,14 +40,14 @@ Alkalische Basalte sind typisch für OIBs. Tholeiite kommen sowohl am MOR als au
 #### Entstehung aus einem einheitlichen Mantel?
 
 1. Druckeffekte: Höherer Druck (=größere Tiefe) verschiebt die ternären Eutektika aus dem Feld der tholeiitischen Basalte in das der Alkalischen. Da sich an diesen ternären Eutektika immer die erste Schmelze bildet, ändert sich also auch die Schmelzzusammensetzung. Aus tieferen Mantelquellen entsteht also eher Alkalischer Basalt.
-![[Pasted image 20240613131305.png]]
+![[Schema Magmentypen nach Druck.png]]
 Betrachtet wird hier die Basis des Basalttetraeders (s.o.). Vgl auch [[Phasendiagramme]].
 2. Volatile: CO2-Gehalt fördert über die Verschiebung des Eutektikums eher Alkalische Basalte, Wasser eher Tholeiite. 
 3. Schmelzgrad: (Vgl [[Spurenelementanalysen#Mineral-Schmelze Modellierungen]]). Bei niedrigen Schmelzgraden sind Alkalien als inkompatible Elemente stärker angereichert als in höheren Schmelzgraden. Bei niedrigen Schmelzgraden entstehen also eher alkalische Magmen.
 
 Überblick Punkt 1&3:
 
-![[Pasted image 20240613131951.png]]
+![[Schema Magmentypen nach Bedingungen.png]]
 
 #### Unterschiedliche Mantelquellen?
 
@@ -55,7 +55,7 @@ Betrachtet wird hier die Basis des Basalttetraeders (s.o.). Vgl auch [[Phasendia
 
 Bestimmte Verteilungen von Spurenelementen lassen sich nicht über einen chemisch einheitlichen Mantel erklären, etwa die relative Verarmung von LREE in Mid Ocean Ridge Basalts. Lange Zeit wurde modellhaft der obere Mantel als veramt (durch die primäre Krustenbildung), der untere Mantel als noch unbeeinflusst betrachtet, um die Unterschiede zu erklären. Mit weitergehenden Untersuchungen wurde jedoch festgestellt, dass es eine nahezu unbegrenzte Zahl verschiedener Mantelquellen geben muss: In heutigen Modellen werden deswegen immer komplexes Mischverhalen und Austauschprozesse einbezogen.
 
-![[Pasted image 20240613132613.png]]
+![[Schema des Mantelaufbaus (Komplex).png]]
 nach Kellogg et al (1999).
 
 Zu beachten ist, dass die subduzierten Platten vor allem im tiefen Mantel eine Rolle spielen und den oberen Mantel kaum beeinflussen.

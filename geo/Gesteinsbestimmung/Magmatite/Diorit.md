@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[diorite-igneous-rock-dirk-wiersma-597439744 1.jpg]]
+![[Foto Diorit.jpg]]
 
 Gruppe:: [[Magmatite]]
 Primärbestandteile:: [[Plagioclase]], [[Amphibole]]

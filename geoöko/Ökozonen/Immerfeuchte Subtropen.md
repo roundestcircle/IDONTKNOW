@@ -7,6 +7,6 @@ Böden:: [[Parabraunerde]], [[Fersialit]]
 
 ## Verbreitung
 
-![[Immerfeuchte_Subtropen_1.png]]
+![[Verbreitungskarte Immerfeuchte Subtropen.png]]
 
 Verbreitung vor allem an kontinentalen Ostseiten. Etwa 4 % der Landoberfläche.

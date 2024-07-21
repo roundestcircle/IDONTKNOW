@@ -38,7 +38,7 @@ Wasserpotential des Bodens = Matrixpotential + Osmotisches Potential
 
 Das Matrixpotential ist abhängig von Oberfläche der Teilchen und der Porengröße. Beides ist abhängig von der Korngröße. Das Matrixpotential sinkt mit steigender Korngröße, sodass mit sinkender Korngröße immer mehr Wasser nicht Pflanzenverfügbar gebunden wird.
 
-![[Pasted image 20240712132357.png]]
+![[Schema Wasserverfügbarkeit nach Korngröße.png]]
 
 ### Saugspannung
 

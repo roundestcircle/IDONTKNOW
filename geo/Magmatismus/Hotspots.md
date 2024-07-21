@@ -2,7 +2,7 @@
 
 Hotspots sind besonders heiße Stellen des Erdmantels, evtl weil dort ein Konvektionsstrom aus dem Erdinneren aufsteigt und zur [[Schmelzbildung]] führt. Diese Plumes können in sehr unterschiedlichen Tiefen entstehen. Da sich die Platten über ihn hinweg bewegen, während er stabil an einer Stelle bleibt, hinterlässt er an der Oberfläche oft eine Kette von immer jünger werdenden [[Vulkane]]n.  Ganz am Ende bleiben Sea-Mounts (Reste der ehemals weit größeren Vulkane) zurück. Wenn diese die Subdukzionszone erreichen, kann es zu zusätzlichen Komplikationen kommen. Anhand der Spuren aus seamounts an Hotpots lässt sich die Plattenbewegung nachvollziehen. Deutlich wird dabei etwa die Atlantiköffnung oder die Öffnung im Südpaziik ([[MOR]]). 
 
-![[Pasted image 20240614090723.png]]
+![[Karte Hotspots.png]]
 
 ### Nachweis von Hotspots
 
@@ -23,4 +23,4 @@ OIBs sind im Vergleich haben ähnlich viel LREE wie E-MORB ([[MOR#Petrogenese E-
 
 Vgl [[Schmelzbildung#Unterschiedliche Mantelquellen?]]
 
-![[Pasted image 20240614101020.png]]
+![[Geochemie der Hotspot-Magmen.png]]

@@ -35,11 +35,11 @@ Symmetrical ripple. The constant back and forth of the flow creates back and for
 
 Symmetrical ripples leave symmetrical cross laminations in two directions. 
 
-![[Pasted image 20240616174051.png]]
+![[Schema Symetrical Ripples.png]]
 
 They may also produce Hummocky (HCS, convex-up lamina) or Swaley Cross Stratification (SCS, concave-up lamina), which are thought to e the result of storms, but not quite understod, since the layers are too thick to be explained by modern storms, even though they are very common in the rock record. HCS and SCS are commonly found together. They are truncated, meaning old laminae are cut by new laminae.
 
-![[Pasted image 20240616174544.png]]
+![[Schema HCS and SCS.png]]
 
 ### Unidirectional Flow
 
@@ -47,7 +47,7 @@ Unidirectional Flow may be created by wind, currents, tides, etc. The type of Be
 
 #### Bedforms and Sedimentary structures
 
-![[Pasted image 20240616174920.png]]
+![[Beform Stability Diagram.png]]
 
 This Diagram is simplified and does not include all Parameters. Notice how the same flow Velocity can lead to different Bedforms depending on grain size. This may lead to Bedforms changing on a sorted surface, such as a beach.
 Dunes and Ripples have a less steep stoss slope, that is eroded, and a steeper lee slope, that experiences deposition. They are therefore asymmetrical.
@@ -60,21 +60,21 @@ In General: Erosional Surfaces are not or barely preserved in the rock record! T
 
 Ripples are asymmetrical and relatively small, a few centimeters high and wavelengths of 10 to 20 cm. Ripples migrate downstream constantly. They do not interact with the water surface. Ripples have different shapes, but the lee edge is always donstream, no matter the crest path.
 
-![[Pasted image 20240616181040.png]]
+![[Schema Asymmetrical Ripples.png]]
 
-![[Pasted image 20240616180834.png]]
+![[Schema Types of asymmetrical ripples.png]]
 
 There are combinations of oscillatory and unidrectional ripples. 
 
-![[Pasted image 20240616181219.png]]
+![[Schema Wave- and Currentripples.png]]
 
 If the Sedimentation rates are very high, ripples tend to climb upwards in the direction of flow (imagine the ripples migrating with flow while the whole bed keeps rising). The higher the deposition rates, the steeper the climb. If the deposition rates are extremely high, deposition might even outweigh erosion on the stoss edge, leading to some stoss edge preservation. These ripples are called climbing ripples.
 
-![[Pasted image 20240616181505.png]]
+![[Schema Climbing Ripples.png]]
 
 If the flow velocity changes significantly, for example in tidal environments, the bedding might be heterolithic, meaning interbedded sand and mud layers. The Sand layers show typical ripple-cross-bedding, whereas the mud doesnt.
 
-![[Pasted image 20240616181657.png]]
+![[Schema Heterolithic Bedding.png]]
 
 ##### Lower Plane Bed
 
@@ -110,13 +110,13 @@ For Example eroded surfaces, river channels, cut banks.
 
 Gutter casts are downward bulging sole structures created by vortices. They often appear in HCS and are later filled with new sediments.
 
-![[Pasted image 20240617183628.png]]
+![[Schema Guter Casts.png]]
 
 #### Sole Marks
 
 Scour Marks or flute casts are created when larger grains are deposited on mud layers by turbidite flows, eroding the mud layers in specific shapes. The flute casts are later filled in by coarser material. They allow for precise paleocurrent determination.
 
-![[Pasted image 20240617183954.png]]
+![[Schema Scour Marks.png]]
 
 Tool marks are created when pieces in the flow are dragged, rolled or bounced across the bottom of a flow. They usually do not allow paleoflow reconstruction, as to movement directions are often possible (cant tell if tool rolled forwards or backwards along its mark).
 
@@ -124,7 +124,7 @@ Tool marks are created when pieces in the flow are dragged, rolled or bounced ac
 
 Load casts occur when a denser layer sinks into a less dense layer. If mud moves up into the new layer due to the pressure, the casts look like flames. In extreme cases, the sinking parts of heavier sediment might get detached from the main mass and form separarted nodules, sometimes called ball and pillow. These structures are quite small. 
 
-![[Pasted image 20240617184641.png]]
+![[Schema Load Casts.png]]
 
 ### Soft Sediment Deformation
 
@@ -160,4 +160,4 @@ An example of an Assemblage would be Skolithos, containing the Skolithos trace f
 
 Sedimentary Structures and Bedforms often allow for paleocurrent reconstruction as described above. To be more precise, multiple Paleocurrent measurments are taken on Ripples or casts and plotted in a rose diagram.
 
-![[Pasted image 20240617190112.png]]
+![[Example Rose Diagram.png]]

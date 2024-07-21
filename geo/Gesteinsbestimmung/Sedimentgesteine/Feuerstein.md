@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[th-689862420.jpg]]
+![[Foto Feuerstein.jpg]]
 
 Gruppe:: [[Kieselgesteine]]
 Primärbestandteile:: mikrokristalliner Quarz

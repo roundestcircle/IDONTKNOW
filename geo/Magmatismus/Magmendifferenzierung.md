@@ -35,7 +35,7 @@ In sehr späten Stadien reichern sich Volatile und inkompatible Elemente an. Es 
 
 Die Bowensche Reihe beschreibt die Reihenfolge des Ausfallens verschiedener Minerale in einer Schmelze.
 
-![[ma_magma_kristall-2359207135.jpg]]
+![[Schema Bowensche Reihe.jpg]]
 
 Die Kristallisationsreihenfolge lässt sich im Dünnschliff bestimmen: Oft lassen sich [[Idiomorph]]e Kristalle erkennen, die von xenomorphen umwachsen sind. Die idiomorphen müssen früher auskristallisiert sein.
 
@@ -43,7 +43,7 @@ Die Kristallisationsreihenfolge lässt sich im Dünnschliff bestimmen: Oft lasse
 
 Neben experimentellen Nachweisen mit Dünnschliffen aus Lavaseen, insbesondere aus Hawaii, zeigen auch [[Hauptelementanalysen#Harker Diagramme]] eindeutige Indizien für sich ändernde Magmenzusammensetzungen und mit Knicken in den Verteilungen die Anfänge des Auskristalisierens bestimmter Phasen.
 
-![[Pasted image 20240613171005.png]]
+![[Beispiele Harker Diagramme.png]]
 
 Die Anreicherung inkompatibler Elemente ist sehr deutlich. Die Kristallisation P- und Al- haltiger Phasen beginnt später.
 
@@ -72,7 +72,7 @@ Mit Hightech-Analysen lassen sich sogar verschiedene Isotopenverhältnisse in ve
 
 Beispiel:
 
-![[Pasted image 20240613181137.png]]
+![[Beispiel Geochemie zonierter Kristalle.png]]
 
 #### AFC (Assimilation and Fractional Crystallisation)
 
@@ -86,6 +86,6 @@ Unmischbarkeit beschreibt die Trennung eines homogenen Magmas in 2 chemisch unte
 
 Aus unterschiedlichen Mantelquellen ([[Schmelzbildung]]) entwickeln sich über all diese Prozesse verschiedene Gesteine im Lauf der Differentiation. Bestimmte, häufige Abfolgen nennt man Magmenserien.
 
-![[Pasted image 20240614100335.png]]
+![[Beispielhafte Magmendifferentiationstrends.png]]
 
 Besonders wichtig sind drei Serien: Subalkalische Serien, nochmal aufgeteilt in tholeiitisch [[Schmelzbildung#Basalthaupttypen in Ozeanischen Becken]] und kalkalkalisch, wobei kalkalkalische Serein mehr Ca enthalten, und Alkalische Serien.

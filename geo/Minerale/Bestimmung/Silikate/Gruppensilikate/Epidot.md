@@ -1,6 +1,6 @@
 #Min #Silikate #Gruppensilikate #Bestimmung 
 
-![[2772foto1-3191820722.jpg]]
+![[Foto Epidot.jpg]]
 <!--ID: 1705934303067-->
 
 

@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[th-2103559118.jpg]]
+![[Foto Arkose.jpg]]
 
 Gruppe:: [[Siliziklastika]]
 Primärbestandteile:: Quarz, Feldspäte 

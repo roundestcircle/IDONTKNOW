@@ -42,7 +42,7 @@ Eine genauere Einordnung von Magmatiten gelingt mit dem Streckeisendiagramm. Die
 
 Das folgende Diagramm gilt nur für Plutonite, das für Vulkanite unterscheidet sich leicht. Auf dem Bild befindet sich ebenfalls ein Dreieck das zur Bestimmung ultramafischer Gesteine dient. Beispiele dafür sind [[Syenit]]/[[Trachyt]].
 
-![[streckeisen_diorit-259205727.jpg]]
+![[Streckeisen-Diagramm.jpg]]
 
 
 ### Einordnung nach Gefüge

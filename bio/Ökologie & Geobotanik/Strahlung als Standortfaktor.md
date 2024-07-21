@@ -15,4 +15,4 @@ Reflexion: 6-10%
 Transmission: 10-20%
 Absorption: 60-80%
 
-![[Pasted image 20240716184758.png]]
+![[Schema Strahlungsnutzung durch Pflanzen nach Wellenlänge.png]]

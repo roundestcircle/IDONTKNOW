@@ -16,11 +16,11 @@ Jedes Atomorbital hat zwei Phasen. Bei einer Bindung können die zwei Phasen der
 
 Bei der Hybridisierung werden Orbitale eines Atoms kombiniert. Atome können je nach Bindungspartnern unterschiedlich hybridisiert sein (je nachdem, wie viele Orbitale kombiniert werden). Durch diese Mischung erhalten wir evtl mehr Orbitale, die Bindungen eingehen können, da die Elektronen neu verteilt werden. Sowohl in Form als auch Energieniveau liegen die neuen Orbitale zwischen den zwei oder mehr Ursprungsorbitalen. Die Hybridisierten Orbitale bilden in der Regel die Sigma-Bindungen aus, die übrig gebliebenen die Pi-Bindungen. Sigma Bindungen können jedoch auch zwischen s und s, s und p oder p und p-Orbitalen gebildet werden. Freie Elektronenpaare liegen auch immer in Hybridorbitalen und spielen dementsprechend auch bei der Geometrie des Moleküls eine Rolle.
 Beispiel: 
-![[Pasted image 20240214151735.png]]
+![[SP-Hybridiserungstypen.png]]
 
 Bei der Hybridisierung  von s und p-Orbitalen verbinden sich die zwei identischen Phasen der Orbitale miteinander, die zweite Phase des p-Orbitals wird kleiner. Die zwei verbundenen Phasen zeigen nach außen und gehen die Bindung ein, die kleine einzelne Phase nach innen. 
 Beispiel:
-![[Pasted image 20240214152048.png]]
+![[SP3-Hybridisierung.png]]
 
 #### Geometrie
 
@@ -37,7 +37,7 @@ $d^2sp^3$: oktaedrisch
 Die Bildung von Molekülorbitalen läuft ähnlich ab wie die Bildung von Hybridorbitalen. Auch hier werden Die gleichen Phasen zweier Orbitale zu neuen Orbitalen kombiniert, diesmal allerdings zwischen zwei Atomen und nicht innerhalb eines Atoms.
 Nach dem Erstellen eines Molekülorbitaldiagramms lässt sich über die bond-order feststellen, ob es insgesamt zu einer Bindung kommt oder nicht. Das Molekülorbitaldiagramm wird dabei auf die gleiche Weise aufgefüllt wie die [[Atombau und Periodensystem#Orbitalbesetzungsregeln|Atomorbitale]] und setzt sich nur aus den Valenzelektronen zusammen.
 Beispiel für O2:
-![[Pasted image 20240214151102.png]]
+![[Schema Molekülorbitale.png]]
 
 Der Ort der Molekülorbitale zeigt ihr Energieniveau. Das Energieniveau von Bindungsorbitalen liegt immer unter dem Energieniveau der Ursprungsorbitale, das der Antibonding-Orbitale darüber. Die beiden Atome kombiniert und das Molekül müssen gleich viele Orbitale besitzen. $\sigma$ und $\pi$ bezeichnen Bonding-Orbitale, $\sigma*$ und $\pi*$ Antibonding-Orbitale. Nicht an der Bindung beteiligte Orbitale ändern ihr Energieniveau nicht. Sie werden auch als Lone Pairs bezeichnet.
 

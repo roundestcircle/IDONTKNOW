@@ -2,7 +2,7 @@
 
 ### Konzept
 
-![[Pasted image 20240614101636.png]]
+![[Karte der Subduktionszonen.png]]
 
 Da an [[MOR]] ständig neues Material produziert wird, muss irgendwo anders Kruste vernichtet werden, da sich die Erde nicht ausdehnt. Dies geschieht an Subduktionszonen.
 
@@ -32,12 +32,12 @@ Eine nahezu Sedimentlose ozeanische Platte reibt von unten Teile der kontinenlta
 
 ### Struktur eines Inselbogens
 
-![[Pasted image 20240614104142.png]]
+![[Schema Schmelzbildung an Inselbögen.png]]
 Im Mantle Wedge findet die Volatilbezogene [[Schmelzbildung]] statt. Entlang der Benioff-Wadati Zone entstehen die seismischen Ereignisse.
 
 ### Struktur eines kontinentalen Bogens
 
-![[Pasted image 20240614111501.png]]
+![[Schema Schmelzbildung an kontinentalen Bögen.png]]
 An kontinentalen Bögen ist die Kruste deutlich dicker und leichter, als an Inselbögen. Der Aufstieg ist daher länger, und langsamer. So findet [[Magmendifferenzierung]] verstärkt statt. Der Einfluss der Kruste ist deutlich. Zudem ist der Schmelzpunkt der kontinentalen Kruste recht niedrig, sodass sich zusätzlich partielle Schmelzen bilden können.
 
 ### Vulkanite in Subduktionszonen
@@ -48,7 +48,7 @@ Die Vulkanite/Schmelze an Subduktionszonen setzt sich aus Teilen der subduzierte
 
 #### Geochemie
 
-![[Pasted image 20240614105458.png]]
+![[Besipielhafte Subduktionszonengesteine im TAS Diagramm.png]]
 
 Merapi ist typisch, Tambora untypisch.
 

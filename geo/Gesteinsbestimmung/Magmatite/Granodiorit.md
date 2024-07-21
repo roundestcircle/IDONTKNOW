@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[s339_19a-753529004.jpg]]
+![[Foto Granodiorit.jpg]]
 
 Gruppe:: [[Magmatite]]
 Primärbestandteile:: ähnlich wie Granit, aber mehr[[Amphibole]] und weniger [[Alkalifeldspäte]]

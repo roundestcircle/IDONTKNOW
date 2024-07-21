@@ -32,7 +32,7 @@ Ist D also größer als eins, wird das Element bevorzugt in die Festphase eingeb
 Beispiel Sr in Plagioclas: D=4, Konzentration im Kristall vier mal so groß wie in der Restschmelze. Sr ist hier also kompatibel. In Olivin dagegen ist Sr inkompatibel.
 
 D lässt sich tabellieren, für verschiedene Minerale und Elemente:
-![[Pasted image 20240612134253.png]]
+![[Beispiele Spurenelementanalysen verschiedener Minerale.png]]
 
 Für Gesteine lassen sich Gesamtverteilungkoeffizienten aus den Verteilungskoeffizienten und dem Anteil der jeweiligen Minerale bestimmen.
 
@@ -43,13 +43,13 @@ $D=\sum {D_ip_i}$
 Ausgegangen wird von perfekter [[Magmendifferenzierung#Fraktionierte Kristallisation]]. 
 $F^{(D-1)}=\frac{C_l}{C_0}$,
 wobei $C_0$ die Ursprungskonzentration des Elements ist und F der Anteil der Restschmelze. Im Diagramm abgetragen ergibt sich folgendes Bild: 
-![[Pasted image 20240612140016.png]]
+![[Kristall-Schmelze-Modellierung FC.png]]
 Wie zu erwarten, nimmt der Anteil eines kompatiblen Elements mit zunehmender Kristallisation ab, während der eines inkompatiblen zunimmt.
 
 Modellierung für teilweises aufschmelzen (Batch Melting):
 $\frac{1}{D(1-F)+F}=\frac{C_l}{C_0}$
 Im Diagramm abgetragen ergibt sich folgendes Bild:
-![[Pasted image 20240612140417.png]]
+![[Kristall-Schmelze Modellierung Partielles Aufschmelzen.png]]
 Wie zu erwarten, werden inkompatible in Teilschmelzen mit geringem Schmelzgrad stark angereichert. Inkompatible Elemente präferieren die Schmelze. Sie werden dann verdünnt, wenn der Schmezgrad ansteigt. In der Natur kommt eigentlich kein Schmelzgrad von über 30% vor. Bei 100% Schmelze nähert man sich logischerweise der Originalkonzentration ($C_0$) an.
 
 Wird die Schmelze sofort aus dem System isoliert und steigt auf, sobald sei entsteht, etwa bei 1% Schmezgrad, reichern sich inkompatible Elemente noch stärker an.
@@ -60,7 +60,7 @@ Für einen groben Überblick über Kompatibilitäten lässt sich ein Ionenpotent
 
 Das hier dargestellte Diagramm (aus Rollinson (1993), Using Geochemical Data) bezieht sich in den Kompatibilitätseinordnungen auf Olivin. Da inkompatible Elemente auch als erstes in die Schmelze gehen, reichern sich diese also im Rahmen der [[Schmelzbildung]] in der Kruste an.
 
-![[Pasted image 20240612134100.png]]
+![[Ionenpotentialdiagramm.png]]
 
 ## Seltene Erden
 
@@ -76,15 +76,15 @@ Achtung: Bei Plagioclas nimmt die Kompatibilität aufgrund der spezifischen Ione
 In der Regel sind Elemente mit geraden Ordnungszahle häufiger als solche mit ungeraden. Um diese Schwankung als störenden Faktor zu eliminieren, werden die REE-Konzentration anhand eines Chondrits normiert. Chondrite sind Meteoriten, die vermutlich in ihrer Zusammensetzung der der Gesamterde ähneln. Auf der X-Achse wird also nicht die Gesamtkonzentration abgetragen, sondern das Verhältnis der Konzentration zum Chondrit. Wären die Konzentrationen identisch, würden alle Werte folglich bei 1 liegen. Sind die REE im Vergleich zur Gesamterde angereichert, liegen die Werte über 1.
 
 Beispiel für Andesite von Salina:
-![[Pasted image 20240612141828.png]]
+![[Spurenelementanalyse Beipiel Chondrit-Normiert.png]]
 
 Normiert man anhand von anderen Gesteinen, lassen sich An- und Abreicherungen in verschiedenen tektonischen Milieus sehr gut vergleichen. 
 
 #### Ozeanische Basalte in REE Diagrammen
 Rock/Chondrite:
-![[Pasted image 20240612142410.png]]
+![[Spurenelementanalyse MORB vs OIB.png]]
 Rock/MORB:
-![[Pasted image 20240612143212.png]]
+![[Spurenelementanalyse OIB (MORB-Normalisiert).png]]
 OIB vs MORB: 
 OIB: verarmt an HREE, viele leichte REE (verglichen mit MORB!): Tiefe Mantelquelle, HREE bleibt dort im Granat zurück, LREE werden in schmelze angereichert
 MORB: Wenig leichte SEE

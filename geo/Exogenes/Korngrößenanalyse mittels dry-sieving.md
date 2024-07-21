@@ -6,6 +6,6 @@ Erratum: The p- / d-Values are reversed. d90 should refer to the diameter at whi
 
 ## Visual Analysis of Sorting (using Kurtosis)
 
-![[Pasted image 20240617111711.png]]
+![[Schema Korngrößenverteilungen.png]]
 
-![[Pasted image 20240617111735.png]]
+![[Schema Korngrößendiagramm und Analyse.png]]

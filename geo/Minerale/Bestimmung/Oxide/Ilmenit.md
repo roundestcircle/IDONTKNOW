@@ -1,6 +1,6 @@
 #Min #Oxide #Bestimmung 
 
-![[th-3793632206.jpg]]
+![[Foto Ilmenit.jpg]]
 
 ### Ilmenit Chem
 

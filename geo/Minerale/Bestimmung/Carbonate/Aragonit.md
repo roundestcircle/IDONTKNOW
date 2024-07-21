@@ -1,6 +1,6 @@
 #Min #Carbonate #Bestimmung
 
-![[th-3533444890.jpg]]
+![[Foto Aragonit.jpg]]
 
 ### Name Chem
 

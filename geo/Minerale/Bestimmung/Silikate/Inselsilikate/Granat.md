@@ -1,6 +1,6 @@
 #Min #Silikate #Inselsilikate #Bestimmung 
 
-![[th-471040626.jpg]]
+![[Foto Granat.jpg]]
 
 Granat bildet komplexe Mischkristalle, selbst ein einzelner Granat hat oft verschiedene Zusammensetzungen je nach Region.
 

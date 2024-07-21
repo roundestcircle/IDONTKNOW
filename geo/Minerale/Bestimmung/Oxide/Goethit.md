@@ -1,6 +1,6 @@
 #Min #Oxide #Bestimmung 
 
-![[th-1659609376.jpg]]
+![[Foto Goethit.jpg]]
 
 ### Goethit Chem
 

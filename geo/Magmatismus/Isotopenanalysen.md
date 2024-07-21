@@ -42,7 +42,7 @@ $$
 #### Isochronendiagramm
 
 Beispiel: 
-![[th-3694470078.jpg]]
+![[Schema Isochronendiagram Isotopenanalyse.jpg]]
 
 Zu jedem Zeitpunkt ergibt sich also für ein analysiertes Gestein eine Gerade, auf der die Minerale mit verschiedenen intialen Rb/Sr Verhältnissen liegen. Sie haben alle den gleichen Y-Achsenabschnitt, nämlich das Initiale Sr/Sr Verhältnis (Sozusagen ein Mineral völlig ohne das Mutterisotop, das an diesem Ort bleibt). Das Sr/Sr-Verhältnis verändert sich mit der Zeit ausschließlich aufgrund des Rb Zerfalls (je mehr RB zu Beginn, desto mehr $^{87}Sr$). Die Steigung der Gerade verändert sich deswegen mit der Zeit: bei t=0 beträgt sie 0, bei hohen t-Werten mehr. Sie bleibt jedoch eine Gerade: Die Minerale, die mit mehr Rb begonnen, erfahren eine stärkere Veränderung als die, die mit weniger Rb begonnen haben.
 
@@ -56,7 +56,7 @@ Das Initiale Sr/Sr-Verhältnis kann anschließend zur Feststellung der Magmenque
 
 Das Sr/Sr-Verhältnis aus Chondriten wird als das der Gesamterde vor 4,5 Ga betrachtet. Auch hier wurde das Initialverhältnis über die Isochrone bestimmt. Da ab etwa vor 3 Ga (angenommen) vermehrt Rubidium in die Kruste eingebuat wurde, steigt dort mit der Zeit das Sr/Sr- Verhältnis deutlich schneller an als im Mantel. Dementsprechend haben Magmequellen in der Kruste ein höheres Verhältnis als Magmenquellen im Mantel
 
-![[Pasted image 20240612185158.png]]
+![[Schema Entwicklung der Sr-Verhältnisse der Erde mit der Zeit.png]]
 
 Beachte: Zur Quellenidentifikation müssen immer die Initialwerte betrachtet werden!
 
@@ -68,7 +68,7 @@ Da Nd jedoch inkompatibler als Sm ist, wird es in der Kruste im Vergleich zu Sm 
 
 ### Kombination der Systeme
 
-![[Pasted image 20240612190327.png]]
+![[Kombination von Sr und Nd Isotopenanalyse zur Magmenquellenbestimmung.png]]
 
 Viele Proben liegen grob auf einer Linie zwischen der oberen linken Ecke und der unteren Rechten. So lassen sich recht eindeutig Magmenquellen identifizieren. Mittige Proben sind sowohl von Mantel-, als auch Krustengesteinen beeinflusst.
 

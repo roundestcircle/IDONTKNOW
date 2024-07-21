@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[th-101196262.jpg]]
+![[Foto Eklogit.jpg]]
 
 Gruppe:: [[Metamorphite]]
 Primärbestandteile:: [[Granat]],[[Pyroxene#Omphacit Eig]]

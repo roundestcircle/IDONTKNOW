@@ -83,7 +83,7 @@ r-Strategen: Hohe Reproduktionsrate. Kommen an Standorten vor, an denen die Mort
 
 #### CSR-Strategietypen
 
-![[Pasted image 20240717170511.png]]
+![[Schema CSR Strategen.png]]
 
 Zu den C/K- (Competitors) und r/R-Strategen (Ruderals) kommen hier noch die Stress Tolerators S hinzu
 

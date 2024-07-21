@@ -1,6 +1,6 @@
 #Min #Carbonate #Bestimmung 
 
-![[th-2112276314.jpg]]
+![[Foto Malachit.jpg]]
 
 ### Malachit Chem
 

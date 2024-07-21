@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[th-3980639690.jpg]]
+![[Foto Ignimbrit.jpg]]
 
 Gruppe:: [[Pyroklastite]]
 Primärbestandteile:: Glasfetzen, versinterte Magma und Asche

@@ -1,6 +1,6 @@
 #Min #Silikate #Gerüstsilikate #Bestimmung
 
-![[Minerale-037_1600-673181322.jpg]]
+![[Foto Perthitische Entmischung.jpg]]
 
 ### Alkalifeldspäte Chem
 

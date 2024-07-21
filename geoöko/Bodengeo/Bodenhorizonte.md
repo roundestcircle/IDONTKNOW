@@ -44,4 +44,4 @@ Prozesse im A-Horizont bilden den B-Horizont, er kann ohne A-Horizont nicht ents
 
 ### [[Bodentypen]] und Horizonte
 
-![[Pasted image 20240712130953.png]]
+![[Schema Bodenhorizonte verschiedener Bodentypen.png]]

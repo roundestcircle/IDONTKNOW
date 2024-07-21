@@ -1,6 +1,6 @@
 #Geo #Bestimmung 
 
-![[th-3418427650.jpg]]
+![[Foto Pelit mit Pflanzenfossilien.jpg]]
 
 Gruppe:: [[Siliziklastika]]
 Primärbestandteile:: mehr als 75% [[Matrix]]

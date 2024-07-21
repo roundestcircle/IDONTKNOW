@@ -1,6 +1,6 @@
 #Min #Oxide #Bestimmung 
 
-![[4290foto3-2840443386.jpg]]
+![[Foto Rutil.jpg]]
 <!--ID: 1705934303531-->
 
 

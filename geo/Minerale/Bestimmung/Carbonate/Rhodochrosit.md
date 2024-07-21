@@ -1,6 +1,6 @@
 #Min #Carbonate #Bestimmung 
 
-![[th-3934532082.jpg]]
+![[Foto Rodochrosit.jpg]]
 
 ### Rhodochrosit Chem
 

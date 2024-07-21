@@ -26,10 +26,10 @@ Einzelne größere Körner werden nicht beachtet.
 Since most rocks are not well sorted enough to pe put firmly  in a category with just this table, a ternary Diagram may be used.
 
 Loose Sediments:
-![[Pasted image 20240617103954.png]]
+![[Ternäres Diagramm zur Einordnung von Lockersedimenten.png]]
 
 Lithified Sediments:
-![[Pasted image 20240617104021.png]]
+![[Ternäres Diagramm zur Einordnung von Siliziklastika (nach Korngöße).png]]
 
 ### Sorting
 
@@ -70,7 +70,7 @@ Compositional Maturity is usually linked to textural Maturity since both are con
 ### Maturity Overview
 
 Maturity is a function of Energy in a system, transport distance from source and exposure to weathering ([[Verwitterung]]).
-![[Pasted image 20240617111227.png]]
+![[Schema Maturity of Clastic Rocks.png]]
 
 ## Sandsteine
 
@@ -83,13 +83,13 @@ Geordnet nach Bestandteilen
 
 Ternary Diagram not considering Matrix content:
 
-![[Pasted image 20240617105409.png]]
+![[Ternäres Diagramm zur Einordnung von Siliziklastika (nach Mineralogie).png]]
 
 Bei Matrixanteilen von über 75% spricht man von Peliten. Wacken liegen sozusagen zwischen Sandsteinen und Peliten.
 
 Ternary Diagram with a fourth axis considering matrix content:
 
-![[Pasted image 20240617110028.png]]
+![[Schema Siliziklastika nach Matrixanteil.png]]
 
 ## Clastic vs Siliciclastic vs terrigenous
 

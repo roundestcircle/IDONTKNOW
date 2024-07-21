@@ -44,18 +44,18 @@ Supercritical Flows are dominated by Inertia. Their Fr is more than 1. They are 
 
 At a hydraulic jump, the thickness increases rapidly and the speed of the flow decreases. The Flow changes from Supercritical to subcritical.
 
-![[Pasted image 20240616160443.png]]
+![[Example of Flow Types.png]]
 
 ## Particle Transport Fundamentals
 
 Erosion and Entertainment is dependent on grain size, bed roughness, cohesion of smaller grains and Flow velocity. For a basic overview, the experimentally derived Hjulström-Diagram may be used. Pay attention t the log scales on Both Axis.
 
-![[Pasted image 20240616160810.png]]
+![[Hjulström Diagram.png]]
 
 A more precise Diagram is the Shields Diagram, that incorporates more parameters.
 The X-Axis is the Grain Reynolds Number (not equal to flow reynolds number!), the Y-Axis the Bed Shear stress.
 
-![[Pasted image 20240616161039.png]]
+![[Shields Diagram.png]]
 
 Three main transport mechanisms:
 1. Dissolved Load
@@ -63,7 +63,7 @@ Three main transport mechanisms:
 3. Bedload: Transport along the river bed, mainly sand and gravel
 vgl [[Äolische Systeme#Bewegungsformen der Partikel]]
 
-![[Pasted image 20240616162400.png]]
+![[Schema Particle Movement in Flows.png]]
 
 # Deposition
 

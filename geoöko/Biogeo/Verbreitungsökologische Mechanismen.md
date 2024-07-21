@@ -23,7 +23,7 @@ Diasporen sind die Ausbreitungseinhaiten der Pflanze.
 - Typ 3: Arten mit kleiner dauerhafter Diasporenbank und vielen Diasporen, die direkt keimen
 - Typ 4: Arten mit großer dauerhafter Diasporenbank und minimaler direkter Keimung
 
-![[Pasted image 20240717164541.png]]
+![[Schema Diasporenbanktypen.png]]
 
 ## Safe Site
 
