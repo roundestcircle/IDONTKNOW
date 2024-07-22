@@ -10,7 +10,7 @@ The combination of grain size, shape, type and layering/grain orientation are re
 
 ### Ordnung nach Korngrößen
 
-Ähnlich wie Einordnung bei [[Pyroklastika]]
+Ähnlich wie Einordnung bei [[Pyroklastite]]
 
 | Korngrößen   | Lockersediment       | Gestein                                       |
 | ------------ | -------------------- | --------------------------------------------- |

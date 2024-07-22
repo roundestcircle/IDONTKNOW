@@ -22,7 +22,7 @@ Wichtig festzustellen: Die Hauptelemente variieren systematisch!
 ## Harker Diagramme
 
 In Harker Diagrammen werden verschiedene Gesteinsanalysen einer sogenannten Suite eingetragen. In der Regel ist die X-Achse der Anteil eines Differentiationsindexes (rem.: Elemente variieren systematisch je nach [[Magmendifferenzierung|Differentiationsgrad]]).
-Auf der Y-Achse kann jedes andere Oxid abgebildet werden, oft auch [[Spurenelementanalyse|Spurenelemente]]. So lassen sich weitere Trends feststellen. Elementoxide können systematisch mit der Differentiation ab- oder zunehmen, oder Knick- oder Hochpunkte aufweisen.
+Auf der Y-Achse kann jedes andere Oxid abgebildet werden, oft auch [[Spurenelementanalysen|Spurenelemente]]. So lassen sich weitere Trends feststellen. Elementoxide können systematisch mit der Differentiation ab- oder zunehmen, oder Knick- oder Hochpunkte aufweisen.
 
 Beispiele aus Wilson (1989): Igneous Petrogenesis
 

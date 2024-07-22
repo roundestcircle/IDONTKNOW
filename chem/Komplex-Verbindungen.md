@@ -30,7 +30,7 @@ Komplexe mit 4 Liganden können quadratisch planar oder tetraedrisch sein, je na
 
 ### Stereochemie
 
-vgl. [[Stereochemie]] in organischen Molekülen.
+vgl. [[Stereoisomerie]] in organischen Molekülen.
 
 1. Diastereoisomere
 - cis: 90°-Winkel zwischen gleichen Liganden

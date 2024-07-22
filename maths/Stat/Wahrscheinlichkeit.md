@@ -4,7 +4,7 @@ vgl. [[Kombinatorik]]
 
 ### Zufallsexperimente
 
-In Zufallsexperimenten bilden alle Möglichen Ergebnisse den Ereignisraum. Jedes Ereignis hat eine Auftretenswahrscheinlichkeit zwischen 0 und 1, alle Wahrscheinlichkeiten zusammen ergeben 1. Die Ergebnisse eines Zufallsexperimentes (wie zum Beispiel dem Ziehen einer [[Stichprobe]]) nennt man Zufallsvariablen.
+In Zufallsexperimenten bilden alle Möglichen Ergebnisse den Ereignisraum. Jedes Ereignis hat eine Auftretenswahrscheinlichkeit zwischen 0 und 1, alle Wahrscheinlichkeiten zusammen ergeben 1. Die Ergebnisse eines Zufallsexperimentes (wie zum Beispiel dem Ziehen einer [[Stichproben]]) nennt man Zufallsvariablen.
 Alle Zufallsvariablen lassen sich als [[Daten Ordnen#Häufigkeitstabelle|Histogramm]] oder als kumulative Verteilungsfunktionen darstellen.
 
 #### Diskrete Zufallsvariablen

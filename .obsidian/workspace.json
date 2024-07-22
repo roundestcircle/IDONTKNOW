@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e70077cb8afa86f3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments Renamed/Foto Amphibol.jpg"
-              }
-            }
-          },
-          {
             "id": "a1112ae38785b2e6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments Renamed/Beispiele Harker Diagramme 2.png"
+                "file": "bio/Tierökologie/Biotische Interaktionen (Tiere).md",
+                "mode": "source",
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "terre",
+                "query": "Stichpro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments Renamed/Beispiele Harker Diagramme 2.png",
+                "file": "bio/Tierökologie/Biotische Interaktionen (Tiere).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,46 +122,47 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "54129478d09a05ea",
+  "active": "a1112ae38785b2e6",
   "lastOpenFiles": [
+    "Attachments Renamed/Foto Amphibol.jpg",
+    "bio/Tierökologie/Biotische Interaktionen (Tiere).md",
+    "templates/Geoöko.md",
+    "Stereochemie.md",
+    "chem/Komplex-Verbindungen.md",
+    "Stichprobe.md",
+    "maths/Stat/Wahrscheinlichkeit.md",
+    "maths/Stat/Schätzen.md",
+    "Pyroklastika.md",
+    "geo/Gesteinsbestimmung/Sedimentgesteine/Siliziklastika.md",
+    "Ordinalskalenniveau.md",
+    "geo/Minerale/Bestimmung/Mohs`sche Härteskala.md",
+    "maths/Stat/Statistische Grundbegriffe.md",
+    "maths/Stat/Mathjax basics.md",
+    "Trockene Subtropen.md",
+    "geoöko/Hydrogeo/Abflussregime.md",
+    "Spurenelementanalyse.md",
+    "geo/Magmatismus/Hauptelementanalysen.md",
+    "templates/Biome.md",
+    "geo/Gesteinsbestimmung/Minerale in Gesteinen.md",
+    "bio/Tierökologie/Verbreitungsdeterminierende Mechanismen der Tiere.md",
+    "bio/Tierökologie/Intraspezifische Konkurrenz (Tiere).md",
+    "bio/Tierökologie/Populationsökologie Tiere.md",
+    "bio/Tierökologie/Destruenten.md",
+    "geoöko/Bodengeo/Bodentypen/Bodentypen.md",
+    "geoöko/Bodengeo/Bodenwasser.md",
+    "Attachments/Pasted image 20240722153354.png",
+    "Attachments/Pasted image 20240722153239.png",
+    "Attachments/Pasted image 20240722152520.png",
+    "Attachments/Pasted image 20240722151102.png",
+    "Attachments/Pasted image 20240721145054.png",
+    "Attachments/Pasted image 20240721125642.png",
+    "Attachments/Pasted image 20240721125625.png",
+    "Attachments Renamed/Beispiele Harker Diagramme 2.png",
+    "bio/Tierökologie",
     "Attachments Renamed/Spurenelementanalyse Beipiel Chondrit-Normiert.png",
     "Attachments Renamed/Kristall-Schmelze Modellierung Partielles Aufschmelzen.png",
-    "Attachments Renamed/Kristall-Schmelze-Modellierung FC.png",
-    "Attachments Renamed/Beispiele Spurenelementanalysen verschiedener Minerale.png",
-    "Attachments Renamed/Ionenpotentialdiagramm.png",
-    "geo/Magmatismus/Spurenelementanalysen.md",
-    "Attachments Renamed/Tholeiitischer vs Subalkalischer Trend im MFA Diagramm.png",
-    "Attachments Renamed/TAS Diagramm.png",
-    "geo/Gesteinsbestimmung/Magmatite/Andesit.md",
-    "Attachments Renamed/Beispiele Harker Diagramme 2.png",
-    "Attachments Renamed/Beispiele Harker Diagramme.png",
-    "Attachments Renamed/Beispiele Hauptelementanalysen.png",
-    "Attachments Renamed/Schema Allgemeines Strukturmodell eines Ökosystems.png",
-    "geoöko/Ökosystemanalyse.md",
-    "geo/Magmatismus/Schmelzbildung.md",
-    "geo/Magmatismus/Hotspots.md",
-    "geo/Magmatismus/Granitoide.md",
-    "geo/Magmatismus/Kontinentaler Alkalischer Magmatismus.md",
-    "geo/Gesteinsbestimmung/Sedimentgesteine/Kalkstein.md",
-    "geo/Exogenes/Transport und Sedimentation.md",
-    "geo/Exogenes/Coastal Environments.md",
-    "bio/Ökologie & Geobotanik/Standortfaktoren.md",
-    "geo/Gesteinsbestimmung/Leitfossilien.md",
-    "geo/Minerale/Bestimmung/Silikate/Inselsilikate/Alumosilikate.md",
-    "geo/Gesteinsbestimmung/Metamorphe Gesteine/Granulit.md",
-    "geo/Minerale/Bestimmung/Silikate/Ringsilikate/Turmalin.md",
-    "geo/Gesteinsbestimmung/Sedimentgesteine/Bioklastkalksteine.md",
-    "geo/Minerale/Bestimmung/Silikate/Gerüstsilikate/Plagioclase.md",
-    "geo/Gesteinsbestimmung/Pyroklastite/Pyroklastite.md",
     "Attachments Renamed/Trockensiebung_17_04_24.pdf",
-    "geo/Geodynamik/Raumlage Geologischer Strukturen.md",
     "Attachments Renamed",
-    "geoöko/Biogeo/Terrestrische Biome/Sommergrüner Mischwald.md",
-    "geoöko/Biogeo/Terrestrische Biome/Immergrüner Hartlaubwald.md",
-    "geoöko/Biogeo/Terrestrische Biome/Tropischer Regenwald.md",
-    "geoöko/Biogeo/Terrestrische Biome/Savannen und Wüsten (trock. Tropen).md",
-    "geoöko/Biogeo/Terrestrische Biome/Terrestrische Biome.md",
-    "geoöko/Biogeo/Biodiversität.md",
     "chem/PC/Untitled",
     "chem/PC",
     "geo/Exogenes/geo/Exogenes",
@@ -178,7 +170,6 @@
     "zotero_attachments",
     "zotero",
     "geoöko/Biogeo/Terrestrische Biome",
-    "geoöko/Ökozonen",
     "Untitled.canvas"
   ]
 }

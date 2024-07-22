@@ -14,7 +14,7 @@ Der Stichprobenfehler ist, wie abzulesen, kleiner, je größer die Stichprobe is
 
 #### Z-Wert
 
-Die [[Stichprobe]]nwerte sind idealerweise normalverteilt. Bestimmte Prozentsätze der Werte liegen also in Intervallen von:
+Die [[Stichproben]]werte sind idealerweise normalverteilt. Bestimmte Prozentsätze der Werte liegen also in Intervallen von:
 
 1. 90%: $\pm$ 1.65 s
 2. 95% $\pm$ 1.96 s

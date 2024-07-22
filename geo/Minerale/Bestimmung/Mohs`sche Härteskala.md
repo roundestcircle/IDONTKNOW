@@ -1,6 +1,6 @@
 #Min #Basics 
 
-Völlig arbiträres Maß auf [[Ordinalskalenniveau]]. Es lässt lediglich vergleichende Einordnungen zu, keine absoluten. Ein Mineral mit höherer Härte kann ein Mineral mit niedrigerer Härte ritzen, aber nicht geritzt werden.
+Völlig arbiträres Maß auf [[Statistische Grundbegriffe#Ordinalskala|Ordinalskalenniveau]]. Es lässt lediglich vergleichende Einordnungen zu, keine absoluten. Ein Mineral mit höherer Härte kann ein Mineral mit niedrigerer Härte ritzen, aber nicht geritzt werden.
 
 | Härte | Mineral                         | Test                                                 |
 | ----- | ------------------------------- | ---------------------------------------------------- |

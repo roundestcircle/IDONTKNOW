@@ -114,7 +114,10 @@ Die Gleichgewichte sind nur in bestimmten seltenen Fällen möglich, in der Rege
 
 #### Konkurrenz-Ausschluss-Prinzip
 
-Zwei Arten mit den selben oder sehr ähnlichen ökologischen Ansprüchen können nicht koexistieren. Es setzt sich nach dem Lotka Volterra Modell immer die Art mit dem höheren Konkurrenz-Koeefizienten durch. 
+Zwei Arten mit den selben oder sehr ähnlichen ökologischen Ansprüchen können nicht koexistieren. Es setzt sich nach dem Lotka Volterra Modell immer die Art mit dem höheren Konkurrenz-Koeeffizienten durch. Ein höherer Konkurrenzkoeffizient kann erlangt werden durch:
+- Höhere Vermehrung
+- Efiizientere Ressourcennutzung
+- Wirkungsvollere Verdrängungsmechanismen
 
 Anders formuliert: ([[Standortfaktoren#Ökologische Nischen]], [[Definitionen Ökologie#Ökologische Nische]]) Arten mit der selben Fundamentalnische können nur koexistieren, wenn sie unterschiedliche realisierte Nischen haben ([[Standortfaktoren#Nischendifferenzierung]]).
 

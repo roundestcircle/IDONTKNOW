@@ -16,7 +16,7 @@ Kohlenstoff ist der Grundbaustein aller organischen Verbindungen ([[Organische C
 
 Produzenten überführen den Luftkohlenstoff in organische Energieträger und dann zu den hetrotrophen Organismen. Durch die Atmung wird auf jeder Trophiestufe CO2 freigesetzt. Beträchtliche Mengen werden jedoch auch in schwer abbaubaren Substanzen im Boden gespeichert ([[Bodenbildende Prozesse#Humifizierung]]).
 
-Tatsächlich erreichen nur geringe Mengen der Biomasse höhere Trophiestufen über Herbivorie. Der größe Teil wird über die Destruenten-Nahrugsnetze verarbeitet. Diese sind noch verhältnismäßig wenig erforscht, obwohl sie hochkomplex sind. Ausgehend on Recht geringen Einträgen aus den Pflanzen bilden sich auf Basis der Zersetzer lange Nahrungsketten aus.
+Tatsächlich erreichen nur geringe Mengen der Biomasse höhere Trophiestufen über Herbivorie. Der größe Teil wird über die Destruenten-Nahrugsnetze verarbeitet. Diese sind noch verhältnismäßig wenig erforscht, obwohl sie hochkomplex sind. Ausgehend von Recht geringen Einträgen aus den Pflanzen bilden sich auf Basis der Zersetzer lange Nahrungsketten aus. Die meisten Tiere im Prozess ernähren sich nicht von toter organischer Materie, sondern von der ersten Destruentenordnung, Bakterien und Pilzen die die Pflanzen zersetzen.
 
 Der CO2-Gehalt der Atmosphäre kann durch anthropogene oder natürliche Faktoren ansteigen. In Gewisserweise kann die Ökosphäre darauf reagieren, Vegetation und Meere diene als Senken, die grob im Gleichgewicht ([[Daltonsches Partialdruckgesetz]]) mit der Atmosphäre stehen. Dabei kann das CO2 auch durch kalksteinbildung langfristig dem System entzogen werden, zunächst versauern jedoch die Meere, was eher den Gegenteiligen Effekt hat: Kalksteine werden angelöst und setzen mehr CO2 frei.
 

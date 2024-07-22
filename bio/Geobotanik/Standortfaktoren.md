@@ -26,16 +26,16 @@ Proximale Faktoren:
 
 ## Generalisten und Spezialisten
 
-Generalisten haben eine breite ökol. Amplitude, Spezialisten eine schmale.
+Generalisten haben eine breite ökol. Amplitude, Spezialisten eine schmale. 
 
 | Standortsfaktor    | Generalist   | Spezialist    |
 | ------------------ | ------------ | ------------- |
 | Temperatur         | eurytherm    | stenotherm    |
 | Salzgehalt         | euryhalin    | stenohalin    |
 | Wasserschwankungen | euryhydrisch | stenohydrisch |
-| allgemein          | euryök       | stenoök       |
+| allgemein          | euryök       | stenök       |
 
-Viele Pflanzen besiedeln aufgrund biotischer Interaktionen ein weit schmaleres Band aus Umweltbedingungen, als sie theoretische besiedeln könnten.
+Viele Pflanzen besiedeln aufgrund biotischer Interaktionen ein weit schmaleres Band aus Umweltbedingungen, als sie theoretische besiedeln könnten. Stenöke Arten können als [[Zeigerwerte|Zeigerpflanzen]] dienen.
 
 ## Ökologische Nischen
 

@@ -24,7 +24,7 @@ Mediterranes Schnee-Regen-Regime: Ein Peak mit dem Herbstregen, einer mit der Sc
 
 ## Der Nil
 
-Fluss durch die [[Sommerfeuchte Tropen]] und [[Trockene Subtropen]].
+Fluss durch die [[Sommerfeuchte Tropen]] und [[Trockene Tropen und Subtropen]].
 Einzugsgebiet: 3.250.000km^2
 Q: Unterlauf: 1200m^3/s, beide Zuflüsse im Oberlauf: 3700m^3/s
 
