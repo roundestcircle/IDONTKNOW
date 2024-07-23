@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bio/Tierökologie/Biotische Interaktionen (Tiere).md",
+                "file": "bio/Tierökologie/Verhaltensökologie.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Stichpro",
+                "query": "Fitness",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bio/Tierökologie/Biotische Interaktionen (Tiere).md",
+                "file": "bio/Tierökologie/Verhaltensökologie.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -108,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -124,8 +126,13 @@
   },
   "active": "a1112ae38785b2e6",
   "lastOpenFiles": [
-    "Attachments Renamed/Foto Amphibol.jpg",
+    "bio/Geobotanik/Populationsökologie Pflanzen.md",
+    "bio/Tierökologie/Verhaltensökologie.md",
     "bio/Tierökologie/Biotische Interaktionen (Tiere).md",
+    "Attachments/Pasted image 20240723124917.png",
+    "Attachments/Pasted image 20240723115035.png",
+    "bio/Tierökologie/Populationsökologie Tiere.md",
+    "Attachments Renamed/Foto Amphibol.jpg",
     "templates/Geoöko.md",
     "Stereochemie.md",
     "chem/Komplex-Verbindungen.md",
@@ -146,10 +153,8 @@
     "geo/Gesteinsbestimmung/Minerale in Gesteinen.md",
     "bio/Tierökologie/Verbreitungsdeterminierende Mechanismen der Tiere.md",
     "bio/Tierökologie/Intraspezifische Konkurrenz (Tiere).md",
-    "bio/Tierökologie/Populationsökologie Tiere.md",
     "bio/Tierökologie/Destruenten.md",
     "geoöko/Bodengeo/Bodentypen/Bodentypen.md",
-    "geoöko/Bodengeo/Bodenwasser.md",
     "Attachments/Pasted image 20240722153354.png",
     "Attachments/Pasted image 20240722153239.png",
     "Attachments/Pasted image 20240722152520.png",
@@ -157,10 +162,7 @@
     "Attachments/Pasted image 20240721145054.png",
     "Attachments/Pasted image 20240721125642.png",
     "Attachments/Pasted image 20240721125625.png",
-    "Attachments Renamed/Beispiele Harker Diagramme 2.png",
     "bio/Tierökologie",
-    "Attachments Renamed/Spurenelementanalyse Beipiel Chondrit-Normiert.png",
-    "Attachments Renamed/Kristall-Schmelze Modellierung Partielles Aufschmelzen.png",
     "Attachments Renamed/Trockensiebung_17_04_24.pdf",
     "Attachments Renamed",
     "chem/PC/Untitled",
