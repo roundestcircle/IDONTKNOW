@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bio/Tierökologie/Verhaltensökologie.md",
+                "file": "chem/PC/Thermochemie.md",
                 "mode": "source",
                 "source": true
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bio/Tierökologie/Verhaltensökologie.md",
+                "file": "chem/PC/Thermochemie.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -126,8 +125,26 @@
   },
   "active": "a1112ae38785b2e6",
   "lastOpenFiles": [
-    "bio/Geobotanik/Populationsökologie Pflanzen.md",
+    "chem/PC/Enthalpie.md",
+    "chem/PC/Thermochemie.md",
+    "chem/PC/Einheiten.md",
+    "preamble.sty.bak",
+    "preamble.sty",
+    "chem/PC/Adiabatische Prozesse.md",
+    "chem/PC/1. Hauptsatz der TD.md",
+    "chem/PC/Begriffliche Grundlagen PC.md",
+    "chem/PC/Arbeit W.md",
+    "chem/PC/Reale Gase.md",
+    "chem/PC/Temperatur und thermische Energie.md",
+    "chem/PC/Reversibilität.md",
+    "chem/PC/Partielle Ableitungen und totales Differential.md",
+    "chem/PC/Ideale Gase.md",
+    "chem/PC/0. Hauptsatz der TD.md",
+    "chem/Chemie Grundlagen/Aromatizität.md",
     "bio/Tierökologie/Verhaltensökologie.md",
+    "chem/Chemie Grundlagen",
+    "physics/Wasserpotential.md",
+    "bio/Geobotanik/Populationsökologie Pflanzen.md",
     "bio/Tierökologie/Biotische Interaktionen (Tiere).md",
     "Attachments/Pasted image 20240723124917.png",
     "Attachments/Pasted image 20240723115035.png",
@@ -135,26 +152,10 @@
     "Attachments Renamed/Foto Amphibol.jpg",
     "templates/Geoöko.md",
     "Stereochemie.md",
-    "chem/Komplex-Verbindungen.md",
+    "chem/Chemie Grundlagen/Komplex-Verbindungen.md",
     "Stichprobe.md",
     "maths/Stat/Wahrscheinlichkeit.md",
     "maths/Stat/Schätzen.md",
-    "Pyroklastika.md",
-    "geo/Gesteinsbestimmung/Sedimentgesteine/Siliziklastika.md",
-    "Ordinalskalenniveau.md",
-    "geo/Minerale/Bestimmung/Mohs`sche Härteskala.md",
-    "maths/Stat/Statistische Grundbegriffe.md",
-    "maths/Stat/Mathjax basics.md",
-    "Trockene Subtropen.md",
-    "geoöko/Hydrogeo/Abflussregime.md",
-    "Spurenelementanalyse.md",
-    "geo/Magmatismus/Hauptelementanalysen.md",
-    "templates/Biome.md",
-    "geo/Gesteinsbestimmung/Minerale in Gesteinen.md",
-    "bio/Tierökologie/Verbreitungsdeterminierende Mechanismen der Tiere.md",
-    "bio/Tierökologie/Intraspezifische Konkurrenz (Tiere).md",
-    "bio/Tierökologie/Destruenten.md",
-    "geoöko/Bodengeo/Bodentypen/Bodentypen.md",
     "Attachments/Pasted image 20240722153354.png",
     "Attachments/Pasted image 20240722153239.png",
     "Attachments/Pasted image 20240722152520.png",
@@ -169,9 +170,6 @@
     "chem/PC",
     "geo/Exogenes/geo/Exogenes",
     "geo/Exogenes/geo",
-    "zotero_attachments",
-    "zotero",
-    "geoöko/Biogeo/Terrestrische Biome",
     "Untitled.canvas"
   ]
 }

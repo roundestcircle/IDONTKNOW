@@ -45,3 +45,22 @@ Physikalische Größen X auf die Masse m bezogen. $X_{sp} = \frac{X}{m}$
 Physikalische Größen X auf die Stoffmenge n bezogen. $X_{sp} = \frac{X}{n}$
 
 Spezifische und molare Größen sind immer intensiv (mit extensiver Größe normiert).
+
+## Vordelta
+
+$\delta$: kleinste, infinitesimale Veränderung von Prozessgrößen.
+$d$: infinitesimale Änderung einer Zustandsgröße
+$\partial$: infinitesimale Änderung einer Zustandsgröße, auf einen anderen Parameter bezogen ([[Partielle Ableitungen und totales Differential]])
+$\Delta$: Makroskopische veränderung einer Zustandsgröße, Ergebnis ist eine Zahl. Makroskopische Prozessgrößen haben kein Vordelta.
+
+## Vorzeichenkonvention
+
++: System nimmt Energie auf
+-: System gibt Energie ab/verrichtet Arbeit.
+
+## Isoklinen
+
+dT=0: Isotherm
+dV=0: Isochor
+dp=0: Isobar
+$\delta Q$=0: adiabatisch ([[Adiabatische Prozesse]])

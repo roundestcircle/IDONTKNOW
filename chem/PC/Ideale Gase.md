@@ -1,5 +1,7 @@
 #PC 
 
+Gruppe:: Thermodynamik
+
 ## Eigenschaften von Gasen
 
 1. Gase sind kompressibel
