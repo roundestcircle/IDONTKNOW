@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chem/PC/Thermochemie.md",
+                "file": "chem/PC/Ableitungsregeln, Integrationsregeln.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Fitness",
+                "query": "Ableitungs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chem/PC/Thermochemie.md",
+                "file": "chem/PC/Ableitungsregeln, Integrationsregeln.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -108,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -125,37 +124,38 @@
   },
   "active": "a1112ae38785b2e6",
   "lastOpenFiles": [
-    "chem/PC/Enthalpie.md",
+    "chem/PC/Logarithmusgesetze, Potenzgesetze.md",
+    "chem/PC/Ableitungsregeln, Integrationsregeln.md",
+    "maths/pure Mathe/Differentialrechnung.md",
+    "chem/PC/Das chemische Potential.md",
+    "geo/Gesteinsbestimmung/Metamorphe Gesteine/Amphibolit.md",
+    "chem/PC/Ideale Gase.md",
+    "geoöko/Klimageo/Wasser in der Atmosphäre.md",
+    "geoöko/Kohlenstoffkreislauf.md",
+    "chem/PC/Fundamentalgleichungen.md",
+    "chem/PC/Gibbs und Helmholtz.md",
     "chem/PC/Thermochemie.md",
+    "chem/PC/Entropie.md",
+    "chem/PC/Chemisches Gleichgewicht (PC).md",
+    "chem/Chemie Grundlagen/Säure-Base-Reaktionen.md",
+    "chem/Chemie Grundlagen/Chemische Reaktionen.md",
+    "chem/PC/1. Hauptsatz.md",
     "chem/PC/Einheiten.md",
-    "preamble.sty.bak",
-    "preamble.sty",
-    "chem/PC/Adiabatische Prozesse.md",
-    "chem/PC/1. Hauptsatz der TD.md",
-    "chem/PC/Begriffliche Grundlagen PC.md",
-    "chem/PC/Arbeit W.md",
-    "chem/PC/Reale Gase.md",
+    "Overview Files/Overview PC.md",
+    "Overview Files/Overview Physische Geographie, Geoökologie.md",
+    "Overview Files/Overview Statistik.md",
+    "Overview Files/Overview Mineralbestimmung.md",
+    "Overview Files/Overview Chemie Grundlagen.md",
     "chem/PC/Temperatur und thermische Energie.md",
     "chem/PC/Reversibilität.md",
+    "chem/PC/Reale Gase.md",
     "chem/PC/Partielle Ableitungen und totales Differential.md",
-    "chem/PC/Ideale Gase.md",
-    "chem/PC/0. Hauptsatz der TD.md",
-    "chem/Chemie Grundlagen/Aromatizität.md",
-    "bio/Tierökologie/Verhaltensökologie.md",
+    "preamble.sty.bak",
+    "preamble.sty",
     "chem/Chemie Grundlagen",
-    "physics/Wasserpotential.md",
-    "bio/Geobotanik/Populationsökologie Pflanzen.md",
-    "bio/Tierökologie/Biotische Interaktionen (Tiere).md",
     "Attachments/Pasted image 20240723124917.png",
     "Attachments/Pasted image 20240723115035.png",
-    "bio/Tierökologie/Populationsökologie Tiere.md",
     "Attachments Renamed/Foto Amphibol.jpg",
-    "templates/Geoöko.md",
-    "Stereochemie.md",
-    "chem/Chemie Grundlagen/Komplex-Verbindungen.md",
-    "Stichprobe.md",
-    "maths/Stat/Wahrscheinlichkeit.md",
-    "maths/Stat/Schätzen.md",
     "Attachments/Pasted image 20240722153354.png",
     "Attachments/Pasted image 20240722153239.png",
     "Attachments/Pasted image 20240722152520.png",

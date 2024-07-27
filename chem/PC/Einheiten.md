@@ -1,6 +1,8 @@
 #PC 
 
-Kraft: [F] = $\frac{kg\cdot m}{s^2}$
+Gruppe:: Grundlagen
+
+Kraft: [F] = N = $\frac{kg\cdot m}{s^2}$
 
 Temperatur: [T] = K
 
@@ -16,8 +18,14 @@ Innere Energie: U ([[1. Hauptsatz der TD]])
 
 Arbeit: W ([[Arbeit W]])
 
-[Q] = [U] = [W] = j = Nm
+Energie: [Q] = [U] = [W] = J = Nm = $\frac{kg \cdot m^2}{s^2}$
 
-Spezifische Wärmekapazität: $C_V$ ([[1. Hauptsatz der TD]])
+Spezifische Wärmekapazität: [$C_V$] = $\frac{J}{kg \cdot K}$ ([[1. Hauptsatz der TD]])
 
-Enthalpie: [H] = $\frac{j}{mol}$ ([[Enthalpie]], [[Thermochemie]])
+Enthalpie: [H] = $\frac{J}{mol}$ ([[Enthalpie]], [[Thermochemie]])
+
+Entropie: [S] = $\frac{J}{K}$ ([[Entropie]])
+
+Helmholtz-Energie: [A] = J ([[Gibbs und Helmholtz]])
+
+Gibbs-Energie: [G] = J ([[Gibbs und Helmholtz]])

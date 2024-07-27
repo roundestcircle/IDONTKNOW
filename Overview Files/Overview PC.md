@@ -1,6 +1,7 @@
 #Overview #PC
 
 ```dataview
-LIST
-FROM #PC  
+TABLE Gruppe
+FROM #PC
+SORT Gruppe
 ```

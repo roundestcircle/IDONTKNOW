@@ -1,5 +1,7 @@
 #PC #Thermodynamik 
 
+Gruppe:: Thermodynamik
+
 ## Ziele
 
 Anwendung der [[1. Hauptsatz der TD]] auf physikalische Umwandlungen (Änderungen des Aggregatzustandes) und auf chemische Reaktionen. Quantifizierung der Umgesetzten Wärmemengen. Die Gesamtenthalpie spielt dabei keine Rolle, lediglich die Änderung der [[Enthalpie]].
@@ -110,3 +112,12 @@ $\Delta {}_R H_m^\stst(T_2)=\Delta {}_RH^\stst_{m}(T_1)+\Delta {}_RC^\stst _{p,m
 
 Wenn Wärmeabhängig:
 
+$\Delta {}_RC^\stst _{p,m} = \sum \nu_i C^\stst _{p,m,i}$
+
+In Worten: Die Summe der Wärmekapazitäten der Produkte minus die der Edukte.
+
+### Interpretation
+
+$\Delta {}_R H_m^\stst <0$: Wärme wird frei (das System verliert Energie), die Reaktion ist exotherm.
+
+$\Delta {}_R H_m^\stst >0$: Wärme wird benötigt (das System gewinnt Energie), die Reaktion ist endotherm.

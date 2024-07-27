@@ -31,7 +31,7 @@ Gneise können aus verschiedenen Protolithen entstehen, zum Beispiel aus Arkosen
 
 ### Typische gesteine der [[Metamorphe Fazies]]
 
-1. [[Amphilolit]]
+1. [[Amphibolit]]
 2. [[Granulit]]
 3. [[Blauschiefer]]
 4. [[Eklogit]]

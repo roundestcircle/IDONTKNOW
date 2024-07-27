@@ -4,7 +4,7 @@ Gruppe:: Klimageo
 
 ## Dampfdruck
 
-Der Dampfdruck e in hPa bezeichnet den Anteil des Wasserdampfs am Gesamtluftdruck ([[Daltonsches Partialdruckgesetz]]). Erreicht dieser Wert E, den Sättigungsdampfdruck, kondensiert Wasser aus. E ist abhängig von der Lufttemperatur, er ist größer bei höherer Temperatur. 
+Der Dampfdruck e in hPa bezeichnet den Anteil des Wasserdampfs am Gesamtluftdruck ([[Ideale Gase#Mischungen idealer Gase|Partialdruckgesetz]]). Erreicht dieser Wert E, den Sättigungsdampfdruck, kondensiert Wasser aus. E ist abhängig von der Lufttemperatur, er ist größer bei höherer Temperatur. 
 
 ## Gasaustausch
 

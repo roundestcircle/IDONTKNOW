@@ -1,5 +1,7 @@
 #PC #Thermodynamik 
 
+Gruppe:: Thermodynamik
+
 ## Definition
 
 Die Enthalpie ist eine neue Zustandsgröße für isobare Prozesse. Bei isobaren Prozessen wird immer ein Teil der $\delta Q$, die zugeführt wird, in Volumenarbeit umgesetzt (sonst würde der Druck steigen!).

@@ -1,5 +1,7 @@
 #PC #Thermodynamik
 
+Gruppe:: Thermodynamik
+
 ## Adiabatengleichung
 
 Die Adiabatengleichung beschreibt das Verhalten adiabatsicher Prozesse im pV-Diagramm.

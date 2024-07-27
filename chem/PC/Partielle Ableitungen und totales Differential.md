@@ -1,5 +1,7 @@
 #PC 
 
+Gruppe:: Grundlagen
+
 [[Kurvendiskussion in höheren Dimensionen#Partielle Ableitungen]]
 
 ## Partielle Ableitung

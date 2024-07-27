@@ -1,5 +1,7 @@
 #PC 
 
+Gruppe:: Grundlagen
+
 [[Mineralentstehung Basics]] enthält ähnliche Definitionen.
 
 ## System
