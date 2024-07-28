@@ -18,15 +18,15 @@ Natürlicher Logarithmus: Basis e
 
 Dekadischer Logarithmus: Basis 10
 
-1. $ln(ab)=lna+lnb$
-2. $ln(\frac{a}{b})=lna-lnb$
-3. $ln(x^a)=alnx$
-4. $ln(\frac{a}{b})=-ln(\frac{b}{a})$
-5. $ln(e)=1$
-6. $ln(1)=0$
+1. $\ln(ab)=\ln a+\ln b$
+2. $\ln(\frac{a}{b})=\ln a-\ln b$
+3. $\ln(x^a)=a\ln x$
+4. $\ln(\frac{a}{b})=-\ln(\frac{b}{a})$
+5. $\ln(e)=1$
+6. $\ln(1)=0$
 
 Aus 3,5,6 abgeleitet:
 
-$ln(e^x)=x$
+$\ln(e^x)=x$
 
-7. $e^{lnx}=x$
+7. $e^{\ln x}=x$

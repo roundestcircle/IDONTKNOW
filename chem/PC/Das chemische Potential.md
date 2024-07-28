@@ -1,5 +1,7 @@
 #PC #Thermodynamik 
 
+Gruppe:: Thermodynamik
+
 [[Gibbs und Helmholtz]]
 
 ## Ziele
@@ -58,25 +60,25 @@ $(dG)_T = \frac{nRT}{p} dp$
 
 Integriert:
 
-$(\Delta G)_T =nRT ln(\frac{p_1}{p_2})$
+$(\Delta G)_T =nRT \ln(\frac{p_1}{p_2})$
 
 $p_1$ sei $p^\stst$, $\Delta G$ aufgeteilt in Anfangs- und Endzustand und die Gleichung umgestellt:
 
-$G(p,T)=G(p^\stst,T)+nRT ln(\frac{p}{p^\stst})$
+$G(p,T)=G(p^\stst,T)+nRT \ln(\frac{p}{p^\stst})$
 
 Diese Gleichung gilt sowohl für ein ideales Gas, als auch für alle Komponenten eines Gasgemischs. Dafür muss für p der Partialdruck eingesetzt werden (Molenbruch mal Gesamtdruck, [[Ideale Gase#Mischungen idealer Gase]]).
 
 Die gesamte Gibbs-Energie ist dann die Summe aller partiellen Gibbs-Energien:
 
-$G = \sum G_i = \sum G^\stst_i+n_iRT ln(\frac{p_i}{p^\stst})$
+$G = \sum G_i = \sum G^\stst_i+n_iRT \ln(\frac{p_i}{p^\stst})$
 
 Wenn der Enddruck der Standarddruck ist (kürzt sich raus): 
 
-$G = \sum G^\stst_i+n_iRT ln(x_i)$
+$G = \sum G^\stst_i+n_iRT \ln(x_i)$
 
 Durch $\sum n_i$ teilen:
 
-$\frac{G}{\sum n_i} = \mu^\stst_i+RT ln(\frac{p_i}{p^\stst})=\mu$
+$\frac{G}{\sum n_i} = \mu^\stst_i+RT \ln(\frac{p_i}{p^\stst})=\mu$
 
 Beachte dass dies nun die Definition des gesamten chemischen Potentials ist. $\mu^\stst_i$ ist in der Regel tabelliert.
 
@@ -90,11 +92,11 @@ Per Definition ist $c^\stst$ 1 mol pro Liter.
 
 Jetzt analog zu oben:
 
-$G = \sum G^\stst_i+n_iRT ln(\frac{c_i}{c^\stst})$
+$G = \sum G^\stst_i+n_iRT \ln(\frac{c_i}{c^\stst})$
 
 und:
 
-$\frac{G}{\sum n_i} = \mu^\stst_i+RT ln(\frac{c_i}{c^\stst})=\mu$
+$\frac{G}{\sum n_i} = \mu^\stst_i+RT \ln(\frac{c_i}{c^\stst})=\mu$
 
 3. Reale Lösungen
 
@@ -104,14 +106,14 @@ $a_i=f_i \cdot x_i$, wobei $f_i$ der sogenannte Aktivitätskoeffizient ist. Er l
 
 Einsetzen oben:
 
-$\mu_i = \mu_i^\ast + RTln(a_i)$
+$\mu_i = \mu_i^\ast + RT\ln(a_i)$
 
 Der Stern steht für den Reinstoff.
 Das entspricht: ([[Logarithmusgesetze, Potenzgesetze]])
 
-$\mu_i = \mu_i^\ast + RTln(f_i) + RTln(x_i)$
+$\mu_i = \mu_i^\ast + RT\ln(f_i) + RT\ln(x_i)$
 
-Das chemische Potenzial wird verringert durch $RTln(f_i)$, das immer kleiner als 0 ist.
+Das chemische Potenzial wird verringert durch $RT\ln(f_i)$, das immer kleiner als 0 ist.
 
 4. Reale Gase
 

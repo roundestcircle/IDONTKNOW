@@ -30,13 +30,13 @@ Besipiel Gasexpansion: Es gibt wahnsinnig viel mehr Mikrozustände, in denen die
 
 Die Triebkraft der Gasexpansion ist statistisch beschreibbar:
 
-"Triebkraft" $\propto ln(\frac{\Omega_{Ende}}{\Omega_{Anfang}})$
+"Triebkraft" $\propto \ln(\frac{\Omega_{Ende}}{\Omega_{Anfang}})$
 
 Die Entropie wird demnach definiert als die Triebkraft eines spontanen Prozesses (was der Vergößerung der statistisch besetzbaren Möglichkeiten entspricht).
 
-$S=k_B \cdot ln\Omega$, wobei $k_B$ die Boltzmann-Konstante ist.
+$S=k_B \cdot \ln\Omega$, wobei $k_B$ die Boltzmann-Konstante ist.
 
-$\Delta S= S_{Ende}-S_{Anfang}=k_B \cdot ln(\frac{\Omega_{Ende}}{\Omega_{Anfang}})$
+$\Delta S= S_{Ende}-S_{Anfang}=k_B \cdot \ln(\frac{\Omega_{Ende}}{\Omega_{Anfang}})$
 
 ### Thermodynamische Definition der Entropie
 
@@ -110,7 +110,7 @@ $S(T_2,p)=S(T_1,p)+ C_p \int_{T_1}^{T_2}\frac{1}{T}dT$
 
 Entspricht:
 
-$S(T_1,p)+ C_p ln (\frac{T_2}{T_1})$
+$S(T_1,p)+ C_p \ln (\frac{T_2}{T_1})$
 
 Falls $C_p4 nicht konstant ist, vergleiche Kirchhoffsches Gesetz ([[Thermochemie#Kirchhoffsches Gesetz]]):
 

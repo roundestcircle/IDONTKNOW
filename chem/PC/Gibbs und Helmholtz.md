@@ -61,7 +61,7 @@ $dG = dH - TdS$
 
 $(dG)_{T,p} \leq 0$ ist die Bedingung für einen spontan ablaufenden Prozess. Spontan ablaufende Prozesse werden auch exergonisch genannt, nicht spontan ablaufende Prozesse ($(dG)_{T,p} > 0$) endergonisch.
 
-Ist $\Delta G$ gleich 0, befindet sich das System im Gleichgewicht.
+Ist $\Delta {}_RG$ gleich 0, befindet sich das System im Gleichgewicht.
 
 Also: Wenn TdS größer als dH ist, läuft der Prozess spontan ab (wenn T und p konstant sind).
 

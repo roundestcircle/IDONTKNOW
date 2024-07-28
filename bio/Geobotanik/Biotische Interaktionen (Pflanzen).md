@@ -78,7 +78,7 @@ Konkurrenz tritt auf wenn zwei Individuen die gleiche begrenzte Ressource nutzen
 
 Bei symmetrischer Konkurrenz sind beide Individuen gleich betroffen, bei asymmetrischer Konkurrenz leidet ein Individuum stärker.
 
-Konkurrenz kann zwischen Sprossen und/oder Wurzeln bestehen. Ihre Stärke wird bewertet über den relative Competition Index ($RCI=\frac{Biomass(Monokultur)-Biomass (Mischung)}{Biomass(Monokultur)}$, bei keinem Effekt also 0, bei totalem Verlust 1) oder lie log response ratio ($LRR=ln(\frac{Biomass(Monokultur)}{Biomass(Mischung)}$)
+Konkurrenz kann zwischen Sprossen und/oder Wurzeln bestehen. Ihre Stärke wird bewertet über den relative Competition Index ($RCI=\frac{Biomass(Monokultur)-Biomass (Mischung)}{Biomass(Monokultur)}$, bei keinem Effekt also 0, bei totalem Verlust 1) oder lie log response ratio ($LRR=\ln(\frac{Biomass(Monokultur)}{Biomass(Mischung)}$)
 
 ### Selbstausdünnung
 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d5e815f27f9f8190",
+        "id": "68a9b8e087144c37",
         "type": "tabs",
         "children": [
           {
-            "id": "a1112ae38785b2e6",
+            "id": "aee7f39eeae8708b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chem/PC/Ableitungsregeln, Integrationsregeln.md",
+                "file": "chem/PC/Kolligative Eigenschaften.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ableitungs",
+                "query": "ln",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chem/PC/Ableitungsregeln, Integrationsregeln.md",
+                "file": "chem/PC/Kolligative Eigenschaften.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -122,34 +123,35 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "a1112ae38785b2e6",
+  "active": "aee7f39eeae8708b",
   "lastOpenFiles": [
+    "chem/PC/Kolligative Eigenschaften.md",
+    "chem/PC/Phasengleichgewichte.md",
+    "maths/Stat/Statistische Grundbegriffe.md",
+    "chem/Chemie Grundlagen/Quantenmechanische Bindungstheorien.md",
+    "bio/Geobotanik/Photosynthese.md",
+    "chem/Chemie Grundlagen/Organische Chemie Basics.md",
+    "bio/Geobotanik/Metapopulationstheorie.md",
+    "geo/Magmatismus/Magmendifferenzierung.md",
     "chem/PC/Logarithmusgesetze, Potenzgesetze.md",
-    "chem/PC/Ableitungsregeln, Integrationsregeln.md",
-    "maths/pure Mathe/Differentialrechnung.md",
-    "chem/PC/Das chemische Potential.md",
-    "geo/Gesteinsbestimmung/Metamorphe Gesteine/Amphibolit.md",
-    "chem/PC/Ideale Gase.md",
-    "geoöko/Klimageo/Wasser in der Atmosphäre.md",
-    "geoöko/Kohlenstoffkreislauf.md",
-    "chem/PC/Fundamentalgleichungen.md",
-    "chem/PC/Gibbs und Helmholtz.md",
-    "chem/PC/Thermochemie.md",
+    "maths/pure Mathe/Kombinatorik.md",
+    "maths/pure Mathe/Gleichungen und Nullstellen.md",
+    "maths/pure Mathe/Geometrie.md",
     "chem/PC/Entropie.md",
+    "geoöko/Energiehaushalt der Erde.md",
+    "geo/Minerale/Elementarzellen.md",
+    "maths/pure Mathe/Differentialrechnung.md",
+    "bio/Geobotanik/Definitionen Ökologie.md",
+    "chem/PC/Das chemische Potential.md",
     "chem/PC/Chemisches Gleichgewicht (PC).md",
-    "chem/Chemie Grundlagen/Säure-Base-Reaktionen.md",
-    "chem/Chemie Grundlagen/Chemische Reaktionen.md",
-    "chem/PC/1. Hauptsatz.md",
-    "chem/PC/Einheiten.md",
-    "Overview Files/Overview PC.md",
-    "Overview Files/Overview Physische Geographie, Geoökologie.md",
-    "Overview Files/Overview Statistik.md",
-    "Overview Files/Overview Mineralbestimmung.md",
-    "Overview Files/Overview Chemie Grundlagen.md",
-    "chem/PC/Temperatur und thermische Energie.md",
-    "chem/PC/Reversibilität.md",
-    "chem/PC/Reale Gase.md",
-    "chem/PC/Partielle Ableitungen und totales Differential.md",
+    "chem/Chemie Grundlagen/Chemische Formeln lesen.md",
+    "geoöko/Bodengeo/Böden in Deutschland.md",
+    "bio/Tierökologie/Biotische Interaktionen (Tiere).md",
+    "bio/Geobotanik/Biotische Interaktionen (Pflanzen).md",
+    "chem/PC/Ableitungsregeln, Integrationsregeln.md",
+    "chem/PC/Begriffliche Grundlagen PC.md",
+    "geo/Minerale/Mineralentstehung Basics.md",
+    "Attachments/Pasted image 20240728125152.png",
     "preamble.sty.bak",
     "preamble.sty",
     "chem/Chemie Grundlagen",
@@ -162,7 +164,6 @@
     "Attachments/Pasted image 20240722151102.png",
     "Attachments/Pasted image 20240721145054.png",
     "Attachments/Pasted image 20240721125642.png",
-    "Attachments/Pasted image 20240721125625.png",
     "bio/Tierökologie",
     "Attachments Renamed/Trockensiebung_17_04_24.pdf",
     "Attachments Renamed",
