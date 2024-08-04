@@ -57,4 +57,4 @@ Theorie, dass ein Gebiet immer aus verschiedenen Patches besteht, die sich in Ra
 
 ## Fragmentierung
 
-Für jedes Patch lässt sich die Connectivity (Anzahl aller Patches gleicher Klasse in einem bestimmten Umfang) feststellen. Für die Berechnung werden auch Flächengröße und Migrationsrate ener Art einbezogen. Tendeziell sinkt die Connectivity auf der Erde, durch Flurbereinigung und Fragmentierung.
+Für jedes Patch lässt sich die Connectivity (Anzahl aller Patches gleicher Klasse in einem bestimmten Umkreis) feststellen. Für die Berechnung werden auch Flächengröße und Migrationsrate ener Art einbezogen. Tendeziell sinkt die Connectivity auf der Erde, durch Flurbereinigung und Fragmentierung.

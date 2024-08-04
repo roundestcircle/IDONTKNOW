@@ -113,6 +113,6 @@ Iteropare Organismen reproduzieren sich mehrfach in ihrem Lebenszyklus, semelpar
 
 ### Fitness
 
-Die Fitness ist der Fortpflanzungserfolg eines Genotyps, oft einfach an der Zahl der Nachkommen gemessen. Die Fitness eines einzelnen Individuum nimmt in großen Populationen ab (negative Dichte-Effekte), doch auch zu kleine Populationen senken die Fitness einzelner Individuen, zum Beispiel durch inbreeding depression, Anstieg der Homozygotie, erhöhter Fraßdruck, verringerter Bestäubungserfolg etc.
+Die Fitness ist der Fortpflanzungserfolg eines Genotyps, oft einfach an der Zahl der fruchtbaren Nachkommen gemessen. Die Fitness eines einzelnen Individuum nimmt in großen Populationen ab (negative Dichte-Effekte), doch auch zu kleine Populationen senken die Fitness einzelner Individuen, zum Beispiel durch inbreeding depression, Anstieg der Homozygotie, erhöhter Fraßdruck, verringerter Bestäubungserfolg etc.
 
 Oft gibt es einen gewissen Trade-off zwischen Reproduktion/fitness und generatitvem Wachstum, Semelpare Organismen stecken besonders viel Energie in die Fortpflanzung.

@@ -68,6 +68,6 @@ Viele Pflanzenwichtige und Bodenbildende Prozesse und Verfügbarkeiten haben ihr
 
 Salzböden weisen einen erhöhten Gehalt leicht löslicher Salze auf. Salzböden sind oft etlang des Salzgehaltsgradienten zoniert. Salztolerante Pflenzen bezeichnet man auch als Halophyten. Sie können obligat ooder fakultativ/standortindifferent halophytisch sein.
 
-Salz ist direkt toxisch, stört die Osmose (senkt das [[Wasserhaushalt der Pflanze#Wasserpotential]]/[[Wasserpotential]] des Bodens) und wechselwirkt mit anderen Nährelementen. Photosynthese, Enzymaktivität, Nährstoffaufnahme und Wachstum nicht angepasster Pflnzen sind auf Salzböden geringer.
+Salz ist direkt toxisch, stört die Osmose (senkt das [[Wasserhaushalt der Pflanze#Wasserpotential|Wasserpotential]] des Bodens) und wechselwirkt mit anderen Nährelementen. Photosynthese, Enzymaktivität, Nährstoffaufnahme und Wachstum nicht angepasster Pflnzen sind auf Salzböden geringer.
 
 Halophyten passen sich an durch Salzabschirmung (zB Transportbarrieren in Mangrovenwurzel), -elimination (Ausscheidung oder Blattabwurf), -sukkulenz (Verdünnung) oder -translokation (Abgabe über die Wurzel nach Rücktransport aus den Blättern). Manche Pflanzen tolerieren das Salz auch einfach, zum Beispiel indem sie sehr kurze Lebenszyklen zur Reproduktion brauchen, Salz in der Vakuole speichern und ihre Proteine und Membranen schützen. Um Salz in der Vakuole speichern zu können müssen Pflanzen eigene osmotisch aktive Verbindungen produzieren.

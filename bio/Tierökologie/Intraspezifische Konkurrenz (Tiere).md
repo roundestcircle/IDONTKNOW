@@ -3,11 +3,25 @@
 Ausbeutungskonkurrenz: passive Ausbeutung und Ressourcenmangel.
 Interferenzkonkurrenz: Aktive Verteidigung begrenzter Ressourcen
 
-Wenn der BEdarf der Populationen die Ressourcen übersteigt, kommt es zu negativen Auswirkungen. Diese verstärken sich mit zunehmender Dichte (dichteabhängige Faktoren).
+Wenn der Bedarf der Populationen die Ressourcen übersteigt, kommt es zu negativen Auswirkungen. Diese verstärken sich mit zunehmender Dichte (dichteabhängige Faktoren).
 
 Dabei sinkt das Potential der gesamten Art, Bei sehr hoher Jungtierzahl ist die Adultenzahl im Zweifel geringer, als bei mittlerer Jungtierzahl.
 
 Eventuell kommt es zu Migration, sobald eine sehr hohe Dichte erreicht ist, um Ressourcen zu finden, so etwa bei Heuschrecken. Andere Arten verteidigen Aktiv Territorien, um Überpopulation zu verhindern.
+
+### Dichteabhängige/-regulierende Faktoren
+
+- Raum
+- Nahrung
+- Räuber
+- Parasiten
+- Krankheiten
+- Soziale Interaktionen
+
+
+Bei Vögeln und Kleinsäugern wirken vor allem soziale Interaktionen, Raum und Nahrungsverfügbarkeit Dichteregulierend. Bei Großsäugern fast ausschließlich die Nahrung. Parasiten wirken vor allem bei Insekten Dichteregulierend. Für Insekten und Marine Säuger spielen auch die Nahrung und Räuber eine wichtige Rolle.
+
+Insgesamt lässt sich feststellen, dass vor allem die Nahrung limitierend wirkt, gefolgt vom Raum.
 
 ### Territorien
 

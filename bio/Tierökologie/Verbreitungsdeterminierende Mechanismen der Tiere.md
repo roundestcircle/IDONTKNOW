@@ -13,6 +13,8 @@ vgl [[Standortfaktoren]]
 
 ### Ressourcen
 
+Ressourcen können verbraucht werden. Sie stehen dichteabhängig zur Verfügung.
+
 #### Biotische Ressourcen
 
 [[Biotische Interaktionen (Tiere)#Trophische Beziehungen]]
@@ -30,6 +32,8 @@ Arten, die von wenigen Arten leben, bezeichnet man als Spezialisten. Im Extremfa
 Abiotische Ressourcen sind zum Beispiel verfügbare Nisthöhlen.
 
 ### Umweltbedingungen
+
+Umweltbedingunen können nicht verbraucht werden. Sie wirken Dichteunabhängig.
 
 [[Tierökologie Nischen]]
 
@@ -55,6 +59,8 @@ Salzgehalt:
 
 Der Umweltfaktor Temperatur ist sehr wichtig. Temperaturregulierer bezeichnet man als homoiotherm oder endotherm, Temperaturkonformer als poikilotherm oder ektotherm. Endotherme und Ektotherme Tiere sind nicht besser oder schlechter angepasst, sie überleben in den gleichen Lebensräumen mit unterschiedlichen Strategien.
 
+![[Pasted image 20240731114536.png]]
+
 Homoiotherme Hitzeanpassungen:
 
 - Verhalten (Nachtaktivität, Schattensuche)
@@ -79,8 +85,8 @@ Kälteanpassungen (Saisonale Kälte):
 
 Mithilfe verschiedener dieser Anpassungen können sich manche Schmetterlingsarten im Winter paaren, etwa der kleine Frostspanner. Das Weibchen sitzt dabei flügel- und bewegungslos an einem Baum und lockt Männchen an.
 
-Das obere und untere Limit, bei dem ein Tier in Starre verfällt, bezeichnet man als Critical Thermal Limit/CTL. Die Spanne zwischen der oberen und der unteren Grenze wird vom Äquator zu den Polen schnell größer. CTLs evolvieren recht schnell, jedoch in bestimmten genetischen Grenzen, eine perfekte Anpassung ist demnach nicht immer möglich.
+Das obere und untere Limit, bei dem ein Tier in Starre verfällt, bezeichnet man als Critical Thermal Limit/CTL. Die Spanne zwischen der oberen und der unteren Grenze wird vom Äquator zu den Polen schnell größer. An Land sind die Temperaturschwankungen zudem größer als im Wasser. CTLs evolvieren recht schnell, jedoch in bestimmten genetischen Grenzen, eine perfekte Anpassung ist demnach nicht immer möglich. Das untere Limit evolviert schneller als das obere. Dies könnte mit dem Klimawandel zu Problemen führen. Obergrenzen von über 39°C sind sehr selten.
 
-Den Abstand zwischen dem oberen CTL und der tatsächlichen MAximalen Umgebungstemp bezeichnte man als Safety Margin. Arten am Äquator haben eine geringe Safety Margin, können also schlecht mit ungewöhnlich hohen Temperaturen umgehen. Dies könnte mit dem Klimawandel zum Problem werden.
+Den Abstand zwischen dem oberen CTL und der tatsächlichen Maximalen Umgebungstemp bezeichnte man als Safety Margin. Arten am Äquator haben eine geringe Safety Margin, können also schlecht mit ungewöhnlich hohen Temperaturen umgehen. Dies könnte mit dem Klimawandel zum Problem werden.
 
-Fortpflanzung und Überleben haben oft deutlcih unterschiedliche CTLs, die Obergrenze der Fortpflanzung liegt oft deutlich unter der des Überlebens. Range Contractions mit dem Klimawandel werden sich somit vermutlich zuerst auf die Fortpflanzungsräume auswirken, und nciht direkt auf die VErbreitung erwachsener Tiere.
+Fortpflanzung und Überleben haben oft deutlcih unterschiedliche CTLs, die Obergrenze der Fortpflanzung liegt oft deutlich unter der des Überlebens. Range Contractions mit dem Klimawandel werden sich somit vermutlich zuerst auf die Fortpflanzungsräume auswirken, und nciht direkt auf die Verbreitung erwachsener Tiere.

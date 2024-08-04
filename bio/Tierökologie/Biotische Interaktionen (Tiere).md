@@ -18,7 +18,7 @@ Es werden zwischen verschiedenen Trophiestufen unterschieden. Omnivoren sind nur
 
 ### Parasit vs Räuber
 
-Parasiten oder Parasitoide haben nur ein Opfer, während Räuber mehrere Opfer haben. Parasiten töten ihr Opfertier nicht, Parasitoide schon.
+Parasiten oder Parasitoide haben nur ein Opfer, während Räuber mehrere Opfer haben. Parasiten töten ihr Opfertier nicht, Parasitoide schon. Es gibt auch Parasiten, die ihr Opfer in dem Sinne töten, als sie es dazu bringen, von Räubern gefressen zu werden. Sie töten es dabei jedoch nicht direkt. Räuber sind eher Generalisten, während Parasiten und Parasitoide eher Spezialisten sind.
 
 ### Koevolution
 
@@ -26,19 +26,24 @@ Koevolution bezeichnet ein System zweier interagierender Partner, zum Beispiel e
 
 ### Informationsübermittlung zwischen Arten
 
-- Allomone: Botenstoff, der nur für Sender hilfreich ist, zum Beispiel chemische Abwehrmechanismen
-- Kairomone: Botenstoff, der nur für Empfänger nützlich ist, zum das anlocken von Insekten zur Wirtspflanze oder die Warnung vor Räubern
+- Allomone: Botenstoff, der nur für Sender hilfreich ist, zum Beispiel chemische Abwehrmechanismen oder Überwältigung von Opfern
+- Kairomone: Botenstoff, der nur für Empfänger nützlich ist, zum das Anlocken von Insekten zur Wirtspflanze oder die Warnung vor Räubern
 - Pheromone: Innerartliche Kommunikation
 
 ### Herbivorie
 
+Tiere können verschiedene Pflanzenteile fressen:
+- Blattfresser
+- Saftsauger
+- Minierer (Stängel, Blatt, Wurzel)
+
 Pflanzen haben zahlreiche Verteidigungsstrategien entwickelt, durch Dornen oder andere physiologische Anpassungen und sekundäre Metabolite bis hin zu Toxinen. Die Herbivoren reagieren darauf ihrerseits mit Nahrungsänderung, Entgiftungsstrategien, Symbiosen etc (Koevolution!). Herbivoren sind oft auf Pflanzenteile spezialisiert.
 
-Obwohl die Pflanzen oft überleben, haben alle Herbivoren negative Effekte auf Pflanzen, die Stärke schwankt jedoch.
+Obwohl die Pflanzen Herbivorie im Gegensatz zu Tieren oft überleben, haben alle Herbivoren negative Effekte auf Pflanzen, die Stärke schwankt jedoch.
 
 ### Parasitismus
 
-Die meisten Lebewesen werden mindestens einmal durch Parasiten infiziert. Die Effekte sind immer negativ, reichen von mild bis tödlich.
+Die meisten Lebewesen werden mindestens einmal durch Parasiten infiziert. Die Effekte sind immer negativ, reichen von mild bis tödlich. Etwa 50% aller Arten sind Parasiten. Die parasitische Lebensweise ist in mehreren Insektengruppen parallel entstanden.
 
 - Mikroparasiten: Mikroparasiten vermehren sich im Wirt
 - Makroparasiten: Makroparasiten brauchen einen Wirtswechsel, um ihren Lebenszyklus zu vollenden. Dafür erzwingen sie eventuell Verhaltensänderungen des Wirts, um diesen Wechsel zu ermöglichen.

@@ -76,15 +76,25 @@ Der Reproduktionskoeeffizient oder die individuelle Wachstumsrate setzt sich zus
 
 $R=g-s=\frac{Geburten}{N(t)}-\frac{Sterbefaelle}{N(t)}$
 
+Andere Berechnung: 
+
+$RN(t)=N(t+1)-N(t)$
+
 Im Unbegrenzten Modell ist dieser Koeffizient unabhängig von der Populationsgröße.
 
 Daraus ergibt sich:
 
 $N(t+1)=N(t)+gN(t)-sN(t)$
 
+Bzw:
+
+$N(t+1)=N(t)+RN(t)$
+
 Beispiele:
 
 ![[Pasted image 20240722153354.png]]
+
+Achtung: Die individuelle Wachstumsrate ist nicht identisch mit der Wachstumsrate der  Population! Diese ist auch abhängig von der Populationsgröße.
 
 ### Logistisches Modell
 
@@ -144,7 +154,7 @@ Es gibt ein Kontinuum zwischen den r und K-Extremen. Sogar einzelne Arten könne
 
 Modelle sagen eine große Stabilität der Populationen voruas, die es in der Regel nicht gibt. 
 
-In der Regel ist K abhängig von der Mortalitätsrate. Diese schwankt in einem gewissen Bereich, wewegen auch K und damit das Populationswachstum schwankt (es kann s auch schnell negativ werden). Viele verschiedene Faktoren beeinflussen die Mortalitätsrate, etwa Nahrungsverfügbarkeit, Raum oder [[Biotische Interaktionen (Tiere)]].
+In der Regel ist K abhängig von der Mortalitätsrate. Diese schwankt in einem gewissen Bereich, wewegen auch K und damit das Populationswachstum schwankt (es kann s auch schnell negativ werden). Viele verschiedene Faktoren beeinflussen die Mortalitätsrate, etwa Nahrungsverfügbarkeit, Raum oder [[Biotische Interaktionen (Tiere)]]. Je größer diese Umweltschwankungen, desto größer ist dann logischerweise auch die Schwankung der Populationsgröße.
 
 Oszillationen sind schwache und unregelmäßige Schwankungen.
 
@@ -156,7 +166,7 @@ Erklärungen für diese Fluktuationen könnten zum Beispiel sein, dass dichtereg
 
 Auch die Jahrezeiten oder unvorhersagbare Umweltschwankungen können Populationsschwankungen auslösen. 
 
-In Experimenten wurde gezeigt, dass allein schon stochastische Effekte große Schwankungen hervorrufen. Aus vielen Populationen ähnlicher Größe wird innerhalb weniger Zeitschritte eine sehr breite Verteilung verschiedener Populationsgrößen.
+In Experimenten wurde gezeigt, dass allein schon stochastische Effekte große Schwankungen hervorrufen. Aus vielen Populationen ähnlicher Größe wird innerhalb weniger Zeitschritte eine sehr breite Verteilung verschiedener Populationsgrößen. Stochastische Effekte können, insbesondere bei kleinen Populationen, auch bei positivem Populationswachtsum Aussterbereignisse hervorrufen.
 
 ## Life-History-Theorie
 

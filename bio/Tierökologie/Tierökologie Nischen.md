@@ -20,7 +20,7 @@ Beispiel einer Nischenaufteilung: Eulen und Falken besetzen die gleiche Nische, 
 
 Daraus ergibt sich auch die sogenannte Merkmalsdivergenz. Nah verwnadte Arten in einem Areal unterscheiden sich in einem oderen mehreren Merkmal.
 
-Merkmalsdivergenz beginnt mit hohem Konkurrenzdruck. Unter Konkurrenzdruck verbreitert sich die Merkmalsverteilung schnell, langfristig kommt es zu Nischenaufteilung/Nischendifferenzierung.
+Merkmalsdivergenz beginnt mit hohem Konkurrenzdruck. Unter Konkurrenzdruck schmälern sich die Merkmalsbreiten betroffener verwandter Arten, sodass sie sich gegenseitig nicht überlappen, schnell, langfristig kommt es zu Nischenaufteilung/Nischendifferenzierung.
 
 ### Konkurrenz zwischen Geschlechtern
 
@@ -49,3 +49,5 @@ vgl [[Arealkunde#Vikariierende Sippen]], dies ist jedoch nicht das gleiche.
 Viele Funktionen existieren in Verschiedenen Habitaten, Ähnliche Nischen existieren in unterschiedlichsten Regionen der Welt. Diese ähnlichen Nischen können von Nicht verwandten Arten besetzt werden (Stellenäquivalenz). Diese nicht verwandten Arten entwickeln oft konvergente Merkmale, die auf ähnliche Funktionen im Ökosystem hindeuten. Gruppen diese stellenäquivalenten Arten bezeichnet man als Gilden.
 
 Bestehende Nischen müssen so jedoch nicht besetzt werden, sie können unbesetzt bleiben.
+
+Wenn Stellenäquivalente Organismen ähnliche äußere Merkmale entwickeln, spricht man von Konvergenz.
