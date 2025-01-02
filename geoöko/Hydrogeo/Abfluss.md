@@ -1,4 +1,4 @@
-#Geoöko #Hydrogeo 
+#Geoöko #Hydrogeographie
 
 Gruppe:: Hydrogeo
 

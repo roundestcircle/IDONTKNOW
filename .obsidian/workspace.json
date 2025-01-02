@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chem/PC/Enzymkinetik.md",
+                "file": "geo/Hydrogeologie/Grundwasserneubildung.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Grundwasserneubildung"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Konvergenz",
+                "query": "Niederschlag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,15 +93,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chem/PC/Enzymkinetik.md",
+                "file": "geo/Hydrogeologie/Grundwasserneubildung.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Grundwasserneubildung"
             }
           },
           {
@@ -101,15 +111,16 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -125,32 +136,33 @@
   },
   "active": "aee7f39eeae8708b",
   "lastOpenFiles": [
+    "geo/Hydrogeologie/Grundwasser Basics.md",
+    "geo/Hydrogeologie/Grundwasserneubildung.md",
+    "geoöko/Hydrogeo/Niederschlag.md",
+    "geo/Hydrogeologie/Hydrologisches Einzugsgebiet.md",
+    "geoöko/Hydrogeo/Abfluss.md",
+    "geoöko/Wasserhaushalt.md",
+    "geoöko/Klimageo/Klimaklassifikationen (Makroklima).md",
+    "geo/Exogenes/Fluviale Systeme.md",
+    "geoöko/Hydrogeo/Wasserverteilung auf der Erde.md",
+    "geoöko/Hydrogeo/Standgewässer.md",
+    "Overview Files/Overview Hydrogeologie.md",
+    "geoöko/Klimageo/Klimasystem Erde.md",
+    "geoöko/Hydrogeo/Hydrogeographie Einführung.md",
+    "templates/Geoöko.md",
+    "geoöko/Hydrogeo/Gewässergüte und -Schutz.md",
+    "geoöko/Hydrogeo/Evapotranspiration.md",
+    "geoöko/Hydrogeo/Abflussregime.md",
+    "Overview Files/Overview Chemie Grundlagen.md",
+    "chem/PC/Enzymkinetik.md",
+    "geo/Hydrogeologie",
     "chem/PC/Geschwindigkeitskonstante.md",
     "chem/PC/Reaktionsgeschwindigkeit.md",
     "chem/PC/Begriffliche Grundlagen Kinetik.md",
-    "chem/PC/Enzymkinetik.md",
     "chem/PC/Kinetik von Reaktionen nahe dem Gleichgewicht.md",
     "chem/PC/Begriffliche Grundlagen Thermodynamik.md",
     "chem/PC/Kolligative Eigenschaften.md",
     "bio/Geobotanik/Wasserhaushalt der Pflanze.md",
-    "bio/Geobotanik/Strahlung als Standortfaktor.md",
-    "bio/Geobotanik/Standortfaktoren.md",
-    "bio/Geobotanik/Populationsökologie Pflanzen.md",
-    "bio/Geobotanik/Plant functional Traits.md",
-    "bio/Geobotanik/Photosynthese.md",
-    "bio/Geobotanik/Paläoökologie.md",
-    "bio/Geobotanik/Osmoregulation.md",
-    "bio/Geobotanik/Ökosystemfluktuation.md",
-    "bio/Geobotanik/Metapopulationstheorie.md",
-    "bio/Geobotanik/Landschaftsökologie.md",
-    "bio/Geobotanik/Klimawandel und Pflanzen.md",
-    "bio/Geobotanik/Klima als Standortfaktor.md",
-    "bio/Geobotanik/Invasive Arten.md",
-    "bio/Geobotanik/Feuerökologie.md",
-    "bio/Geobotanik/Einführung Geobotanik.md",
-    "bio/Geobotanik/Definitionen Ökologie.md",
-    "bio/Geobotanik/Boden als Standortfaktor.md",
-    "bio/Geobotanik/Biotische Interaktionen (Pflanzen).md",
     "Attachments/Pasted image 20240731114536.png",
     "Attachments/Pasted image 20240728125152.png",
     "preamble.sty.bak",
@@ -170,7 +182,6 @@
     "chem/PC/Untitled",
     "chem/PC",
     "geo/Exogenes/geo/Exogenes",
-    "geo/Exogenes/geo",
     "Untitled.canvas"
   ]
 }

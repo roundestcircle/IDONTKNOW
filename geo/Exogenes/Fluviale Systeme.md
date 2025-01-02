@@ -1,4 +1,4 @@
-#Geo #Exogenes #Geoöko #Hydrogeo 
+#Geo #Exogenes  #Hydrogeo 
 
 Gruppe:: Hydrogeo
 

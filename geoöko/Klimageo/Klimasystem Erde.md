@@ -6,7 +6,7 @@ Gruppe:: Klimageo
 
 Klimatisch beeinflusste Felder der Geographie
 1. Verwitterung, Erosion und Transport ([[Bodenbildende Prozesse]], [[Verwitterung]])
-2. Wasserdargebot, Abfluss ( #Hydrogeo )
+2. Wasserdargebot, Abfluss ( #Hydrogeographie )
 3. Bodenchemie, Mineralneubildungen ( #Boden )
 4. Tier- und Pflanzengesellschaften ( #Biogeo )
 5. Stoffkreisläufe und Wasserhaushalt ( #Geoöko)
