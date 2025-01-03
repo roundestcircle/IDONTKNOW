@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "geo/Hydrogeologie/Grundwasserneubildung.md",
+                "file": "geo/Hydrogeologie/Wasser im Porenraum.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Grundwasserneubildung"
+              "title": "Wasser im Porenraum"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Niederschlag",
+                "query": "Kugelpackung",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geo/Hydrogeologie/Grundwasserneubildung.md",
+                "file": "geo/Hydrogeologie/Wasser im Porenraum.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Grundwasserneubildung"
+              "title": "Backlinks for Wasser im Porenraum"
             }
           },
           {
@@ -136,8 +137,21 @@
   },
   "active": "aee7f39eeae8708b",
   "lastOpenFiles": [
-    "geo/Hydrogeologie/Grundwasser Basics.md",
+    "Attachments/{4F32CA9B-93F6-4008-B93C-A4156CAC44E5}.png",
+    "Attachments/{90A226D1-A746-4E0A-846B-21DE442FB2C7}.png",
+    "Attachments/{16D2089C-AAB7-4BB9-BCB1-8FA35013C8B8}.png",
+    "geo/Exogenes/Sedimentary Structures.md",
+    "geo/Gesteinsbestimmung/Sedimentgesteine/Siliziklastika.md",
+    "geo/Hydrogeologie/Wasser im Porenraum.md",
+    "Attachments/{3AA18362-B30A-400E-9A5A-78BD789457CF}.png",
+    "Attachments/{4460C657-8948-4E0E-B59A-B5269AD8C3DC}.png",
+    "geoöko/Bodengeo/Bodenwasser.md",
+    "Attachments/{D8D99CBE-292E-4402-9878-7C736D16DF8D}.png",
     "geo/Hydrogeologie/Grundwasserneubildung.md",
+    "Attachments/{29578E53-87B5-484A-8D08-953070A6D3AB}.png",
+    "Attachments/{0572F594-404F-45C3-9592-E982DA6A010E}.png",
+    "Attachments/Pasted image 20250103131837.png",
+    "geo/Hydrogeologie/Grundwasser Basics.md",
     "geoöko/Hydrogeo/Niederschlag.md",
     "geo/Hydrogeologie/Hydrologisches Einzugsgebiet.md",
     "geoöko/Hydrogeo/Abfluss.md",
@@ -158,24 +172,11 @@
     "geo/Hydrogeologie",
     "chem/PC/Geschwindigkeitskonstante.md",
     "chem/PC/Reaktionsgeschwindigkeit.md",
-    "chem/PC/Begriffliche Grundlagen Kinetik.md",
-    "chem/PC/Kinetik von Reaktionen nahe dem Gleichgewicht.md",
-    "chem/PC/Begriffliche Grundlagen Thermodynamik.md",
-    "chem/PC/Kolligative Eigenschaften.md",
-    "bio/Geobotanik/Wasserhaushalt der Pflanze.md",
     "Attachments/Pasted image 20240731114536.png",
     "Attachments/Pasted image 20240728125152.png",
     "preamble.sty.bak",
     "preamble.sty",
     "chem/Chemie Grundlagen",
-    "Attachments/Pasted image 20240723124917.png",
-    "Attachments/Pasted image 20240723115035.png",
-    "Attachments Renamed/Foto Amphibol.jpg",
-    "Attachments/Pasted image 20240722153354.png",
-    "Attachments/Pasted image 20240722153239.png",
-    "Attachments/Pasted image 20240722152520.png",
-    "Attachments/Pasted image 20240722151102.png",
-    "Attachments/Pasted image 20240721145054.png",
     "bio/Tierökologie",
     "Attachments Renamed/Trockensiebung_17_04_24.pdf",
     "Attachments Renamed",
