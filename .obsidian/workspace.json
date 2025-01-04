@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "geo/Hydrogeologie/Wasser im Porenraum.md",
+                "file": "geo/Hydrogeologie/Das Darcy-Gesetz.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Wasser im Porenraum"
+              "title": "Das Darcy-Gesetz"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Kugelpackung",
+                "query": "Einheiten",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geo/Hydrogeologie/Wasser im Porenraum.md",
+                "file": "geo/Hydrogeologie/Das Darcy-Gesetz.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Wasser im Porenraum"
+              "title": "Backlinks for Das Darcy-Gesetz"
             }
           },
           {
@@ -137,43 +136,44 @@
   },
   "active": "aee7f39eeae8708b",
   "lastOpenFiles": [
-    "Attachments/{4F32CA9B-93F6-4008-B93C-A4156CAC44E5}.png",
-    "Attachments/{90A226D1-A746-4E0A-846B-21DE442FB2C7}.png",
-    "Attachments/{16D2089C-AAB7-4BB9-BCB1-8FA35013C8B8}.png",
+    "geo/Hydrogeologie/Grundwasserfluss.md",
+    "geo/Hydrogeologie/Das Darcy-Gesetz.md",
+    "Attachments/{F2477379-AD78-41EC-BA84-EE36A2026673}.png",
+    "Attachments/{ED7D97C0-79C4-44B1-90E4-0A15E58DFDDD}.png",
+    "Attachments/{E08DB4CE-A150-4052-8B7D-DBCCC02E8DF1}.png",
+    "Attachments/{D1C692C3-23F7-4BEC-AD9B-B8A8BC99A9EA}.png",
+    "geo/Hydrogeologie/Quellen.md",
+    "Attachments/{DCD3F0FE-6D85-4D13-842A-EA6F6E0E8F1E}.png",
+    "Attachments/{05D8D8AA-CF8B-4328-AD2D-4233AF72BC1F}.png",
+    "Attachments/{5E90BAD7-794D-4737-B0D4-1EDC8356B2C2}.png",
+    "geo/Hydrogeologie/Aquifere.md",
+    "Attachments/{C670A532-9F48-4B94-9361-3C3D4A9B75CD}.png",
+    "Attachments/{3A59758E-6CCC-4C79-A415-80071762EE19}.png",
+    "geo/Hydrogeologie/Grundwasser Basics.md",
+    "Attachments/{922DDBE6-E759-4E1D-8233-3EBD59501AAE}.png",
+    "geo/Hydrogeologie/Wasser im Porenraum.md",
+    "physics/Hydrodynamik.md",
+    "physics/Hydrostatik.md",
+    "geo/Exogenes/Fluviale Systeme.md",
+    "Overview Files/Overview Physik.md",
+    "Overview Files/Overview Definitionen Mineralogie.md",
+    "Physik",
     "geo/Exogenes/Sedimentary Structures.md",
     "geo/Gesteinsbestimmung/Sedimentgesteine/Siliziklastika.md",
-    "geo/Hydrogeologie/Wasser im Porenraum.md",
-    "Attachments/{3AA18362-B30A-400E-9A5A-78BD789457CF}.png",
-    "Attachments/{4460C657-8948-4E0E-B59A-B5269AD8C3DC}.png",
     "geoöko/Bodengeo/Bodenwasser.md",
-    "Attachments/{D8D99CBE-292E-4402-9878-7C736D16DF8D}.png",
     "geo/Hydrogeologie/Grundwasserneubildung.md",
-    "Attachments/{29578E53-87B5-484A-8D08-953070A6D3AB}.png",
-    "Attachments/{0572F594-404F-45C3-9592-E982DA6A010E}.png",
-    "Attachments/Pasted image 20250103131837.png",
-    "geo/Hydrogeologie/Grundwasser Basics.md",
     "geoöko/Hydrogeo/Niederschlag.md",
     "geo/Hydrogeologie/Hydrologisches Einzugsgebiet.md",
     "geoöko/Hydrogeo/Abfluss.md",
     "geoöko/Wasserhaushalt.md",
     "geoöko/Klimageo/Klimaklassifikationen (Makroklima).md",
-    "geo/Exogenes/Fluviale Systeme.md",
     "geoöko/Hydrogeo/Wasserverteilung auf der Erde.md",
     "geoöko/Hydrogeo/Standgewässer.md",
     "Overview Files/Overview Hydrogeologie.md",
     "geoöko/Klimageo/Klimasystem Erde.md",
     "geoöko/Hydrogeo/Hydrogeographie Einführung.md",
     "templates/Geoöko.md",
-    "geoöko/Hydrogeo/Gewässergüte und -Schutz.md",
-    "geoöko/Hydrogeo/Evapotranspiration.md",
-    "geoöko/Hydrogeo/Abflussregime.md",
-    "Overview Files/Overview Chemie Grundlagen.md",
-    "chem/PC/Enzymkinetik.md",
     "geo/Hydrogeologie",
-    "chem/PC/Geschwindigkeitskonstante.md",
-    "chem/PC/Reaktionsgeschwindigkeit.md",
-    "Attachments/Pasted image 20240731114536.png",
-    "Attachments/Pasted image 20240728125152.png",
     "preamble.sty.bak",
     "preamble.sty",
     "chem/Chemie Grundlagen",
@@ -182,7 +182,6 @@
     "Attachments Renamed",
     "chem/PC/Untitled",
     "chem/PC",
-    "geo/Exogenes/geo/Exogenes",
     "Untitled.canvas"
   ]
 }
