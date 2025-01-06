@@ -34,6 +34,8 @@ In einem ungespannten GWL sind gemessener Wasserspiegel ([[Grundwasserfluss#Pote
 
 Eine dicke fluviale Ablagerung an der Oberfläche könnte zum Beispiel einen ungespannten Aquifer enthalten.
 
+Ungespannte Aquifere haben, wenn ein [[Grundwasserfluss#Hydraulischer Gradient]] vorliegt, und da der Grundwasserspiegel mit der Oberfläche übereinstimmt, sinkenden Durchmesser. Dadurch kommt es zu einem Feedback-Loop: Die Querschnittsfläche sinkt, deswegen steigt der Gradient, deswegen sinkt die Fläche weiter usw.
+
 ## gespannte GWL
 
 In gespannten GWL liegt der Grundwasserspiegel oberhalb der tatsächlichen Grundwasseroberfläche. Der Aquifer ist nach oben durch eine undurchlässige Deckschicht abgegrenzt. Der Wasserspiegel kann schwanken, ohne dass sich die Mächtigkeit des Aquifers ändert. 
@@ -41,6 +43,8 @@ In gespannten GWL liegt der Grundwasserspiegel oberhalb der tatsächlichen Grund
 Beispiele für die Entstehung gespannter Leiter:
 
 ![[{C670A532-9F48-4B94-9361-3C3D4A9B75CD}.png]]
+
+Gespannte Aquifere haben einen konstanten Durchmesser und daher auch einen konstanten [[Grundwasserfluss#Hydraulischer Gradient]].
 
 ## artesischer GWL
 

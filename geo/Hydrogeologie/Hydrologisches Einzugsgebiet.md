@@ -11,6 +11,12 @@ Eine morphologisch abgegrenzte Landschaftseinheit, die zu einem Punkt entwässer
 Damit das Einzugsgebiet dies tut, muss es überall außer an diesem einen Punkt von einer hydraulisch dichten Wasserscheide umgeben sein. Diese Wasserscheide ist keine Linie, sie verläuft sowohl unterirdisch als auch oberirdisch und ist damit eine Fläche. Oberirdischer und unterirdischer Verlauf können sich beträchtlich unterscheiden.
 Den tiefsten Punkt der Wasserscheide bezeichnet man als Gebietsauslass. Von jedem Punkt innerhalb des Gebiets muss ein Fließpfad dorthin existieren.
 
+### Wasserscheiden im Grundwasser
+
+An Wasserscheiden ist der [[Grundwasserfluss#Hydraulischer Gradient]] senkrecht zur Wasserscheide gleich null, ohne Variation der Bedingungen würde das Wasser hier also ewig entlang der Wasserscheide fließen (wie Grat eines Berges). Treffen sich zwei Wasserscheiden im Untergrund, entsteht ein Stagnationspunkt, an dem das Wasser ohne Variation der Bedingungen theoretisch ewig verweilen würde. 
+
+![[{1F92B59C-9BE2-469B-89F2-457F88B77E25}.png]]
+
 ## Endorrheische Becken
 
 Ein Stromgebiet das nicht final ins Meer, sondern in eine Kontinentalen Senke entwässert, bezeichnet man als endorrheische Becken.

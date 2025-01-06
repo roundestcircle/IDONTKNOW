@@ -36,13 +36,19 @@ Grundwassergleichen sind die Isolinien gleichen Potentials. Um sie zwischen vers
 
 ![[{D1C692C3-23F7-4BEC-AD9B-B8A8BC99A9EA}.png]]
 
+Grundwassergleichen sind natürlich eigentlich Flächen und keine Linien, werden aber der Einfachheit halber als Linien projeziert.
+
 ## Grundwasserstromlinien
 
 Die Fließrichtung des Wassers ist immer senkrecht zu den Grundwassergleichen. Die Abbildung der Fließrichtung des Wassers bezeichnet man als Grundwasserstromlinien.
 
-## Grundwassergleichen um Gewässer/Brunnen
+# [[Das Darcy-Gesetz]]
 
-Gewässer und Brunnen verbiegen die Grundwassergleichen. Die Wasseroberfläche/Uferlinie lässt sich bei Seen auch als Äquipotentiallinie betrachten. Ein Gewässer liegt in der Regel etwas tiefer oder höher als der umgebende Aquifer, sodass Wasser entweder radial in das Gewässer ein- oder ausfließt.  Meist erfolgt der Fluss nicht direkt gerade, sondern schräg, da das Grundwasser sich auch entlang der größeren, und nicht nur der lokalen Potentialunterschiede bewegt. 
+# Regionaler Grundwasserfluss
+
+## Grundwasserfluss um Gewässer
+
+Gewässer verbiegen die Grundwassergleichen. Die Wasseroberfläche/Uferlinie lässt sich bei Seen auch als Äquipotentiallinie betrachten. Ein Gewässer liegt in der Regel etwas tiefer oder höher als der umgebende Aquifer, sodass Wasser entweder radial in das Gewässer ein- oder ausfließt.  Meist erfolgt der Fluss nicht direkt gerade, sondern schräg, da das Grundwasser sich auch entlang der größeren, und nicht nur der lokalen Potentialunterschiede bewegt. 
 
 Je steiler der Potentialgradient um ein Gewässer, desto mehr Wasser In- oder Exfiltriert. Dementsprechend kann bei feuchter Witterung, wenn Der Wasserspiegel des Aquifers steigt, mehr Wasser exfiltrieren ([[Grundwasserneubildung#Abflussganglinien]]).
 
@@ -63,4 +69,46 @@ Seen mit oberirdischem Zufluss aber ohne Abfluss infiltrieren ins Grundwasser, b
 
 Seen können auch völlig vom Grundwasser abgeschnitten sein, etwa auf massiven Graniten in Skandinavien.
 
-# [[Das Darcy-Gesetz]]
+## Grundwasserfluss um Brunnen
+
+Das Grundwasser strömt radial von allen Richtungen in den Brunnen ein. es bildet sich eine Vertiefung im Potentialnetz.
+Beispiel für das Zeichnen eines Fließnetzes um einen Brunnen. Dafür werden Hintergrung- und Radialströmung kombiniert. Diese Addition der Fließnetze bezeichnet man als Superpositionsprinzip.
+
+![[{1C6906FF-7501-41BD-BD17-1EFED998AC43}.png]]
+
+## Topographie
+
+Topographische Erhöhungen sind in der Regel eher Orte der Grundwasserneubildung, in Senken exfiltriert das Wasser eher. Der Grundwasserspiegel folgt also grob der Geländeoberfläche.
+
+![[{DA9ED8D5-71C6-40E9-A7CF-9866EA6EEEEA}.png]]
+
+## Verweildauer
+
+Grundwasser in einem Gebiet unterteilt sich oft in Gebiete in verschiedenen Tiefen und mit verschiedenen Flussdistanzen, die dementsprechend auch verschiedene Verweildauern haben.
+
+![[{F664A030-A1BF-40D4-AD93-EABE06A0E9EE}.png]]
+
+## Wasserscheiden und Stagnationspunkte
+
+[[Hydrologisches Einzugsgebiet#Wasserscheide]]
+
+## Störungen
+
+An Störungen ist der Wasserfluss entweder erhöht oder verringert. Grundwasserfließnetze werden also durch die Störungen stark beeinflusst. Über Störungen kann nicht einfach hinweginterpoliert werden.
+
+## Fließnetze zeichnen
+
+1. Grenzen und Ränder des Aquifers bestimmen (numerisch über [[Differentialgleichungen]] auch möglich)
+2. Bekannte Potentiale markieren
+3. Stromlinien einzeichnen
+4. Grundwassergleichen senkrecht zu Stromlinien ziehen
+5. (Computerbasiert) 3 und 4 iterieren
+
+Beispielhaftes Aquifer-Fluss-System. Beachte die starke vertikale Flusskomponente und die deswegen irritierenden Piezometermessungen in unterschiedlichen Tiefen. Pure Interpolation ohne diese Komponente würde zu falschen Interpretationen führen.
+
+![[{8B637CA7-4AB9-4C65-8D27-635FC56CBBFA}.png]]
+
+### Randbedingungen
+
+Aquifere können vor allem drei verschiedene Ränder haben: einen undurchlässigen Rand, wie die GW-Oberfläche oder Geringleiter, einen Festpotentialrand wie Oberflächengewässer, oder einen Rand mit konstantem Zufluss, wie eine Grundwasseroberfläche mit  [[Grundwasserneubildung]].
+
