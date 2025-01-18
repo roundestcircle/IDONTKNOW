@@ -2,6 +2,8 @@
 
 Schwingungen sind zeitlich veränderbare periodische Schwingungen. Dabei werden Energieformen periodisch ineinander umgewandelt.
 
+Schwingungen haben zu jedem Zeitpunkt folgende Merkmale: Auslenkung, Amplitude,Frequenz, Schwingungsdauer, Phase.
+
 ## Freie Schwingungen
 
 System schwingt mit Eigenfrequenz.
@@ -25,6 +27,10 @@ Die Periodendauer eines Pendels beträgt:
 $T=2\pi\sqrt \frac{l}{g}$
 
 Sie ist also ausschließlich von der Länge des Pendels abhängig (auf der Erde).
+
+Die Frequenz beträgt dann:
+
+$f=\frac{1}{T}$
 
 ## Gedämpfte Schwingung
 
