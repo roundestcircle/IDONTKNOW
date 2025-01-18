@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "geo/Hydrogeologie/Brunnen.md",
+                "file": "physics/Wellen.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Brunnen"
+              "title": "Wellen"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Transmiss",
+                "query": "\\phi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,13 +73,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "068dc6cf241ee037",
@@ -140,43 +138,43 @@
   },
   "active": "aee7f39eeae8708b",
   "lastOpenFiles": [
+    "physics/Schwingungen.md",
+    "physics/Wellen.md",
+    "Attachments/{AEED7F9F-DC2B-43A9-A05D-DACD3C24DA2D}.png",
+    "Attachments/{BA3D776B-1411-4F86-AA5D-E3B00082FE83}.png",
+    "physics/Dynamik starrer Körper.md",
+    "physics/Kinematik von Massepunkten.md",
+    "physics/Hydrodynamik.md",
+    "geo/Exogenes/Transport und Sedimentation.md",
+    "geo/Exogenes/Fluviale Systeme.md",
+    "physics/Hydrostatik.md",
+    "geoöko/Bodengeo/Bodenwasser.md",
+    "geo/Hydrogeologie/Das Darcy-Gesetz.md",
+    "Attachments/{7F395580-C560-4E65-B84F-92C24669CD6F}.png",
+    "physics/Energierhaltungssätze.md",
+    "physics/Dynamik von Massepunkten.md",
+    "physics/Stöße.md",
+    "Attachments/{CCCE0738-34AE-48DF-9283-B0DFC89E7407}.png",
+    "physics/Energie.md",
+    "physics/Physik starrer Körper.md",
+    "chem/PC/1. Hauptsatz der TD.md",
+    "physics/Kreisbewegung.md",
+    "physics/Geradlinige Bewegung.md",
+    "Einheiten.md",
+    "Attachments/{C891C3EA-9985-43BF-9CFD-A95C033FD713}.png",
+    "Attachments/{D0F58F86-82ED-4E8E-A35B-2B58DD0A1995}.png",
+    "geo/Hydrogeologie/Brunnen.md",
     "Attachments/{DF0F3E01-2F3A-4AC9-8627-79FC6BED7669}.png",
     "geo/Hydrogeologie/Grundwasserfluss.md",
     "Attachments/{1C6906FF-7501-41BD-BD17-1EFED998AC43}.png",
-    "geo/Hydrogeologie/Brunnen.md",
     "Attachments/{C9F20CDF-AF82-45F3-8747-C8D1ECA5696C}.png",
     "geo/Hydrogeologie/Hydrologisches Einzugsgebiet.md",
     "Attachments/{1F92B59C-9BE2-469B-89F2-457F88B77E25}.png",
-    "Attachments/{F664A030-A1BF-40D4-AD93-EABE06A0E9EE}.png",
-    "Attachments/{DA9ED8D5-71C6-40E9-A7CF-9866EA6EEEEA}.png",
-    "Attachments/{8B637CA7-4AB9-4C65-8D27-635FC56CBBFA}.png",
-    "geo/Hydrogeologie/Das Darcy-Gesetz.md",
     "geo/Hydrogeologie/Aquifere.md",
     "geo/Hydrogeologie/Hydraulische Durchlässigkeit.md",
-    "Attachments/{CD02889D-5371-4462-B221-BF19353980AD}.png",
-    "Attachments/{8218A800-C00D-4EAA-966D-50AEA4897281}.png",
-    "Attachments/{11224183-1061-42D7-A64E-FE6B3ECCD053}.png",
-    "Attachments/{3855F7D5-9531-4F98-92CA-DD3C74F22DEF}.png",
-    "geo/Exogenes/Transport und Sedimentation.md",
     "geo/Hydrogeologie/Quellen.md",
     "geo/Hydrogeologie/Grundwasser Basics.md",
-    "geo/Hydrogeologie/Wasser im Porenraum.md",
-    "physics/Hydrodynamik.md",
-    "physics/Hydrostatik.md",
-    "geo/Exogenes/Fluviale Systeme.md",
-    "Overview Files/Overview Physik.md",
-    "Overview Files/Overview Definitionen Mineralogie.md",
     "Physik",
-    "geo/Exogenes/Sedimentary Structures.md",
-    "geo/Gesteinsbestimmung/Sedimentgesteine/Siliziklastika.md",
-    "geoöko/Bodengeo/Bodenwasser.md",
-    "geo/Hydrogeologie/Grundwasserneubildung.md",
-    "geoöko/Hydrogeo/Niederschlag.md",
-    "geoöko/Hydrogeo/Abfluss.md",
-    "geoöko/Wasserhaushalt.md",
-    "geoöko/Klimageo/Klimaklassifikationen (Makroklima).md",
-    "geoöko/Hydrogeo/Wasserverteilung auf der Erde.md",
-    "geoöko/Hydrogeo/Standgewässer.md",
     "geo/Hydrogeologie",
     "preamble.sty.bak",
     "preamble.sty",

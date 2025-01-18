@@ -10,6 +10,8 @@ Der Boden reguliert Oberflächenabfluss und Grundwasser und dient als Zwischensp
 
 ## Wasserbewegung im Boden
 
+[[Wasser im Porenraum#Kapillarität]]
+
 Wasser gelangt nur bei sehr großporigen Böden durch die Schwerkraft in den Boden, ansonsten wird es eher über Kapillar und Haftkräfte in die Bodenporen hineingezogen. Dabei muss es gegen die Luft, die diese Kapillaren füllt, anarbeiten. Diese Kapillarkräfte erlauben Wasser auch, sich von unten nach oben durch den Boden zu bewegen. Dementsprechend bewegt sich Wasser im Boden seitlich und nach unten gleich schnell.
 
 Dieser Prozess kann zu seltsamen Artefakten führen, etwa, dass eine Sandschicht unter einer Schluffschicht trocken bleibt, bbis diese vollständig wassergesättigt ist, da die Kapillarkräfte des Sands aufgrund der höheren Porengröße zu schwach sind, um dem Schluff das Wasser zu entziehen.
