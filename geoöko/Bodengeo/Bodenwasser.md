@@ -42,6 +42,8 @@ Das Matrixpotential ist abhängig von Oberfläche der Teilchen und der Porengrö
 
 ![[Schema Wasserverfügbarkeit nach Korngröße.png]]
 
+[[Wasser im Porenraum#Wasserspannungskurven]]
+
 ### Saugspannung
 
 Die Saugspannung pF ist der dekadische Logarithmus der Wassersäule, die nötig ist, um Wasser aus dem Boden herauszupressen. 

@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "68a9b8e087144c37",
+        "id": "d8aa9c69e26be401",
         "type": "tabs",
         "children": [
           {
-            "id": "aee7f39eeae8708b",
+            "id": "b1d94d000b933ce6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physics/Wellen.md",
+                "file": "econ & pol/Ökosystemdienstleistungen.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Wellen"
+              "title": "Ökosystemdienstleistungen"
+            }
+          },
+          {
+            "id": "e4e9f706afac1bb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "econ & pol/Ökosystemdienstleistungen.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ökosystemdienstleistungen"
+            }
+          },
+          {
+            "id": "32c1a67940832fb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bio/Biogeochemie/Wurzeln.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Wurzeln"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -52,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\phi",
+                "query": "Mikroklima",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -93,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geo/Hydrogeologie/Brunnen.md",
+                "file": "bio/Biogeochemie/Wurzeln.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Brunnen"
+              "title": "Backlinks for Wurzeln"
             }
           },
           {
@@ -116,13 +145,11 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -136,54 +163,54 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "aee7f39eeae8708b",
+  "active": "32c1a67940832fb3",
   "lastOpenFiles": [
-    "Attachments/{7DE1A219-EF08-42C6-A581-E284EB170BFF}.png",
-    "Attachments/{E0F362DD-00CC-497F-99E6-022308C1F73E}.png",
-    "Attachments/{7C29C971-27C5-4C75-A693-11A8A05658C3}.png",
-    "Attachments/{E321F1C7-FB56-464D-BEF9-EE97384A787D}.png",
-    "Attachments/{11514C68-5FAE-47AE-BCF2-8360BFF47D19}.png",
-    "Attachments/{B119616E-EFE0-4105-8072-4259BC3639A7}.png",
-    "Attachments/{07CD1971-B8DC-415A-A630-C1EDC2EF713D}.png",
-    "Attachments/{255E12B0-34D7-40F8-A699-F46EA1914F6B}.png",
-    "physics/Schwingungen.md",
-    "physics/Wellen.md",
-    "physics/Hydrodynamik.md",
-    "Attachments/{AEED7F9F-DC2B-43A9-A05D-DACD3C24DA2D}.png",
-    "Attachments/{BA3D776B-1411-4F86-AA5D-E3B00082FE83}.png",
-    "physics/Dynamik starrer Körper.md",
-    "physics/Kinematik von Massepunkten.md",
-    "geo/Exogenes/Transport und Sedimentation.md",
-    "geo/Exogenes/Fluviale Systeme.md",
-    "physics/Hydrostatik.md",
-    "geoöko/Bodengeo/Bodenwasser.md",
-    "geo/Hydrogeologie/Das Darcy-Gesetz.md",
-    "Attachments/{7F395580-C560-4E65-B84F-92C24669CD6F}.png",
-    "physics/Energierhaltungssätze.md",
-    "physics/Dynamik von Massepunkten.md",
-    "physics/Stöße.md",
-    "physics/Energie.md",
-    "physics/Physik starrer Körper.md",
-    "chem/PC/1. Hauptsatz der TD.md",
-    "physics/Kreisbewegung.md",
-    "physics/Geradlinige Bewegung.md",
-    "Einheiten.md",
-    "geo/Hydrogeologie/Brunnen.md",
-    "geo/Hydrogeologie/Grundwasserfluss.md",
-    "geo/Hydrogeologie/Hydrologisches Einzugsgebiet.md",
-    "geo/Hydrogeologie/Aquifere.md",
-    "geo/Hydrogeologie/Hydraulische Durchlässigkeit.md",
-    "geo/Hydrogeologie/Quellen.md",
+    "bio/Biogeochemie/Aufbau des Edaphons.md",
+    "bio/Biogeochemie/Wurzeln.md",
+    "Attachments/{E8E881DE-3E69-43EF-B111-2794FEC8455B}.png",
+    "Overview Files/Overview Biogeochemie.md",
+    "geoöko/Biogeo/Abholzung.md",
+    "Overview Files/Overview Physische Geographie, Geoökologie.md",
+    "geoöko/Stoffkreisläufe und Haushalte.md",
+    "bio/Geobotanik/Landschaftsökologie.md",
+    "Overview Files/Overview Gesteinsbestimmung.md",
+    "Overview Files/Overview Geodynamik.md",
+    "Overview Files/Overview Geobotanik.md",
+    "Overview Files/Overview Geo-Basics.md",
+    "Overview Files/Overview Definitionen Mineralogie.md",
+    "Overview Files/Overview Chemie Grundlagen.md",
+    "bio/Biogeochemie/Ökosysteme.md",
+    "bio/Biogeochemie/Molekularbiologische Methoden.md",
+    "bio/Biogeochemie/Ernährungsformen von Organismen.md",
+    "bio/Biogeochemie/Bodenflora.md",
+    "bio/Biogeochemie/Bodenfauna.md",
+    "bio/Biogeochemie/Boden als Habitat.md",
+    "bio/Biogeochemie/Black Carbon.md",
+    "bio/Biogeochemie/Biogeochemie Einführung.md",
+    "bio/Biogeochemie/Biochemische Methoden.md",
+    "bio/Biogeochemie/Pilze.md",
+    "bio/Biogeochemie/Bakterien.md",
+    "bio/Biogeochemie/Algen.md",
+    "bio/Biogeochemie/Arthropoden.md",
+    "Attachments/{B9B99D40-F429-419B-9FB4-B3136F725DCD}.png",
+    "Attachments/{B66F4F3D-CE23-42E0-BA01-34E9AE7541B7}.png",
+    "Attachments/{D1721342-B235-4423-8621-EF8FC7976532}.png",
+    "Attachments/{07599F88-2545-46A6-935E-DFDB1A44281A}.png",
+    "Attachments/{86A27236-6AB3-4FC7-9679-0470E34B93FF}.png",
+    "Attachments/{C0936A5E-38A3-4DF5-88FA-4D50AB0A3C5F}.png",
+    "Attachments/{9709E241-6AA2-494A-997E-2D749C90BF82}.png",
+    "Attachments/{8218A800-C00D-4EAA-966D-50AEA4897281}.png",
+    "Attachments/{9A39F120-E41D-42B9-9F36-B4ED20E73FF7}.png",
+    "geo/Bodenkunde",
+    "bio/Biogeochemie",
+    "Untitled",
+    "econ & pol",
     "Physik",
     "geo/Hydrogeologie",
     "preamble.sty.bak",
     "preamble.sty",
     "chem/Chemie Grundlagen",
     "bio/Tierökologie",
-    "Attachments Renamed/Trockensiebung_17_04_24.pdf",
-    "Attachments Renamed",
-    "chem/PC/Untitled",
-    "chem/PC",
     "Untitled.canvas"
   ]
 }

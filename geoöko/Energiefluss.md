@@ -1,6 +1,8 @@
-#Geoöko #Geoöko 
+#Geoöko #Geoöko #Biogeochemie
 
 Gruppe:: Geoöko
+
+Eng verbunden mit dem [[Kohlenstoffkreislauf]].
 
 ## Nahrungsketten
 

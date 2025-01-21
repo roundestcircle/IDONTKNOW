@@ -29,3 +29,7 @@ Entropie: [S] = $\frac{J}{K}$ ([[Entropie]])
 Helmholtz-Energie: [A] = J ([[Gibbs und Helmholtz]])
 
 Gibbs-Energie: [G] = J ([[Gibbs und Helmholtz]])
+
+# SI-Einheiten: Zehnerpotenzen
+
+![[{86A27236-6AB3-4FC7-9679-0470E34B93FF}.png]]

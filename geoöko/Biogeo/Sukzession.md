@@ -1,4 +1,4 @@
-#Geoöko #Biogeo #Geobotanik
+#Geoöko #Biogeo #Geobotanik #Biogeochemie 
 
 Gruppe:: Biogeo
 
@@ -37,6 +37,10 @@ Allogene Sukzession ist durch externe Faktoren bedingt, wie Habitatveränderung 
 ## Regressive Sukzession
 
 Nach der Klimagesellschaft kann es natürlich oder durch den Menschen verursachte regressive Sukzession geben (vgl [[Podsole#Feuerökologie]]). Dabei sinken Komplexität und Strukturiertheit der Ökosysteme. Oft setzt danach eine sekundäre, progressive Sukzession wieder ein. 
+
+## Zyklische Sukzession
+
+Durch immer wiederkehrende Brandrodung oder ähnliches können Ökosysteme Zyklen durchlaufen ([[Feuerökologie]]).
 
 ## Sukzession als theoretisches Konzept
 

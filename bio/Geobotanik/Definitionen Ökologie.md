@@ -1,4 +1,4 @@
-#Öko #Geoöko #Biogeo #Geobotanik
+#Öko #Geoöko #Biogeo #Geobotanik #Biogeochemie
 
 Gruppe:: Biogeo
 
@@ -44,6 +44,12 @@ Gesamtheit der interagierenden abiotischen und biotischen Faktoren in einem Gebi
 
 Entspricht Biotop + Biozönose. Bildet ein übergeordnetes Ganzes, das über seine Einzelteile hinausreicht. Es ist offen, aber der Selbstregulation fähig.
 
+Die Einzelkomponenten sind über Stoff- und Energieflüsse miteinander verbunden ([[Energiefluss]], [[Stickstoffkreislauf]] etc)
+
+## Homöostase
+
+Wenn Flüsse, Zyklen, Vorräte und Strukturen in einem Ökosystem konstant sind, ist es im Gleichgewicht. Man spricht von Homöostase
+
 ## Biotop
 
 Abiotische Matrix oder Lebensraum, die räumlich abgrenzbar ist.
@@ -62,7 +68,7 @@ Gesamtheit aller von Lebewesen bewohnbarer Räume der Erde.
 
 Gesamtheit der auf einen Organismus oder eine Gemeinschaft einwirkenden Faktoren. Der Standort ist kein tatsächlicher Ort, sondern abstrakt zu verstehen.
 
-## Standortfaktoren
+## [[Standortfaktoren]]
 
 Faktoren die das Vorkommen und die Häufigkeit von Arten beeinflussen.
 

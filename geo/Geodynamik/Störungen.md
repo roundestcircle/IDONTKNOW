@@ -15,7 +15,7 @@ Ein Block wird dabei immer als liegend betrachtet, währen der andere sich beweg
 
 1. Abschiebung, falls $$ \sigma_1 = vertikal $$
 2. Aufschiebung, falls $$ \sigma_3 = vertikal $$
-3. Blattverschiebung, falls $$ \sigma_2 = vertikal $$Diese können rechtssinnig/dextral oder linkssinnig/sinestral sein, je nachdem in welche Richtung sich die Platte hinter der Störung bewegt.
+3. Blattverschiebung, falls $$ \sigma_2 = vertikal $$Diese können rechtssinnig/dextral oder linkssinnig/sinestral sein, je nachdem in welche Richtung sich die Platte hinter der Störung bewegt ([[Transformstörungen#]])
 4. [[Überschiebungsparadox|Überschiebungen]]: Krasse Form der Aufschiebung mit sehr kleinen Einfallswinkeln. Alte Schichten werden hier über jüngere geschoben.
 
 Verwerfungen treten in der Regel nicht rei auf, sondern als Mischungen der drei Typen.

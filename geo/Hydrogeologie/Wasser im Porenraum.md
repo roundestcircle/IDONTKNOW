@@ -1,4 +1,6 @@
-#Hydrogeologie 
+#Hydrogeologie #Biogeochemie 
+
+vgl [[Bodenwasser]]
 
 ## Porosität und Textur
 
@@ -34,6 +36,12 @@ Kugelpackungen (vgl [[Koordinierung]]) identischer Größe haben immer, egal wel
 ### Bestimmung der Porosität
 
 Direkte Bestimmung über Volumenmessung ist eigentlich unmöglich. Stattdessen kann das Volumen des Wassers über sein Gewicht bestimmt (über Trockengewicht vs Feuchtgewicht), oder Verdrängungsversuche mit Gasen oder Quecksilber durchgeführt werden. Alle Methoden haben das Problem, das stark gebundenes Wasser als Festphase und nicht als Porosität gemessen wird. Optische Bestimmungen über Dünnschliffanalysen sind auch möglich.
+
+Auch über die Dichte des Bodnes ohne Wasser lässt sich der Porenraum approximieren:
+
+![[{700BD89F-C165-4AC9-AFAE-5563FC7D36E2}.png]]
+
+Wie erkennbar ist, liegen alle Böden auf einer klaren Linie. Mithilfe [[Regression#Einfache lineare Regression]] lässt sich somit aus der Dichte die Porosität ermitteln.
 
 ### Porengrößen
 
@@ -80,6 +88,8 @@ Kapillarwasser benetzt die Oberflächen von Kapillaren. Auch Kapillarwasser hat 
 Die Feldkapazität ist die Wassermenge die ein Boden entgegen der Schwerkraft im Boden halten kann.
 
 Als nutzbare Feldkapaziät bezeichnet man den Abstand der Wassergehalte zwischen Welkepunkt und Feldkapazität. Diese ist bei Lehm am höchsten, sowohl bei Sand als auch bei Ton eher gering, obwohl Ton insgesamt viel Wasser enthält. Dieses ist jedoch aufgrund der hohen Oberfläche und kleinen Kapillaren sehr fest gebunden.
+
+Man beachte auch, dass bei insgeamt niedrigem Wassergahlt die gröberen Sedimente noch mehr Wasser Pflanzenverfügbar bereitstellen können. Daher ist in Trockengebieten eventuell gröberes Sediment hilfreich im Anbau.
 
 ## Kapillarsaum, Gesättigte und ungesättigte Zone
 

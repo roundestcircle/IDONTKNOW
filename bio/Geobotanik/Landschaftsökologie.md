@@ -1,5 +1,7 @@
 #Geobotanik 
 
+Gruppe:: Geoöko
+
 Vgl #geoöko!
 
 ## Definitionen

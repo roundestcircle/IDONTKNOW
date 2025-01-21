@@ -1,14 +1,14 @@
-#Geobotanik 
+#Geobotanik #Biogeochemie
 
 vgl. #Boden 
 
 ## Wichtigste Bodeneigenschaften
 
 - Größe und Verteilung der Partikel [[Siliziklastika#Ordnung nach Korngrößen]]
-- Porenvolumen
+- Porenvolumen 
 - Wasserbeweglichkeit und Haltevermögen (oft gegenläufig)
 - Nährstoffgehalt
-- Ad- und Desorptionsfähigkeit
+- Ad- und Desorptionsfähigkeit ([[Kationenaustauschkapazität]])
 - pH-Wert und Redox-Wert
 
 ## [[Bodenwasser]]
@@ -43,7 +43,10 @@ Sowohl Tonminerale als auch Huminstoffe bieten wichtige Austauscherflächen für
 
 [[Tonminerale]]
 
+Der Vorrat an Nährstoffen eines Bodens entspricht nicht der Verfügbarkeit. Der Vorrat ist in der Regel hoch, die Verfügbarkeit gering.
 In der Bodenlösung unmittelbar zugänglich sind 0,2 Prozent der Nährstoffe, Austauschbar gebunden und damit etwas schlechter verfügbar etwa 2%, während etwa 98% in Tonmineralen und org Substanz unzugänglich festgelegt sind.
+
+![[{601F0574-3C2C-4F84-BF95-EDC7049DD779}.png]]
 
 Die Bodennährstoffe befinden sich dabei im dynamischen Gleichgewicht:
 
@@ -57,12 +60,18 @@ Die Menge aller sorbierten Kat- oder Anionen wird als Austauschkapazität des Bo
 
 [[Säure-Base-Reaktionen#pH-Wert]]
 
-In Sauren Böden besetzen H+-Ionen viele Austauscherplätze, Metallkationen gehen in die Lösung und können toxisch wirken, so etwa Al-Ionen die in hoher Konzentration die Wurzeln schädigen. Andere Kationen werden leicht ausgewaschen. Im Zweifel werden Osmoregulation und Enzymaktivität der Pflanzen direkt gestört. In basischen Böden sind viele Ionen völlig unlöslich.
+In Sauren Böden besetzen H+-Ionen viele Austauscherplätze, Metallkationen gehen in die Lösung und können toxisch wirken, so etwa Al-Ionen die in hoher Konzentration die Wurzeln schädigen. Andere Kationen werden dann leicht ausgewaschen. Im Zweifel werden Osmoregulation und Enzymaktivität der Pflanzen direkt gestört. 
+
+In basischen Böden dagegen sind viele Ionen völlig unlöslich.
 
 Tendenziell versauern Böden in humiden Gebieten mit der Zeit. Dies geschieht durch
 [[Bodenbildende Prozesse#Salzverlagerung und Entbasung]], Humifizierung, die Abgabe organischer Säuren durch die Pflanzen etc.
 
 Viele Pflanzenwichtige und Bodenbildende Prozesse und Verfügbarkeiten haben ihr Optimum um pH7.
+
+Abhängigkeit der Pflanzenverfügbarkeit von Nährstoffen vom pH-Wert:
+
+![[{4ABF2D2C-7767-41BC-A664-BA8349B4BDD0}.png]]
 
 ## Salzböden
 

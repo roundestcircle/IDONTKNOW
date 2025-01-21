@@ -68,7 +68,7 @@ Genau wie [[Schwingungen#Anharmonische Schwingungen]]. Schallwellen sind oft anh
 
 ## Wellen an Grenzflächen
 
-[[Optik]]
+[[Geometrische Optik]]
 
 An einer Grenzfläche zwischen zwei Stoffen mit untersch. Ausbreitungsgeschwindigkeiten c, ändert sich die Ausbreitungsrichtung.
 
