@@ -2,5 +2,5 @@
 
 ```dataview
 LIST
-FROM #Stat 
+FROM #Stat AND -#Templates
 ```

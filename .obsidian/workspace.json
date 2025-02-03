@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b1d94d000b933ce6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "econ & pol/Ökosystemdienstleistungen.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Ökosystemdienstleistungen"
-            }
-          },
-          {
-            "id": "e4e9f706afac1bb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "econ & pol/Ökosystemdienstleistungen.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Ökosystemdienstleistungen"
-            }
-          },
-          {
             "id": "32c1a67940832fb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bio/Biogeochemie/Wurzeln.md",
+                "file": "physics/Formelsammlung.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Wurzeln"
+              "title": "Formelsammlung"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -81,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Mikroklima",
+                "query": "Abfluss",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -122,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bio/Biogeochemie/Wurzeln.md",
+                "file": "physics/Formelsammlung.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Wurzeln"
+              "title": "Backlinks for Formelsammlung"
             }
           },
           {
@@ -165,42 +137,44 @@
   },
   "active": "32c1a67940832fb3",
   "lastOpenFiles": [
+    "bio/Biogeochemie/Bakterien.md",
+    "physics/Formelsammlung.md",
+    "bio/Biogeochemie/Pilze.md",
+    "bio/Biogeochemie/Algen.md",
+    "bio/Biogeochemie/Archaeen.md",
+    "bio/Biogeochemie/Ernährungsformen von Organismen.md",
     "bio/Biogeochemie/Aufbau des Edaphons.md",
     "bio/Biogeochemie/Wurzeln.md",
-    "Attachments/{E8E881DE-3E69-43EF-B111-2794FEC8455B}.png",
-    "Overview Files/Overview Biogeochemie.md",
-    "geoöko/Biogeo/Abholzung.md",
-    "Overview Files/Overview Physische Geographie, Geoökologie.md",
-    "geoöko/Stoffkreisläufe und Haushalte.md",
-    "bio/Geobotanik/Landschaftsökologie.md",
-    "Overview Files/Overview Gesteinsbestimmung.md",
-    "Overview Files/Overview Geodynamik.md",
-    "Overview Files/Overview Geobotanik.md",
-    "Overview Files/Overview Geo-Basics.md",
-    "Overview Files/Overview Definitionen Mineralogie.md",
-    "Overview Files/Overview Chemie Grundlagen.md",
-    "bio/Biogeochemie/Ökosysteme.md",
-    "bio/Biogeochemie/Molekularbiologische Methoden.md",
-    "bio/Biogeochemie/Ernährungsformen von Organismen.md",
-    "bio/Biogeochemie/Bodenflora.md",
-    "bio/Biogeochemie/Bodenfauna.md",
-    "bio/Biogeochemie/Boden als Habitat.md",
-    "bio/Biogeochemie/Black Carbon.md",
-    "bio/Biogeochemie/Biogeochemie Einführung.md",
-    "bio/Biogeochemie/Biochemische Methoden.md",
-    "bio/Biogeochemie/Pilze.md",
-    "bio/Biogeochemie/Bakterien.md",
-    "bio/Biogeochemie/Algen.md",
-    "bio/Biogeochemie/Arthropoden.md",
-    "Attachments/{B9B99D40-F429-419B-9FB4-B3136F725DCD}.png",
-    "Attachments/{B66F4F3D-CE23-42E0-BA01-34E9AE7541B7}.png",
-    "Attachments/{D1721342-B235-4423-8621-EF8FC7976532}.png",
-    "Attachments/{07599F88-2545-46A6-935E-DFDB1A44281A}.png",
-    "Attachments/{86A27236-6AB3-4FC7-9679-0470E34B93FF}.png",
-    "Attachments/{C0936A5E-38A3-4DF5-88FA-4D50AB0A3C5F}.png",
-    "Attachments/{9709E241-6AA2-494A-997E-2D749C90BF82}.png",
-    "Attachments/{8218A800-C00D-4EAA-966D-50AEA4897281}.png",
-    "Attachments/{9A39F120-E41D-42B9-9F36-B4ED20E73FF7}.png",
+    "Attachments/{85FC72C1-31D8-4C7A-8DCC-C38AA8CDA637}.png",
+    "econ & pol/Umweltökonomik/Hoheitlicher vs freiwilliger Naturschutz.md",
+    "econ & pol/Umweltökonomik/Das Gefangenendilemma.md",
+    "econ & pol/Umweltökonomik/Externe Effekte.md",
+    "econ & pol/Umweltökonomik/Kriterien zur Bewertung Umweltpolitischer Instrumente.md",
+    "econ & pol/Umweltökonomik/Nudging.md",
+    "econ & pol/Umweltökonomik/Umweltsubvention.md",
+    "econ & pol/Umweltökonomik/Umweltlizenz.md",
+    "econ & pol/Umweltökonomik/Umweltauflage.md",
+    "econ & pol/Umweltökonomik/Umweltabgabe oder Umweltsteuer.md",
+    "econ & pol/Umweltökonomik/Privatisierung.md",
+    "econ & pol/Umweltökonomik/Ökosystemdienstleistungen.md",
+    "econ & pol/Umweltökonomik/Übersicht Umweltpolitischer Instrumente.md",
+    "Attachments/{BD7BD374-B785-4F7E-9C4A-0E70EF008CA4}.png",
+    "Attachments/{98245205-7D09-4A5F-9799-298564CCF99F}.png",
+    "econ & pol/Umweltökonomik/Prinzipien der Umweltpolitik.md",
+    "geoöko/Biogeo/Terrestrische Biome/Terrestrische Biome.md",
+    "geoöko/Ökozonen/Ökozonen.md",
+    "Overview Files/Overview Statistik.md",
+    "templates/Stat.md",
+    "econ & pol/Ökonomik",
+    "Overview Files/Overview Mineralbestimmung.md",
+    "econ & pol/Umweltökonomik",
+    "Attachments/{5F505CF0-C069-4AB0-9633-8EFFAE19093C}.png",
+    "Attachments/{13A61287-0AFC-4D17-BF96-4542900AFED7}.png",
+    "Attachments/{939CFB9B-29C3-4B0A-8904-471552DC3EC0}.png",
+    "Attachments/{C75FC92E-7F61-414E-BE8C-83BADDF2EEEE}.png",
+    "Attachments/{FD01FEC1-8D28-4764-93F3-512FC8946A4F}.png",
+    "Attachments/{F5CAEDC6-D8AF-4798-BDC1-6A1916AA0804}.png",
+    "Attachments/{C4E0B35D-2B3E-48B3-8103-E2F9C9ADDCBB}.png",
     "geo/Bodenkunde",
     "bio/Biogeochemie",
     "Untitled",
@@ -209,8 +183,6 @@
     "geo/Hydrogeologie",
     "preamble.sty.bak",
     "preamble.sty",
-    "chem/Chemie Grundlagen",
-    "bio/Tierökologie",
     "Untitled.canvas"
   ]
 }

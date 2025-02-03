@@ -1,3 +1,5 @@
+#Stat #Templates 
+
 
 Group:: Maßzahl
 Type:: Lagemaß /Streumaß

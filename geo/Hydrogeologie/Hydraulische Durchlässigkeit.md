@@ -53,7 +53,7 @@ Die Transmissivität ist der mittlere K-Wert eines Aquifers multipliziert mit de
 
 $$
 \displaylines{
-T=\frac=KM=\frac{Q}{\frac{\Delta h}{\Delta x}}b \\
+T=KM \\
 Q=-Tb\frac{\Delta h}{\Delta x}
 }
 $$

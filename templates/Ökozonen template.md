@@ -1,4 +1,4 @@
-#Geoöko #Ökozonen
+#Geoöko #Ökozonen #Templates
 
 Gruppe:: Ökozonen
 Klima::

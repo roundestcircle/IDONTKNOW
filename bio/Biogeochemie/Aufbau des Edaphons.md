@@ -8,7 +8,7 @@ Als Edaphon wird die Gesamtheit der Bodenlebewesen bezeichnet. [[Wurzeln]] gehö
 
 ### Phylogenetische Einteilung
 
-Organismen werden nach der Abstammung eingeteilt, die entstehenden Gruppen sind Prokaryoten ohne, und Eukaryoten mit Zellkern. Prokaryoten werden heute weiter unterteilt, in Archaeen und Bakterien. Archaeen sind näher mit Eukaryoten verwandt als die Bakterien.
+Organismen werden nach der Abstammung eingeteilt, die entstehenden Gruppen sind Prokaryoten ohne, und Eukaryoten mit Zellkern. Prokaryoten werden heute weiter unterteilt, in [[Archaeen]] und Bakterien. Archaeen sind näher mit Eukaryoten verwandt als die Bakterien.
 
 Pilze, Tiere, Algen und Pflanzen sind Eukaryoten.
 

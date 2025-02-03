@@ -2,5 +2,5 @@
 
 ```dataview
 TABLE Summenformel, Gruppe
-FROM #Min and #Bestimmung
+FROM #Min and #Bestimmung and -#Templates
 ```

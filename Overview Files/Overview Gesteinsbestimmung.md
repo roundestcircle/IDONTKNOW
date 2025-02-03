@@ -2,6 +2,6 @@
 
 ```dataview
 TABLE Primärbestandteile, Gruppe
-FROM #Geo and #Bestimmung
+FROM #Geo and #Bestimmung and -#Templates
 SORT Gruppe
 ```

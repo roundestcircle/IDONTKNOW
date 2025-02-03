@@ -26,7 +26,7 @@ Die Grenzen sind eher Übergangszonen, im Vordergrund der Erfassung der Zonen st
 
 ```dataview
 List
-FROM #Geoöko And #Best And #Biogeo 
+FROM #Best And #Biogeo AND -#Templates
 ```
 
 ## Klassifikation anhand von Umweltbedingungen
