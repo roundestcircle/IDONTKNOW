@@ -28,6 +28,7 @@ Einteilung in:
 - [[Nematoden]]
 - [[Mollusken]]
 - [[Arthropoden]]
+- [[Anneliden]]
 
 ### Einteilung nach Größe
 
@@ -41,6 +42,7 @@ Makroorganismen:
 - [[Nematoden]]
 - [[Mollusken]]
 - [[Arthropoden]]
+- [[Anneliden]]
 
 Pilze sind Mikroorganismen, obwohl sie sehr groß sein können. Dies liegt daran, dass ie Hyphen winzig klein sind.
 

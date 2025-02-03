@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physics/Formelsammlung.md",
+                "file": "bio/Biogeochemie/Arthropoden.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Formelsammlung"
+              "title": "Arthropoden"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Abfluss",
+                "query": "Bioi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "physics/Formelsammlung.md",
+                "file": "bio/Biogeochemie/Arthropoden.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Formelsammlung"
+              "title": "Backlinks for Arthropoden"
             }
           },
           {
@@ -137,13 +137,23 @@
   },
   "active": "32c1a67940832fb3",
   "lastOpenFiles": [
-    "bio/Biogeochemie/Bakterien.md",
+    "bio/Biogeochemie/Anneliden.md",
+    "bio/Biogeochemie/Bodenfauna.md",
+    "bio/Biogeochemie/Aufbau des Edaphons.md",
+    "bio/Biogeochemie/Arthropoden.md",
+    "bio/Biogeochemie/Mollusken.md",
+    "bio/Biogeochemie/Nematoden.md",
+    "bio/Biogeochemie/Protozoen.md",
+    "Attachments/{53548A44-812E-4AAF-BBC6-7C875B4ACF16}.png",
+    "bio/Biogeochemie/Bodenflora.md",
+    "bio/Biogeochemie/Bodennahrungsnetz.md",
+    "Attachments/{89CFB5EC-1902-4FC0-8579-E21AA0044576}.png",
     "physics/Formelsammlung.md",
+    "bio/Biogeochemie/Bakterien.md",
     "bio/Biogeochemie/Pilze.md",
     "bio/Biogeochemie/Algen.md",
     "bio/Biogeochemie/Archaeen.md",
     "bio/Biogeochemie/Ernährungsformen von Organismen.md",
-    "bio/Biogeochemie/Aufbau des Edaphons.md",
     "bio/Biogeochemie/Wurzeln.md",
     "Attachments/{85FC72C1-31D8-4C7A-8DCC-C38AA8CDA637}.png",
     "econ & pol/Umweltökonomik/Hoheitlicher vs freiwilliger Naturschutz.md",
@@ -156,25 +166,15 @@
     "econ & pol/Umweltökonomik/Umweltauflage.md",
     "econ & pol/Umweltökonomik/Umweltabgabe oder Umweltsteuer.md",
     "econ & pol/Umweltökonomik/Privatisierung.md",
-    "econ & pol/Umweltökonomik/Ökosystemdienstleistungen.md",
-    "econ & pol/Umweltökonomik/Übersicht Umweltpolitischer Instrumente.md",
     "Attachments/{BD7BD374-B785-4F7E-9C4A-0E70EF008CA4}.png",
     "Attachments/{98245205-7D09-4A5F-9799-298564CCF99F}.png",
-    "econ & pol/Umweltökonomik/Prinzipien der Umweltpolitik.md",
-    "geoöko/Biogeo/Terrestrische Biome/Terrestrische Biome.md",
-    "geoöko/Ökozonen/Ökozonen.md",
-    "Overview Files/Overview Statistik.md",
-    "templates/Stat.md",
     "econ & pol/Ökonomik",
-    "Overview Files/Overview Mineralbestimmung.md",
     "econ & pol/Umweltökonomik",
     "Attachments/{5F505CF0-C069-4AB0-9633-8EFFAE19093C}.png",
     "Attachments/{13A61287-0AFC-4D17-BF96-4542900AFED7}.png",
     "Attachments/{939CFB9B-29C3-4B0A-8904-471552DC3EC0}.png",
     "Attachments/{C75FC92E-7F61-414E-BE8C-83BADDF2EEEE}.png",
     "Attachments/{FD01FEC1-8D28-4764-93F3-512FC8946A4F}.png",
-    "Attachments/{F5CAEDC6-D8AF-4798-BDC1-6A1916AA0804}.png",
-    "Attachments/{C4E0B35D-2B3E-48B3-8103-E2F9C9ADDCBB}.png",
     "geo/Bodenkunde",
     "bio/Biogeochemie",
     "Untitled",
