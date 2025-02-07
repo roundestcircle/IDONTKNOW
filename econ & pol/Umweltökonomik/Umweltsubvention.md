@@ -20,6 +20,12 @@ Die Subvention einer bestimmten Technologie ist aus ökonomischer Sicht nicht un
 - Eiegnbeteiligung des Empfängers (damit ökon. Anreize immer noch eine Rolle spielen, und man sich nicht einfach 10 Autos gönnt weils lustig ist)
 - Konsistenz mit anderen staatlichen Maßnahmen
 
+## Gefahren
+
+- Folgekostenforderungen anderer Sparten
+- Unsicherheit wegen Freiwilligkeit 
+- Abhängig von der Verfügbarkeit staatlicher Mittel
+
 # Bewertung
 
 [[Kriterien zur Bewertung Umweltpolitischer Instrumente]]
@@ -34,7 +40,9 @@ Der Umweltschädiger wird keinen Widerstand leisten, was zu schneller und einfac
 
 ÖkonEff:: Gering
 
-Mitnahmeffekte: Prozesse mitfinanziert, die eh passiert wären? Keine eigenständige Motivation zur Verbesserung der Produktion, lieber schlechter bleiben und auf mehr Subventionen später warten. 
+Mitnahmeffekte: Prozesse mitfinanziert, die auch ohne Subventionen passiert wären? Wenn manche Verbraucher sehr hohe Subventionen brauchen, um erreicht zu werden, erhalten auch besser erreichbare Verbraucher diese hohen Subventionen. Das ist ineffizient.
+
+Keine eigenständige Motivation zur Verbesserung der Produktion, lieber schlechter bleiben und auf mehr Subventionen später warten. 
 
 Der Preis kann schnell sehr hoch werden, insbesondere wenn viele Parteien erreicht werden sollen.
 

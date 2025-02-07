@@ -18,29 +18,58 @@ Enges Zusammenleben zweier Organismen von der Beide wenigstens zeitweise einen N
 
 Zum Beispiel Flechten, Stickstoffixierer, Mykorrhiza.
 
-### Mykrrhiza-Typen
+Eiegntlich besser in [[Interaktionen zwischen Pflanze und Mikroorganismus]]
+
+### Mykorrhiza
+
+[[Pilze]]
 
 ![[Schema Mykorrhiza Typen.png]]
 
-VAM ist am weitesten verbreitet und tritt bei etwa 90% (!) der Pflanzenarten auf.
+Mykhoriza ist eine Symbiose zwischen Pilz und Pflanze. Der Pilz erhält dabei Photosynthate, die Pflanze anorganische Nährstoffe aus dem Boden.
+
+VAM ist am weitesten verbreitet und tritt bei etwa 90% (!) der Pflanzenarten auf. Vesikel sind die terminalen Hyphenschwellungen in den Zellen, Arbuskeln die Bäumchenartigen Verzweigungen. Beachte die vollständige Umschließung der Wurzel bei Ektomykorrhiza.
 
 Effekte der Mykorrhiza auf Pflanzen:
 
-1. Pilzhyphen erhöhen das zugängliche Bodenvolumen und dringen in Feinporen ein.
+1. Pilzhyphen erhöhen das zugängliche Bodenvolumen und dringen in Feinporen ein. So wird die Nährstoffverfügbarkeit erhöht.
 2. Schutz vor Phytopathogenen
 3. Austausch von Assimilaten zwischen Pflanzen über Pilze schnell möglich.
+4. Steigerung der Nodulation von symbiotischen N-Fixierern
 
-Die Photosynthate werden in den Pilz, aber auch einfach in den Boden gepumpt, das ganze Bodenleben profitiert.
+Der Effekt der verbesserten Pflanzenernährung ist gut belegt:
 
-Evtl sind verschiedene Symbiosepartner an einer Pflanze vorhanden und werden manchmal in versch. [[Populationsökologie Pflanzen#Lebensstadien]] besonders benötigt. An einer Baumwurzel finden sich bis zu 50 Arten. Der genaue Nutzen ist noch weitgehen unerforscht.
+![[{07CB6E1A-C13F-48CB-9DDC-AAD1097783AC}.png]]
+
+Die größere Oberfläche der Pilzwurzel ist dabei der wichtigste Grund, aber auch effektiver Transport, eigene Mobilisierungsprozesse der Pilze und Zwischenspeicher in den Pilzen spielen eine Rolle.
+
+Die Photosynthate werden in den Pilz, aber auch einfach in den Boden gepumpt, sodass das ganze Bodenleben profitiert.
+
+Evtl sind verschiedene Symbiosepartner an einer Pflanze vorhanden und werden manchmal in versch. [[Populationsökologie Pflanzen#Lebensstadien]] besonders benötigt. An einer Baumwurzel finden sich bis zu 50 Arten. Der genaue Nutzen davon ist noch weitgehend unerforscht.
+
+Die Pilzhyphen können aktiv zur Mineralverwitterung beitragen. Spuren dessen sind auf Mineralpartikeln aus dem Feld sichtbar.
+
+![[{BA63B335-10EE-446A-A45E-515665A8D0DE}.png]]
+
+#### Glomalin
+
+Mykorhizen scheiden Glomalin aus, ein Glycoprotein, das sehr wichtig für die Aggregierung des Bodens und die Bodenstruktur ist.
+
+![[{B03DAB94-83CB-45F7-81EB-B4AB1AEA3197}.png]]
 
 ### N2-Fixierung
 
-Die Pflanze versorgt die Knöllchenbakterien mit Energie (bis zu 30% des gesamten Energieverbrauchs der Pflanze!) und Sauerstoff über Leghämoglobin. Dafür erhält ie NH4+ von der Bakterienknolle. Bis zu 100 kg pro Hektar und Jahr Stickstoffixierung ist möglich.
+Die Pflanze versorgt die Knöllchenbakterien mit Energie (bis zu 30% des gesamten Energieverbrauchs der Pflanze!) und Sauerstoff über Leghämoglobin. Dafür erhält sie NH4+ von der Bakterienknolle. Bis zu 100 kg pro Hektar und Jahr Stickstoffixierung ist möglich.
 
-Die Wurzelwucherung, in der die Bakterien sich später einnisten, werden durch Gene des Bakteriums gesteuert und ausgelöst.
+Die Wurzelwucherung, in der die Bakterien sich später einnisten, werden durch Gene des Bakteriums gesteuert und ausgelöst. Sie werden Wurzelknöllchen oder Rhizobien genannt. Das zugehörige Bakteium heißt Rhizobium.
 
-### RNE (Relativer Nachbar Effekt)
+Die Fixierung ist schon chemisch sehr aufwendig. Das N2 Molekül ist aufgrund der Dreifachbindung extrem stabil. Daher muss bis zu 10 Mal so viel ATP aufgewendet werden wie für eine Äquivalente Menge C-Fixierung. N-Fixierung findet daher vor allem statt, wenn N-Mangel herrscht, sondt wäre es Energieverschwendung. Gute Bedingungen für die N-Fixierung sind dazu Hohe Temperaturen, ein pH-Wert über 5,5 und viel Ca im Boden.
+
+Andere symbiotische oder nicht symbiotische [[Bakterien]] sind Actinobakterien und Cyanobakterien.
+
+Ein seltener Stickstoffixierer ist Nostoc. Er bildet Symbiosen mit Landfarnen und Pilzen und gehört zu den ersten Landbewohnern überhaupt.
+
+## RNE (Relativer Nachbar Effekt)
 
 Über den relativen Nachbar-Effekt lassen sich unspezifische +/+-Interaktionen quantifizieren. Ist er positiv, wächst die Pflanze mit Nachbar besser, ist er negativ eher schlechter.
 
@@ -60,7 +89,7 @@ Der Wirt wird geschädigt, während der Parasit einen Nutzen aus der Verbindung 
 
 ## Antibiose
 
-Eine Pflanze gewinnt, eine verliert, ohne dass sie direkten Kontakt haben, etwa durch das Ausscheiden von chemischen Verbindunge, die Konkurrenten verdrängen.
+Eine Pflanze gewinnt, eine verliert, ohne dass sie direkten Kontakt haben, etwa durch das Ausscheiden von chemischen Verbindungen, die Konkurrenten verdrängen oder deren Wachtum verlangsamen. Diese Wachstumshemmung insbesondere junger Pflanzen wird als Allelopathie bezeichnet.
 
 # 0-
 
@@ -123,8 +152,8 @@ Anders formuliert: ([[Standortfaktoren#Ökologische Nischen]], [[Definitionen Ö
 
 Offensichtlich existieren jedoch verschiedene Arten mit gleichen realisierten Nischen an einem Ort. Zwei Erklärungen
 
-1. Kleinräumige räumliche Heterogenität: Jedes Mikrohabitat durchläuft Verdrängungsprozesse wie oben, es gibt jedoch so viele, dass das Gesamtbild durchmischt bleibt. Beispiele sind etwa verschiedene Wurzeltiefen oder Mikrohabitate an verrottendem Windwurf.
-2. Zeitliche Heterogenität: Störungen verhindern konstant, dass sich ein Gleichgewicht ausbilden kann, indem sich konstant die Standortbedingungen ständig ändern. Der Konkurrenzausschluss wird so nie erreicht.
+5. Kleinräumige räumliche Heterogenität: Jedes Mikrohabitat durchläuft Verdrängungsprozesse wie oben, es gibt jedoch so viele, dass das Gesamtbild durchmischt bleibt. Beispiele sind etwa verschiedene Wurzeltiefen oder Mikrohabitate an verrottendem Windwurf.
+6. Zeitliche Heterogenität: Störungen verhindern konstant, dass sich ein Gleichgewicht ausbilden kann, indem sich konstant die Standortbedingungen ständig ändern. Der Konkurrenzausschluss wird so nie erreicht.
 
 ##### Störungen 
 

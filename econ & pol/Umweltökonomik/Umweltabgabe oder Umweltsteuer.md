@@ -31,7 +31,9 @@ Die Steuer sollte so hoch sein, dass die durchschnittliche Einsparung dann dem Z
 
 ÖkolEff:: In Ordnung
 
-Ständiger Anreiz zur Übererfüllung (Steuern weiter senken), daher Förderung umwelttechnischen Fortschritts. Es können regional große Unterschiede in der Zielerreichung auftreten. Ist dies nicht sinnvoll, ist das Instrument schlecht geeignet. Der Abgabensatz ist dazu schlecht quantifizierbar.
+Ständiger Anreiz zur Übererfüllung (Steuern weiter senken), daher Förderung umwelttechnischen Fortschritts. Es können regional große Unterschiede in der Zielerreichung auftreten. Ist dies nicht sinnvoll, ist das Instrument schlecht geeignet. 
+
+Der Abgabensatz ist dazu schlecht quantifizierbar. Um den genauen Effekt zu erreichen, der gewünscht ist, muss evntuell viel rumprobiert werden.
 
 Ein weiteres Problem kann Schrägwälzung sein, also dass Unternehmen die Kosten nicht direkt auf die Umweltschädlichen Produkte, sondern auf andere Produkte aufschlagen und die Kunden damit nicht ausreichend substituieren.
 

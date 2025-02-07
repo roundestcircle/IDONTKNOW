@@ -13,7 +13,7 @@ Die Gesamtemission ist damit im Griff und reduzierbar, Externe Effekte sind Inte
 1. Jedes Unternehmen erhät so viele Lizenzen wie es ausstößt (Besitzstandsprinzip)
 2. Auktion: Wer emittieren will, muss kaufen.
 
-Das Besitzstandsprinzip ist einfacher und beliebt bei Unternehmen, aber Wettbewerbsverzerrend, da bestehende Unternehmen erstmal keine Zertifikate kaufen müssen, während neue Unternehmen dies schon müssen.
+Das Besitzstandsprinzip ist einfacher und beliebt bei Unternehmen, aber Wettbewerbsverzerrend, da bestehende Unternehmen erstmal keine Zertifikate kaufen müssen, während neue Unternehmen dies schon müssen. Dies betrifft auch besonders umweltfreundliche Neuanlagen, die so gegen schlechte Altanlagen benachteiligt werden. Andererseits werden diese Anlagen beim Aktionsprinzip benachteiligt, da sie pro Produktionseinheit mehr Zertifikate kaufen müssen.
 
 ## Voraussetzungen für funktionierendes Lizenzsystem
 

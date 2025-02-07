@@ -55,6 +55,8 @@ Erweiterung des Pigou-Ansatzes zur Lösung der oben dargestellten Probleme.
 2. Auf Nutzung wird Abgabe erhoben
 3. Trial und Error der Abgabenhöhe zur Einhaltung des Standards
 
+Bevölkerung ist eventuell unzufrieden mit starken Schwankungen der Steuer.
+
 ### Coase-Ansatz
 
 Beim Coase-Ansatz verhandeln Schadensverursacher und Geschädigter direkt miteinander. Der Schadensverursacher zahlt dem Geschädigten dann direkt die exakten Grenzkosten der Emission. Die Kosten je Einheit steigen also für den Verursacher der Emission, je mehr er ausstößt. Dennoch ist der Preis für ihn geringer als bei der Steuer, da der Preis niedriger ansetzt. 
@@ -69,8 +71,12 @@ Der Staat legt fest, ob Verursacherprinzip oder laissez-faire gilt. Die Umweltal
 
 Problematiken:
 - Hohe Transaktionskosten (Verhandlungen)
-- Fehlende Zahlungsfähigkeit der Geschädigten?
-- Informationsasymmetrien
+- Fehlende Zahlungsfähigkeit der Geschädigten
+- Informationsasymmetrien (Was ist die Gewinneinbuße tatsächlich?)
+- Zukünftige Geschädigte können nicht mitverhandeln
+- Manipulation
+
+Idealerweise sind für Coase alle Informationen offen und allen Parteien bekannt.
 
 ### Vergleich der Ansätze
 

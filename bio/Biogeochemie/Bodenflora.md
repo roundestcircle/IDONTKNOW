@@ -2,7 +2,7 @@
 
 Gruppe:: Grundlagen
 
-[[Aufbau des Edaphons#Taxonomische Einteilung]]
+[[Edaphon#Taxonomische Einteilung]]
 
 - [[Bakterien]]
 - [[Pilze]]

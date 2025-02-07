@@ -27,7 +27,8 @@ Hier sind lediglich drei logische Probleme bei den oben genannten Methoden genan
 
 ### Bemessung
 
-Konzepte wie Biodiversität oder Ökosysteme sind hochkomplex und schwer bemessbar. Allein schon die Definition der Begriffe ist schwierig und unterscheidet sich von Person zu Person. Auch ist unklar (sogar wissenschaftlich!), was genau eigentlich geschützt werden muss, um ein Ökosystem zu bewahren, und was es bringt. Menschen sind sich demnach bei der Wertbemessung unklar und raten. 
+Konzepte wie Biodiversität oder Ökosysteme sind hochkomplex und schwer bemessbar. Allein schon die Definition der Begriffe ist schwierig und unterscheidet sich von Person zu Person. Auch ist unklar (sogar wissenschaftlich!), was genau eigentlich geschützt werden muss, um ein Ökosystem zu bewahren, und was es bringt. Auch der Zusatnd (ist er noch gut? Ab wann wird er schlecht?) ist schwer zu bewerten.
+Menschen sind sich demnach bei der Wertbemessung unklar und raten. 
 
 ### Bepreisung
 

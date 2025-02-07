@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bio/Biogeochemie/Arthropoden.md",
+                "file": "geoöko/Stickstoffkreislauf.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Arthropoden"
+              "title": "Stickstoffkreislauf"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Bioi",
+                "query": "Sticks",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bio/Biogeochemie/Arthropoden.md",
+                "file": "geoöko/Stickstoffkreislauf.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Arthropoden"
+              "title": "Backlinks for Stickstoffkreislauf"
             }
           },
           {
@@ -137,44 +138,44 @@
   },
   "active": "32c1a67940832fb3",
   "lastOpenFiles": [
-    "bio/Biogeochemie/Anneliden.md",
-    "bio/Biogeochemie/Bodenfauna.md",
-    "bio/Biogeochemie/Aufbau des Edaphons.md",
-    "bio/Biogeochemie/Arthropoden.md",
-    "bio/Biogeochemie/Mollusken.md",
-    "bio/Biogeochemie/Nematoden.md",
-    "bio/Biogeochemie/Protozoen.md",
-    "Attachments/{53548A44-812E-4AAF-BBC6-7C875B4ACF16}.png",
-    "bio/Biogeochemie/Bodenflora.md",
-    "bio/Biogeochemie/Bodennahrungsnetz.md",
-    "Attachments/{89CFB5EC-1902-4FC0-8579-E21AA0044576}.png",
-    "physics/Formelsammlung.md",
-    "bio/Biogeochemie/Bakterien.md",
-    "bio/Biogeochemie/Pilze.md",
-    "bio/Biogeochemie/Algen.md",
-    "bio/Biogeochemie/Archaeen.md",
-    "bio/Biogeochemie/Ernährungsformen von Organismen.md",
-    "bio/Biogeochemie/Wurzeln.md",
-    "Attachments/{85FC72C1-31D8-4C7A-8DCC-C38AA8CDA637}.png",
-    "econ & pol/Umweltökonomik/Hoheitlicher vs freiwilliger Naturschutz.md",
-    "econ & pol/Umweltökonomik/Das Gefangenendilemma.md",
-    "econ & pol/Umweltökonomik/Externe Effekte.md",
-    "econ & pol/Umweltökonomik/Kriterien zur Bewertung Umweltpolitischer Instrumente.md",
-    "econ & pol/Umweltökonomik/Nudging.md",
-    "econ & pol/Umweltökonomik/Umweltsubvention.md",
-    "econ & pol/Umweltökonomik/Umweltlizenz.md",
-    "econ & pol/Umweltökonomik/Umweltauflage.md",
-    "econ & pol/Umweltökonomik/Umweltabgabe oder Umweltsteuer.md",
-    "econ & pol/Umweltökonomik/Privatisierung.md",
-    "Attachments/{BD7BD374-B785-4F7E-9C4A-0E70EF008CA4}.png",
-    "Attachments/{98245205-7D09-4A5F-9799-298564CCF99F}.png",
+    "Attachments/{F80E5C33-C2C7-452A-A291-B8E703F2BCBF}.png",
+    "Attachments/{DB3E27C8-E0FC-46AE-8046-46DE4C0F2426}.png",
+    "Attachments/{517BF576-FA12-4162-879F-4DE7D7B52D46}.png",
+    "Attachments/{F499946E-7EEA-4F9B-BEC2-AB4A9F8A4A94}.png",
+    "Attachments/{9D82C628-C834-4A22-A978-A2FD1B67ABFD}.png",
+    "Attachments/{BAF123E5-686B-455D-9179-F6380D0BABE5}.png",
+    "geoöko/Kohlenstoffkreislauf.md",
+    "Attachments/{99D8A8D3-884B-4002-83A9-CB52739C769C}.png",
+    "Attachments/{73E8E6A0-0650-4E7B-BCD1-2E4CAE2F0171}.png",
+    "Attachments/{E1E42E83-7FA9-40CD-9825-F87E33B4AAE7}.png",
+    "geo/Bodenkunde/Humus.md",
+    "Attachments/{8FC8695F-58AB-4899-9691-85E915C17405}.png",
+    "Attachments/{BC5F487C-5196-4FBA-881F-5ECFDA468447}.png",
+    "bio/Biogeochemie/Organische Bodensubstanz.md",
+    "bio/Biogeochemie/Pflanzenkohle.md",
+    "geo/Bodenkunde/Puffer.md",
+    "bio/Biogeochemie/Terra Preta.md",
+    "bio/Biogeochemie/Verteilung von Bodenorganismen.md",
+    "geoöko/Hydrogeo/Niederschlag.md",
+    "maths/Stat/Korrelationsanalyse metrischer Daten.md",
+    "maths/Stat/Streuungsmaße.md",
+    "bio/Biogeochemie/Edaphon.md",
+    "bio/Biogeochemie/Interaktionen zwischen Pflanze und Mikroorganismus.md",
+    "bio/Biogeochemie/Interaktionen zwischen Fauna und Mikroorganismus.md",
+    "bio/Biogeochemie/Biotische Interaktionen (MOs).md",
+    "maths/pure Mathe/Differentialgleichungen.md",
+    "bio/Geobotanik/Biotische Interaktionen (Pflanzen).md",
+    "bio/Biogeochemie/SIP.md",
+    "bio/Biogeochemie/Enzymaktivitäten.md",
+    "bio/Biogeochemie/Biochemische Methoden.md",
+    "bio/Biogeochemie/Molekularbiologische Methoden.md",
+    "bio/Biogeochemie/Klonierung und Sequenzierung.md",
+    "bio/Biogeochemie/PCR und Gelelektrophorese.md",
+    "bio/Biogeochemie/DNA-Quantifizierung.md",
+    "bio/Biogeochemie/FISH.md",
+    "bio/Biogeochemie/Biomarker.md",
     "econ & pol/Ökonomik",
     "econ & pol/Umweltökonomik",
-    "Attachments/{5F505CF0-C069-4AB0-9633-8EFFAE19093C}.png",
-    "Attachments/{13A61287-0AFC-4D17-BF96-4542900AFED7}.png",
-    "Attachments/{939CFB9B-29C3-4B0A-8904-471552DC3EC0}.png",
-    "Attachments/{C75FC92E-7F61-414E-BE8C-83BADDF2EEEE}.png",
-    "Attachments/{FD01FEC1-8D28-4764-93F3-512FC8946A4F}.png",
     "geo/Bodenkunde",
     "bio/Biogeochemie",
     "Untitled",

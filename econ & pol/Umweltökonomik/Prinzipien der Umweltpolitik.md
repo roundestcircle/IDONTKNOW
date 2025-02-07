@@ -21,7 +21,7 @@ Logisch, Standard.
 Diejenigen, die direkt von der Verschmutzung betroffen sind zahlen für ihre Vermeidung.
 Vgl [[Externe Effekte#Coase-Ansatz]]. Ethisch eventuell problematisch.
 
-Ein Sonderfall ist das sogenannte PES (Payment for Ecosystem Services), also die Zahlung von Geldern an Ecosystem Managers wie Regenwaldstaaten, um die [[Ökosystemdienstleistungen]] für andere Länder aufrecht zu erhalten.
+Ein Sonderfall ist das sogenannte PES (Payment for Ecosystem Services), also die Zahlung von Geldern an Ecosystem Managers wie Regenwaldstaaten, um die [[Ökosystemdienstleistungen]] für andere Länder aufrecht zu erhalten. Dies ist notwendig, da sonst die Ökosystemzerstörung kurzfristig der ökonomisch bessere Weg für die Manager ist. 
 
 ### Gemeinlastprinzip
 
