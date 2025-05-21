@@ -28,7 +28,7 @@ Eiegntlich besser in [[Interaktionen zwischen Pflanze und Mikroorganismus]]
 
 Mykhoriza ist eine Symbiose zwischen Pilz und Pflanze. Der Pilz erhält dabei Photosynthate, die Pflanze anorganische Nährstoffe aus dem Boden.
 
-VAM ist am weitesten verbreitet und tritt bei etwa 90% (!) der Pflanzenarten auf. Vesikel sind die terminalen Hyphenschwellungen in den Zellen, Arbuskeln die Bäumchenartigen Verzweigungen. Beachte die vollständige Umschließung der Wurzel bei Ektomykorrhiza.
+VAM ist am weitesten verbreitet und tritt bei etwa 90% (!) der Pflanzenarten auf. Vesikel sind die terminalen Hyphenschwellungen in den Zellen, Arbuskeln die Bäumchenartigen Verzweigungen in den Zellen. Beachte die vollständige Umschließung der Wurzel bei Ektomykorrhiza.
 
 Effekte der Mykorrhiza auf Pflanzen:
 

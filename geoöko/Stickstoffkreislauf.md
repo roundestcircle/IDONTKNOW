@@ -1,4 +1,4 @@
-#Geoöko 
+#Geoöko #Biogeochemie 
 
 Gruppe:: Geoöko
 
@@ -28,7 +28,7 @@ In der Atmosphäre befinden sich gigantische Stickstoffmengen, gegenüber welche
 
 ### Ammonifikation und Nitrifikation
 
-Die Pflanzenstoffe werden nach dem Absterben zunächst in Humus und dann langsam in komplexe Huminstoffe ([[Humus]]) umgewandelt, die der Mobilisierung dienen können. Durch Ammonifikation wird zunächst mobiles Ammonium frei, welches dann weiterverarbeitet wird zu mobilem Nitrat. Stickstoffixierende Symbionten produzieren ebenfalls Ammonium ([[Biotische Interaktionen (Pflanzen)#N2-Fixierung]]). Diesen Prozess der Oxidation von N bezeichnet man als Nitrifikation. Bei der bakteriellen Nitrifikation wird Energie frei, die von [[Bakterien]] genutzt wird. Die Nitrifizierenden Bakterien sind chemoautotroph oder chemoheterotroph.
+Die Pflanzenstoffe werden nach dem Absterben zunächst in Humus und dann langsam in komplexe Huminstoffe ([[Humus]]) umgewandelt, die der Mobilisierung dienen können. Durch Ammonifikation wird zunächst mobiles Ammonium frei, welches dann weiterverarbeitet wird zu mobilem Nitrat. Stickstoffixierende Symbionten produzieren ebenfalls Ammonium ([[Biotische Interaktionen (Pflanzen)#N2-Fixierung]]). Diesen Prozess der Oxidation von N bezeichnet man als Nitrifikation. Bei der bakteriellen Nitrifikation wird Energie frei, die von [[Bakterien]] genutzt wird. Die Nitrifizierenden Bakterien sind chemoautotroph oder chemoheterotroph. Sie beziehen ihre Energie aus der Oxidation des Ammoniums.
 
 Optimale Bedingungen für die Nitrifikation sind ausreichend Sauerstoff, Hohe Temperaturen und Wassergehalte und ein circumneutraler pH-Wert. Ammonifikation ist nicht so empfindlich und findet auch in kalten und trockenen Böden statt. Die Temperaturabhängigkeit führt zu starken saisonalen Schwankungen der Nitrifikation.
 

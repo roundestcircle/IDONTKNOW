@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "geoöko/Stickstoffkreislauf.md",
+                "file": "geoöko/Bodengeo/Bodentypen/Schwarzerde.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Stickstoffkreislauf"
+              "title": "Schwarzerde"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sticks",
+                "query": "Sticksto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geoöko/Stickstoffkreislauf.md",
+                "file": "geoöko/Bodengeo/Bodentypen/Schwarzerde.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Stickstoffkreislauf"
+              "title": "Backlinks for Schwarzerde"
             }
           },
           {
@@ -138,6 +137,26 @@
   },
   "active": "32c1a67940832fb3",
   "lastOpenFiles": [
+    "geo/Bodenkunde/Horizontkürzel/Untitled.md",
+    "physics/Formelsammlung Physik.md",
+    "geo/Bodenkunde/Horizontkürzel",
+    "physics/Hydrodynamik.md",
+    "Overview Files/Overview Biogeochemie.md",
+    "geoöko/Stickstoffkreislauf.md",
+    "bio/Geobotanik/Biotische Interaktionen (Pflanzen).md",
+    "bio/Biogeochemie/PCR und Gelelektrophorese.md",
+    "bio/Biogeochemie/Gasfreisetzung.md",
+    "bio/Biogeochemie/Biochemische Methoden.md",
+    "physics/Elektrostatik.md",
+    "physics/Elektrodynamik.md",
+    "physics/Magnetostatik.md",
+    "chem/PC/1. Hauptsatz der TD.md",
+    "Einheiten.md",
+    "physics/Dynamik starrer Körper.md",
+    "physics/Dynamik von Massepunkten.md",
+    "physics/Energierhaltungssätze.md",
+    "physics/Kreisbewegung.md",
+    "physics/Kinematik von Massepunkten.md",
     "Attachments/{F80E5C33-C2C7-452A-A291-B8E703F2BCBF}.png",
     "Attachments/{DB3E27C8-E0FC-46AE-8046-46DE4C0F2426}.png",
     "Attachments/{517BF576-FA12-4162-879F-4DE7D7B52D46}.png",
@@ -150,30 +169,11 @@
     "Attachments/{E1E42E83-7FA9-40CD-9825-F87E33B4AAE7}.png",
     "geo/Bodenkunde/Humus.md",
     "Attachments/{8FC8695F-58AB-4899-9691-85E915C17405}.png",
-    "Attachments/{BC5F487C-5196-4FBA-881F-5ECFDA468447}.png",
     "bio/Biogeochemie/Organische Bodensubstanz.md",
     "bio/Biogeochemie/Pflanzenkohle.md",
     "geo/Bodenkunde/Puffer.md",
     "bio/Biogeochemie/Terra Preta.md",
     "bio/Biogeochemie/Verteilung von Bodenorganismen.md",
-    "geoöko/Hydrogeo/Niederschlag.md",
-    "maths/Stat/Korrelationsanalyse metrischer Daten.md",
-    "maths/Stat/Streuungsmaße.md",
-    "bio/Biogeochemie/Edaphon.md",
-    "bio/Biogeochemie/Interaktionen zwischen Pflanze und Mikroorganismus.md",
-    "bio/Biogeochemie/Interaktionen zwischen Fauna und Mikroorganismus.md",
-    "bio/Biogeochemie/Biotische Interaktionen (MOs).md",
-    "maths/pure Mathe/Differentialgleichungen.md",
-    "bio/Geobotanik/Biotische Interaktionen (Pflanzen).md",
-    "bio/Biogeochemie/SIP.md",
-    "bio/Biogeochemie/Enzymaktivitäten.md",
-    "bio/Biogeochemie/Biochemische Methoden.md",
-    "bio/Biogeochemie/Molekularbiologische Methoden.md",
-    "bio/Biogeochemie/Klonierung und Sequenzierung.md",
-    "bio/Biogeochemie/PCR und Gelelektrophorese.md",
-    "bio/Biogeochemie/DNA-Quantifizierung.md",
-    "bio/Biogeochemie/FISH.md",
-    "bio/Biogeochemie/Biomarker.md",
     "econ & pol/Ökonomik",
     "econ & pol/Umweltökonomik",
     "geo/Bodenkunde",
@@ -183,7 +183,6 @@
     "Physik",
     "geo/Hydrogeologie",
     "preamble.sty.bak",
-    "preamble.sty",
     "Untitled.canvas"
   ]
 }

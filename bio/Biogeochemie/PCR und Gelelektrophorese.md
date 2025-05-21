@@ -15,7 +15,7 @@ Durch die Primerwahl kann der vervielfältigte DNA-Abschnitt gewählt werden. Du
 
 Dient der Analyse der beim PCR entstandenen DNA-Teile
 
-Dabei werden die DNA-Abschnitte durch elektrische Ladung durch ein Bad steigender Denaturierender Gradienten gezogen. Sobald die DNA denaturiert, bewegt sie sich nicht weiter, sondern bildet eine sichtbare Bande. Die Länge der DNA-Abschnitte ist essentiell für die Laufdistanz.
+Dabei werden die DNA-Abschnitte durch elektrische Ladung durch ein Bad steigender Denaturierender Gradienten gezogen. Sobald die DNA denaturiert (also sich die zwei Stränge trennen), bewegt sie sich wesentlich langsamer weiter, und bildet eine sichtbare Bande. Die Länge der DNA-Abschnitte ist essentiell für die Laufdistanz. Auch die Basensequemz spielt dabei eine Rolle, da AT ein H-Brücke weniger besitzt als GC.
 
 Bakterien haben spezifische Bandenpositionen, also Längen der Vervielfältigten DNA, die zur Analyse dienen können.
 
