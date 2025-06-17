@@ -1,4 +1,4 @@
-#PC #Thermodynamik 
+#PC #Thermodynamik #Hydrochemie
 
 Gruppe:: Grundlagen
 
@@ -69,6 +69,10 @@ $\Delta T_G = T_G - T_G^\ast = (\frac{R(T_G^\ast)^2}{\Delta {}_GH_m})x_2=(\frac{
 Zusammengefasst zu Kryoskopischer Konstante:
 
 $\Delta T_G = K_f \cdot m_2$
+
+Achtung: m ist auch hier die Molalität. Bei Elektrolyten muss der Dissoziationegrad $\alpha$ ([[Wasser als Lösungmittel#Elektrolytische Dissoziation]]) mit einbezogen werden:
+
+$\Delta T_G = K_f \cdot (1+\alpha)m_2$
 
 Da $\Delta{}_GH_m$ immer negativ ist, wird der Gefrierpunkt immer erniedrigt.
 

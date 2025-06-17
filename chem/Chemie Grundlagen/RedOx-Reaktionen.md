@@ -1,5 +1,7 @@
 #Chem 
 
+[[Redoxpotential]]
+
 ### Konzept
 
 Reduktion und Oxidation finden immer gleichzeitig statt. Reduktion bezeichnet dabei die Elektronenaufnahme, Oxidation die Elektronenabgabe. Das Oxidationsmittel nimmt Elektronen auf (etwa Sauerstoff), wird also selbst reduziert, oxidiert aber den Partner. Andersrum wird das Reduktionsmittel selbst oxidiert (es verliert also Elektronen), reduziert jedoch den Partner.

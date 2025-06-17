@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "geoöko/Bodengeo/Bodentypen/Schwarzerde.md",
+                "file": "geo/Bodenkunde/Eisenoxide im Boden.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Schwarzerde"
+              "title": "Eisenoxide im Boden"
+            }
+          },
+          {
+            "id": "7ac546952fc9f92d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "geo/Bodenkunde/Eisenoxide im Boden.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Eisenoxide im Boden"
+            }
+          },
+          {
+            "id": "e615d15a361e4330",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "geo/Hydrogeologie/Datenaufnahme (Software).md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Datenaufnahme (Software)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sticksto",
+                "query": "tag:#Sulfide",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geoöko/Bodengeo/Bodentypen/Schwarzerde.md",
+                "file": "geoöko/Bodengeo/Bodentypen/Bodentypen.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Schwarzerde"
+              "title": "Backlinks for Bodentypen"
             }
           },
           {
@@ -117,7 +146,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -135,45 +165,45 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "32c1a67940832fb3",
+  "active": "e615d15a361e4330",
   "lastOpenFiles": [
-    "geo/Bodenkunde/Horizontkürzel/Untitled.md",
-    "physics/Formelsammlung Physik.md",
-    "geo/Bodenkunde/Horizontkürzel",
-    "physics/Hydrodynamik.md",
-    "Overview Files/Overview Biogeochemie.md",
-    "geoöko/Stickstoffkreislauf.md",
-    "bio/Geobotanik/Biotische Interaktionen (Pflanzen).md",
-    "bio/Biogeochemie/PCR und Gelelektrophorese.md",
-    "bio/Biogeochemie/Gasfreisetzung.md",
-    "bio/Biogeochemie/Biochemische Methoden.md",
-    "physics/Elektrostatik.md",
-    "physics/Elektrodynamik.md",
-    "physics/Magnetostatik.md",
-    "chem/PC/1. Hauptsatz der TD.md",
-    "Einheiten.md",
-    "physics/Dynamik starrer Körper.md",
-    "physics/Dynamik von Massepunkten.md",
-    "physics/Energierhaltungssätze.md",
-    "physics/Kreisbewegung.md",
-    "physics/Kinematik von Massepunkten.md",
-    "Attachments/{F80E5C33-C2C7-452A-A291-B8E703F2BCBF}.png",
-    "Attachments/{DB3E27C8-E0FC-46AE-8046-46DE4C0F2426}.png",
-    "Attachments/{517BF576-FA12-4162-879F-4DE7D7B52D46}.png",
-    "Attachments/{F499946E-7EEA-4F9B-BEC2-AB4A9F8A4A94}.png",
-    "Attachments/{9D82C628-C834-4A22-A978-A2FD1B67ABFD}.png",
-    "Attachments/{BAF123E5-686B-455D-9179-F6380D0BABE5}.png",
-    "geoöko/Kohlenstoffkreislauf.md",
-    "Attachments/{99D8A8D3-884B-4002-83A9-CB52739C769C}.png",
-    "Attachments/{73E8E6A0-0650-4E7B-BCD1-2E4CAE2F0171}.png",
-    "Attachments/{E1E42E83-7FA9-40CD-9825-F87E33B4AAE7}.png",
+    "geo/Hydrogeologie/Redoxpotentiale im Wasser.md",
+    "geo/Hydrogeologie/Datenaufnahme (Software).md",
+    "Attachments/{897EFB2D-DAD2-420F-A99C-3A891ECCF8AF}.png",
+    "Attachments/{C0F170FD-9D85-4DE1-A87D-D5735AFAA4AE}.png",
+    "Attachments/{5A5717FC-4440-492B-A468-113E181227B7}.png",
+    "Attachments/{B5DDB42C-B31E-4A60-AAA2-5D6BBFC8489D}.png",
+    "Attachments/{6B22A9F6-E348-4598-BA90-84B1507EEDDD}.png",
+    "chem/Chemie Grundlagen/Redoxpotential.md",
+    "Attachments/{3A3DA709-AF44-4AFD-84F9-4FAD6906AA6B}.png",
+    "geo/Hydrogeologie/Aktivität.md",
+    "geo/Hydrogeologie/Aktivität.md",
+    "geo/Hydrogeologie/Schwermetalle im Wasser.md",
+    "chem/Chemie Grundlagen/RedOx-Reaktionen.md",
+    "Attachments/{7CB21EAA-FDC1-4F07-BC7C-00643B71A9DD}.png",
+    "Attachments/{8E115E31-A3C8-4380-BC4D-8155B5BE87FB}.png",
+    "Attachments/{CF5ED641-1004-4AAC-AD59-69390C6BC3C0}.png",
+    "Attachments/{74753848-BFD9-4819-8BA8-09568F0D51EF}.png",
+    "geo/Minerale/Bestimmung/Sulfide/Pyrit.md",
+    "geo/Hydrogeologie/Kalk-Kohlensäure-Gleichgewicht.md",
+    "geo/Bodenkunde/Puffersysteme im Boden.md",
+    "geo/Hydrogeologie/Elektrische Leitfähigkeit des Wassers.md",
+    "geo/Hydrogeologie/Grundwasserprobennahme.md",
+    "geo/Hydrogeologie/Grundwasserfluss.md",
+    "geo/Hydrogeologie/Wasser als Lösungmittel.md",
+    "chem/PC/Ideale Gase.md",
+    "geo/Hydrogeologie/Hydrochemie Einführung.md",
+    "chem/PC/Kolligative Eigenschaften.md",
+    "chem/PC/Chemisches Gleichgewicht (PC).md",
+    "chem/PC/Kinetik von Reaktionen nahe dem Gleichgewicht.md",
+    "chem/PC/Reaktionsgeschwindigkeit.md",
+    "geo/Exogenes/Verwitterung.md",
+    "geoöko/Bodengeo/Bodentypen/Bodentypen.md",
     "geo/Bodenkunde/Humus.md",
-    "Attachments/{8FC8695F-58AB-4899-9691-85E915C17405}.png",
-    "bio/Biogeochemie/Organische Bodensubstanz.md",
-    "bio/Biogeochemie/Pflanzenkohle.md",
-    "geo/Bodenkunde/Puffer.md",
-    "bio/Biogeochemie/Terra Preta.md",
-    "bio/Biogeochemie/Verteilung von Bodenorganismen.md",
+    "geo/Bodenkunde/Austauschreaktionen.md",
+    "geo/Bodenkunde/Biodegradation.md",
+    "geo/Bodenkunde/Mineralisierung.md",
+    "geo/Bodenkunde/Horizontkürzel",
     "econ & pol/Ökonomik",
     "econ & pol/Umweltökonomik",
     "geo/Bodenkunde",

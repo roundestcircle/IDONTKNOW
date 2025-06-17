@@ -4,7 +4,7 @@ Gruppe:: Grundlagen
 
 1. Feldmethoden
 	 - [[Gasfreisetzung]] (Funktion)
-	 - [[Streuabbau]] (Funktion)
+	 - [[Streuabbau Messmethoden]] (Funktion)
 	 - Beobachtung
 2. Labormethoden
 	- [[Morphologie]]

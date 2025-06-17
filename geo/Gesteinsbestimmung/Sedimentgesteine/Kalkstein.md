@@ -2,7 +2,8 @@
 
 Gruppe:: Überblick
 
-Enthalten mehr als 50% Kalkminerale, also [[Calcit]]/[[Aragonit]] oder [[Dolomit]]. Mikrit als [[Matrix]] und oder Sparit als [[Zement]].
+Enthalten mehr als 75% Kalkminerale, also [[Calcit]]/[[Aragonit]] oder [[Dolomit]]. Mikrit als [[Matrix]] und oder Sparit als [[Zement]].
+Gesteine mit, aber geringerem Kalkanteil, bezeichnet man als [[Mergel]].
 
 ### Genese
 

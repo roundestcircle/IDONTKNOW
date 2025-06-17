@@ -1,8 +1,8 @@
-#Biogeochemie #Bodenkunde 
+#Biogeochemie #Boden 
 
 ## Definition
 
-Humus im engeren Sinne ist amorphe, neu synthetisierte organische Substanz. Im weiteren Sinne zählt auch unzersetztes Streu dazu. Labiler Humus dient der Nährstoffversorgung, während stabiler, amorpher Humus nicht direkt Pflanzenverfügbare Nährstoffe enthält.
+Humus im engeren Sinne ist amorphe, neu synthetisierte [[Organische Bodensubstanz]]. Im weiteren Sinne zählt auch unzersetztes Streu dazu. Labiler Humus dient der Nährstoffversorgung, während stabiler, amorpher Humus nicht direkt Pflanzenverfügbare Nährstoffe enthält.
 
 ## Unterteilung
 
@@ -10,29 +10,31 @@ Humus im engeren Sinne ist amorphe, neu synthetisierte organische Substanz. Im w
 
 Humus wird in Lauge gelöst, dann wird Salzsäure hinzugegeben bis der pH-Wert wieder sehr niedrig ist,. Die Bestandteile des Humus werden dann nach ihrer Löslichkeit in den verschiedenen Stadien bewertet.
 
-Völlig unlöslich sind Humine, in der Base gelöst und mit der Söure ausgefallen sind Huminsäuren, immer löslich sind Fulvosäuren.
+Völlig unlöslich sind Humine, in der Base gelöst und mit der Säure ausgefallen sind Huminsäuren, immer löslich sind Fulvosäuren.
 
-Das System ist veraltet, die Gruppe weisen keine sinnvolle funktionelle Unterscheidung auf.
+Das System ist veraltet, die Gruppen weisen keine sinnvolle funktionelle Unterscheidung auf.
 
-## Ökosystem-Funktionen
+Grobe Eigenschaften: 
 
-Chemisch:
-- [[Kationenaustauschkapazität]]
-- [[Puffer]]
-- Schwermetallfilter
+![[{48E9193F-0044-400C-B4B0-A199C1967F6F}.png]]
 
-Physikalisch:
-- Strukturstabilität
-- Wasser- und Stoffhaushalt
-- Temperaturhaushalt
+### Unterteilung in Dichtefraktionen
 
-Biologisch:
-- Energiequelle
-- Nährstoffreservoir
-- Regeneration
+- POM: Partikuläre organische Substanz (<1,6g/cm3)
+	- frei
+	- okkludiert in Aggregaten
+- MAOM: Mineralassoziierte organische Substanz  (>1,6g/cm3)
+
+Verteilung in Böden:
+
+![[{F55D05B1-E9FD-41C5-A891-F2DBE6EEDAE5}.png]]
+![[{C05699EF-1A8D-4F35-B7DC-07AFB34FDC4E}.png]]
+
+Beachte C-Abnahme nach unten. Nicht allzu viel FPOM, aber diese ist am wichtigsten für mikrobillen Umsatz. Beachte [[Bodenbildende Prozesse#Podsolierung]] und gering Mengen OPOM in temperat-sauren Böden.
 
 ## Humifizierung
 
+Produktion von Humus. Sehr schlecht verstanden und komplex.
 Degradationstheorie: Biopolymere ([[Organische Bodensubstanz]]) werden abgebaut. Die nicht abbaubar zurückbleibende Substanz ist Humus.
 
 Kondensationstheorie: Aus den kleinen, labilen Produkten des Abbaus der Biopolyere, werden Humusteilchen aufgebaut. Humus wird also vollständig neu synthetisiert.
@@ -47,11 +49,23 @@ Einflussfaktoren sind Klima, Relief, Düngung, pH-Wert, Nutzung, Textur, Wasserg
 
 ### Stabilisierung
 
-- Physikalische Stabilisierung: Organisches Material befindet sich in (Mikro)Aggregaten und ist so vor Zersetzung geschützt. Aggregate werden durch Bodenbearbeitung zerstört.
-- Interaktionen mit der Mineralphase: Mineralorganische Assoziationen lassen sich über die Dichte finden (genau zwischen leichter Streu und schweren Mineralen) und sind stabil.
+- Physikalische Stabilisierung/Okkludierung: Organisches Material befindet sich in (Mikro)Aggregaten, Mikroporen oder im Unterboden und ist so vor Zersetzung geschützt. Aggregate werden durch Bodenbearbeitung zerstört.
+- Interaktionen mit der Mineralphase: Mineralorganische Assoziationen lassen sich über die Dichte finden (genau zwischen leichter Streu und schweren Mineralen) und sind stabil. Sie entstehen über Kationenbrücken, van der Waals Kräfte, Oberflächenkomplexierung ([[Austauschreaktionen#Unspezifischer und spezifischer Austausch]]) oder als Präzipitate (Netze aus organischen Molekülen und Kationen)
 - Rekalzitranz: Moleküle sind allein aufgrund ihrer Struktur schlecht abbaubar, zum Beispiel [[Pflanzenkohle]].
 
-In verschiedenen Bodentypen sind die verschiedenen Prozesse unterschiedlich wichtig, auch wenn sie überall simultan stattfinden. In Braunerden sind etwa Ton-Humus-Komplexe essentiell, in Schwarzerden eher Rekalzitranz.
+In verschiedenen Bodentypen sind die verschiedenen Prozesse unterschiedlich wichtig, auch wenn sie überall simultan stattfinden. In Braunerden sind etwa Ton-Humus-Komplexe essentiell, in Schwarzerden eher Rekalzitranz. Mit steigender Ton- und Eisenoxidmenge kann mehr organische Substanz mineralisch stabilisiert werden.
+
+Zersetzungsraten sorbierten Citrats an verschiedenen Mineralen:
+
+![[{B3E1496A-5ABB-4D80-AE94-92DB017B2F2B}.png]]
+
+Beispielhafte C-Sorptionsmengen für verschiedene [[Tonminerale]], [[Eisenoxide im Boden]], [[Aluminiumoxide im Boden]]:
+
+![[{CB617259-0DD2-4F95-9A44-CBA86FE3021B}.png]]
+
+Effekt von Pflügen auf Okkludiertes organisches Material: 
+
+![[{71FC5085-58E0-4FB4-8C43-B4873D1FE00D}.png]]
 
 ## Modellvorstellung Huminstoff
 
@@ -83,6 +97,20 @@ Stattdessen sollten Standort- und Nutzungstypische Humusgehalte angestrebt werde
 ## Humusgleichgewicht
 
 In einem ungestörten Ökosystem stellt sich eventuell ein Gleichgewicht zwischen Neuaufbau und Humusabbau ein. Die Streuproduktion liegt im wald bei etwa 2 bis 9 Tonnen pro Hektar und Jahr, auf dem Acker nur einige 100 Kilogramm. Das Gleichgewicht wird sichh also auf dem Acker deutlich weiter unten einstellen. Dies spiegelt sich auch in den Humusvorräten wieder: Im Acker liegen sie bei 100 bis 200 Tonnen je Hektar in einem Meter Bodentiefe, im Buchenwald bei bis zu 800 Tonnen.
+
+Verlauf des Humusgehalts mit der Zeit, am Ende im Gleichgewicht:
+
+![[{B37F320A-618D-4AAB-8DE3-3AB9922DB3BC}.png]]
+
+Durch Bewirtschaftung kann das Gleichgewicht verschoben werden. Bewirtschaftung beschleunigt durch Pflügen und intensive Nutzung den Abbau, und Ersetzt nur Teile der Verluste durch Düngung.
+
+Einstellung eines neuen GG:
+
+![[{314ACBAB-7D82-468C-A32F-2C554DA4E4BC}.png]]
+
+Landnutzungsveränderungen bedeuten also oft einen Eingriff in die Humusbilanz des Bodens:
+
+![[{65A79D15-8E25-435F-9B47-E664AE8F16CC}.png]]
 
 ## Humusqualität
 

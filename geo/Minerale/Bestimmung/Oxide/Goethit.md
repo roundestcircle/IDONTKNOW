@@ -4,7 +4,7 @@
 
 ### Goethit Chem
 
-Summenformel:: $$ \ce {FeOOH} $$
+Summenformel:: $$ \ce {\alpha-FeOOH} $$
 Strukturtypus:: [[Strukturtypen#Hydroxidgruppe]]
 Gruppe:: Oxide
 <!--ID: 1705934303557-->
@@ -22,6 +22,7 @@ Bruch:: muschelig
 Glanz:: Metallglanz
 <!--ID: 1705934303562-->
 
+### Goethit im Boden
 
-
+Goethit ist das häufigste pedogene Eisenoxid. Im Boden entsteht es durch Hydrolyse von Eisen-3- Ionen ([[Verwitterung#Hydrolyse]]). Dabei werden Ionen frei. Es kann auch aus [[Ferrihydrit]] entstehen.
 

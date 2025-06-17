@@ -4,13 +4,15 @@ Gruppe:: Bodengeo
 
 vgl. [[Verwitterung]]
 
+Bodenbildende Prozesse unterscheiden sich auch kleinräumig. Dementsprechend lassen sich verschiedene Böden auch nah beieinander finden.
+
 ## Ausgangsgestein
 
 Unterschiedliche Gesteine haben eine unterschiedliche Widerstandfähigkeit gegen Zersetzung und beeinflussen durch ihren Chemismus bodenbildende Prozesse. Auuch die Korngröße der entstehenden Teilchen spielt im Wasserhaushalt des Bodens eine wichtige Rolle und ist durch das Ausgangsgestein bestimmt.
 
 ## Klima
 
-Klima beeinflusst den vorherrschenden Typ und die Intensität der Verwitterung. Dazu beeinflusst es die Produktion und Destruktion organischer Substanz, die Fließrichtung des [[Bodenwasser]]s und die Geschwindigkeit chemischer Reaktionen allgemein.
+Klima beeinflusst den vorherrschenden Typ und die Intensität der Verwitterung. Dazu beeinflusst es die Produktion und Destruktion organischer Substanz, die Fließrichtung des [[Wasserhaushalt des Bodens]]s und die Geschwindigkeit chemischer Reaktionen allgemein.
 
 ## Flora und Fauna
 

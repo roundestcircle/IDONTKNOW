@@ -26,7 +26,7 @@ Das Wasserpotential ist die benötigte Energie, um Wasser aus einem System in ei
 
 Das Wasserpotential ist niedriger, je geringer der Zahlenwert (negativer Zahlenwert = Energie muss ins System gesteck werden, um das Wasser zu entfernen). Das Wasserpotential der Atmosphäre ist extrem gering (Wasser zu entfernen benötigt viel Energie), das eines feuchten Bodens recht hoch (wenig Energie ist notwendig). Das Wasserpotential einer Pflanze setzt sich aus dem Turgordruck der Zellwände (Achtung, positiv, verringert Wasserpotential), dem Matrixpotential (Oberflächeneffekten) und dem Osmotischen Potential zusammen.
 
-[[Bodenwasser#Im Boden wirkende Potentiale]] für genauere Formel zum Bodenwasserpotential.
+[[Wasserhaushalt des Bodens#Im Boden wirkende Potentiale]] für genauere Formel zum Bodenwasserpotential.
 
 Pflanzen senken das osmotische Potential ihrer Wurzel durch Ionen, um so ihr Wasserpotential zu senken. Wasser fließt immer vom Ort des hohen Potentials zum Ort des niedrigeren Potentials, und bewegt sich so im Regelfall vom Boden durch die Pflanze in die Luft. Der Hydraulische Fluss ist höher, je größer die Leitfähigkeit und je größer der hydrostatische Gradient (Wasserpotentialdifferenz) (Darcy-Gleichung).
 
@@ -65,7 +65,7 @@ Dieser Mechanismus der Begrenzung der Transpiration ist das erste und einzige so
 2. Geringe Luftfeuchte
 3. Turgordruckverlust
 
-### [[Bodenwasser]]
+### [[Wasserhaushalt des Bodens]]
 
 ### Dürreresistenz-Strategien
 

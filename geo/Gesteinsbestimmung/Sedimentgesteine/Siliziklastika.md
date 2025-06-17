@@ -12,12 +12,12 @@ The combination of grain size, shape, type and layering/grain orientation are re
 
 Ähnlich wie Einordnung bei [[Pyroklastite]]
 
-| Korngrößen   | Lockersediment       | Gestein                                       |
-| ------------ | -------------------- | --------------------------------------------- |
-| <0.002mm     | Ton                  | [[Pelite]] (Tonstein), Mudstone if not layered, Shale if layered.                         |
-| 0.002-0.63mm | Silt                 | Pelit (Siltstein)                             |
-| 0.063-2mm    | Sand                 | Sandstein                                     |
-| >2mm         | Kies, Blöcke, Steine | runde Komp: Konglomerat, eckige Komp: Brekzie |
+| Korngrößen    | Lockersediment       | Gestein                                                           |
+| ------------- | -------------------- | ----------------------------------------------------------------- |
+| <0.002mm      | Ton                  | [[Pelite]] (Tonstein), Mudstone if not layered, Shale if layered. |
+| 0.002-0.063mm | Silt                 | Pelit (Siltstein)                                                 |
+| 0.063-2mm     | Sand                 | Sandstein                                                         |
+| >2mm          | Kies, Blöcke, Steine | runde Komp: Konglomerat, eckige Komp: Brekzie                     |
 
 Aside from the mm scale, der also exist a phi scale, which is the reverse log base 2 of the mm scale. Therefore Phi 0 means 1mm, Phi -1 2mm, phi -8 256mm (Boulders), phi 2 0.25mm and so on.
 

@@ -4,7 +4,7 @@
 
 Der Niederschlag wird in verschiedene Komponenten aufgeteilt. Dazu gehören Oberflächenabfluss, Zwischenabfluss (im Boden über dem Grundwasser), Bodenfeuchte (Zwischenspeicher) und Grundwasserneubildung. 
 
-[[Bodenwasser]]
+[[Wasserhaushalt des Bodens]]
 
 Im Humiden Klima ([[Klimaklassifikationen (Makroklima)#Aridität]]) ist die Wasserbewegung netto nach unten gerichtet. Evaporation und Tranpiration können in den oberen Bodenschichten eine nach oben gerichtete Nettobewegung auslösen. Zwischen den Zonen der Bewegung nach oben und der Bewegung nach unten liegt eine Wasserscheide. Diese bewegt sich weiter nach unten, je weniger Wasser vorhanden ist. Je weiter oben sie liegt, desto höher ist der Anteil der GWN am Niederschlag. Im Sommer liegt sie weiterunten, somit wird ein geringerer Anteil des N ins Grundwasser gelangen.
 
@@ -77,7 +77,7 @@ IF steht für Interflow.
 1. Lysimeter ([[Evapotranspiration#Verdunstungsmessung]])
 2. Ganglinienseparation über Abflussmessung, oft ungenau und vereinfachend
 3. empirische Modelle, hoher Datenhunger und Komplexität und doch oft nicht ausreichend differenziert (Landnutzungs- Boden-, Flurabstands- und Morphologieunterschiede)
-4. Über die Potentialdifferenzen des Bodens (Zeit- und Kostenaufwändig) ([[Wasserhaushalt der Pflanze#Wasserpotential]],[[Bodenwasser#Im Boden wirkende Potentiale]])
+4. Über die Potentialdifferenzen des Bodens (Zeit- und Kostenaufwändig) ([[Wasserhaushalt der Pflanze#Wasserpotential]],[[Wasserhaushalt des Bodens#Im Boden wirkende Potentiale]])
 5. Chlorid-Methode: Chlorid ist vor allem in Küstengebieten im Regen enthalten. Während dem Transport durch den Boden steigt seine Konzentration, da Teile des Niederschlags verdunsten. Über den Vergleich des Cl-Gehalts frischen Niederschlags im Boden und im Grundwasser, lässt sich berechnen, wie viel Wasser verdunstet ist, und wie viel das Grundwasser erreicht hat. Formel:
 $$
 GWN=\frac{(N-A_0)Cl_N}{Cl_{GW}}

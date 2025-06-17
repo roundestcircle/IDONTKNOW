@@ -2,6 +2,8 @@
 
 Gruppe:: Bodengeo
 
+## [[Verwitterung]]
+
 ## Turbation
 
 ### Bioturbation
@@ -18,6 +20,8 @@ Böden quellen aufgrund der Anomalie des Wassers beim gefrieren auf. Das Eis unt
 Wenn Quellfähiges Substrat austrocnet, bilden sich tiefe Spalten, in die Material von oben hineinfallen kann. Quillt das Substrat nun wieder auf, bildet es kleine Erhebungen, da sie seitliche Ausdehnung durch das herabgefallene Substrat verhindert wird.
 
 ## Humifizierung
+
+[[Humus]]
 
 Den zersetzten Anteil des organischen Materials im Boden bezeichnet man als Humus, den unzersetzten als Detritus. 
 
@@ -47,3 +51,7 @@ In ariden Klimaten kann dieser Prozess zur Bodenversalzung führen, insbesondere
 ## Lessivierung oder Tonmineralverlagerung
 
 Dreischichttonminerale sind negativ geladen, wenn Si durch Al oder Al durch Fe oder Mg ersetzt wurde. Diese wird durch Kationenanlagerung ausgeglichen. Sie sind dementsprechend sehr wichtig für die Bodenfruchtbarkeit. Bei der Lessivierung wird Ton aus dem Oberboden ausgewaschen und im Unterboden an den Porenrändern wieder abgeschieden. Dies geschieht erst bei einem pH-Wert von weniger als 6,5, erst dann können die Tonminerale aus ihrem Verband gelöst und transportiert werden. Im Unterboden können durch die Ausfällung Poren verstopft werden, es kann zu Staunässe kommen.
+
+## Veratmung
+
+## Auswaschung

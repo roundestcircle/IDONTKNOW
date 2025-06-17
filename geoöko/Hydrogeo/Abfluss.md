@@ -71,7 +71,7 @@ Die folgenden Steuergrößen führen zu verschiedenen [[Abflussregime]]n.
 
 1. [[Niederschlag]]
 2. Vegetationsdecke
-3. [[Bodenwasser|Böden]], bei wenig Bodenwasser weniger Abfluss, bei mehr mehr.
+3. [[Wasserhaushalt des Bodens|Böden]], bei wenig Bodenwasser weniger Abfluss, bei mehr mehr.
 4. Relief
 5. Leitfähigkeit des geologischen Untergrunds
 

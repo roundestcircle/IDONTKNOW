@@ -1,5 +1,7 @@
 #Geo #Definitionen #Magmatismus 
 
-Mafische Minerale oder Gesteine enthalten verhältnismäßig wenig SiO2, dafür viel Mg und Fe. Auch bezeichnet als "basisch".
+Mafische Minerale oder Gesteine enthalten verhältnismäßig wenig SiO2, dafür viel Mg und Fe. Auch bezeichnet als "basisch". Entstehen früh in der [[Magmendifferenzierung]]. [[Basalt]] etc.
 
 Mafische Minerale sind oft [[Melanokrates Mineral]] und haben einen recht hohen Schmelzpunkt.
+
+[[Magmatite#Einordnung nach Chemismus]]

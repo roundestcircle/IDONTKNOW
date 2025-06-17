@@ -1,8 +1,10 @@
 #Min #Basics #Silikate 
 
 Eckenverknüpfte oder freie $$ \ce {[SiO4]^4-} $$ -Tetraeder. Anstatt des Si kann auch ein Al eingebaut werden, dann fehlt eine Positive Ladung, die durch eine größere Ladung der Kationen ausgeglichen werden muss.
-<!--ID: 1705934303081-->
 
+Die Verknüpfung der Silikattetraeder ist eine Kondensationsreaktion, also wird Wasser frei. Ihre Umkehr ist die [[Verwitterung#Hydrolyse]].
+
+Von Insel- bis Gerüstsilikat steigt die Verwitterungsstabilität.
 
 ### #Inselsilikate
 
@@ -47,7 +49,7 @@ Grundbaustein:  $$ \ce {[Si4O11]^6-_\infty} $$
 ### #Schichtsilikate 
 
 Dreifach verknüpfte Tetraeder: Endlose Flächen.
-<!--ID: 1705934303109-->
+Der Aufbau ist jedoch noch etwas komplexer, vgl. [[Schichtsilikate Basics]].
 
 
 Grundbaustein:  $$ \ce {[Si4O10]^4-_\infty} $$

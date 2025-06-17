@@ -7,6 +7,7 @@ Grundwasserleiter sind dynamische Systeme die nach einem niedrigen Energiezustan
 # Potentialmessung
 
 [[Hydrodynamik#Bernoulli im Grundwasser]]
+[[Grundwasserprobennahme]]
 
 In der Regel wird einfach der Wasserstand in einem Piezometer, im Prinzip einem Rohr das ins Grundwasser reicht gemessen. Dafür ist eine Referenzhöhe erforderlich, zum Beispiel Normalnull.
 

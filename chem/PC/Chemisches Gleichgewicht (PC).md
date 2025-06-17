@@ -45,7 +45,7 @@ Durch die Potenzierung landen die Edukte (negatives Vorzeichen de stöchiometris
 
 Diese Terme werden definiert als $K_C$, die Gleichgewichtskonstante. Sie ist Einheitenlos.
 
-Entspricht dem Massenwirkungsgesetz aus der Schule:
+Entspricht dem [[Reaktionsgeschwindigkeit#Massenwirkungsgesetz]] aus der Schule:
 
 $\frac{\prod x_i^{\nu_i}(Produkte)}{\prod x_i^{|\nu_i|}(Edukte)}=K_X$
 
@@ -63,11 +63,17 @@ Dazu wird eine neue Gleichgewichtskonstante eingeführt:
 
 $K_W=K_X\cdot c^2_{\ce{H2O}}=c_{\ce{H3O+}} \cdot  c_{\ce{OH-}}$
 
+Dies ist die Konstante der Eigendissoziation des Wassers. 
+
 Bei reinem Wasser dementsprechend: $K_W= c^2_{\ce{H3O+}}$
 
 Bei Standardbedingungen: $K_W= c^2_{\ce{H3O+}}=10^{-14}\frac{mol^2}{l^2}$
 
 Also $c_{\ce{H3O+}}=10^{-7}\frac{mol}{l}$.
+
+Die Iegendissoziation des Wassers ist jedoch Temperaturabhängig. Damit ist der pH-Wert am Neutralpunkt auch Temperaturabhängig!
+
+![[{0D1682A3-69DC-4FAE-AB3A-AE61982DD912}.png]]
 
 ### Temperaturabhängigkeit von Kx
 

@@ -1,4 +1,4 @@
-#Biogeochemie #Bodenkunde
+#Biogeochemie #Boden
 
 Gruppe:: Grundlagen
 
@@ -23,7 +23,7 @@ Beachte die Mengenverhältnisse.
 
 Der Anteil des Wassergefüllten Porenraums ist entscheidend für biologische Aktivität im Boden und alle physiko-chemischen Prozesse. Es ist Lebensraum, notwendig für Pflanzenwachstum, reguliert den pH-Wert, Nährstoffe über deren Lösung, sowie Redox- und osmotisches Potential.
 
-[[Bodenwasser#Saugspannung]]
+[[Wasserhaushalt des Bodens#Saugspannung]]
 
 Unterschiedliche Organismen sind unterschiedlich tolerant gegenüber Wasserstress. Die Bodenfauna ist weit empfindlicher als Pflanzen, und oft auf konstanten, direkten Wasserkontakt angewiesen, da sie keinen ausreichenden Austrocknungsschutz und keine Maßnahmen zur Wassergewinnung besitzen.
 
@@ -37,7 +37,7 @@ In verschiedenen Skalen befinden sich im Boden verschiedene organische und anorg
 
 ![[{A24C162A-A5C4-464F-A507-732BC133B482}.png]]
 
-vgl auch [[Bodenwasser]] und [[Wasser im Porenraum]].
+vgl auch [[Wasserhaushalt des Bodens]] und [[Wasser im Porenraum]].
 
 ## Pedogenese
 
@@ -77,6 +77,6 @@ An der Bodenoberfläche ist das Bodenleben am aktivsten. Hier liegt der Übergan
 
 ## Bodeneigenschaften
 
-1. [[Kationenaustauschkapazität]]
+1. [[Austauschreaktionen]]
 2. Nährstoffe ([[Boden als Standortfaktor#Bodennährstoffe]])
-3. Wasserverfügbarkeit ([[Wasser im Porenraum#Wasserspannungskurven]], [[Bodenwasser]])
+3. Wasserverfügbarkeit ([[Wasser im Porenraum#Wasserspannungskurven]], [[Wasserhaushalt des Bodens]])

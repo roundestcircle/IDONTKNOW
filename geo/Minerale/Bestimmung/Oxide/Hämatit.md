@@ -27,6 +27,9 @@ Glanz:: matt, Metallglanz
 ### Verwitterung von Magnetit
 
 Magnetit oxidiert zu Hämatit, oft jedoch nicht vollständig, sodass auch Hämatit magnetisch sein kann.
-<!--ID: 1705934303604-->
+
+### Magnetit im Boden
+
+Entsteht pedogen durch Dehydratation von  [[Ferrihydrit]] oder [[Goethit]]. Ist im Boden blutrot. Hämatit ist sehr stabil und langlebig. Es ist typisch für tropische Böden, in Mitteleuropa daher häufig reliktisch.
 
 

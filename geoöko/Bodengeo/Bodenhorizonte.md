@@ -2,6 +2,8 @@
 
 Gruppe:: Bodengeo
 
+[[Bodentypen]] unterscheiden sich nach charakteristischen, diagnostischen Horizonten oder Horizontabfolgen. Horizonte sind keine Schichten. Schichten beschreiben die Struktur des Ausgangsgesteins beziehungsweise Substrates.
+
 ## Entwicklungsreihenfolge
 
 1. C-Horizont
@@ -11,6 +13,8 @@ Gruppe:: Bodengeo
 Prozesse im A-Horizont bilden den B-Horizont, er kann ohne A-Horizont nicht entstehen. 
 
 ## Horizontnamen und Zusätze
+
+Achtung veraltet! Neu: [[Horizontkürzel]], [[Horizontkürzel Präfixe]], [[Horizontkürzel Suffixe]]
 
 | Name | Beschreibung                                                                                                                         |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------ |

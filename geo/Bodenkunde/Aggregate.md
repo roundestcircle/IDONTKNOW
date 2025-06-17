@@ -1,4 +1,4 @@
-#Bodenkunde #Biogeochemie 
+#Boden #Biogeochemie 
 
 Aggregate sind die Sekundärstrukuren eines Bodens. Die bestehen aus zusammenhängenden Mikroaggregaten, Wurzeln, Bodenorganismen.
 

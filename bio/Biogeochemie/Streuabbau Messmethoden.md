@@ -1,5 +1,7 @@
 #Biogeochemie 
 
+[[Biodegradation]]
+
 Gruppe:: Biochemische Methoden
 
 ## Prinzip Litterbag

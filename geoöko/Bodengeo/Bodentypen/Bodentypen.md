@@ -2,6 +2,8 @@
 
 Gruppe:: Bodengeo
 
+Bodentypen unterscheiden sich nach charakteristischen Horizonten und Horizontabfolgen.
+
 ## Zonierung
 
 1. Zonale Böden: gut entwicketl, rel unabhängig vom Ausgangsgestein, abh von Klima und Vegetation
