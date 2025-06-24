@@ -1,4 +1,4 @@
-#Geobotanik 
+#Geobotanik #Nutzpflanzen 
 
 ### Poikilohydre Pflanzen
 
@@ -7,6 +7,13 @@ Wasserhaushalt entspricht dem Feuchtezustand der Umgebung. Insgesamt recht selte
 ### Homoiohydre Pflanzen
 
 Können ihren Wasserhaushalt selbst gegen die Umgebung regulieren. Sie Besitzen ein Wurzelsystem zur Wasseraufnahme, regulierbare Transpiration, ein Transportsystem und Austrocknungsverhindernde Oberflächen. Häufig sind große Zentralvakuolen vorhanden.
+
+Dies wurde nötig, da der Übergang an Land einen gigantischen Trockenstress bedeutet hat ([[Evolution und Systematik der Landpflanzen]]).
+
+## Wassertransport
+
+- Kurze Strecken: Osmose
+- Lange Strecken: Druck und Sogkräfte
 
 ### Kohäsionstheorie des Wassertransports
 
@@ -18,24 +25,36 @@ Die Stärke dieser Saugspannung ist äquivalent zur Wasserpotentialdifferenz zwi
 
 ### Wasserleitfähigkeit
 
-Die Wasserleitfähigkeit ist abhängig vom Gefäßdurchmesser, Querwänden und Embolien und unterscheidet sich bedeutend zwischen Pflanzen. Bei geringer Leitfähigkeit kann die Pfalnze schlecht auf erhöhte Transpiration reagieren, sodass die Saugspannung/Das Wasserpotential stark ansteigt.
+Die Wasserleitfähigkeit ist abhängig vom Gefäßdurchmesser, Querwänden und Embolien und unterscheidet sich bedeutend zwischen Pflanzen. Bei geringer Leitfähigkeit kann die Pflanze schlecht auf erhöhte Transpiration reagieren, sodass die Saugspannung/Das Wasserpotential stark ansteigt.
 
-### Wasserpotential
+## Wasserpotential
 
 Das Wasserpotential ist die benötigte Energie, um Wasser aus einem System in einen Standardzustand zu überführen (Wasser bei 1bar und 0°C). Das Wasserpotential wird als Druck angegeben.
 
-Das Wasserpotential ist niedriger, je geringer der Zahlenwert (negativer Zahlenwert = Energie muss ins System gesteck werden, um das Wasser zu entfernen). Das Wasserpotential der Atmosphäre ist extrem gering (Wasser zu entfernen benötigt viel Energie), das eines feuchten Bodens recht hoch (wenig Energie ist notwendig). Das Wasserpotential einer Pflanze setzt sich aus dem Turgordruck der Zellwände (Achtung, positiv, verringert Wasserpotential), dem Matrixpotential (Oberflächeneffekten) und dem Osmotischen Potential zusammen.
+Das Wasserpotential ist niedriger, je geringer der Zahlenwert (negativer Zahlenwert = Energie muss ins System gesteck werden, um das Wasser zu entfernen). Das Wasserpotential der Atmosphäre ist extrem gering (Wasser zu entfernen benötigt viel Energie), das eines feuchten Bodens recht hoch (wenig Energie ist notwendig). Das Wasserpotential einer Pflanze setzt sich aus dem Turgordruck der Zellwände/Duckpotential (Achtung, evtl positiv, erhöht Wasserpotential), dem Matrixpotential (Oberflächeneffekten, immer negativ) und dem Osmotischen Potential (immer negativ) zusammen. Das Matrixpotential wirs in der Pflanze oft vernachlässigt, ist jedoch im Boden essentiell, wo das Druckpotential eher eine geringe Rolle spielt.
+
+Je mehr lösliche Substanzen sich im Wasser befinden, desto niedriger ist das osmotische Potential.
+
+Wasser fließt immer zum höheren zum niedrigen Wasserpotential.
 
 [[Wasserhaushalt des Bodens#Im Boden wirkende Potentiale]] für genauere Formel zum Bodenwasserpotential.
 
-Pflanzen senken das osmotische Potential ihrer Wurzel durch Ionen, um so ihr Wasserpotential zu senken. Wasser fließt immer vom Ort des hohen Potentials zum Ort des niedrigeren Potentials, und bewegt sich so im Regelfall vom Boden durch die Pflanze in die Luft. Der Hydraulische Fluss ist höher, je größer die Leitfähigkeit und je größer der hydrostatische Gradient (Wasserpotentialdifferenz) (Darcy-Gleichung).
+Pflanzen senken das osmotische Potential ihrer Wurzel durch Ionen, um so ihr Wasserpotential zu senken. Wasser bewegt sich so im Regelfall vom Boden durch die Pflanze in die Luft. Der Hydraulische Fluss ist höher, je größer die Leitfähigkeit und je größer der hydrostatische Gradient (Wasserpotentialdifferenz) (vgl. [[Das Darcy-Gesetz]]).
 
 ![[Schema Wasserpotential in Pflanze.png]]
 
-### Embolien
+In einer typischen Pflanzenzelle herrscht ein Druck von 0,5 bis 1,5 MPa (Turgordruck), im Xylem ([[Transportgewebe der Pflanzen]]) bis zu -3MPa. Diese Drücke sind sehr hoch, weit über Autoreifendrücken etwa. Pflanzen können sie nur dank sehr stabilen und zum Teil flexiblen Zellwänden ertragen. Die Pflanze kann die Drücke durch die Anpassung gelöster Stoffe in den Zellen, und durch Stomatamanipulation im Leitgewebe verändern.
+
+Beispielhafte Wasserpotentiale (im Transportgewebe!):
+
+![[{8A856A49-3E7C-44CA-81FC-A69D77129B81}.png]]
+
+Durch die Spannungsunterschiede kann der Wassertransport energielos erfolgen.
+
+## Embolien
 
 Embolien sind Blockaden des Xylems durch Gasblasen. Sie können aud zwei Wegen entstehen: 
-1. Ausfrieren von Luftblasen, durch niedrigen Xylemdruck verhinderte Resorption. Der niedrige Xylemdruck kann zum Beispiel durch verfrühte Transpiration, währen der Boden noch gefroren ist geschehen. Dies ist ein Grund, warum Bäume ihre Blätter abwerfen.
+1. Ausfrieren von Luftblasen (Gaslöslichkeit von Wasser ist höher als von Eis.), durch niedrigen Xylemdruck beim Auftauen verhinderte Resorption. Der niedrige Xylemdruck kann zum Beispiel durch verfrühte Transpiration, währen der Boden noch gefroren ist geschehen. Dies ist ein Grund, warum Bäume ihre Blätter abwerfen.
 2. Trockenstress, durch Poren wird Luft aus benachbarten, zerstörten Elementen in das Leitgewebe gezogen (air Seeding)
 
 #### Air Seeding
@@ -48,7 +67,7 @@ In Experimenten lässt sich das Eindringen von Luft in die Gefäße durch Mikrof
 
 Der Leitfähigkeitsverlust bei sinkendem Druck in der Pflanze/sinkendem Wasserpotential lässt sich experimentell bestimmen. Dabei werden Empfindlichkeitskurven erstellt. Der Punkt, an dem Pflanzen 50% oder noch mehr Leitfähigkeit verlieren, unterscheidet sich beträchtlich.
 
-### Transpiration
+## Transpiration
 
 [[Evapotranspiration]]
 
@@ -65,9 +84,9 @@ Dieser Mechanismus der Begrenzung der Transpiration ist das erste und einzige so
 2. Geringe Luftfeuchte
 3. Turgordruckverlust
 
-### [[Wasserhaushalt des Bodens]]
+## [[Wasserhaushalt des Bodens]]
 
-### Dürreresistenz-Strategien
+## Dürreresistenz-Strategien
 
 Pflanzen sind entweder tolerant gegenüber Wasserstress (arido-tolerante Pflanzen, Austrocknungstoleranz), gehen aktiv vor um ihn zu vermeiden, etwa durch gute Aufnahme, Speicherung und Sicherung von Wasserreserven (arido-aktive Pflanzen), oder sind dürreempfindlich/aridopassiv.
 

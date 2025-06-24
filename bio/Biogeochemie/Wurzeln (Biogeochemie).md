@@ -1,5 +1,7 @@
 #Biogeochemie 
 
+[[Wurzeln (Biologie der Nutzpflanzen)]]
+
 Gruppe:: Grundlagen
 
 Wurzeln sind nicht Teil des Edaphons!

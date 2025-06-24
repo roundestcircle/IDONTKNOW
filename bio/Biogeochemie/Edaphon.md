@@ -2,7 +2,7 @@
 
 Gruppe:: Grundlagen
 
-Als Edaphon wird die Gesamtheit der Bodenlebewesen bezeichnet. [[Wurzeln]] gehören nicht dazu.
+Als Edaphon wird die Gesamtheit der Bodenlebewesen bezeichnet. [[Wurzeln (Biogeochemie)]] gehören nicht dazu.
 
 ## Einteilung
 

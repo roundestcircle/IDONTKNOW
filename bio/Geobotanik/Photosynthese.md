@@ -8,7 +8,7 @@ $\ce{6CO_2 + 12H_2O -> C_6H_{12}O_6 + 6O_2 + 6H_2O}$
 
 Während der Lichtreaktion wird dabei Wasser gespalten, und ein Elektron des Wassers mithilfe der Lichtenergie auf immer höhere Energieniveaus gehoben, um am Ende ein Produkt zu reduzieren und so die Energie in ATP oder NADPH zu speichern.
 
-Nun kommt es zur Dunkelreation, bei der das Enzym Rubisco diese Energie und Kohlenstoff in C3-Körpern speichert. Rubisco ist extrem häufig, da es nicht sehr effizient ist. Rubisco kann auch Energie und C wieder freisetzen, wenn sich das Gleichgewicht der Reaktion verschiebt. Dies ist sehr ungünstig für die Pflanze.
+Nun kommt es zur Dunkelreation, bei der das Enzym Rubisco diese Energie und Kohlenstoff in C3-Körpern speichert (unter Verbrauch von CO2). Rubisco ist extrem häufig, da es nicht sehr effizient, und die CO2-Konzentration niedrig ist. Rubisco kann auch Energie und C wieder freisetzen, wenn sich das Gleichgewicht der Reaktion verschiebt. Dies ist sehr ungünstig für die Pflanze.
 
 ## Lichtkompensationspunkt
 
@@ -64,4 +64,3 @@ CAM-Pflanzen wachsen sehr langsam, haben ein hohes Temperaturoptimum, einen mitt
 
 CAM-Pflanzen einer Art können diesen Mechansimus unterschiedlich intensiv nutzen, je nachdem wie stark der momentane Trockenstress ist.
 
-##

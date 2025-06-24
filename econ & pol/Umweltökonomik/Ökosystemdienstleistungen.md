@@ -4,7 +4,7 @@
 
 - Nahrungsmittel und Baustoffe
 - Wasserreinigung 
-- CO2-Senke [[Black Carbon]]
+- CO2-Senke [[Pflanzenkohle]]
 - Überflutungsschutz
 - Quelle von pharmazeutischen Stoffen
 - Fundamente

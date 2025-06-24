@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "geo/Hydrogeologie/Datenaufnahme (Software).md",
+                "file": "bio/Biologie der Nutzpflanzen/Pflanzen/Hauptgruppen der Nutzpflanzen.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Datenaufnahme (Software)"
+              "title": "Hauptgruppen der Nutzpflanzen"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Sulfide",
+                "query": "file: Wur",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geoöko/Bodengeo/Bodentypen/Bodentypen.md",
+                "file": "geo/Hydrogeologie/Ionenbilanzen.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bodentypen"
+              "title": "Backlinks for Ionenbilanzen"
             }
           },
           {
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,52 +168,52 @@
   },
   "active": "e615d15a361e4330",
   "lastOpenFiles": [
-    "geo/Hydrogeologie/Redoxpotentiale im Wasser.md",
-    "geo/Hydrogeologie/Datenaufnahme (Software).md",
-    "Attachments/{897EFB2D-DAD2-420F-A99C-3A891ECCF8AF}.png",
-    "Attachments/{C0F170FD-9D85-4DE1-A87D-D5735AFAA4AE}.png",
-    "Attachments/{5A5717FC-4440-492B-A468-113E181227B7}.png",
-    "Attachments/{B5DDB42C-B31E-4A60-AAA2-5D6BBFC8489D}.png",
-    "Attachments/{6B22A9F6-E348-4598-BA90-84B1507EEDDD}.png",
-    "chem/Chemie Grundlagen/Redoxpotential.md",
-    "Attachments/{3A3DA709-AF44-4AFD-84F9-4FAD6906AA6B}.png",
-    "geo/Hydrogeologie/Aktivität.md",
-    "geo/Hydrogeologie/Aktivität.md",
-    "geo/Hydrogeologie/Schwermetalle im Wasser.md",
-    "chem/Chemie Grundlagen/RedOx-Reaktionen.md",
-    "Attachments/{7CB21EAA-FDC1-4F07-BC7C-00643B71A9DD}.png",
-    "Attachments/{8E115E31-A3C8-4380-BC4D-8155B5BE87FB}.png",
-    "Attachments/{CF5ED641-1004-4AAC-AD59-69390C6BC3C0}.png",
-    "Attachments/{74753848-BFD9-4819-8BA8-09568F0D51EF}.png",
-    "geo/Minerale/Bestimmung/Sulfide/Pyrit.md",
-    "geo/Hydrogeologie/Kalk-Kohlensäure-Gleichgewicht.md",
-    "geo/Bodenkunde/Puffersysteme im Boden.md",
-    "geo/Hydrogeologie/Elektrische Leitfähigkeit des Wassers.md",
-    "geo/Hydrogeologie/Grundwasserprobennahme.md",
-    "geo/Hydrogeologie/Grundwasserfluss.md",
-    "geo/Hydrogeologie/Wasser als Lösungmittel.md",
-    "chem/PC/Ideale Gase.md",
-    "geo/Hydrogeologie/Hydrochemie Einführung.md",
-    "chem/PC/Kolligative Eigenschaften.md",
-    "chem/PC/Chemisches Gleichgewicht (PC).md",
-    "chem/PC/Kinetik von Reaktionen nahe dem Gleichgewicht.md",
-    "chem/PC/Reaktionsgeschwindigkeit.md",
-    "geo/Exogenes/Verwitterung.md",
-    "geoöko/Bodengeo/Bodentypen/Bodentypen.md",
-    "geo/Bodenkunde/Humus.md",
-    "geo/Bodenkunde/Austauschreaktionen.md",
-    "geo/Bodenkunde/Biodegradation.md",
-    "geo/Bodenkunde/Mineralisierung.md",
+    "Attachments/{A3485EFE-F6C0-4434-A477-818864890552}.png",
+    "bio/Biologie der Nutzpflanzen/Pflanzen/Leguminosen.md",
+    "bio/Biologie der Nutzpflanzen/Pflanzen/Hauptgruppen der Nutzpflanzen.md",
+    "Attachments/{2204D18A-517D-4FC9-A96E-8ACC327632BF}.png",
+    "Attachments/{A0EE5799-2E03-4BBB-81E5-790360C9E328}.png",
+    "Attachments/{50580E58-8C5B-41AF-9990-C7A835CADF8D}.png",
+    "Attachments/{ADBD43F0-24A6-4DC0-9E9B-5D05CD74C3B0}.png",
+    "Attachments/{39627BBC-8473-4491-A4D8-BA0B6FAAD4FB}.png",
+    "geo/Bodenkunde/Eisenoxide im Boden.md",
+    "bio/Biologie der Nutzpflanzen/Pflanzen/Sonnenblume.md",
+    "Attachments/{73D63A87-50E2-40C5-B4EA-9593D1ED062B}.png",
+    "bio/Biologie der Nutzpflanzen/Pflanzen/Raps.md",
+    "bio/Biologie der Nutzpflanzen/Frucht.md",
+    "bio/Biologie der Nutzpflanzen/Pflanzen/Ölpalme.md",
+    "Attachments/{F5FB6F09-5095-44B8-BF52-E731A1E86468}.png",
+    "Attachments/{47C4FB2B-91D3-4E4D-81E9-36E9ACC99330}.png",
+    "bio/Biologie der Nutzpflanzen/Pflanzen/Mais.md",
+    "Attachments/{C4050126-63E8-40EE-A25D-D2FB0AC269DA}.png",
+    "bio/Biologie der Nutzpflanzen/Blatt.md",
+    "bio/Biologie der Nutzpflanzen/Ernährung.md",
+    "bio/Biologie der Nutzpflanzen/Pflanzen/Hafer.md",
+    "bio/Biologie der Nutzpflanzen/Pflanzen/Gerste.md",
+    "bio/Biologie der Nutzpflanzen/Pflanzen/Triticale.md",
+    "bio/Biologie der Nutzpflanzen/Pflanzen/Roggen.md",
+    "bio/Biologie der Nutzpflanzen/Pflanzen/Zuckerrüben.md",
+    "Attachments/{7BC24EB9-A7F1-40A7-BB4D-64221A7EA682}.png",
+    "bio/Biologie der Nutzpflanzen/Pflanzen/Kartoffel.md",
+    "bio/Biologie der Nutzpflanzen/Pflanzen/Pseudogetreide.md",
+    "bio/Biologie der Nutzpflanzen/Pflanzen/Weizen.md",
+    "bio/Geobotanik/Photosynthese.md",
+    "bio/Biologie der Nutzpflanzen/Blüten.md",
+    "bio/Biologie der Nutzpflanzen/Pflanzen",
+    "bio/Biologie der Nutzpflanzen/Pflanzlicher Energiehaushalt.md",
+    "bio/Biologie der Nutzpflanzen/Spross.md",
+    "bio/Biologie der Nutzpflanzen/Wurzeln (Biologie der Nutzpflanzen).md",
+    "bio/Biogeochemie/Wurzeln (Biogeochemie).md",
+    "bio/Biologie der Nutzpflanzen/Transportgewebe der Pflanzen.md",
+    "econ & pol/Grundlagen der Landnutzung",
+    "bio/Biologie der Nutzpflanzen",
+    "geo/Geostatistik",
     "geo/Bodenkunde/Horizontkürzel",
     "econ & pol/Ökonomik",
     "econ & pol/Umweltökonomik",
     "geo/Bodenkunde",
     "bio/Biogeochemie",
     "Untitled",
-    "econ & pol",
-    "Physik",
-    "geo/Hydrogeologie",
-    "preamble.sty.bak",
     "Untitled.canvas"
   ]
 }
