@@ -6,11 +6,11 @@ Die Suffixe bezeichnen pedogene Bodenmerkmale. Viele Suffixe lassen sich nur mit
 
 ## Ol
 
-von litter. Nicht oder weniger zersetzter organische Horizont.
+von litter. Nicht oder weniger zersetzter organische Horizont. Weniger als 10% Feinsubstanz.
 
 ## Of
 
-Fermentierung organischer Substanz, hinterlässt geschwärzte Streureste.
+Fermentierung organischer Substanz, hinterlässt geschwärzte Streureste. 10-70% organische Feinsubstanz.
 
 ## Oh
 
@@ -187,3 +187,13 @@ massiv, verfestigte Sesquioxid-Anreicherung ([[Eisenoxide im Boden]])
 ## Vf
 
 Ausfällung schlecht kristalliner Eisen(hydr)oxide, schmierige Konsistenz, geringe Dichte
+
+# Moorböden
+
+## Hv
+
+vererdet, 1. Degradadtionsstufe
+
+## Hm
+
+vermulmt, 2. Degradationsstufe

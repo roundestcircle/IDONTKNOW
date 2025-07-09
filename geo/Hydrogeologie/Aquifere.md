@@ -8,7 +8,7 @@ Oft treten Mischformen auf, da sich Schichteigenschaften unterscheiden oder klei
 
 ## Porengrundwasserleiter
 
-Poren zwischen Mineralkörnern von (Locker-)Sedimenten. Poren-GWL haben oft hohe Porosität, hohes Speichervermögen und hohe Filterwirkung. Die Fließgeschwindigkeiten sind in der Regel sehr langsam. Die [[Wasser im Porenraum|Porosität]] beträgt in der Regel zehn bis 20%.
+Poren zwischen Mineralkörnern von (Locker-)Sedimenten. Poren-GWL haben oft hohe Porosität, hohes Speichervermögen und hohe Filterwirkung. Die Fließgeschwindigkeiten sind in der Regel sehr langsam. Die [[Porosität|Porosität]] beträgt in der Regel zehn bis 20%.
 
 ## Kluftgrundwasserleiter
 

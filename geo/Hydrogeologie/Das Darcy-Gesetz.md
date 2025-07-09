@@ -37,7 +37,7 @@ $$
 
 Da nur der Porenraum drainiert, und nicht die gesamte Querschnittsfläche, ist die Abstandsgeschwindigkeit v, also die mittlere reale Fließgeschwindigkeit signifikant höher.
 
-[[Wasser im Porenraum#Porosität und Textur]]
+[[Porosität#Porosität und Textur]]
 
 $$
 v=\frac{q}{n_e}=K\frac{gradh}{n_e}=\frac{Q}{An_e}
@@ -56,7 +56,7 @@ Vorraussetzungen für die Anwendbarkeit sind:
 4. keine sehr hohen Druckdifferenzen.
 
 Für [[Aquifere#Kluftgrundwasserleiter]] (aufgrund hoher Geschwindigkeiten und damit 
-oft turbulentem Fluss) und Geringleiter (da Oberflächenkräfte ([[Wasser im Porenraum#Adsorptions- und Kapillarwasser]] über die Schwerkraft dominieren) ist das Darcy-Gesetz weniger anwendbar.
+oft turbulentem Fluss) und Geringleiter (da Oberflächenkräfte ([[Porosität#Adsorptions- und Kapillarwasser]] über die Schwerkraft dominieren) ist das Darcy-Gesetz weniger anwendbar.
 
 ### Reynolds-Number
 

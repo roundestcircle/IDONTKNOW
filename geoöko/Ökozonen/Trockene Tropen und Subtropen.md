@@ -3,7 +3,7 @@
 Gruppe:: Ökozonen
 Klima:: BWh
 Vegetation:: [[Savannen und Wüsten (trock. Tropen)]]
-Böden:: [[Regosole]], Salzböden ([[Gypsisole]])
+Böden:: [[Ranker]], Salzböden ([[Gypsisole]])
 
 ## Verbreitung
 

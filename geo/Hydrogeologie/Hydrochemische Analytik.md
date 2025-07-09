@@ -117,7 +117,7 @@ Anwendung: Na, K, Ca, Mg, Fe, Al, Mn, Zn, ... sehr genau, aber keine Spezies bes
 
 Inductively Coupled Plasma - Atomic Emission Spectroscopy
 
-Prinzipiell ähnlich wie AAs, unter noch weit höheren Temperaturen und speziellem Detektor- und Ioniserungssetup, dass die Aufnahme mehrerer Spektrallinien auf einmal erlaubt. Das Plasma wird durch einen Argon-Strom stabilisiert. Emissionen der Elemente werden gemssen.
+Prinzipiell ähnlich wie AAs, unter noch weit höheren Temperaturen und speziellem Detektor- und Ioniserungssetup, dass die Aufnahme mehrerer Spektrallinien auf einmal erlaubt. Emission statt Absorption der Ionen genutzt. Das Plasma wird durch einen Argon-Strom stabilisiert. Emissionen der Elemente werden gemssen.
 
 Schema:
 

@@ -16,7 +16,7 @@ grau
 
 # b
 
-brackisch (zwischen 4 und 15 $dSm^{-1}$ [[Leitfähigkeit]])
+brackisch (zwischen 4 und 15 $dSm^{-1}$ [[Leitfähigkeit des Wassers]])
 
 # z
 
@@ -107,4 +107,4 @@ hangwasserbeeinflusst
 
 # t
 
-aus Ablagerungen der Nordsee. kombinerbar mit ACFGS ([[Horizontkürzel]]).
+tidal, aus Ablagerungen der Nordsee. kombinerbar mit ACFGS ([[Horizontkürzel]]).

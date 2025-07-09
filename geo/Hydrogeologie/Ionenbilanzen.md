@@ -35,6 +35,6 @@ Mögliche weitere notwendige Rechenschritte:
 
 - Umrechnung des M-Werts in Hydrogencarbonatgehalt (einfach mit dem Molgewicht multiplizieren, [[Kalk-Kohlensäure-Gleichgewicht#Titration]])
 - Umrechnung des Härtegrads in Ionenkonzentrationen ([[Kalk-Kohlensäure-Gleichgewicht#Wasserhärte]])
-- Bestimmung fehlender Ionenkonzentrationen über die Faustformel aus der Leitfähigkeit ([[Leitfähigkeit]])
+- Bestimmung fehlender Ionenkonzentrationen über die Faustformel aus der Leitfähigkeit ([[Leitfähigkeit des Wassers]])
 - Bei pH<4,3: H+-Ionen müssen mit einbezogen werden. Konz lässt sich aus pH berechnen.
 - Wenn keine Hydrogencarbonatkonz gegeben, aber pH: überprüfen ob bei diesem pH Hydrogencarbonat überhaupt vorliegt.

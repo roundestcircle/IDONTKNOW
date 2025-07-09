@@ -30,7 +30,7 @@ Spezies sind in der Hydrochemie alle wasserlöslichen Verbindungen, aslo sowhl f
 | HCO3    | 73  | Ca       | 63  |
 | SO4     | 16  | Mg       | 17  |
 | Cl      | 10  | Na       | 15  |
-| andere  | <1  | k        | 4   |
+| andere  | <1  | K        | 4   |
 |         |     | andere   | <1  |
 |         |     |          |     |
 

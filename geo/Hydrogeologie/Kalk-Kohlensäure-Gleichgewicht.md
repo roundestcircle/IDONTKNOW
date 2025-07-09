@@ -69,14 +69,15 @@ m-Wert = [HCO3-] = Titrationsvolumen * Molare Konz. der Säure / Probenvolumen
 
 Wird CO2, Wasser und Kalk gleichzeitig betrachtet, ergibt sich folgende Reaktion: 
 
-$\ce{CaCO3 +H2O + CO2 <-> Ca^2+ + 2HCO3-}$
+$\ce{CaCO3 +H2O + CO2 <-> Ca^2+ + 2HCO3-}$ oder
+$\ce{CaCO3 +H2CO3 <-> Ca^2+ + 2HCO3-}$
 
 Die Gleichung setzt sich zusammen aus den oben beschriebenen Gleichungen zur CO2-Lösung und 
 
 $\ce{CaCO3 <-> CA^2+ +CO3^2-}$
 $K_L= 10^{-8,48}$ (entspricht LP, [[Wasser als Lösungmittel#Löslichkeitsprodukt]]).
 
-Die bei der Carbonatlösung entstehenden Carbonat-Ionen dienen also gewissermaßen als Akzeptor für die bie der Kohlensäurebildung anfallenden Elektronen. Dadurch verhindern sie ein zu starkes absinken des pH-Werts. Die Kalklösung ist also vom CO2 und der Temperatur abhängig (Eduktseite).
+Die bei der Carbonatlösung entstehenden Carbonat-Ionen dienen also gewissermaßen als Akzeptor für die die der Kohlensäurebildung anfallenden Protonen. Dadurch verhindern sie ein zu starkes absinken des pH-Werts (H2CO3 ist saurer als HCO3-, vgl oben K1 vs K2). Dazu kommt, dass die Ca-Ionen lose Bindungen mit den Hydrogencarbonationen eingehen (2 je Ca), wodurch die Löslichkeit deutlich erhöht wird. Die Kalklösung ist also vom CO2 und der Temperatur abhängig (Eduktseite).
 
 Es kann also zu Ausfällungen kommen, wenn CO2 aus dem Wasser austritt, etwa aufgrund von Temperaturerhöhung oder durch die Entfernung von CO2 durch Pflanzen.
 

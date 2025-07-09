@@ -1,7 +1,7 @@
 #Geoöko #Best #Boden 
 
 [[Bodenhorizonte#Horizontnamen und Zusätze]]
-Horizontfolge:: Ah1-Ah2-AhCk-C1-C2
+Horizontfolge:: Ah1-Ah2-AhCk-C1-C2 (alt!)
 Vorkommen:: [[Trockene Mittelbreiten]]
 
 ## Eigenschaften

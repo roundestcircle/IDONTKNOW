@@ -38,6 +38,8 @@ Er legt sich als Schicht um die Bodenpartikel und bildet zusammen mit Tinmineral
 
 Verbraunung bezeichnet das Entstehen intensiv gefärbter Eisenverbindungen im Lauf der [[Verwitterung]]. Eisen-II aus den Mineralen wird dabei frei gesetzt und Oxidiert, in den kühleren Klimaten entstehen eher Braune Verbindungen wie [[Goethit]], in den wärmeren Klimaten roter [[Hämatit]]. 
 
+vgl [[Eisenoxide im Boden]]
+
 ## Gefügebildung
 
 Im Lauf der Bodenbildung bilden sich verschiedene Gefügetypen aus, etwa schichtige, säulige, Polyeder oder krümelige.
@@ -48,9 +50,27 @@ In humiden Klimaten bewegt sich Wasser (in der Jahresbilanz) eher nach unten dur
 Dadurch kommt es in humiden Klimaten zur Entbasung: CaCO3 (bzw alle Elemente der 1, und 2. Hg und ihre Kationen) wird vermehrt ausgewachsen, der Boden-pH sinkt stark. Ebenso kann es in tieferen Bodenschichten zu Kalk-Konkretionen kommen, den sogenannten Lösskindeln. Sie entstehen in den Bodenschichten, in denen der Wasserstrom nicht mehr primär nach unten zeigt.
 In ariden Klimaten kann dieser Prozess zur Bodenversalzung führen, insbesondere wenn der Mensch durch Bewässerung eine Wassersäule bis zum Grundwasser schafft, die den Salzaufstieg erleichtert.
 
+## Podsolierung
+
+Durch Versauerung durch Pflanzeneinträge werden die Puffersysteme des Bodens nach und nach ausgenutzt ([[Puffersysteme im Boden]]). Als letztes springt der Oxidpuffer an, der zur Auflösung der Oxide führt. Der pH-Wert sinkt dabei so weit, dass Mikroorganismen Probleme bekommen. Die Zersetzung der [[Organische Auflagen]] wird langsam, die Auflagen daher dicker. Saure Gesteine wie [[Granit]] haben eine geringere Pufferfähigkeit als basische Gesteine wie [[Basalt]], daher werden dort früher Podsole gebildet.
+
+Durch den Austrag der nun löslichen Eisen-Ionen und der organischen Substanz bilden sich verarmte Horizonte (Eluvialhorizonte) und weiter unten Eintragshorizonte (Illuvialhorizonte). Die Elluvialhorizonte bestehen aus partikulärer organischer Substanz und Quarzkörnern (Salz-und-Pfeffer). Die Metalle werden in der Regel nicht als Ionen verlagert, sondern als Kolloide, also metallorganische Komplexe mit organischen Säuren. Dadurch werden auch die Säuren nach unten transportiert, die Verwitterung beschleunigt sch im Unterboden. Dennoch ist der Oberboden signifikant saurer. Die Stoffe können nur bei ausreichender Wasserbewegung durch den Boden transportiert werden.
+
+Die Mobilisierten Stoffe fallen aufgrund des pH-Anstiegs nach unten wieder aus ([[Wasser als Lösungmittel#Löslichkeit der Metalle]]). Je nach Verfestigungsgrad der Anreicherung spricht man von Orterde oder Ortstein. Andere Gründe für das Ausfallen können Überschreitungen der Lösungskonzentration, ein Ende der Wasserbewegung oder die Adsorption an bereits gebildete Oxide sein. Auf Ortstein kann sich eventuell Wasser stauen.
+
+Danach kommt es zur Stabilisierung: Die Oxide trocknen aus und Kristallisieren. 
+
+Basische Kationen ([[Austauschreaktionen#Saure und basische Kationen]]) werden immer mehr ausgewaschen, der Aluminium- und Protonenanteil an den Austauschern steigt.
+
 ## Lessivierung oder Tonmineralverlagerung
 
-Dreischichttonminerale sind negativ geladen, wenn Si durch Al oder Al durch Fe oder Mg ersetzt wurde. Diese wird durch Kationenanlagerung ausgeglichen. Sie sind dementsprechend sehr wichtig für die Bodenfruchtbarkeit. Bei der Lessivierung wird Ton aus dem Oberboden ausgewaschen und im Unterboden an den Porenrändern wieder abgeschieden. Dies geschieht erst bei einem pH-Wert von weniger als 6,5, erst dann können die Tonminerale aus ihrem Verband gelöst und transportiert werden. Im Unterboden können durch die Ausfällung Poren verstopft werden, es kann zu Staunässe kommen.
+ Bei der Lessivierung werden [[Tonminerale]] aus dem Oberboden ausgewaschen und im Unterboden an den Porenrändern wieder abgeschieden. Dies geschieht erst bei einem pH-Wert von weniger als 6,5, erst dann können die Tonminerale aus ihrem Verband gelöst und transportiert werden. Zudem ist eine niedrige Salzkonzentration (CaCl2 etwa) notwendig, da die multivalenten Kationen Brücken zwischen den kleinsten Tonteilchen bilden und sie so zum Flocken bringen.
+Ablagerung findet vor allem durch physikochemische Flockung oder mechanisches Steckenbleiben statt.
+Im Unterboden können durch die Ausfällung Poren verstopft werden, es kann zu Staunässe kommen ([[Pseudogley]]).
+
+## Entkalkung
+
+[[Kalkstein]] wird durch saure Pflanzenexsudate oder CO2 gelöst ([[Kalk-Kohlensäure-Gleichgewicht]]). Die Ionen werden ausgewaschen. Es kommt zu extremen Dickenverlusten des Muttergesteins. Zurück bleiben die im Kalkstein enthaltenen Meerestone ([[Tonminerale]]).
 
 ## Veratmung
 

@@ -20,7 +20,7 @@ pH:
 
 ![[{64CB1208-49DB-4249-A6A7-A2A60C118865}.png]]
 
-[[Leitfähigkeit]]:
+[[Leitfähigkeit des Wassers]]:
 
 ![[{7B12CD2E-9820-44CC-9EE3-9E538C0191BB}.png]]
 

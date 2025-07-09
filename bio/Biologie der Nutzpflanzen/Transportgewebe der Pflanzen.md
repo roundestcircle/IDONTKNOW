@@ -25,13 +25,13 @@ Source-to-sink-Transport von Photoassimilaten.
 
 Dabei werden auch Signale weitergeleitet, etwa Infos über Phosphatmangel, die die Wurzel zu vermehrter Aufnahme auffordern.
 
+Aufgebaut aus funktionellen Einheiten aus Siebröhren und Geleitzellen. Siebröhren leben, haben aber keine eigenen Organellen, sind also auf Geleitzellen angewiesen. Siebröhren sind über Siebplatten, also durchbrochene Querwände verbunden. Sie sind wenig länger als umgebende Zellen. Die Beladung des Phloem erfolgt oft über Plasmodesmen, das osmotische Potential steigt. Wasser strömt daraufhin ein, es kommt zum Massenstrom. Bei Entnahme der Beladung in den Sinkzellen durch Plasmodesmen sinkt das osmotische Potential, das Wasser tritt aus dem Phloem aus.
+
 ### Xylem
 
 Transportiert Wasser und Nährstoffe vom Boden in die Atmosphäre.
 
 Dabei werden auch Signale weitergeleitet, etwa Informationen zum Trockenstress in der Wurzel, die zum Schließen der Stomata führen. Auch Informationen über Nährstoffverfügbarkeit und Bodenorganismen können übertragen werden.
-
-Aufgebaut aus funktionellen Einheiten aus Siebröhren und Geleitzellen. Siebröhren leben, haben aber keine eigenen Organellen, sind also auf Geleitzellen angewiesen. Siebröhren sind über Siebplatten, also durchbrochene Querwände verbunden. Sie sind wenig länger als umgebende Zellen. Die Beladung des Phloem erfolgt oft über Plasmodesmen, das osmotische Potential steigt. Wasser strömt daraufhin ein, es kommt zum Massenstrom. Bei Entnahme der Beladung in den Sinkzellen durch Plasmodesmen sinkt das osmotische Potential, das Wasser tritt aus dem Phloem aus.
 
 #### Tracheiden
 

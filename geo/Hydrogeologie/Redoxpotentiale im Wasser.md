@@ -10,7 +10,7 @@ $E_h = E_0 + \frac{RT}{nF}\cdot ln\frac{[ox]}{[red]}$
 oder
 $E_h = E_0 +2,3\cdot \frac{RT}{nF}\cdot log\frac{[ox]}{[red]}$
 
-R ist die Gaskonstante, n die Zahl der umgesetzten Elektronen, F die Faradaykonstante, ox die [[Aktivität]]skonzentration der oxidierten Form des Stoffes, red die der reduzierten Form. Achtung, hier geht es nicht um alle Reaktionspartner, sondern nur um die reduzierten/oxidierten.
+R ist die Gaskonstante, n die Zahl der umgesetzten Elektronen, F die Faradaykonstante, ox die [[Aktivität]]skonzentration der oxidierten Form des Stoffes, red die der reduzierten Form. Achtung, hier geht es nicht um alle Reaktionspartner, sondern nur um die reduzierten/oxidierten. $E_0$ ist ein Reaktions- und pH-abhängiges Standardpotential.
 
 $2,3 \cdot \frac{RT}{F}$ heißt Nernst-Spannung. Bei 25° beträgt er etwa 0,059V.
 

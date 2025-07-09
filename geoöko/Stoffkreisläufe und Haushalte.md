@@ -1,4 +1,4 @@
-#Geobotanik #Geoöko 
+#Geobotanik #Geoöko #Hydochemie
 
 Gruppe:: Geoöko
 
@@ -16,3 +16,4 @@ Nährstoffkreisläufe in Ökosystemen sind nie geschlossen. Stoffein- und Austr�
 - [[Kohlenstoffkreislauf]]
 - [[Phosphorkreislauf]]
 - [[Energiefluss]]
+- [[Schwefelkreislauf]]

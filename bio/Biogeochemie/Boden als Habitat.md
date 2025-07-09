@@ -37,7 +37,7 @@ In verschiedenen Skalen befinden sich im Boden verschiedene organische und anorg
 
 ![[{A24C162A-A5C4-464F-A507-732BC133B482}.png]]
 
-vgl auch [[Wasserhaushalt des Bodens]] und [[Wasser im Porenraum]].
+vgl auch [[Wasserhaushalt des Bodens]] und [[Porosität]].
 
 ## Pedogenese
 
@@ -62,7 +62,7 @@ Wichtig ist, dass die Pedogenese ein Kontiinuum mit vielen sich schnell oder lan
 2. Aggregate/Sekundärstruktur ([[Aggregate]])
 3. Gefüge/Tertiärstruktur ([[Bodengefüge]])
 4. Oberflächen ([[Spezifische Oberfläche]])
-5. Porenraum ([[Wasser im Porenraum]])
+5. Porenraum ([[Porosität]])
 6. Heterogenität
 
 Vor allem relevant für Nährstoffhaushalt und Bodenleben ist die Textur, aber das Gefüge spielt auch eine wichtige Rolle.
@@ -79,4 +79,4 @@ An der Bodenoberfläche ist das Bodenleben am aktivsten. Hier liegt der Übergan
 
 1. [[Austauschreaktionen]]
 2. Nährstoffe ([[Boden als Standortfaktor#Bodennährstoffe]])
-3. Wasserverfügbarkeit ([[Wasser im Porenraum#Wasserspannungskurven]], [[Wasserhaushalt des Bodens]])
+3. Wasserverfügbarkeit ([[Porosität#Wasserspannungskurven]], [[Wasserhaushalt des Bodens]])

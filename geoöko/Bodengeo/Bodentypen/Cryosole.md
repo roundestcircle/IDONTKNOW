@@ -1,7 +1,7 @@
 #Geoöko #Best #Boden 
 
 [[Bodenhorizonte#Horizontnamen und Zusätze]]
-Horizontfolge:: H-AhBl-Cr-Cf
+Horizontfolge:: H-AhBl-Cr-Cf (alt)
 Vorkommen:: [[Polare und subpolare Zone]]
 
 ## Eigenschaften

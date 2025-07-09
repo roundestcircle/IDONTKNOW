@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "geo/Bodenkunde/Eisenoxide im Boden.md",
+                "file": "geoöko/Bodengeo/Wasserhaushalt des Bodens.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Eisenoxide im Boden"
-            }
-          },
-          {
-            "id": "7ac546952fc9f92d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "geo/Bodenkunde/Eisenoxide im Boden.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Eisenoxide im Boden"
-            }
-          },
-          {
-            "id": "e615d15a361e4330",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bio/Biologie der Nutzpflanzen/Pflanzen/Hauptgruppen der Nutzpflanzen.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Hauptgruppen der Nutzpflanzen"
+              "title": "Wasserhaushalt des Bodens"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: Wur",
+                "query": "klimatische Wasser",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -123,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geo/Hydrogeologie/Ionenbilanzen.md",
+                "file": "geoöko/Bodengeo/Wasserhaushalt des Bodens.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ionenbilanzen"
+              "title": "Backlinks for Wasserhaushalt des Bodens"
             }
           },
           {
@@ -146,13 +117,11 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,45 +135,47 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "e615d15a361e4330",
+  "active": "54129478d09a05ea",
   "lastOpenFiles": [
-    "Attachments/{A3485EFE-F6C0-4434-A477-818864890552}.png",
-    "bio/Biologie der Nutzpflanzen/Pflanzen/Leguminosen.md",
-    "bio/Biologie der Nutzpflanzen/Pflanzen/Hauptgruppen der Nutzpflanzen.md",
-    "Attachments/{2204D18A-517D-4FC9-A96E-8ACC327632BF}.png",
-    "Attachments/{A0EE5799-2E03-4BBB-81E5-790360C9E328}.png",
-    "Attachments/{50580E58-8C5B-41AF-9990-C7A835CADF8D}.png",
-    "Attachments/{ADBD43F0-24A6-4DC0-9E9B-5D05CD74C3B0}.png",
-    "Attachments/{39627BBC-8473-4491-A4D8-BA0B6FAAD4FB}.png",
-    "geo/Bodenkunde/Eisenoxide im Boden.md",
-    "bio/Biologie der Nutzpflanzen/Pflanzen/Sonnenblume.md",
-    "Attachments/{73D63A87-50E2-40C5-B4EA-9593D1ED062B}.png",
-    "bio/Biologie der Nutzpflanzen/Pflanzen/Raps.md",
-    "bio/Biologie der Nutzpflanzen/Frucht.md",
-    "bio/Biologie der Nutzpflanzen/Pflanzen/Ölpalme.md",
-    "Attachments/{F5FB6F09-5095-44B8-BF52-E731A1E86468}.png",
-    "Attachments/{47C4FB2B-91D3-4E4D-81E9-36E9ACC99330}.png",
-    "bio/Biologie der Nutzpflanzen/Pflanzen/Mais.md",
-    "Attachments/{C4050126-63E8-40EE-A25D-D2FB0AC269DA}.png",
-    "bio/Biologie der Nutzpflanzen/Blatt.md",
-    "bio/Biologie der Nutzpflanzen/Ernährung.md",
-    "bio/Biologie der Nutzpflanzen/Pflanzen/Hafer.md",
-    "bio/Biologie der Nutzpflanzen/Pflanzen/Gerste.md",
-    "bio/Biologie der Nutzpflanzen/Pflanzen/Triticale.md",
-    "bio/Biologie der Nutzpflanzen/Pflanzen/Roggen.md",
-    "bio/Biologie der Nutzpflanzen/Pflanzen/Zuckerrüben.md",
-    "Attachments/{7BC24EB9-A7F1-40A7-BB4D-64221A7EA682}.png",
-    "bio/Biologie der Nutzpflanzen/Pflanzen/Kartoffel.md",
-    "bio/Biologie der Nutzpflanzen/Pflanzen/Pseudogetreide.md",
-    "bio/Biologie der Nutzpflanzen/Pflanzen/Weizen.md",
-    "bio/Geobotanik/Photosynthese.md",
-    "bio/Biologie der Nutzpflanzen/Blüten.md",
-    "bio/Biologie der Nutzpflanzen/Pflanzen",
-    "bio/Biologie der Nutzpflanzen/Pflanzlicher Energiehaushalt.md",
-    "bio/Biologie der Nutzpflanzen/Spross.md",
-    "bio/Biologie der Nutzpflanzen/Wurzeln (Biologie der Nutzpflanzen).md",
+    "geoöko/Klimageo/Mesoklima.md",
+    "geoöko/Bodengeo/Böden in Deutschland.md",
+    "geoöko/Bodengeo/Wasserhaushalt des Bodens.md",
+    "Attachments/{3D403A8F-A231-453B-B5BD-B919328EB291}.png",
+    "Attachments/{17BBC8E3-352E-4A93-AE2F-08AA71F88ABB}.png",
+    "Attachments/{AE391A28-6EEA-4FE1-B989-84059499D832}.png",
+    "geoöko/Wasserhaushalt.md",
+    "geo/Bodenkunde/Wasserpotential im Boden.md",
+    "geo/Bodenkunde/Horizontkürzel/Horizontkürzel.md",
+    "geo/Bodenkunde/Horizontkürzel/Horizontkürzel Präfixe.md",
+    "geo/Bodenkunde/Serien/Marschböden.md",
+    "geo/Bodenkunde/Wasserbewegung im Boden.md",
+    "Attachments/{2AD67FAF-A4A4-4DE0-AA17-BEC2E32014EA}.png",
+    "Attachments/{61416495-7910-44E1-8BF9-01BFE779DB85}.png",
+    "geo/Bodenkunde/Gründigkeit und Durchwurzelbarkeit.md",
+    "geo/Bodenkunde/Bodenporen.md",
+    "Attachments/{18C8F10E-F53A-40DB-A3F9-E778772D85FA}.png",
+    "Attachments/{9A46359A-297A-4CDA-90B3-393F5B23B4D2} 1.png",
+    "Attachments/{9A46359A-297A-4CDA-90B3-393F5B23B4D2}.png",
+    "Attachments/{4770BE24-6D5E-412B-8ADB-19F22F1E0BF7}.png",
+    "Attachments/{37E3F306-5475-4553-93DB-546016848EBD}.png",
+    "geo/Hydrogeologie/Das Darcy-Gesetz.md",
+    "geo/Bodenkunde/Lufthaushalt des Bodens.md",
+    "geo/Hydrogeologie/Porosität.md",
+    "Bodenkunde",
+    "geo/Bodenkunde/Bodengefüge.md",
+    "geo/Hydrogeologie/Kapillarsaum.md",
+    "geo/Bodenkunde/Bodenart.md",
+    "geo/Bodenkunde/Lagerungsdichte.md",
     "bio/Biogeochemie/Wurzeln (Biogeochemie).md",
-    "bio/Biologie der Nutzpflanzen/Transportgewebe der Pflanzen.md",
+    "geoöko/Biogeo/Terrestrische Biome/Kältewüsten und Tundra.md",
+    "geoöko/Ökozonen/Polare und subpolare Zone.md",
+    "geoöko/Bodengeo/Bodentypen/Cryosole.md",
+    "bio/Biogeochemie/Interaktionen zwischen Pflanze und Mikroorganismus.md",
+    "geo/Exogenes/Verwitterung.md",
+    "geoöko/Bodengeo/Bodenbildende Prozesse.md",
+    "geo/Bodenkunde/Serien/Auenböden.md",
+    "geo/Bodenkunde/Serien",
+    "bio/Biologie der Nutzpflanzen/Pflanzen",
     "econ & pol/Grundlagen der Landnutzung",
     "bio/Biologie der Nutzpflanzen",
     "geo/Geostatistik",
@@ -212,8 +183,6 @@
     "econ & pol/Ökonomik",
     "econ & pol/Umweltökonomik",
     "geo/Bodenkunde",
-    "bio/Biogeochemie",
-    "Untitled",
     "Untitled.canvas"
   ]
 }

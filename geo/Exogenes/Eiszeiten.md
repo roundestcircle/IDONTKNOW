@@ -24,6 +24,10 @@ Eisbedeckung Europas während der letzten Vergletscherungen:
 
 ![[Eisbedeckung Europas letzte Glaziale.png]]
 
+Eisbedeckung Deutschlands während der letzten drei Eiszeiten:
+
+![[{356E1C5F-974E-4F8B-B481-A4467C8CAB67}.png]]
+
 ### Permokarbone Eiszeit
 
 Etwa vor 300 Ma ([[Erdgeschichte]]), ein Indiz Wegeners für die [[Entdeckung der Plattentektonik]].
@@ -32,3 +36,8 @@ Etwa vor 300 Ma ([[Erdgeschichte]]), ein Indiz Wegeners für die [[Entdeckung de
 
 Fast vollständige Vereisung der Erde vor 570 Ma, es kam zu starken Evolutiven Sprüngen. Vorherige Eiszeiten sind kaum nachzuweisen.
 
+### Formung der norddeutschen Landschaft durch das Tieflandeis
+
+![[{F62058BE-1617-48A3-A958-8481307EC0ED}.png]]
+
+vgl [[Regionale Hydrogeologie]]

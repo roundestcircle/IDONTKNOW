@@ -45,7 +45,7 @@ Atome in einer Grenzschicht sind zwei Kräften ausgesetzt: Kräfte ins Innere (K
 
 ![[{7F395580-C560-4E65-B84F-92C24669CD6F}.png]]
 
-Diese Benetzungskräfte, wenn die Adäsionskräfte also größer sind als die Kohäsionskräfte, sorgen auch für die [[Wasser im Porenraum#Kapillarität]]. 
+Diese Benetzungskräfte, wenn die Adäsionskräfte also größer sind als die Kohäsionskräfte, sorgen auch für die [[Porosität#Kapillarität]]. 
 
 ## Grenzflächenenergie Wasser/Luft
 

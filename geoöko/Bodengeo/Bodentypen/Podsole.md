@@ -1,12 +1,18 @@
 #Geoöko #Best #Boden 
 
 [[Bodenhorizonte#Horizontnamen und Zusätze]]
-Horizontfolge:: O-EA-E-Bh-Bs-CBw-C
-Vorkommen:: [[Polare und subpolare Zone]]
+Horizontfolge:: [[Horizontkürzel#O|O]][[Horizontkürzel Suffixe#Ol|l]], [[Horizontkürzel Suffixe#Of|Of]], [[Horizontkürzel Suffixe#Oh|Oh]], [[Horizontkürzel#A|A]][[Horizontkürzel Suffixe#Ah, Kh, Gh|h]]-[[Horizontkürzel#E|E]][[Horizontkürzel Suffixe#Ee|e]], Ee, [[Horizontkürzel#K|K]][[Horizontkürzel Suffixe#Ah, Kh, Gh|h]], [[Horizontkürzel Suffixe#Ks|Ks]], ([[Horizontkürzel#B|B]][[Horizontkürzel Suffixe#Bv, Tv, Nv|v]]) [[Horizontkürzel#C|C]][[Horizontkürzel Suffixe#C|v]]
+Vorkommen:: vor allem [[Polare und subpolare Zone]]
+
+## Entwicklung
+
+[[Kieselserie]]
+
+[[Bodenbildende Prozesse#Podsolierung]]
 
 ## Eigenschaften
 
-Podsole sind nicht Wassergesättigt, dementsprechend findet ein wenig Zersetzung organischer Materie statt. Die organische Materie der vorherrschenden Nadelbäume ist extrem sauer, sodass sowohl humose Bestandteile als auch Kationen und sogar Eisen aus dem E-Horizont ausgespült werden und sich unten im B-Horizont sammeln. Die Kationen außer Eisen, Al und Mn werden weiter ins Grundwasser ausgewaschen. Der B-Horizont wird dadurch stark mineralisch angereichert, bis hin zur völligen Wasserundurchlässigkeit. Es bilden sich die sogenannte Orterde oder Ortstein. Nun können sich wieder [[Histosole]] bilden. Dennoch reichern sich dicke suare Humusschichten an, die nicht volllständig zersetzt werden.
+Sehr sauer, geringe Basensättigung, eventuell Stauwasser auf dem Ortstein.
 
 ## Feuerökologie
 

@@ -8,67 +8,114 @@ Böden enthalten etwa 5 mal so viel Wasser wie die Atmosphäre und etwa halb so 
 
 Der Boden reguliert Oberflächenabfluss und Grundwasser und dient als Zwischenspeicher. Er filtert Wasser beim Durchfluss.
 
+## Wasserbilanzgleichung des Bodens
+
+[[Wasserhaushalt#Wasserbilanzgleichung]]
+
+Schema:
+
+![[{3B958F42-8545-4272-A54D-F339E40B908B}.png]]
+
+$\Delta$BW(Bodenwasser) = [[Niederschlag]] - Interzeption - Transpiration - Evaporation([[Evapotranspiration]]) +/- Oberflächenzu-/[[Abfluss]] +/- Kapillarer Aufstieg/Versickerung
+
+Beeinflusst durch:
+- Geländeeigenschaften
+	- Hangneigung
+	- Relief
+	- Exposition (Richtung des Hangs)
+- Bodeneigenschaften
+	- Mächtigkeit
+	- Körnung/Steine ([[Bodenart]])
+	- [[Humus]]
+	- [[Lagerungsdichte]]
+	- [[Bodengefüge]]
+
+Diese beeinflussen:
+- Speicherkapazität
+- Infiltration
+- Versickerung
+- kapillaren Aufstieg
+
+Beispiele verschiedener Landschaften:
+
+![[{83608A3B-2E97-4C57-AD91-6077350E4555}.png]]
+
+Beispiele für verschiedene Pflanzen:
+
+![[{DC7BA9DA-8032-4F9D-A49D-D954B0D693E2}.png]]
+
+## Porengrößen
+
+[[Bodenporen]]
+
 ## Wasserbewegung im Boden
 
-[[Wasser im Porenraum#Kapillarität]]
+[[Wasserbewegung im Boden]]
 
-Wasser gelangt nur bei sehr großporigen Böden durch die Schwerkraft in den Boden, ansonsten wird es eher über Kapillar und Haftkräfte in die Bodenporen hineingezogen. Dabei muss es gegen die Luft, die diese Kapillaren füllt, anarbeiten. Diese Kapillarkräfte erlauben Wasser auch, sich von unten nach oben durch den Boden zu bewegen. Dementsprechend bewegt sich Wasser im Boden seitlich und nach unten gleich schnell.
+## Wasserpotential im Boden
 
-Dieser Prozess kann zu seltsamen Artefakten führen, etwa, dass eine Sandschicht unter einer Schluffschicht trocken bleibt, bbis diese vollständig wassergesättigt ist, da die Kapillarkräfte des Sands aufgrund der höheren Porengröße zu schwach sind, um dem Schluff das Wasser zu entziehen.
+[[Wasserpotential im Boden]]
 
-Das Haft oder Adsorptionswasser, das über H-Brücken an Bodenpartikel gebunden ist, ist nicht Pflanzenverfügbar, das die Bindungskräfte zu stark sind ([[Wasserhaushalt der Pflanze]]).
+## Funktionen des Bodenwassers
 
-Kapillaren haben je nach Größe verschiedene Eigenschaften: größere Kapillaren (also etwa zwischen größeren Teilchen) können mehr Wasser transportieren, dafür jedoch nicht so hoch, während kleinere weniger Wasser transportieren können, dafür jedoch höher.
+Die Funktionen des Bodenwassers sind abhängig von [[Bodenporen#Porengrößen]], damit dem Wasserpotential:
 
-Große Kapillaren können das Wasser schlechter halten, kleinere besser. Die Menge an Wasser, die gegen die Schwerkraft in den Poren gehalten wird, bezeichnet man als Feldkapazität. Die Feldkapazität liegt unter der Bodenwassersättigung.
+![[{9A46359A-297A-4CDA-90B3-393F5B23B4D2}.png]]
 
-Durch Poren, die so groß sind, dass sie das Wasser nicht halten können, versickert das Wasser weiter nach unten. Oben anstehendes Wasser kann dabei durch die Auflast helfen.
+## Wasserhaushaltsgrößen
 
-## Im Boden wirkende Potentiale
+[[Wasserpotential im Boden]]
 
-[[Wasserhaushalt der Pflanze#Wasserpotential]]
+- Totwasser: Porendurchmesser kleiner 2 Mikrometer bzw pF größer 4,2
+- Feldkapazität: Wassermenge die ein Boden entgegen der Schwerkraft im Boden halten kann, entspricht Haftwasser
+- Nutzbare Feldkapazität: Feldkapazität minus Totwasser
 
-1. Das Gravitationspotential will das Wasser nach unten befördern.
-2. Das Matrix oder Kapillarpotential will das Wasser im Boden halten.
-3. Das osmotische Potential hygroskopischer Substanzen will das Wasser ebenfalls im Boden halten
+Dimension: mm bzw l/m^2
 
-Dies bedeutet, dass das Bodenwasser meist nicht frei verfügbar ist, sondern an Kolloide angelagert (hygroskopisches Wasser), in Kapillaren oder an Ionen gebunden ist.
+Bei gestörten Böden wird Wasserkapazität statt Feldkapazität als Begriff verwendet.
 
-Wasserpotential des Bodens = Matrixpotential + Osmotisches Potential
+Wasserhaushaltsgrößen in Abhängigkeit von der [[Bodenporen#Porengrößen]]:
 
-### Matrixpotential
+![[{9A46359A-297A-4CDA-90B3-393F5B23B4D2} 1.png]]
 
-Das Matrixpotential ist abhängig von Oberfläche der Teilchen und der Porengröße. Beides ist abhängig von der Korngröße. Das Matrixpotential sinkt mit steigender Korngröße, sodass mit sinkender Korngröße immer mehr Wasser nicht Pflanzenverfügbar gebunden wird.
+Grenzpotentiale: 
+über pF 4,2: permantenter Welkepunkt
+unter pF 1,8: untergrenze der Feldkapazität, darunter versickerndes Wasser
+unter pF 2,5: darunter langsam versickerndes Wasser
 
-![[Schema Wasserverfügbarkeit nach Korngröße.png]]
+## Beurteilung des Bodenwasserhaushalts im Feld
 
-[[Wasser im Porenraum#Wasserspannungskurven]]
+Der Bodenwasserhaushalt lässt sich gut anhand von Zeigerarten ([[Zeigerwerte]]) beurteilen:
 
-### Saugspannung
+| Art                                   | Bewertung      |
+| ------------------------------------- | -------------- |
+| Röhrichte, Großseggenriede            | offenes Wasser |
+| Kleinseggenriede, Feuchtwiesen        | nass           |
+| Seggenreiche Pfeifengraswiese         | feucht         |
+| Pfeifengraswiese                      | mäßig feucht   |
+| Frische Trespensrasen, Borstgrasrasen | frisch         |
+| Trespenrasen, Borstgrasrasen          | mäßig trocken  |
+| Trockenrasen                          | trocken        |
+| Steppenrasen                          | sehr trocken               |
 
-Die Saugspannung pF ist der dekadische Logarithmus der Wassersäule, die nötig ist, um Wasser aus dem Boden herauszupressen. 
+Der Bodenwasserhaushalt lässt sich auch anhand der [[Bodentypen]]/[[Horizontkürzel]] beurteilen.Dafür werden vor allem Redoximorphe Grundmuster herangezogen:
 
+![[{EF54528C-1751-463D-B450-03C93E776B47}.png]]
 
-| Wassersäule | pF  | Bezeichnung |
-| ----------- | --- | ----------- |
-| 10cm (1kPa) | 1   | nass        |
-| 100cm       | 2   | feucht      |
-| 1000cm      | 3   | frisch      |
-| 10000cm     | 4   | trocken     |
-| 100000cm    | 5   | dürr        |
+vgl. [[Gley]], [[Pseudogley]]
 
-Eine Pflanze kann als absolutes Maximum einen pF-Wert von 4,2 überwinden. Je nach Partikelgröße und Wassergehalt unterscheiden sich die Suagspannungen beträchtlich. In reinem Sand kann eine Pflanze auch bei unter 10Vol% Wasser noch Wasser aus dem Boden ziehen, bei reinem Ton schon bei 35Vol% nicht mehr.
+### Schätzung der nFK
 
-## Infiltrationsgeschwindigkeit
+Begrenzung nach unten: 1 Meter (Konvention) oder effektiver Wurzeraum ([[Gründigkeit und Durchwurzelbarkeit#Durchwurzelungstiefe]]). Addition der aus [[Bodenart]] und [[Lagerungsdichte]] abgeschätzten Porenvolumina bzw nfK der einzelnen Horizonte, multipliziert mit der Horizontdicke (zb 24 Vol% Mal 3dm = 72l\m^2).
 
-Die Infiltrationsgeschwindigkeit wird als kf-Wert, der eine bestimmte Wasserleitfähigkeit in cm/Tag beschreibt,  angegeben und wird ebenfalls durch Korngrößen und Kapillardurchmesser bestimmt.
+### Bewertung der nFK
 
+![[{AE391A28-6EEA-4FE1-B989-84059499D832}.png]]
 
-| kf  | cm/d    | Beispiele                                                                                |
-| --- | ------- | ---------------------------------------------------------------------------------------- |
-| 1   | <1      | [[Pseudogley]]                                                                           |
-| 2   | 1-10    | stark zersetzte Moorböden, Pseudogley                                                    |
-| 3   | 10-40   | [[Parabraunerde]], mittel zersetzte Torfe                                                |
-| 4   | 40-100  | fein bis mittelkörnige Sande, Horizonte mit guter Gefügeentwicklung                      |
-| 5   | 100-300 | Horizonte mit sehr guter Gefügeentwicklung, mittelkörnige Sande, schwach zersetzte Torfe |
-| 6   | >300    | Grobsande, Kiese, Schilfdurchwurzelte Tone                                                                                         |
+Berücksichtigung des Regionalklimas:
+
+![[{17BBC8E3-352E-4A93-AE2F-08AA71F88ABB}.png]]
+
+Berücksichtigung des Reliefs:
+
+![[{3D403A8F-A231-453B-B5BD-B919328EB291}.png]]

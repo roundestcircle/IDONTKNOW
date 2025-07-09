@@ -4,15 +4,13 @@ Gruppe:: Bodengeo
 
 [[Bodentypen]] unterscheiden sich nach charakteristischen, diagnostischen Horizonten oder Horizontabfolgen. Horizonte sind keine Schichten. Schichten beschreiben die Struktur des Ausgangsgesteins beziehungsweise Substrates.
 
-## Entwicklungsreihenfolge
+## Begriffe
 
-1. C-Horizont
-2. A-Horizont
-3. B-Horizont
-
-Prozesse im A-Horizont bilden den B-Horizont, er kann ohne A-Horizont nicht entstehen. 
+Der Oberbodenhorizont ist ein mit Humus angereicherter A-Horizont. Alles darunter bezeichnet man als Unterbodenhorizonte. Der Mineralboden enthält mehr als 70 Masse% Minerale, [[Organische Auflagen]] mehr als 30 Masse% [[Humus]].
 
 ## Horizontnamen und Zusätze
+
+Großbuchstaben bezeichnen Horizonte. Präfixe bezeichnen geogene oder anthropogene Merkmale, Suffixe pedogene Merkmale. Übergangshorizonte werden durch Bindestriche getrennt, hinten steht der Horizont größerer Bedeutung. Verzahnungshorizonte werden durch ein Pluszeichen verbunden, wobei der Horizont mit größerem Flächenanteil hinten steht. Verzahnungshorizonte sind zwei Horizonte, die nebeneinander vorliegen und sich nicht durchdringen.
 
 Achtung veraltet! Neu: [[Horizontkürzel]], [[Horizontkürzel Präfixe]], [[Horizontkürzel Suffixe]]
 
@@ -49,3 +47,11 @@ Achtung veraltet! Neu: [[Horizontkürzel]], [[Horizontkürzel Präfixe]], [[Hori
 ### [[Bodentypen]] und Horizonte
 
 ![[Schema Bodenhorizonte verschiedener Bodentypen.png]]
+
+## Entwicklungsreihenfolge
+
+1. C-Horizont
+2. A-Horizont
+3. B-Horizont
+
+Prozesse im A-Horizont bilden den B-Horizont, er kann ohne A-Horizont nicht entstehen. 
