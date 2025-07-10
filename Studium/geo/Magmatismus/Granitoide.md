@@ -4,7 +4,7 @@ Unter Granitoide fallen alle Plutonite, die aus [[Felsisch]]en Magmen kristallis
 
 ### Krustale Aufschmelzung
 
-Beim Absinken und von Krustenteilen werden Minerale wie Glimmer ab einem bestimmten Punkt entwässert. Je nach Zusammensetzung und Wassersättigung geschieht dies an unterschiedlichen Orten. Sobald dies geschieht, wird rapide Schmelze gebildet, da plötzlich [[volatile]] vorliegen, die den Schmezpunkt senken ([[Schmelzbildung]]).
+Beim Absinken und von Krustenteilen werden Minerale wie Glimmer ab einem bestimmten Punkt entwässert. Je nach Zusammensetzung und Wassersättigung geschieht dies an unterschiedlichen Orten. Sobald dies geschieht, wird rapide Schmelze gebildet, da plötzlich [[Volatile]] vorliegen, die den Schmezpunkt senken ([[Schmelzbildung]]).
 
 ![[Schema Schmelzbildung durch Entwässerung der Minerale.png]]
 Wird die critical Melt Fractionation Range überschritten, entfernt sich die Schmelze aus dem Gestein. Zurück bleiben Migmatite. 

@@ -142,7 +142,7 @@ $$
 
 ### Allitische Verwitterung
 
-Sehr intensive Form der Hydrolyse, bei der alle silikatischen Minerale zersetzt und abgeführt werden, sodass nur noch Oxide und Hydroxide übrig bleiben. Notwenig ist ein niedriger pH-Wert, hohe Temperaturen und hohe Niederschläge. Vor allem in den [[immerfeuchte Tropen]] anzutreffen.
+Sehr intensive Form der Hydrolyse, bei der alle silikatischen Minerale zersetzt und abgeführt werden, sodass nur noch Oxide und Hydroxide übrig bleiben. Notwenig ist ein niedriger pH-Wert, hohe Temperaturen und hohe Niederschläge. Vor allem in den [[Immerfeuchte Tropen]] anzutreffen.
 
 ### Wollsackverwitterung
 

@@ -13,7 +13,7 @@ Mantelgestein kann zum Beispiel in [[MOR#Aufbau des MOR|Ophiolithen]] erforscht 
 
 ### Schmelzbildung
 
-Es benötigt also besondere Bedingungen, um Schmelzen zu erzeugen, drei davon sind besonders wichtig. Zu beachten ist jedoch, dass auch unter diesen Bedingungen der Mantel nie vollständig aufschmilzt, sondern sich immer nur Teilschmelzen bilden, die zunächst [[basalt]]isch sind.
+Es benötigt also besondere Bedingungen, um Schmelzen zu erzeugen, drei davon sind besonders wichtig. Zu beachten ist jedoch, dass auch unter diesen Bedingungen der Mantel nie vollständig aufschmilzt, sondern sich immer nur Teilschmelzen bilden, die zunächst [[Basalt]]isch sind.
 
 1. Druckentlastung entsteht, wenn tiefes Mantematerial aufsteigt. Dies geschieht entweder an einem Manteldiapir, ([[Entdeckung der Plattentektonik#Erklärungsversuche]]) oder am [[MOR]], an welchem die Kruste eine Lücke bildet, die der Mantel durch Aufstieg füllt. Dabei wird ein [[Wasser in der Atmosphäre#Adiabatische Prozesse|Adiabatischer Prozess angenommen]]. Bis zu 30% Schmelzgrad kann so erreicht werden.
 2. Durch Volatilzufuhr, zum Beispiel aus der ozeanischen Kruste an einer [[Subduktionszonen]], Ein Beispiel sind die Anden oder Mt Rainier und Mt St Helens in den USA. Bei Volatilzufuhr verschiebt sich der Solidus des Mantels extrem. Der Liquidus verschiebt sich jedoch weniger stark, sodass das Schmelzintervall insgesamt größer wird. Volatilzufuhr kann auch durch Mineralentwässerung in der Kruste geschehen, vgl [[Granitoide]].
