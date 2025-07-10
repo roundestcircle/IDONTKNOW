@@ -8,12 +8,12 @@ Bodengefüge sind die verschiedenen Arten, wie [[Aggregate]] in einem Boden zusa
 
 | Gefüge           | Beispiel                                                         |
 | ---------------- | ---------------------------------------------------------------- |
-| Einzelkorngefüge | Sandige Locker[[Syroseme]], [[Podsole]] Ee, Locker[[Ranker]]     |
+| Einzelkorngefüge | Sandige Locker[[Syrosem]], [[Podsole]] Ee, Locker[[Ranker]]     |
 | Schichtgefüge    | [[Auenböden]]                                                    |
 | Kittgefüge       | [[Podsole]] Ks, [[Gley]] Go                                      |
 | Kohärentgefüge   | ungegliederte Schluffe                                           |
 | Krümelgefüge     | A-Horizonte der [[Rendzina]], [[Parabraunerde]], [[Schwarzerde]] |
-| Prismengefüge    | [[Pelosole]], Marschen, tonreiche [[Gley]] und [[Pseudogley]]    |
+| Prismengefüge    | [[Pelosol]], Marschen, tonreiche [[Gley]] und [[Pseudogley]]    |
 | Polyedergefüge   | [[Parabraunerde]] Bt                                                                 |
 
 Krümelgefüge entstehen durch Schleimstoffe, etwa von Regenwürmern. Sie entstehen nur dort, wo es dem Bodenleben gut geht. Fragmentgefüge entstehen durch Bodenbearbeitung, Plattengefüge durch Verdichtung (Menschlich aber auch Gletscher oä).

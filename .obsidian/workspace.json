@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "geoöko/Bodengeo/Wasserhaushalt des Bodens.md",
+                "file": "geoöko/Phosphorkreislauf.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Wasserhaushalt des Bodens"
+              "title": "Phosphorkreislauf"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "klimatische Wasser",
+                "query": "Nährstoffhau",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,17 +95,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geoöko/Bodengeo/Wasserhaushalt des Bodens.md",
+                "file": "geoöko/Phosphorkreislauf.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Wasserhaushalt des Bodens"
+              "title": "Backlinks for Phosphorkreislauf"
             }
           },
           {
@@ -135,45 +136,46 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "54129478d09a05ea",
+  "active": "32c1a67940832fb3",
   "lastOpenFiles": [
-    "geoöko/Klimageo/Mesoklima.md",
-    "geoöko/Bodengeo/Böden in Deutschland.md",
-    "geoöko/Bodengeo/Wasserhaushalt des Bodens.md",
-    "Attachments/{3D403A8F-A231-453B-B5BD-B919328EB291}.png",
-    "Attachments/{17BBC8E3-352E-4A93-AE2F-08AA71F88ABB}.png",
-    "Attachments/{AE391A28-6EEA-4FE1-B989-84059499D832}.png",
-    "geoöko/Wasserhaushalt.md",
-    "geo/Bodenkunde/Wasserpotential im Boden.md",
-    "geo/Bodenkunde/Horizontkürzel/Horizontkürzel.md",
-    "geo/Bodenkunde/Horizontkürzel/Horizontkürzel Präfixe.md",
-    "geo/Bodenkunde/Serien/Marschböden.md",
-    "geo/Bodenkunde/Wasserbewegung im Boden.md",
-    "Attachments/{2AD67FAF-A4A4-4DE0-AA17-BEC2E32014EA}.png",
-    "Attachments/{61416495-7910-44E1-8BF9-01BFE779DB85}.png",
-    "geo/Bodenkunde/Gründigkeit und Durchwurzelbarkeit.md",
-    "geo/Bodenkunde/Bodenporen.md",
-    "Attachments/{18C8F10E-F53A-40DB-A3F9-E778772D85FA}.png",
-    "Attachments/{9A46359A-297A-4CDA-90B3-393F5B23B4D2} 1.png",
-    "Attachments/{9A46359A-297A-4CDA-90B3-393F5B23B4D2}.png",
-    "Attachments/{4770BE24-6D5E-412B-8ADB-19F22F1E0BF7}.png",
-    "Attachments/{37E3F306-5475-4553-93DB-546016848EBD}.png",
-    "geo/Hydrogeologie/Das Darcy-Gesetz.md",
+    "Attachments/{4A646745-047F-4FFB-83DA-C92DAF43F922}.png",
+    "Attachments/{973F97DA-6842-4BF4-A33B-0C248371F190}.png",
+    "Attachments/{4A4A9FBE-9BA5-4036-9F7F-3A3B9722CC53}.png",
+    "Attachments/{A8EE49B6-FA66-4EE3-9A5A-26C970251716}.png",
+    "Attachments/{61AD62FF-56FF-4825-99AB-6C0FEDF04530}.png",
+    "Attachments/{13595619-3545-4122-9DF0-1CAD7E639EA8}.png",
+    "Attachments/{0030CB0F-7901-44F3-8A90-1A427A22FE38}.png",
+    "geo/Bodenkunde/Nährstoffhaushalt des Bodens.md",
+    "geoöko/Phosphorkreislauf.md",
+    "Attachments/{B34FB942-F189-44E9-8BB3-0A54AB17EA40}.png",
+    "geoöko/Stickstoffkreislauf.md",
+    "Attachments Renamed/Schema Phosphatkreislauf.png",
+    "geoöko/Schwefelkreislauf.md",
+    "Attachments/{200B1305-FB5C-4DAD-9AFA-67230850794F}.png",
+    "Attachments/{2B75BE0D-C0A0-43BA-AD60-1C75A8DB31E3}.png",
+    "bio/Geobotanik/Boden als Standortfaktor.md",
+    "geo/Minerale/Bestimmung/Silikate/Schichtsilikate/Tonminerale.md",
+    "geo/Bodenkunde/Austauschreaktionen.md",
+    "geoöko/Stoffkreisläufe und Haushalte.md",
+    "geo/Bodenkunde/Wärmehaushalt des Bodens.md",
+    "geo/Bodenkunde/Humus.md",
+    "geo/Bodenkunde/Biodegradation.md",
+    "bio/Biogeochemie/Organische Bodensubstanz.md",
+    "chem/PC/Entropie.md",
+    "chem/PC/Enthalpie.md",
+    "geoöko/Energiehaushalt der Erde.md",
     "geo/Bodenkunde/Lufthaushalt des Bodens.md",
-    "geo/Hydrogeologie/Porosität.md",
-    "Bodenkunde",
+    "geo/Magmatismus/Definitionen/Felsisch.md",
+    "Foide.md",
+    "Syroseme.md",
     "geo/Bodenkunde/Bodengefüge.md",
-    "geo/Hydrogeologie/Kapillarsaum.md",
-    "geo/Bodenkunde/Bodenart.md",
-    "geo/Bodenkunde/Lagerungsdichte.md",
-    "bio/Biogeochemie/Wurzeln (Biogeochemie).md",
-    "geoöko/Biogeo/Terrestrische Biome/Kältewüsten und Tundra.md",
-    "geoöko/Ökozonen/Polare und subpolare Zone.md",
-    "geoöko/Bodengeo/Bodentypen/Cryosole.md",
-    "bio/Biogeochemie/Interaktionen zwischen Pflanze und Mikroorganismus.md",
-    "geo/Exogenes/Verwitterung.md",
-    "geoöko/Bodengeo/Bodenbildende Prozesse.md",
-    "geo/Bodenkunde/Serien/Auenböden.md",
+    "Nitisole.md",
+    "geoöko/Ökozonen/Sommerfeuchte Tropen.md",
+    "Sonneblume.md",
+    "bio/Biologie der Nutzpflanzen/Pflanzen/Hauptgruppen der Nutzpflanzen.md",
+    "Pelosole.md",
+    "geo/Bodenkunde/Fragenskripte",
+    "Bodenkunde",
     "geo/Bodenkunde/Serien",
     "bio/Biologie der Nutzpflanzen/Pflanzen",
     "econ & pol/Grundlagen der Landnutzung",
@@ -182,7 +184,6 @@
     "geo/Bodenkunde/Horizontkürzel",
     "econ & pol/Ökonomik",
     "econ & pol/Umweltökonomik",
-    "geo/Bodenkunde",
     "Untitled.canvas"
   ]
 }

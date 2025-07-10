@@ -7,3 +7,7 @@ Das Redoxpotential/Die Redoxspannung ist die Fähigkeit eines Systems, Elektrone
 ## Redoxreihe
 
 Misst man die Redoxspannung einer Halbreaktion gegen eine Wasserstoffelektrode, erhält man die sogenannten Normalpotentiale $E_0$. Diese lassen sich als Reihe anordnen. Werden zwei Bausteine der Redoxreihe zusammengebracht, fließen die Elektronen vom niedrigeren zum höheren Redoxpotential. 
+
+Beispielhafte Standardelektrodenpotentiale:
+
+![[{2DB303A7-54A0-40FA-99D2-11414C99235C}.png]]

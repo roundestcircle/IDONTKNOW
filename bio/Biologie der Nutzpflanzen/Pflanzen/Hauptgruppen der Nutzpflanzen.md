@@ -156,7 +156,7 @@ Andere:
 	- Markstammkohl (Stamm verdickt als Speicherorgan, Flachwurzler, große Blätter)
 	- Futterrüben ([[Zuckerrüben]])
 - Andere:
-	- [[Sonneblume]]
+	- [[Sonnenblume]]
 	- Buchweizen
 	- Topinambur
 	- Fazelie

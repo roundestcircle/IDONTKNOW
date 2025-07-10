@@ -6,7 +6,9 @@ Vorkommen:: [[Feuchte Mittelbreiten]], [[Immerfeuchte Subtropen]]
 
 ## Entstehung
 
-Parabraunerden entstehen aus Braunerden, wenn die Bodenentwicklung fortschreitet. Die [[Bodenbildende Prozesse#Lessivierung oder Tonmineralverlagerung|Lessivierung]] setzt ein. Es entsteht der diagnostische Kt-Horizont, in den Tonminerale eingelagert werden, sowie ein ausgeblichener El-Horizont.
+Parabraunerden entstehen aus [[Braunerde]], wenn die Bodenentwicklung fortschreitet. Die [[Bodenbildende Prozesse#Lessivierung oder Tonmineralverlagerung|Lessivierung]] setzt ein. Es entsteht der diagnostische Kt-Horizont, in den Tonminerale eingelagert werden, sowie ein ausgeblichener El-Horizont.
+
+Weniger stark versauert als [[Podsole]].
 
 Diese Erden treten auch in den immerfeuchten Subtropen auf, sind dort jedoch röter, aufgrund der stärkeren Verwitterung.
 

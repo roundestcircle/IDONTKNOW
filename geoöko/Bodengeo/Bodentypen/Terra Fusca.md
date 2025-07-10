@@ -7,7 +7,7 @@ Vorkommen:: Kalkhaltige Substrate
 
 ## Entstehung
 
-Später Boden der Kalkserie. Charakteristischer T-Horizont entsteht durch [[Bodenbildende Prozesse#Entkalkung]]. Er hat über 65Masse% Ton als Lösungsrückstand und ist in der Regel Kalkfrei.
+Später Boden der [[Kalkserie]]. Charakteristischer T-Horizont entsteht durch [[Bodenbildende Prozesse#Entkalkung]]. Er hat über 65Masse% Ton als Lösungsrückstand und ist in der Regel Kalkfrei.
 
 Wenn sich anzeichen von Verbraunung/bv-Horizonten zeigen, kann es auch Übergangsböden wie die Terra-Fusca-[[Parabraunerde]] oder Terra-Fusca-[[Braunerde]] geben.
 

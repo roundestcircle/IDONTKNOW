@@ -17,6 +17,10 @@ Insgesamt ist die Strahlungsbilanz der Erde etwa ausgeglichen. Ca. 1300 Watt pro
 
 Verschiedene Oberflächen reflektieren unterschiedlich viel der auftreffenden Strahlung direkt. Diesen reflektierten Anteil bezeichnet man als Albedo. Bei Ackerböden oder Wasserflächen liegt die Albedo etwa bei 5-10%, bei Schnee bei bis zu 95%. Bei Wald liegt sie um 15% und bei Wüste um 25. Auch Wolken reflektieren Teile der Strahlung.
 
+Weitere Beispielwerte:
+
+![[{8172513E-C7BD-477B-817C-0CC9CDFD9D2C}.png]]
+
 ### Absorption
 
 Die nicht direkt reflektierten Anteile der Strahlung werden entweder transmittiert, also durch etwa Wolken durchgelassen, oder absorbiert. Durch die Absorption werden Körper erwärmt, die Energie später wieder langwellig abgegeben. 

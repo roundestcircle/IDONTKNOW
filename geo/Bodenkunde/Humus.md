@@ -18,7 +18,7 @@ Grobe Eigenschaften:
 
 ![[{48E9193F-0044-400C-B4B0-A199C1967F6F}.png]]
 
-### Unterteilung in Dichtefraktionen
+### Unterteilung in Dichtefraktionen/Funktionell
 
 - POM: Partikuläre organische Substanz (<1,6g/cm3)
 	- frei
@@ -30,7 +30,7 @@ Verteilung in Böden:
 ![[{F55D05B1-E9FD-41C5-A891-F2DBE6EEDAE5}.png]]
 ![[{C05699EF-1A8D-4F35-B7DC-07AFB34FDC4E}.png]]
 
-Beachte C-Abnahme nach unten. Nicht allzu viel FPOM, aber diese ist am wichtigsten für mikrobillen Umsatz. Beachte [[Bodenbildende Prozesse#Podsolierung]] und gering Mengen OPOM in temperat-sauren Böden.
+Beachte C-Abnahme nach unten. Nicht allzu viel FPOM, aber diese ist am wichtigsten für mikrobiellen Umsatz. Beachte [[Bodenbildende Prozesse#Podsolierung]] und geringe Mengen OPOM in temperat-sauren Böden.
 
 ## Humifizierung
 
@@ -66,6 +66,12 @@ Beispielhafte C-Sorptionsmengen für verschiedene [[Tonminerale]], [[Eisenoxide 
 Effekt von Pflügen auf Okkludiertes organisches Material: 
 
 ![[{71FC5085-58E0-4FB4-8C43-B4873D1FE00D}.png]]
+
+Stabilität verschiedener Humusformen im Experiment:
+
+![[{A019578D-BDC7-493A-9C0D-754CF97A9EA3}.png]]
+
+Je geringer C14, desto älter der Kohlenstoff. Beachte die sehr geringen C14-Werte des MOM, und die sehr hohen des FPOM.
 
 ## Modellvorstellung Huminstoff
 
@@ -111,6 +117,14 @@ Einstellung eines neuen GG:
 Landnutzungsveränderungen bedeuten also oft einen Eingriff in die Humusbilanz des Bodens:
 
 ![[{65A79D15-8E25-435F-9B47-E664AE8F16CC}.png]]
+
+### Humusbilanz
+
+Humusbilanz = Streubildung - Mineralisierung
+
+- 0: Gleichgewicht
+- >0: Humusakkumulation
+- <0: Mumusabbau
 
 ## Humusqualität
 

@@ -1,17 +1,21 @@
-#Geobotanik #Biogeochemie
+#Geobotanik #Biogeochemie #Boden
 
 vgl. #Boden 
 
 ## Wichtigste Bodeneigenschaften
 
 - Größe und Verteilung der Partikel [[Siliziklastika#Ordnung nach Korngrößen]]
-- Porenvolumen 
+- Porenvolumen ([[Bodenporen]])
 - Wasserbeweglichkeit und Haltevermögen (oft gegenläufig)
 - Nährstoffgehalt
 - Ad- und Desorptionsfähigkeit ([[Austauschreaktionen]])
 - pH-Wert und Redox-Wert
 
 ## [[Wasserhaushalt des Bodens]]
+
+## [[Lufthaushalt des Bodens]]
+
+## [[Wärmehaushalt des Bodens]]
 
 ## [[Nährstoffhaushalt des Bodens]]
 

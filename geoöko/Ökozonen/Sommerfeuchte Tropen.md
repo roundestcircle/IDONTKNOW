@@ -3,7 +3,7 @@
 Gruppe:: Ökozonen
 Klima:: Aw, BSh
 Vegetation:: [[Savannen und Wüsten (trock. Tropen)]], Regengrüne Monsunwälder
-Böden:: [[Fersialit]], [[Nitisole]], [[Lixisole]]
+Böden:: [[Fersialit]], Nitisole, [[Lixisole]]
 
 ## Verbreitung
 

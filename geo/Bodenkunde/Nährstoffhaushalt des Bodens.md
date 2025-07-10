@@ -18,22 +18,42 @@ Pflanzenwichtige Nährstoffe sind:
 10. Mo reguliert den Stickstoffhaushalt
 ...
 
+## Konzentration vs Vorrat
+
+Konzentration ist die Masse je Kilogramm, Vorrat ist die gesamte vorhandene Menge, also Konzentration mal Fläche mal Tiefe mal Lagerungsdichte. Als Fläche werden in der Regel 100dm^2 gewählt (1m^2).
+
+### Optimalversorgung
+
+Günstige Elemente werden in einer bestimmten Menge benötigt und darüber toxisch. Toxische Elemente werden schon in kleineren Mengen nicht mehr toleriert.
+
+![[{AA136CFA-8795-44A6-87F0-352B47481652}.png]]
+
+![[{3AA3F4E9-8155-431F-AD97-4C2D0D3E009D}.png]]
+
+### Nährstoffgehaltsklassen nach Bodenart
+
+Böden werden nach ihrem Nährstoffegalt bewertet. Sandige Böden werden bei geringeren Gehalten als gut bewertet als tonige Böden.
+
+![[{DA5A5FA2-B2FE-40F9-96D4-01D4F6EABA6E}.png]]
+
 ### Bereitstellung im Boden
 
 [[Stickstoffkreislauf]] [[Phosphorkreislauf]] ...
 
 2 Quellen: Mineralische Substanz und abgestorbene organische Substanz.
 
+![[{403DEC99-7309-4D16-A5F2-ACF15E0FD175}.png]]
+
 [[Bodenbildende Prozesse#Humifizierung]] [[Verwitterung#Hydrolyse]]
 
-Sowohl Tonminerale als auch Huminstoffe bieten wichtige Austauscherflächen für Nährstoffe, da sie viele negative und positive Ladungsflächen aufweisen. Kationen werden vor allem an negativ geladenen Tonmineralen ausgetauscht, Anionen an positiv geladenen Huminstoffen. Dreischicht-Tonminerale sind deutlich bessere Austauscher als Zweischicht-Tonminerale.
+[[Austauschreaktionen]]
+
+Sowohl Tonminerale als auch Huminstoffe bieten wichtige Austauscherflächen für Nährstoffe, da sie viele negative und positive Ladungsflächen aufweisen. Kationen werden vor allem an negativ geladenen Tonmineralen ausgetauscht, Anionen an positiv geladenen Oxiden. Dreischicht-Tonminerale sind deutlich bessere Austauscher als Zweischicht-Tonminerale.
 
 [[Tonminerale]]
 
 Der Vorrat an Nährstoffen eines Bodens entspricht nicht der Verfügbarkeit. Der Vorrat ist in der Regel hoch, die Verfügbarkeit gering.
 In der Bodenlösung unmittelbar zugänglich sind 0,2 Prozent der Nährstoffe, Austauschbar gebunden und damit etwas schlechter verfügbar etwa 2%, während etwa 98% in Tonmineralen und org Substanz unzugänglich festgelegt sind.
-
-![[{601F0574-3C2C-4F84-BF95-EDC7049DD779}.png]]
 
 Die Bodennährstoffe befinden sich dabei im dynamischen Gleichgewicht:
 

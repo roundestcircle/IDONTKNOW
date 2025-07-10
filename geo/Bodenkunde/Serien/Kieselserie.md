@@ -8,6 +8,7 @@ Bildet sich auf allen silikatischen Gesteinen ([[Magmatite]], [[Siliziklastika]]
 - [[Ranker]]
 - [[Braunerde]]
 - [[Podsole]]
+- ([[Gley]])
 
 Syrosem und Ranker werden nach der Struktur des Ausgangsgesteins in Fels-, Gerüst-, und Lockerranker bzw -syrosem eingeteilt.
 
