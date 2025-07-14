@@ -1,6 +1,6 @@
 #Boden #Best 
 
-Horizontabfolge:: [[Horizontkürzel#A|A]][[Horizontkürzel Suffixe#Ah, Kh, Gh|h]]/[[Horizontkürzel#P]][[Horizontkürzel Suffixe#Bv, Tv, Nv|v]]/[[Horizontkürzel#C|C]]
+Horizontabfolge:: [[Horizontkürzel#A|A]][[Horizontkürzel Suffixe#Ah, Kh, Gh|h]]/[[Horizontkürzel#P|P]][[Horizontkürzel Suffixe#Bv, Tv, Nv|v]]/[[Horizontkürzel#C|C]]
 Vorkommen: Tonstein/Tonmergel
 Charakterhorizont: Pv
 
@@ -14,7 +14,7 @@ Mittlere Stufe der [[Tonserie]].
 
 Eigenschaften des diagnostischen Pv-Horizonts:
 - Aus Ton oder Mergelstein oder tonig verwitterndem Ausgangsgestein. Keine Residual-, vergleichsweise unbedeutende Sekundäranreicherung.
-- >45Masse% Ton 
+- mehr als 45Masse% Ton 
 - Ausgeprägte Schwellungs- und Schrumpfungsdynamik
 
 Der P-Horizont besteht aus Tonaggregaten: Entstanden durch Quellen, und darauf folgendes Schrumpfen. Das Quellen findet bei verringertem Druck und mehr Wasserverfügbarkeit statt, das Schrumpfen dann mit darauf folgender Trocknung:

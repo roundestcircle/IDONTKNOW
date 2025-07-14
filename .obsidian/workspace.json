@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "List of all Files.md",
-                "mode": "source",
+                "file": "Studium/geoöko/Bodengeo/Bodentypen/Parabraunerde.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "List of all Files"
+              "title": "Parabraunerde"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Nährstoffhau",
+                "query": "Olivin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "List of all Files.md",
+                "file": "Studium/geoöko/Bodengeo/Bodentypen/Parabraunerde.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for List of all Files"
+              "title": "Backlinks for Parabraunerde"
             }
           },
           {
@@ -152,11 +152,33 @@
   },
   "active": "63bddd1f0e062f92",
   "lastOpenFiles": [
-    "List of all used Hashtags.md",
-    "List of all Files.md",
-    "Dataview Commands.md",
-    "Studium",
+    "Studium/geo/Bodenkunde/Serien/Mergelserie.md",
+    "Studium/geo/Bodenkunde/Serien/Kieselserie.md",
+    "Studium/geo/Bodenkunde/Lagerungsdichte.md",
+    "Studium/geo/Bodenkunde/Mineralisierung.md",
+    "Studium/geo/Bodenkunde/Bodengefüge.md",
+    "Studium/geo/Bodenkunde/Fragenskripte/1 Fragen zur Landschaftsgeschichte.md",
+    "Studium/geo/Minerale/Bestimmung/Silikate/Inselsilikate/Olivin.md",
+    "Studium/geo/Bodenkunde/Wärmehaushalt des Bodens.md",
+    "Studium/geo/Bodenkunde/Bodenart.md",
+    "Studium/geo/Bodenkunde/Bodenporen.md",
+    "Studium/geo/Bodenkunde/Lufthaushalt des Bodens.md",
+    "Studium/geo/Bodenkunde/Serien/Tonserie.md",
+    "Studium/geo/Bodenkunde/Horizontkürzel/Horizontkürzel Präfixe.md",
+    "Studium/geo/Bodenkunde/Serien/Marschböden.md",
+    "Studium/geo/Bodenkunde/Gründigkeit und Durchwurzelbarkeit.md",
+    "Studium/geo/Bodenkunde/Eisenoxide im Boden.md",
+    "Studium/geo/Bodenkunde/Serien/Kalkserie.md",
+    "Studium/geo/Bodenkunde/Serien/Auenböden.md",
+    "Studium/geo/Bodenkunde/Humus.md",
+    "Studium/Overview Files/Overview Boden.md",
+    "Studium/geo/Exogenes/Verwitterung.md",
+    "Studium/geoöko/Biogeo/Terrestrische Biome/Sommergrüner Mischwald.md",
+    "Tonmineralen.md",
+    "Studium/geoöko/Bodengeo/Bodenbildende Prozesse.md",
+    "Studium/geoöko/Hemerobie.md",
     "Studium/geoöko/Phosphorkreislauf.md",
+    "Studium",
     "Attachments/{4A646745-047F-4FFB-83DA-C92DAF43F922}.png",
     "Attachments/{973F97DA-6842-4BF4-A33B-0C248371F190}.png",
     "Attachments/{4A4A9FBE-9BA5-4036-9F7F-3A3B9722CC53}.png",
@@ -164,31 +186,9 @@
     "Attachments/{61AD62FF-56FF-4825-99AB-6C0FEDF04530}.png",
     "Attachments/{13595619-3545-4122-9DF0-1CAD7E639EA8}.png",
     "Attachments/{0030CB0F-7901-44F3-8A90-1A427A22FE38}.png",
-    "Studium/geo/Bodenkunde/Nährstoffhaushalt des Bodens.md",
     "Attachments/{B34FB942-F189-44E9-8BB3-0A54AB17EA40}.png",
-    "Studium/geoöko/Stickstoffkreislauf.md",
     "Attachments Renamed/Schema Phosphatkreislauf.png",
-    "Studium/geoöko/Schwefelkreislauf.md",
     "Attachments/{200B1305-FB5C-4DAD-9AFA-67230850794F}.png",
-    "Studium/bio/Geobotanik/Boden als Standortfaktor.md",
-    "Studium/geo/Minerale/Bestimmung/Silikate/Schichtsilikate/Tonminerale.md",
-    "Studium/geo/Bodenkunde/Austauschreaktionen.md",
-    "Studium/geoöko/Stoffkreisläufe und Haushalte.md",
-    "Studium/geo/Bodenkunde/Wärmehaushalt des Bodens.md",
-    "Studium/geo/Bodenkunde/Humus.md",
-    "Studium/geo/Bodenkunde/Biodegradation.md",
-    "Studium/bio/Biogeochemie/Organische Bodensubstanz.md",
-    "Studium/chem/PC/Entropie.md",
-    "Studium/chem/PC/Enthalpie.md",
-    "Studium/geoöko/Energiehaushalt der Erde.md",
-    "Studium/geo/Bodenkunde/Lufthaushalt des Bodens.md",
-    "Studium/geo/Magmatismus/Definitionen/Felsisch.md",
-    "Foide.md",
-    "Syroseme.md",
-    "Studium/geo/Bodenkunde/Bodengefüge.md",
-    "Nitisole.md",
-    "Studium/geoöko/Ökozonen/Sommerfeuchte Tropen.md",
-    "Sonneblume.md",
     "Studium/geo/Bodenkunde/Fragenskripte",
     "Bodenkunde",
     "Studium/geo/Bodenkunde/Serien",

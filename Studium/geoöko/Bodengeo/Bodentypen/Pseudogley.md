@@ -1,7 +1,7 @@
 #Geoöko #Best #Boden 
 
 [[Bodenhorizonte#Horizontnamen und Zusätze]]
-Horizontfolge:: [[Horizontkürzel#A|A]][[Horizontkürzel Suffixe#Ah, Kh, Gh|h]]/[[Horizontkürzel#S]]([[Horizontkürzel Suffixe#Sew|e]])[[Horizontkürzel Suffixe#Sw|w]]/II[[Horizontkürzel#S|S]][[Horizontkürzel Suffixe#Sd|d]]
+Horizontfolge:: [[Horizontkürzel#A|A]][[Horizontkürzel Suffixe#Ah, Kh, Gh|h]]/[[Horizontkürzel#S|S]]([[Horizontkürzel Suffixe#Sew|e]])[[Horizontkürzel Suffixe#Sw|w]]/II[[Horizontkürzel#S|S]][[Horizontkürzel Suffixe#Sd|d]]
 Vorkommen:: 
 
 ![[{25DED380-D315-41E2-B224-837B581BDBF9}.png]]

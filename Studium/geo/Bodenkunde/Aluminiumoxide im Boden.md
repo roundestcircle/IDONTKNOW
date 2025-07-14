@@ -10,7 +10,7 @@ Aluminium ist im Boden nicht Redoxaktiv.
 
 ### Löslichkeit
 
-Aluminiumoxide sind besser löslich als Eisenoxide.  Auch ihre Löslichkeit steigt mit sinkendem pH-Wert.
+Aluminiumoxide sind besser auflösbar als Eisenoxide.  Auch ihre Löslichkeit steigt mit sinkendem pH-Wert. Aluminiumoxide und Hydroxide sind unlöslich, lösen sich jedoch ab etwa pH4,5 auf.
 
 Spezies mit zunehmender Hydrolyse:
 

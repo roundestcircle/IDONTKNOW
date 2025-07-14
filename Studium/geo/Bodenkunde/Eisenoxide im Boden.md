@@ -9,6 +9,10 @@
 - [[Ferrihydrit]]
 - [[Lepidokrokit]]
 
+### Entstehungsbedingungen
+
+Verschiedene Eisenoxide entstehen unter verschiedenen Bedingungen. Hämatit braucht stark oxidierende Bedingungen, Goethit entsteht auch noch unter Wassereinfluss. Ferrihydrit ist ein sehr junges, schwach kristallines Eisenoxid.
+
 ## Sesquioxide
 
 Häufig wird der Begriff Sesquioxide genutzt. Sesquioxide haben die allgemeine Summenformel $\ce{M2O3}$, also ein M zu O-Verhältnis von 1:1,5.

@@ -88,9 +88,12 @@ Produkte der chemischen Verwitterung:
 ### Hydrolyse
 
 Sehr wichtiger Prozess in der Bodenbildung, Initialrekation der Umwandlung von Feldspäten und Glimmern in [[Tonminerale]]. Tonminerale entstehen nur bei Al-Gehalt des Gesteins.
+
 Segmente im Kristallgitter werden dabei an dissoziierte Ionen aus dem Wasser (H+ oder OH-) gebunden, sodass das Kristallgitter zerfällt. Dabei werden meist Ausgangsverbindungen unter Verlust von Kationen protoniert (M gegen H getauscht). Es entstehen OH-Gruppen. War das Kation stärker geladen als H+, ist das Produkt der Hydrolyse negativ geladen ($R-OH^-$). 
 Bei neutralem pH läuft die Hydrolyse langsam ab, ihre Geschwindigkeit steigt in beide Richtungen exponentiell.
 Für die Hydrolyse sind externe H-Quellen notwenig. Säureinträge durch Pflanzen könnten eine solche Quelle sein. Es entstehen basische Kationen und oft freie Kieselsäure ($\ce{H4SiO4}$).
+Es entstehen final unlösliche Aluminiumhydroxide und Orthokieselsäure (SiO4). 
+Daraus können Tonminerale gebildet werden. 
 
 Beispiel: 
 [[Alkalifeldspäte|Kalifeldspat]] und dissoziiertes Wasser zu Kaolinit und Kaliumhydroxid.
@@ -98,7 +101,7 @@ $$
 \ce{4KAlSi3O8 + 22H+ XOH- -> Al4[(OH)8|Si4O10 + 4K+ + 14OH- + 8Si4+}
 $$
 
-[[Feldspäte Basics]], die mehr Al enthalten, verwittern schneller, da die AlO4 Tetraeder nicht perfekt mit SiO4 zusammenpassen. Ionen mit höherer Ladung gehen leichter in Lösung.
+[[Feldspäte Basics]], die mehr Al enthalten (Anorthit, da Ca2+), verwittern schneller, da die AlO4 Tetraeder nicht perfekt mit SiO4 zusammenpassen. Ionen mit höherer Ladung gehen leichter in Lösung.
 
 ### Komplexe Verwitterungen
 

@@ -26,11 +26,15 @@ Beweis der RGT-Regel (Geschwindigkeitsverdopplung). pF zeigt keinen Effekt, da p
 - Wärmekapazität [[Enthalpie#Wärmekapazität]], Produkt der spezifischen Wärmekapazität eines Stoffes und der Lagerungsdichte.
 - Wärmeleitfähigkeit: Wärmemenge die bei einem Gefälle von 1°C pro cm in einer Sekunde durch einen Querschnitt von einem Quadratcentimeter fließt.
 
+### Wärmezustand
+
+Beeinflusst durch Exposition (Richtung eines Hangs, Abschattung, Wärmekapazität, Farbe, ...
+
 ### Wärmeleitfähigkeit
 
 Je höher die Wärmeleitfähigkeit, desto weiter kann die Wärme im Tagesverlauf in den Boden eindringen. Dies verhindert auch ein zu starkes Erhitzen der oberen Bodenschichten/Wärmestau.
 
-Die Wärmeleitfähigkeit von Minerlakörnern ist höher als die von Organik. Am geringsten ist die Wärmeleitfähigkeit von Luft. Lockere organische Böden leiten Wärme also besonders schlecht, sandige feste Böden leiten Wärme besser (Korn-Korn-Kontakte). Die Wärmeleitfähigkeit steigt in der Regel mit dem Wassergehalt. Aufgrund der hohen Wärmekapazität ist Wasser jedoch nicht der beste Wärmeleiter.
+Die Wärmeleitfähigkeit von Mineralkörnern ist höher als die von Organik. Am geringsten ist die Wärmeleitfähigkeit von Luft. Lockere organische Böden leiten Wärme also besonders schlecht, sandige feste Böden leiten Wärme besser (Korn-Korn-Kontakte). Die Wärmeleitfähigkeit steigt in der Regel mit dem Wassergehalt. Aufgrund der hohen Wärmekapazität ist Wasser jedoch nicht der beste Wärmeleiter. Die Leifähigkeit steigt dennoch, da Luft zwischen Körnern noch weitaus schlechter leitet. 
 
 ![[{82D54F38-F3DC-49F9-A8CF-BCE1DB927716}.png]]
 

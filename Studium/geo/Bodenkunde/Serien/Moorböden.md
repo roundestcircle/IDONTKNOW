@@ -30,7 +30,7 @@ Subhydrische Böden (mit [[Horizontkürzel#F|F]] oder [[Horizontkürzel#U|U]]-Ho
 1. Zum Beispiel posteiszeitlicher See
 2. Subhydrische Böden, sedimentäre Mudde am Boden
 3. Niedermoor: torfbildende Pflanzen (Schilf, Seggen, Erlen, ...) siedeln sich an, aufgewachsener/sedentärer [[Horizontkürzel Präfixe#nH|n]][[Horizontkürzel#H|H]], Grundwasser- und Mineralbodenkontakt besteht
-4. Hochmoor: Grundwasserkontakt geht verloren, da Torfschicht so dick. Pflanzen wechseln zu Torfmoosen und Wollgräsern. Um den Abbau des Torfs zu verhindern muss es ausreichend regnen. [[Horizontkürzel Präfixe#hH|h]][[Horizontkürzel#H]]. der pH-Wert sinkt stark ab, die Nährstoffversorgung ist prekär (keine Zersetzung und kein Mineralbodenzugang)
+4. Hochmoor: Grundwasserkontakt geht verloren, da Torfschicht so dick. Pflanzen wechseln zu Torfmoosen und Wollgräsern. Um den Abbau des Torfs zu verhindern muss es ausreichend regnen. [[Horizontkürzel Präfixe#hH|h]][[Horizontkürzel#H|H]]. der pH-Wert sinkt stark ab, die Nährstoffversorgung ist prekär (keine Zersetzung und kein Mineralbodenzugang)
 
 Schema:
 
