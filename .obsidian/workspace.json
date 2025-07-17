@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "32c1a67940832fb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "List of all used Hashtags.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "List of all used Hashtags"
-            }
-          },
-          {
             "id": "63bddd1f0e062f92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studium/geoöko/Bodengeo/Bodentypen/Parabraunerde.md",
-                "mode": "preview",
+                "file": "Studium/econ & pol/Raum und Regionalplanung/Braunkohleplanung.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Parabraunerde"
+              "title": "Braunkohleplanung"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Olivin",
+                "query": "Abwägung",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studium/geoöko/Bodengeo/Bodentypen/Parabraunerde.md",
+                "file": "Studium/econ & pol/Raum und Regionalplanung/Braunkohleplanung.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Parabraunerde"
+              "title": "Backlinks for Braunkohleplanung"
             }
           },
           {
@@ -136,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,43 +138,44 @@
   },
   "active": "63bddd1f0e062f92",
   "lastOpenFiles": [
-    "Studium/geo/Bodenkunde/Serien/Mergelserie.md",
-    "Studium/geo/Bodenkunde/Serien/Kieselserie.md",
-    "Studium/geo/Bodenkunde/Lagerungsdichte.md",
-    "Studium/geo/Bodenkunde/Mineralisierung.md",
-    "Studium/geo/Bodenkunde/Bodengefüge.md",
-    "Studium/geo/Bodenkunde/Fragenskripte/1 Fragen zur Landschaftsgeschichte.md",
-    "Studium/geo/Minerale/Bestimmung/Silikate/Inselsilikate/Olivin.md",
-    "Studium/geo/Bodenkunde/Wärmehaushalt des Bodens.md",
-    "Studium/geo/Bodenkunde/Bodenart.md",
-    "Studium/geo/Bodenkunde/Bodenporen.md",
-    "Studium/geo/Bodenkunde/Lufthaushalt des Bodens.md",
-    "Studium/geo/Bodenkunde/Serien/Tonserie.md",
-    "Studium/geo/Bodenkunde/Horizontkürzel/Horizontkürzel Präfixe.md",
-    "Studium/geo/Bodenkunde/Serien/Marschböden.md",
-    "Studium/geo/Bodenkunde/Gründigkeit und Durchwurzelbarkeit.md",
-    "Studium/geo/Bodenkunde/Eisenoxide im Boden.md",
-    "Studium/geo/Bodenkunde/Serien/Kalkserie.md",
-    "Studium/geo/Bodenkunde/Serien/Auenböden.md",
-    "Studium/geo/Bodenkunde/Humus.md",
-    "Studium/Overview Files/Overview Boden.md",
-    "Studium/geo/Exogenes/Verwitterung.md",
-    "Studium/geoöko/Biogeo/Terrestrische Biome/Sommergrüner Mischwald.md",
-    "Tonmineralen.md",
-    "Studium/geoöko/Bodengeo/Bodenbildende Prozesse.md",
-    "Studium/geoöko/Hemerobie.md",
-    "Studium/geoöko/Phosphorkreislauf.md",
+    "Attachments/{1752A82C-7B9C-4197-B606-03004882C94B}.png",
+    "Attachments/{BBC963C0-CE66-4FEB-B21B-B6C84C00E8B1}.png",
+    "Attachments/{6070CCF3-0651-4959-829C-7E89970F4D07}.png",
+    "Studium/econ & pol/Raum und Regionalplanung/Regionalplanung.md",
+    "Studium/econ & pol/Raum und Regionalplanung/Umweltprüfung.md",
+    "Studium/econ & pol/Raum und Regionalplanung/Ziele und Grundsätze.md",
+    "Studium/econ & pol/Raum und Regionalplanung/Braunkohleplanung.md",
+    "Studium/econ & pol/Raum und Regionalplanung/Einführung Raum und Regionalplanung.md",
+    "Studium/econ & pol/Raum und Regionalplanung/Beteiligungsprozesse in der Raumordnung.md",
+    "Attachments/{20E22ED2-84FB-4C15-8E78-00EA11D33F79}.png",
+    "Attachments/{CDFE0D7E-56A8-4DB5-8147-22DE6F44823D}.png",
+    "Studium/econ & pol/Raum und Regionalplanung/Windenergieplanung.md",
+    "Attachments/{E18A5DD7-B59A-417D-9642-1900D97C03BB}.png",
+    "Attachments/{0C016B1A-0206-4E2E-BAE1-3C827DE5856C}.png",
+    "Attachments/{BEC8E09A-6AA9-4BBF-B62D-1D1235691F06}.png",
+    "Attachments/{6303FB02-F371-4572-9962-91D2D608C80A}.png",
+    "Attachments/{823BB345-5FEB-4D87-B6EE-3E4E8EA0A5F7}.png",
+    "Attachments/{77E95F83-203E-4E94-BB66-0369A5511584}.png",
+    "Studium/econ & pol/Raum und Regionalplanung/Räumliche Disparitäten in Deutschland.md",
+    "Studium/econ & pol/Raum und Regionalplanung/Landwirtschaft (NLE).md",
+    "Studium/econ & pol/Raum und Regionalplanung/Gebiete in Raumordnungsplänen.md",
+    "Studium/econ & pol/Raum und Regionalplanung/Zentralität.md",
+    "Studium/econ & pol/Raum und Regionalplanung/Raumordnung.md",
+    "Studium/econ & pol/Raum und Regionalplanung/Planwerke der Braunkohleplanung.md",
+    "Studium/econ & pol/Raum und Regionalplanung/Europäische Raumordnung.md",
+    "Studium/econ & pol/Raum und Regionalplanung/Raumordnung in Deutschland.md",
+    "Studium/econ & pol/Raum und Regionalplanung/Stadtentwicklungsplanung.md",
+    "Studium/econ & pol/Raum und Regionalplanung/Theorien der räumlichen Planung.md",
+    "Studium/econ & pol/Umweltökonomik/Kriterien zur Bewertung Umweltpolitischer Instrumente.md",
+    "Studium/econ & pol/Raum und Regionalplanung/Pläne.md",
+    "Studium/econ & pol/Raum und Regionalplanung/Raumkategorien.md",
+    "List of all Files.md",
+    "List of all used Hashtags.md",
+    "Studium/Overview Files/Overview Raum und Regionalplanung.md",
+    "Studium/econ & pol/Untitled.md",
+    "Studium/econ & pol/Raum und Regionalplanung",
+    "Studium/geoöko/Bodengeo/Bodentypen/Parabraunerde.md",
     "Studium",
-    "Attachments/{4A646745-047F-4FFB-83DA-C92DAF43F922}.png",
-    "Attachments/{973F97DA-6842-4BF4-A33B-0C248371F190}.png",
-    "Attachments/{4A4A9FBE-9BA5-4036-9F7F-3A3B9722CC53}.png",
-    "Attachments/{A8EE49B6-FA66-4EE3-9A5A-26C970251716}.png",
-    "Attachments/{61AD62FF-56FF-4825-99AB-6C0FEDF04530}.png",
-    "Attachments/{13595619-3545-4122-9DF0-1CAD7E639EA8}.png",
-    "Attachments/{0030CB0F-7901-44F3-8A90-1A427A22FE38}.png",
-    "Attachments/{B34FB942-F189-44E9-8BB3-0A54AB17EA40}.png",
-    "Attachments Renamed/Schema Phosphatkreislauf.png",
-    "Attachments/{200B1305-FB5C-4DAD-9AFA-67230850794F}.png",
     "Studium/geo/Bodenkunde/Fragenskripte",
     "Bodenkunde",
     "Studium/geo/Bodenkunde/Serien",
@@ -197,7 +184,6 @@
     "Studium/bio/Biologie der Nutzpflanzen",
     "Studium/geo/Geostatistik",
     "Studium/geo/Bodenkunde/Horizontkürzel",
-    "econ & pol/Ökonomik",
     "Untitled.canvas"
   ]
 }
