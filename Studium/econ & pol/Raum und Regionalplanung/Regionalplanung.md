@@ -55,6 +55,7 @@ Besteht aus drei inhaltlichen Teilen:
 Textteile:
 - Ziele
 - Begründung/Interpretation der Umsetzungsansätze
+
 Kartenteil (evtl mit SUP [[Umweltprüfung]])
 
 Regionalpläne entwickeln ihre Bindungswirkung erst nach in Kraft treten bzw nach der Genehmigung durch die oberste Landesplanungsbehörde (meist Innenministerium, Verkehrsministerium oä).
