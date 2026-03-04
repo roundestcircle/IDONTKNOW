@@ -130,7 +130,7 @@ bzw:
 
 $\ce{4FeS2 + 15O2 + 10H2O <-> 4FeOOH +16H+ + 8SO4^{2-}}$
 
-Beachte, dass bei diesen Reaktionen Protonen frei werde, die Lösung versauert. Durch Sulfidoxidation entstehende saure Böden bezeichnet man als Sulfatsauer. Es bilden sich Schwertmannit (orange) oder Jarosit (gelb) auf Aggregatoberflächen.
+Beachte, dass bei diesen Reaktionen Protonen frei werden, die Lösung versauert. Durch Sulfidoxidation entstehende saure Böden bezeichnet man als Sulfatsauer. Es bilden sich Schwertmannit (orange) oder Jarosit (gelb) auf Aggregatoberflächen.
 
 Durch dir Oxidation ändert sich der Ionenradius, wodurch die Kristallstruktur geschwächt wird.
 

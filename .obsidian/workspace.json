@@ -8,17 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "63bddd1f0e062f92",
+            "id": "ca7c7b5c61d55b7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studium/econ & pol/Raum und Regionalplanung/Ziele und Grundsätze.md",
-                "mode": "preview",
+                "file": "Studium/geo/Bodenkunde/Bodenschutz/Organische Schadstoffe (Böden).md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ziele und Grundsätze"
+              "title": "Organische Schadstoffe (Böden)"
+            }
+          },
+          {
+            "id": "6f50642c9f67fdc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studium/geo/Bodenkunde/Bodenschutz/Critical Load Konzept.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Critical Load Konzept"
+            }
+          },
+          {
+            "id": "3f88ee560b6158da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studium/geo/Bodenkunde/Bodenschutz/BBoSchG.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "BBoSchG"
             }
           }
         ]
@@ -53,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Abwägung",
+                "query": "Transfer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -126,6 +154,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -136,53 +165,54 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "63bddd1f0e062f92",
+  "active": "ca7c7b5c61d55b7d",
   "lastOpenFiles": [
-    "Studium/econ & pol/Raum und Regionalplanung/Zentralität.md",
-    "Studium/econ & pol/Raum und Regionalplanung/Windenergieplanung.md",
-    "Studium/econ & pol/Raum und Regionalplanung/Umweltprüfung.md",
-    "Studium/econ & pol/Raum und Regionalplanung/Theorien der räumlichen Planung.md",
-    "Studium/econ & pol/Raum und Regionalplanung/Regionalplanung.md",
-    "Studium/econ & pol/Raum und Regionalplanung/Stadtentwicklungsplanung.md",
-    "Studium/econ & pol/Raum und Regionalplanung/Raumordnung in Deutschland.md",
-    "Studium/econ & pol/Raum und Regionalplanung/Einführung Raum und Regionalplanung.md",
-    "Studium/econ & pol/Raum und Regionalplanung/Raumordnung.md",
-    "Studium/econ & pol/Raum und Regionalplanung/Räumliche Disparitäten in Deutschland.md",
-    "Studium/econ & pol/Raum und Regionalplanung/Raumkategorien.md",
-    "Studium/econ & pol/Raum und Regionalplanung/Planwerke der Braunkohleplanung.md",
-    "Studium/econ & pol/Raum und Regionalplanung/Pläne.md",
-    "Studium/econ & pol/Raum und Regionalplanung/Landwirtschaft (NLE).md",
-    "Studium/econ & pol/Raum und Regionalplanung/Gebiete in Raumordnungsplänen.md",
-    "Studium/econ & pol/Raum und Regionalplanung/Europäische Raumordnung.md",
-    "Studium/econ & pol/Raum und Regionalplanung/Braunkohleplanung.md",
-    "Attachments/{1752A82C-7B9C-4197-B606-03004882C94B}.png",
-    "Attachments/{BBC963C0-CE66-4FEB-B21B-B6C84C00E8B1}.png",
-    "Attachments/{6070CCF3-0651-4959-829C-7E89970F4D07}.png",
-    "Studium/econ & pol/Raum und Regionalplanung/Ziele und Grundsätze.md",
-    "Studium/econ & pol/Raum und Regionalplanung/Beteiligungsprozesse in der Raumordnung.md",
-    "Attachments/{20E22ED2-84FB-4C15-8E78-00EA11D33F79}.png",
-    "Attachments/{CDFE0D7E-56A8-4DB5-8147-22DE6F44823D}.png",
-    "Attachments/{E18A5DD7-B59A-417D-9642-1900D97C03BB}.png",
-    "Attachments/{0C016B1A-0206-4E2E-BAE1-3C827DE5856C}.png",
-    "Attachments/{BEC8E09A-6AA9-4BBF-B62D-1D1235691F06}.png",
-    "Attachments/{6303FB02-F371-4572-9962-91D2D608C80A}.png",
-    "Attachments/{823BB345-5FEB-4D87-B6EE-3E4E8EA0A5F7}.png",
-    "Studium/econ & pol/Umweltökonomik/Kriterien zur Bewertung Umweltpolitischer Instrumente.md",
-    "List of all Files.md",
-    "List of all used Hashtags.md",
-    "Studium/Overview Files/Overview Raum und Regionalplanung.md",
-    "Studium/econ & pol/Untitled.md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Einführung Bodenschutz.md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Radionuklide (Böden).md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Schwermetallbelastungen (Böden).md",
+    "Studium/physics/Radioaktivität.md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Bodenazidität.md",
+    "Attachments/{FA6953EB-BA97-47E5-B76A-903EC5773BF4}.png",
+    "Studium/geo/Magmatismus/Isotopenanalysen.md",
+    "Attachments/{859D0D89-DD27-4ADB-867F-8AD8B9DCF157}.png",
+    "Attachments/{93A70F32-18DF-4F42-AD2E-CF3E0E43B7EA}.png",
+    "Studium/geo/Bodenkunde/Bodenkunde/Aluminiumoxide im Boden.md",
+    "Attachments/{6D88398A-61AB-40FD-88AD-27A247E9406B}.png",
+    "Attachments/{AF7F81B5-986A-414E-A418-B3656620B033}.png",
+    "Studium/geo/Bodenkunde/Bodenkunde/Puffersysteme im Boden.md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Critical Load Konzept.md",
+    "Studium/geo/Hydrogeologie/Redoxpotentiale im Wasser.md",
+    "Attachments/{205D8BBA-3709-45E2-85C5-7725CE32B67A}.png",
+    "Studium/geo/Exogenes/Verwitterung.md",
+    "Studium/geo/Bodenkunde/Bodenkunde/Serien/Marschböden.md",
+    "Attachments/{C2A61270-A69F-43A8-B7C2-ABCEBED29FE2}.png",
+    "Studium/geo/Bodenkunde/Bodenschutz/Bodenversalzung.md",
+    "Attachments/{66D545F1-A4BD-4A31-81AC-2C9878799804}.png",
+    "Studium/geo/Bodenkunde/Bodenschutz/Bodenverdichtung.md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Bodenerosion.md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Diffuse Doppelschicht.md",
+    "Attachments/{3AE2BC41-FCAD-417D-A50A-75CB7627A8EC}.png",
+    "Studium/geo/Bodenkunde/Bodenkunde/Wasserbewegung im Boden.md",
+    "Studium/geo/Hydrogeologie/Grundwasserneubildung.md",
+    "Attachments/{CE071F39-C054-4301-BFBA-E67CD79F00F1}.png",
+    "Studium/geo/Hydrogeologie/Wasser als Lösungmittel.md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Zustandsstufen.md",
+    "Studium/geoöko/Bodengeo/Böden in Deutschland.md",
+    "Studium/geo/Exogenes/Transport und Sedimentation.md",
+    "Studium/geo/Bodenkunde/Bodenkunde/Wasserpotential im Boden.md",
+    "Studium/geo/Bodenkunde/Bodenkunde/Fragenskripte/1 Fragen zur Landschaftsgeschichte.md",
+    "Studium/geo/Bodenkunde/Bodenkunde/Aggregate.md",
+    "Studium/geo/Bodenkunde/Bodenkunde",
+    "Studium/physics/Hydrostatik.md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Untitled.base",
+    "Attachments/BBSchG.pdf",
+    "Lokale Kontaminationen",
+    "Studium/geo/Bodenkunde/Bodenschutz",
     "Studium/econ & pol/Raum und Regionalplanung",
-    "Studium/geoöko/Bodengeo/Bodentypen/Parabraunerde.md",
     "Studium",
-    "Studium/geo/Bodenkunde/Fragenskripte",
-    "Bodenkunde",
-    "Studium/geo/Bodenkunde/Serien",
-    "Studium/bio/Biologie der Nutzpflanzen/Pflanzen",
-    "Studium/econ & pol/Grundlagen der Landnutzung",
-    "Studium/bio/Biologie der Nutzpflanzen",
-    "Studium/geo/Geostatistik",
-    "Studium/geo/Bodenkunde/Horizontkürzel",
+    "Studium/geo/Bodenkunde/Bodenkunde/Fragenskripte",
+    "Studium/geo/Bodenkunde/Bodenkunde",
+    "Studium/geo/Bodenkunde/Bodenkunde/Serien",
     "Untitled.canvas"
   ]
 }

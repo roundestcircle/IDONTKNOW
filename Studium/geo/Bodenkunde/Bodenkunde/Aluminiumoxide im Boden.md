@@ -18,7 +18,10 @@ Spezies mit zunehmender Hydrolyse:
 
 ### Aluminiumtoxizität
 
-Unter sehr saurem Bedingungen werden Aluminiumoxide gelöst und Aluminiumionen werden frei. Aluminium verdrängt dann basische Kationen auf den Kationentauscher ([[Austauschreaktionen]]) und verschlechtert so die Nährstoffversorgung der Pflanzen. Dazu wirken sich hohe Al-Konzentrationen schädlich auf Pflanzenwurzeln aus. 
+Unter sehr saurem Bedingungen werden Aluminiumoxide gelöst und Aluminiumionen werden frei. Aluminium verdrängt dann basische Kationen auf den Kationentauscher ([[Austauschreaktionen]]) und verschlechtert so die Nährstoffversorgung der Pflanzen. Dazu wirken sich hohe Al-Konzentrationen schädlich auf Pflanzenwurzeln aus, verringert die Biomassererträge, erhöht die Zelldurchlässigkeit und verschiebt die Blütezeit. Die Abgabe organischer Säuren und die Produktion abdichtender Polysaccharide wird erhöht.
+
+Die Reaktionen sind Pflanzenspezifisch. Einige Pflanzenarten wie Knöteriche, Tee und Kaffee können als Akkumulatorpflanzen dienen.
+
 Das freie Aluminium führt jedoch auch zur Bildung stabiler komplexe mit organischer Substanz und führt zu Humusanreicherung.
 
 ### Verwitterung vulkanischer Gläser

@@ -4,8 +4,8 @@
 
 ### Biotit Chem
 
-Summenformel:: $$ \ce {K(Mg,Fe2+)3
-[(OH)2/AlSi3O10]} $$
+Summenformel:: $$\ce{K(Mg,Fe2+)3
+[(OH)2/AlSi3O10]}$$
 Strukturtypus:: [[Silikatstrukturen#Schichtsilikate]], Glimmer
 Gruppe:: Silikate
 <!--ID: 1705934302902-->

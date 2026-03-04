@@ -36,4 +36,4 @@ Mineralauflösung. zB: $\ce{R-AlOSiO4-M+ +4H+ <-> R-O + H4SiO4 +Al^{3+} +M+}$
 
 pH<4.5
 
-Mineralauflösung. zB: $\ce{Al(OH)3 +3H+ <-> Al^{3+} +3H2O}$
+Mineralauflösung. zB: $\ce{Al(OH)3 +3H+ <-> Al^{3+} +3H2O}$. Eisenoxide werden oft reduktiv aufgelöst, ihre Auflösung ist also nicht an stark saure Bedingungen gebunden. Dennoch wird bei der Auflösung H+ verbraucht.

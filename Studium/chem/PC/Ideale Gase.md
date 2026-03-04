@@ -54,7 +54,7 @@ Nach komplexer Herleitung:
 
 $E_{Kin}=\frac{3}{2}\cdot \frac{R}{N_A}\cdot T$
 
-Die kinetische Energie ist direkt abhängig von der [[Temperatur und thermische Energie|Temperatur]].
+Die kinetische Energie ist direkt abhängig von der [[Temperatur und thermische Energie|Temperatur]]. $N_a$ ist die Avogadro-Konstante.
 
 Pro Mol:
 
