@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ca7c7b5c61d55b7d",
+            "id": "444b61da5b77e0ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studium/geo/Bodenkunde/Bodenschutz/Organische Schadstoffe (Böden).md",
-                "mode": "source",
+                "file": "Studium/geo/Bodenkunde/Bodenschutz/BBoSchG.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Organische Schadstoffe (Böden)"
+              "title": "BBoSchG"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studium/geo/Bodenkunde/Bodenschutz/Critical Load Konzept.md",
+                "file": "ggg.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Critical Load Konzept"
+              "title": "ggg"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studium/geo/Bodenkunde/Bodenschutz/BBoSchG.md",
+                "file": "Studium/geo/Bodenkunde/Bodenschutz/Spezifische Schadstoffe/Arsen im Boden.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "BBoSchG"
+              "title": "Arsen im Boden"
             }
           }
         ]
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Transfer",
+                "query": "lignin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 275.5
   },
   "right": {
     "id": "068dc6cf241ee037",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studium/econ & pol/Raum und Regionalplanung/Braunkohleplanung.md",
+                "file": "Studium/geo/Bodenkunde/Bodenschutz/Spezifische Schadstoffe/Quecksilber im Boden.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Braunkohleplanung"
+              "title": "Backlinks for Quecksilber im Boden"
             }
           },
           {
@@ -145,7 +145,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,54 +166,54 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "ca7c7b5c61d55b7d",
+  "active": "444b61da5b77e0ef",
   "lastOpenFiles": [
-    "Studium/geo/Bodenkunde/Bodenschutz/Einführung Bodenschutz.md",
-    "Studium/geo/Bodenkunde/Bodenschutz/Radionuklide (Böden).md",
-    "Studium/geo/Bodenkunde/Bodenschutz/Schwermetallbelastungen (Böden).md",
-    "Studium/physics/Radioaktivität.md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Belastungsabschätzungen.md",
     "Studium/geo/Bodenkunde/Bodenschutz/Bodenazidität.md",
-    "Attachments/{FA6953EB-BA97-47E5-B76A-903EC5773BF4}.png",
-    "Studium/geo/Magmatismus/Isotopenanalysen.md",
-    "Attachments/{859D0D89-DD27-4ADB-867F-8AD8B9DCF157}.png",
-    "Attachments/{93A70F32-18DF-4F42-AD2E-CF3E0E43B7EA}.png",
-    "Studium/geo/Bodenkunde/Bodenkunde/Aluminiumoxide im Boden.md",
-    "Attachments/{6D88398A-61AB-40FD-88AD-27A247E9406B}.png",
-    "Attachments/{AF7F81B5-986A-414E-A418-B3656620B033}.png",
-    "Studium/geo/Bodenkunde/Bodenkunde/Puffersysteme im Boden.md",
-    "Studium/geo/Bodenkunde/Bodenschutz/Critical Load Konzept.md",
-    "Studium/geo/Hydrogeologie/Redoxpotentiale im Wasser.md",
-    "Attachments/{205D8BBA-3709-45E2-85C5-7725CE32B67A}.png",
-    "Studium/geo/Exogenes/Verwitterung.md",
-    "Studium/geo/Bodenkunde/Bodenkunde/Serien/Marschböden.md",
-    "Attachments/{C2A61270-A69F-43A8-B7C2-ABCEBED29FE2}.png",
-    "Studium/geo/Bodenkunde/Bodenschutz/Bodenversalzung.md",
-    "Attachments/{66D545F1-A4BD-4A31-81AC-2C9878799804}.png",
-    "Studium/geo/Bodenkunde/Bodenschutz/Bodenverdichtung.md",
     "Studium/geo/Bodenkunde/Bodenschutz/Bodenerosion.md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Bodensanierung.md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Bodenverdichtung.md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Bodenversalzung.md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Critical Load Konzept.md",
     "Studium/geo/Bodenkunde/Bodenschutz/Diffuse Doppelschicht.md",
-    "Attachments/{3AE2BC41-FCAD-417D-A50A-75CB7627A8EC}.png",
-    "Studium/geo/Bodenkunde/Bodenkunde/Wasserbewegung im Boden.md",
-    "Studium/geo/Hydrogeologie/Grundwasserneubildung.md",
-    "Attachments/{CE071F39-C054-4301-BFBA-E67CD79F00F1}.png",
-    "Studium/geo/Hydrogeologie/Wasser als Lösungmittel.md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Diffuser Schadstoffeintrag.md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Einführung Bodenschutz.md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Gemeinden im Bodenschutz.md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Kreise und kreisfreie Städte im Bodenschutz.md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Länder im Bodenschutz.md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Lokale Kontaminationen, Altlasten (Böden).md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Organische Schadstoffe (Böden).md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Radionuklide (Böden).md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Schadstoff-Boden-Interaktionen.md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Schwermetallbelastungen (Böden).md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Sorptionsisothermen.md",
+    "Studium/geo/Bodenkunde/Bodenschutz/System der Bodenwerte.md",
     "Studium/geo/Bodenkunde/Bodenschutz/Zustandsstufen.md",
-    "Studium/geoöko/Bodengeo/Böden in Deutschland.md",
-    "Studium/geo/Exogenes/Transport und Sedimentation.md",
-    "Studium/geo/Bodenkunde/Bodenkunde/Wasserpotential im Boden.md",
-    "Studium/geo/Bodenkunde/Bodenkunde/Fragenskripte/1 Fragen zur Landschaftsgeschichte.md",
-    "Studium/geo/Bodenkunde/Bodenkunde/Aggregate.md",
+    "Studium/geo/Bodenkunde/Bodenschutz/BBoSchG.md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Spezifische Schadstoffe/Arsen im Boden.md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Spezifische Schadstoffe/PCB im Boden.md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Spezifische Schadstoffe/PAK im Boden.md",
+    "Studium/geo/Bodenkunde/Bodenschutz/Spezifische Schadstoffe/MKW im Boden.md",
+    "Attachments/{CA782A46-3094-458A-9781-E481326DA2EB}.png",
+    "Attachments/{A6CAF22E-4ABA-4B3A-8989-A8DDFD5B123A}.png",
+    "Attachments/{6928080D-CB71-46CF-A794-471A7D89554A}.png",
+    "Attachments/{3711A67B-C151-45A1-B611-DE92B5C199FD}.png",
+    "Attachments/{DB5CE933-7F37-45D5-99A6-483E2357C937}.png",
+    "Attachments/{22707108-03B9-4BC7-AE78-E1EF36B224E3}.png",
+    "Attachments/{958FADBE-C1FB-4FF2-A012-4568D57E8077}.png",
+    "Attachments/{24F0056B-ED5F-4147-8118-57E01A025AA1}.png",
+    "Attachments/{75DAA905-4019-49E4-9C04-AF2F2B121574}.png",
+    "Attachments/{FFE4E50F-0E9E-416B-A4D6-9578FE4CA4F7}.png",
+    "Studium/geo/Bodenkunde/Bodenschutz/Sanierungsmaßnahmen",
+    "Studium/geo/Bodenkunde/Bodenschutz/Spezifische Schadstoffe",
+    "Studium/geo/Bodenkunde/Bodenschutz/Fragenkataloge",
     "Studium/geo/Bodenkunde/Bodenkunde",
-    "Studium/physics/Hydrostatik.md",
     "Studium/geo/Bodenkunde/Bodenschutz/Untitled.base",
     "Attachments/BBSchG.pdf",
     "Lokale Kontaminationen",
     "Studium/geo/Bodenkunde/Bodenschutz",
     "Studium/econ & pol/Raum und Regionalplanung",
     "Studium",
-    "Studium/geo/Bodenkunde/Bodenkunde/Fragenskripte",
-    "Studium/geo/Bodenkunde/Bodenkunde",
-    "Studium/geo/Bodenkunde/Bodenkunde/Serien",
     "Untitled.canvas"
   ]
 }

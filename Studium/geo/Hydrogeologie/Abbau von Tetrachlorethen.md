@@ -16,3 +16,7 @@ Ausbreitung von TCE und Abbauprodukten in Bitterfeld:
 
 Je weiter weg vom Betriebsgelände, desto älter, das heißt auch desto weiter zersetzt.
 Die Ausbreitung gegen den Grundwasserfluss im Nordwesten kommt daher, dass das GW für den Tagebau früher künstlich abgesenkt wurde, die Grundwasserfließrichtung also in die entgegengesetzte Richtung verlief. 
+
+Falls Vinylchlorid abgebaut wird, ergibt sich folgender Verlauf der Konzentration der Abbauprodukte in Abhängigkeit der Distanz zur Quelle:
+
+![[{86877A4D-25D7-4CAF-B51F-F24A9E0E8B3A}.png]]

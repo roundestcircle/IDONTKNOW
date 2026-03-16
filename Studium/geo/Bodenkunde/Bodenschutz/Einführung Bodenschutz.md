@@ -2,7 +2,7 @@
 
 ## Notwendigkeit des Bodenschutzes
 
-Böden haben verschiedene Ökologische Funtionen. So sind sie Lebensraum für Organismen, Standorte für Pflanzen, Stauraum für Wasser und im Zusammenhang mit Bodenschutz insbesondere Filter und Puffer für Schadstoffe. So schützen sie sowohl Nutzpflanzen als auch das Grundwasser gegenüber Stoffaufnahme.
+Böden haben verschiedene Ökologische Funktionen. So sind sie Lebensraum für Organismen, Standorte für Pflanzen, Stauraum für Wasser und im Zusammenhang mit Bodenschutz insbesondere Filter und Puffer für Schadstoffe. So schützen sie sowohl Nutzpflanzen als auch das Grundwasser gegenüber Stoffaufnahme.
 
 Böden sind eine begrenzte Ressource. Große Teile der Landoberfläche sind zu kalt, zu trocken, zu nass oder zu nährstoffarm um Pflanzenbau zu ermöglichen. Große Teile der nutzbaren Böden sind dazu degradiert. Besonders wichtig ist dabei [[Bodenerosion]], sie macht bis zu drei Viertel der gesamt degradierten Fläche aus.
 
@@ -10,7 +10,7 @@ Der Nutzungsdruck auf Böden steigt durch die zunehmende Weltbevölkerung und ih
 
 ## Zielsetzungen
 
-Böden und ihre Funktionen sollengesichter oder wiederhergestellt werden. Schädlichn Einwirkungen soll vorgesorgt werden. Böden sollen als endliche Ressource sorgsam behandelt werden.
+Böden und ihre Funktionen sollen gesichtert oder wiederhergestellt werden. Schädlichn Einwirkungen soll vorgesorgt werden. Böden sollen als endliche Ressource sorgsam behandelt werden.
 
 ## Verantwortliche
 
@@ -35,3 +35,7 @@ Böden und ihre Funktionen sollengesichter oder wiederhergestellt werden. Schäd
 	- [[Bodenerosion]]
 	- [[Bodenverdichtung]]
 	- Bodenversiegelung (14% der Flcähen in D Siedlung und Verkehr, Böden und ihre Funtionen fast vollständig verloren, teils irreversibel)
+
+## Sanierung
+
+[[Bodensanierung]]

@@ -1,6 +1,6 @@
 #Bodenschutz 
 
-Die diffuse Doppelschicht ist ein Modell zur Beschreibung von Ionenverteilungen an Austasucheroberflächen. Die Kationen liegen nicht direkt an, sondern sind in der unmittelbaren Region der Oberfläche erhöhr konzentriert, ihre Konzentration sinkt mit Abstand zur Oberfläche. Dies geschieht aufgrund der Kombination aus Anziehung zur Oberfläche und Diffusion weg von der Oberfläche durch den Konzentrationsgradienten.
+Die diffuse Doppelschicht ist ein Modell zur Beschreibung von Ionenverteilungen an Austauscheroberflächen. Die Kationen liegen nicht nur direkt an, sondern sind in der unmittelbaren Region der Oberfläche erhöht konzentriert, ihre Konzentration sinkt mit Abstand zur Oberfläche. Dies geschieht aufgrund der Kombination aus Anziehung zur Oberfläche und Diffusion weg von der Oberfläche durch den Konzentrationsgradienten.
 
 Schema:
 

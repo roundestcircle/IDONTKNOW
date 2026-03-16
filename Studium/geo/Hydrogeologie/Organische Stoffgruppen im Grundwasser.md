@@ -107,7 +107,7 @@ Biphenyl:
 c1ccccc1-c2ccccc2
 ```
 
-Alle diese armonatischen Kohlenwasserstoffe können weitere Seitenketten haben.
+Alle diese aromatischen Kohlenwasserstoffe können weitere Seitenketten haben.
 
 #### PCB
 

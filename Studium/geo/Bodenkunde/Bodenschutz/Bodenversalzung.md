@@ -49,7 +49,7 @@ $$
 SAR= \frac {\ce{Na+}}{\sqrt{\frac{1}{2}(\ce{Ca^2+ +Mg^2+})}}
 $$
 
-Gefährung: <10 niedrig, über 26 sehr hoch.
+Gefährdung: <10 niedrig, über 26 sehr hoch.
 
 Oft wird auch der Anteil des Austauschbaren Natriums an der gesamten KAK bestimmt, dies ist jedoch aufwendiger (ESP, Exchangeable Soidum Percentage).
 
@@ -103,7 +103,7 @@ Auf den stark versalzenen Böden wachsen nur noch Salztolerante Pflanzen.
 
 - Bewässerung mit Salzarmem Wasser (salzbefrachtetes Leachingwasser muss drainieren können!)
 - Bewässerung zu zeiten geringerer Evapotranspiration, um kapillaren Aufstieg zu verhindern
-- Herabsetung der Evapotranspiration durch weniger Pflanzen oä
+- Herabsetzung der Evapotranspiration durch weniger Pflanzen oä
 - Tiefpflügen (salzunbelasteter Unterboden)
 - Anbau salztoleranter Pflanzen wie Dattelpalmen
 

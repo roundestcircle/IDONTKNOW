@@ -7,7 +7,7 @@ Geogener Hintergrund: 10mg/kg
 
 ## Spezies
 
-Die wichtigsten Spezies im Boden sind die arsenige Säure ($\ce{H3AsO3}$) sowie ihre Anionen, bis hin zum voll deprotonierten Arsenit ($\ce{AsO3^3-}$), dass sehr toxisch ist, und die Orthoarsensäure ($\ce{H3AsO4}$) sowie ihre Anionen bis zum Arsenat ($\ce{AsO4^3-}$). 
+Die wichtigsten Spezies im Boden sind die arsenige Säure ($\ce{H3AsO3}$) sowie ihre Anionen, bis hin zum voll deprotonierten Arsenit ($\ce{AsO3^3-}$, eher unter reduzierenden Bedingungen), dass sehr toxisch ist, und die Orthoarsensäure ($\ce{H3AsO4}$) sowie ihre Anionen bis zum Arsenat ($\ce{AsO4^3-}$, eher unter oxischen Bedingungen). 
 
 Mobilitäten der Spezies:
 

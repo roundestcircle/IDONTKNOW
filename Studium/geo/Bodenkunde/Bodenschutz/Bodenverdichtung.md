@@ -26,7 +26,7 @@ Es gibt keine Gewichtsgrenzwerte für Landmaschinen. Deren Gewichte liegen oft i
 
 Während der Verdichtung nimmt insbesondere das Grobporenvolumen ab, während das Fein- und Mittelporenvolumen sogar ansteigen kann ([[Bodenporen]]). Damit werden vor allem [[Wasserhaushalt des Bodens]] und [[Lufthaushalt des Bodens]] beeinflusst. Daher kann Bodenverdichtung zu verstärkter [[Bodenerosion]], insbesondere in den Fahrspuren führen, da der Oberflächenabfluss erhöht wird. So steigt auch das Hochwasserrisiko in stark verdichteten Gebieten. Langsames versickern führt zu Staunässe, der Boden kann weniger Wasser speichern.
 
-In den verdichteten Bereichen sinkt aufgrund des schlechteren Luftzugangs das Redoxpotential, wass zu [[Stickstoffkreislauf#Denitrifikation|Denitrifikation]] führt und damit die Stickstoffdüngeeffizienz verringert, sowie die Lachgasemissionen erhöht.
+In den verdichteten Bereichen sinkt aufgrund des schlechteren Luftzugangs das Redoxpotential, was zu [[Stickstoffkreislauf#Denitrifikation|Denitrifikation]] führt und damit die Stickstoffdüngeeffizienz verringert, sowie die Lachgasemissionen erhöht.
 
 Verdichtung stört das Wurzelwachstum der Pflanzen und verringert durch Staunässe usw ihre Widerstandsfähigkeit gegenüber Krankheiten. Das Land wird schwieriger zu bearbeiten, mehr Dünger ist erforderlich und das Bodenleben, das für die Gare verantwortlich ist, wird geschädigt.
 

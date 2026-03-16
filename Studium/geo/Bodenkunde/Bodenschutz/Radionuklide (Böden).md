@@ -38,7 +38,7 @@ Verschiedene Tonminerale können Uran sehr unterschiedlich gut sorbieren, vor al
 
 ### Uran in reduzierten Systemen
 
-Reduzierende Bakterien nutzen Uranyl als terminalen Elektronenakzeptor und legen es dabei als Uraninit ($\ce{UO2}$) fest, das sehr schwer löslich. Dazu bildet es weitere schwer löslichen Karbonat, Sulfid-, Phosphatverbindungen.
+Reduzierende Bakterien nutzen Uranyl als terminalen Elektronenakzeptor und legen es dabei als Uraninit ($\ce{UO2}$) fest, das sehr schwer löslich ist. Dazu bildet es weitere schwer löslichen Karbonat, Sulfid-, Phosphatverbindungen.
 
 Uran ist oft auch an Huminstoffe gebunden, wird dort eventuell organisch komplexiert. Die Komplexierung verhindert die Uraninitbildung.
 
