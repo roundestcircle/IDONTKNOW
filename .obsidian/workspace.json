@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studium/geo/Bodenkunde/Bodenschutz/BBoSchG.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "BBoSchG"
-            }
-          },
-          {
-            "id": "6f50642c9f67fdc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ggg.md",
+                "file": "Studium/bio/Waldnutzung/Biotische Schadfaktoren.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ggg"
+              "title": "Biotische Schadfaktoren"
             }
           },
           {
@@ -81,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lignin",
+                "query": "K-Strat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -141,8 +127,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
@@ -155,19 +141,41 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "bases:Create new base": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "444b61da5b77e0ef",
   "lastOpenFiles": [
+    "Studium/bio/Waldnutzung/Waldarbeit.md",
+    "Studium/bio/Waldnutzung/Biotische Schadfaktoren.md",
+    "Attachments/{41084DE3-D163-4333-BC03-BA39991085B9}.png",
+    "Studium/bio/Waldnutzung/Populationsökologie für Waldnutzung.md",
+    "Attachments/{442E4C91-029C-43E4-BC93-51A09F9DBCDA}.png",
+    "Attachments/{2E12B94E-3E1B-4F25-AA33-511456FDC604}.png",
+    "Attachments/{A1070892-B1B4-48B0-A7D0-8F88E9D5E1D9}.png",
+    "Attachments/{0220EFCE-7AD8-45AA-A4CE-C574C79BA61E}.png",
+    "Studium/bio/Tierökologie/Populationsökologie Tiere.md",
+    "Studium/bio/Geobotanik/Populationsökologie Pflanzen.md",
+    "Studium/bio/Waldnutzung/Luftschadstoffe.md",
+    "Studium/bio/Waldnutzung/Waldbrände.md",
+    "Studium/bio/Waldnutzung/Wildschaden.md",
+    "Studium/bio/Waldnutzung/Grundlagen des Jagdrechts.md",
+    "Studium/Overview Files/Overview Waldnutzung.md",
+    "Studium/Overview Files/Overview Boden.md",
+    "Einheiten.md",
+    "Studium/bio/Waldnutzung",
+    "Studium/geo/Bodenkunde/Bodenkunde/Serien/Kieselserie.md",
+    "Untitled",
+    "Studium/geoöko/Bodengeo/Bodentypen/Braunerde.md",
+    "Studium/geo/Bodenkunde/Bodenschutz/BBoSchG.md",
     "Studium/geo/Bodenkunde/Bodenschutz/Belastungsabschätzungen.md",
     "Studium/geo/Bodenkunde/Bodenschutz/Bodenazidität.md",
     "Studium/geo/Bodenkunde/Bodenschutz/Bodenerosion.md",
@@ -179,31 +187,11 @@
     "Studium/geo/Bodenkunde/Bodenschutz/Diffuser Schadstoffeintrag.md",
     "Studium/geo/Bodenkunde/Bodenschutz/Einführung Bodenschutz.md",
     "Studium/geo/Bodenkunde/Bodenschutz/Gemeinden im Bodenschutz.md",
-    "Studium/geo/Bodenkunde/Bodenschutz/Kreise und kreisfreie Städte im Bodenschutz.md",
-    "Studium/geo/Bodenkunde/Bodenschutz/Länder im Bodenschutz.md",
-    "Studium/geo/Bodenkunde/Bodenschutz/Lokale Kontaminationen, Altlasten (Böden).md",
-    "Studium/geo/Bodenkunde/Bodenschutz/Organische Schadstoffe (Böden).md",
-    "Studium/geo/Bodenkunde/Bodenschutz/Radionuklide (Böden).md",
-    "Studium/geo/Bodenkunde/Bodenschutz/Schadstoff-Boden-Interaktionen.md",
-    "Studium/geo/Bodenkunde/Bodenschutz/Schwermetallbelastungen (Böden).md",
-    "Studium/geo/Bodenkunde/Bodenschutz/Sorptionsisothermen.md",
-    "Studium/geo/Bodenkunde/Bodenschutz/System der Bodenwerte.md",
-    "Studium/geo/Bodenkunde/Bodenschutz/Zustandsstufen.md",
-    "Studium/geo/Bodenkunde/Bodenschutz/BBoSchG.md",
-    "Studium/geo/Bodenkunde/Bodenschutz/Spezifische Schadstoffe/Arsen im Boden.md",
-    "Studium/geo/Bodenkunde/Bodenschutz/Spezifische Schadstoffe/PCB im Boden.md",
-    "Studium/geo/Bodenkunde/Bodenschutz/Spezifische Schadstoffe/PAK im Boden.md",
-    "Studium/geo/Bodenkunde/Bodenschutz/Spezifische Schadstoffe/MKW im Boden.md",
     "Attachments/{CA782A46-3094-458A-9781-E481326DA2EB}.png",
     "Attachments/{A6CAF22E-4ABA-4B3A-8989-A8DDFD5B123A}.png",
     "Attachments/{6928080D-CB71-46CF-A794-471A7D89554A}.png",
     "Attachments/{3711A67B-C151-45A1-B611-DE92B5C199FD}.png",
     "Attachments/{DB5CE933-7F37-45D5-99A6-483E2357C937}.png",
-    "Attachments/{22707108-03B9-4BC7-AE78-E1EF36B224E3}.png",
-    "Attachments/{958FADBE-C1FB-4FF2-A012-4568D57E8077}.png",
-    "Attachments/{24F0056B-ED5F-4147-8118-57E01A025AA1}.png",
-    "Attachments/{75DAA905-4019-49E4-9C04-AF2F2B121574}.png",
-    "Attachments/{FFE4E50F-0E9E-416B-A4D6-9578FE4CA4F7}.png",
     "Studium/geo/Bodenkunde/Bodenschutz/Sanierungsmaßnahmen",
     "Studium/geo/Bodenkunde/Bodenschutz/Spezifische Schadstoffe",
     "Studium/geo/Bodenkunde/Bodenschutz/Fragenkataloge",
@@ -212,8 +200,6 @@
     "Attachments/BBSchG.pdf",
     "Lokale Kontaminationen",
     "Studium/geo/Bodenkunde/Bodenschutz",
-    "Studium/econ & pol/Raum und Regionalplanung",
-    "Studium",
     "Untitled.canvas"
   ]
 }
