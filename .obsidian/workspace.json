@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studium/bio/Waldnutzung/Biotische Schadfaktoren.md",
+                "file": "Studium/TODO.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Biotische Schadfaktoren"
-            }
-          },
-          {
-            "id": "3f88ee560b6158da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studium/geo/Bodenkunde/Bodenschutz/Spezifische Schadstoffe/Arsen im Boden.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Arsen im Boden"
+              "title": "TODO"
             }
           }
         ]
@@ -154,8 +140,19 @@
   },
   "active": "444b61da5b77e0ef",
   "lastOpenFiles": [
-    "Studium/bio/Waldnutzung/Waldarbeit.md",
+    "Studium/bio/Waldnutzung/Klimawandel (Waldschutz).md",
+    "Studium/TODO.md",
+    "Studium/bio/Waldnutzung/Waldschutz Grundlagen.md",
+    "Studium/bio/Waldnutzung/Untitled.md",
+    "Studium/bio/Waldnutzung/Alternative Landnutzungen.md",
+    "Attachments/{9BA36D2C-735B-4C76-8FFC-1FA72B3E53D3}.png",
+    "Attachments/{D7E6A051-EB01-4C26-9876-3C999B5B6DA5}.png",
+    "Attachments/{081AE388-C418-42BE-A5D8-FA7001126A57}.png",
+    "Studium/bio/Waldnutzung/Klima- und Landschaftsentwicklung.md",
+    "Attachments/{4D1DDCCE-4DCB-4F5E-BCD8-B3EBB163B0B7}.png",
+    "Attachments/{2ED9245E-404A-482F-8944-D2E47DB184FA}.png",
     "Studium/bio/Waldnutzung/Biotische Schadfaktoren.md",
+    "Studium/bio/Waldnutzung/Waldarbeit.md",
     "Attachments/{41084DE3-D163-4333-BC03-BA39991085B9}.png",
     "Studium/bio/Waldnutzung/Populationsökologie für Waldnutzung.md",
     "Attachments/{442E4C91-029C-43E4-BC93-51A09F9DBCDA}.png",
@@ -181,17 +178,6 @@
     "Studium/geo/Bodenkunde/Bodenschutz/Bodenerosion.md",
     "Studium/geo/Bodenkunde/Bodenschutz/Bodensanierung.md",
     "Studium/geo/Bodenkunde/Bodenschutz/Bodenverdichtung.md",
-    "Studium/geo/Bodenkunde/Bodenschutz/Bodenversalzung.md",
-    "Studium/geo/Bodenkunde/Bodenschutz/Critical Load Konzept.md",
-    "Studium/geo/Bodenkunde/Bodenschutz/Diffuse Doppelschicht.md",
-    "Studium/geo/Bodenkunde/Bodenschutz/Diffuser Schadstoffeintrag.md",
-    "Studium/geo/Bodenkunde/Bodenschutz/Einführung Bodenschutz.md",
-    "Studium/geo/Bodenkunde/Bodenschutz/Gemeinden im Bodenschutz.md",
-    "Attachments/{CA782A46-3094-458A-9781-E481326DA2EB}.png",
-    "Attachments/{A6CAF22E-4ABA-4B3A-8989-A8DDFD5B123A}.png",
-    "Attachments/{6928080D-CB71-46CF-A794-471A7D89554A}.png",
-    "Attachments/{3711A67B-C151-45A1-B611-DE92B5C199FD}.png",
-    "Attachments/{DB5CE933-7F37-45D5-99A6-483E2357C937}.png",
     "Studium/geo/Bodenkunde/Bodenschutz/Sanierungsmaßnahmen",
     "Studium/geo/Bodenkunde/Bodenschutz/Spezifische Schadstoffe",
     "Studium/geo/Bodenkunde/Bodenschutz/Fragenkataloge",
