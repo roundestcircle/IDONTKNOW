@@ -1,9 +1,9 @@
 Donnerstag
-- [ ]  Waldbau
-	- [ ] Einführung
-	- [ ] Verjüngung
-	- [ ] Waldpflege
-	- [ ] Holzsortierung 1 und 2
+- [x]  Waldbau
+	- [x] Einführung
+	- [x] Verjüngung
+	- [x] Waldpflege
+	- [x] Holzsortierung 1 und 2
 - [ ] Klimaanpassung
 - [ ] Waldarbeit
 Freitag
